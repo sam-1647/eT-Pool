@@ -3,9 +3,15 @@
     "name": "ATmega32-TQFP",
     "pins": {
         "044d900b-58f5-4b4d-911c-464c41156ff5": {
+            "alt_names": {
+                "a76352fa-4412-46ea-b367-dd8e334a7ee8": {
+                    "direction": "input",
+                    "name": "ADC5"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC5/PA5",
+            "primary_name": "PA5",
             "swap_group": 0
         },
         "0a3a1359-7d12-4dc5-bd82-00bda2c41ef9": {
@@ -39,15 +45,27 @@
             "swap_group": 0
         },
         "2eefbfbe-e5a1-4103-8519-d4b9d6524e5c": {
+            "alt_names": {
+                "dc0aa4d3-bcd7-461d-b5cf-1d1a56f6e970": {
+                    "direction": "input",
+                    "name": "ADC7"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC7/PA7",
+            "primary_name": "PA7",
             "swap_group": 0
         },
         "35fa1d61-4368-40e9-82b2-3f7201d1f437": {
+            "alt_names": {
+                "317549d1-39db-4e4a-9f8c-a1dd7795c692": {
+                    "direction": "input",
+                    "name": "ADC4"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC4/PA4",
+            "primary_name": "PA4",
             "swap_group": 0
         },
         "418cf228-2b6f-430e-98d8-92a22bb5aba7": {
@@ -69,9 +87,15 @@
             "swap_group": 0
         },
         "60069607-b914-4608-9870-56d79d3e5d9c": {
+            "alt_names": {
+                "8082137f-ce35-454d-97fc-0c13e5c23b36": {
+                    "direction": "input",
+                    "name": "ADC2"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC2/PA2",
+            "primary_name": "PA2",
             "swap_group": 0
         },
         "6633ae0b-4a9b-4d0d-b7d2-57052140f10c": {
@@ -93,9 +117,19 @@
             "swap_group": 0
         },
         "72485297-5fc9-4ec4-acbe-7f284fbaaed3": {
+            "alt_names": {
+                "856e3acc-0f19-49b3-ab9e-ccf1b31360b1": {
+                    "direction": "output",
+                    "name": "OC0"
+                },
+                "e0df89b5-9c82-4d32-8ec9-e1a74b29b486": {
+                    "direction": "input",
+                    "name": "AIN1"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "AINT1/OC0/PB3",
+            "primary_name": "PB3",
             "swap_group": 0
         },
         "74429d97-374f-4018-a8e1-834f76415f74": {
@@ -111,9 +145,15 @@
             "swap_group": 0
         },
         "7cef3f2a-1afe-463a-8e89-6fe299a9ad85": {
+            "alt_names": {
+                "34073175-ec52-4575-962c-b0c472a72679": {
+                    "direction": "input",
+                    "name": "ADC1"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC1/PA1",
+            "primary_name": "PA1",
             "swap_group": 0
         },
         "7ed02ce0-5a79-4d79-aa8f-a50749943fbb": {
@@ -153,9 +193,15 @@
             "swap_group": 0
         },
         "a12930a1-e173-4f87-aa6d-2fb3d85a27bb": {
+            "alt_names": {
+                "11c5191d-3ceb-4c4e-98a3-728c5e35e266": {
+                    "direction": "input",
+                    "name": "ADC3"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC3/PA3",
+            "primary_name": "PA3",
             "swap_group": 0
         },
         "aa3583bc-92a3-45c6-a286-8b9d004548d9": {
@@ -195,9 +241,19 @@
             "swap_group": 0
         },
         "c49c466a-4e45-4400-a470-177a5301f4b9": {
+            "alt_names": {
+                "07371a60-3a74-4bf4-8547-8e891a5fd999": {
+                    "direction": "input",
+                    "name": "INT2"
+                },
+                "20d31fa1-ea3f-43cd-9dc2-1faa81d30bd8": {
+                    "direction": "input",
+                    "name": "AIN0"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "AIN0/INT2/PB2",
+            "primary_name": "PB2",
             "swap_group": 0
         },
         "c4f36140-08ce-4515-b9a1-5c6eb523485c": {
@@ -237,9 +293,15 @@
             "swap_group": 0
         },
         "fc6fcfb2-3588-4806-ad2c-51b2b16d3647": {
+            "alt_names": {
+                "b0ef6d13-f71b-4d17-846b-7b77001fdb5e": {
+                    "direction": "input",
+                    "name": "ADC6"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC6/PA6",
+            "primary_name": "PA6",
             "swap_group": 0
         },
         "ffff49c5-10a3-4c37-842e-70ddee90984f": {
