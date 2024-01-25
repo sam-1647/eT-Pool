@@ -1,0 +1,280 @@
+{
+    "arcs": {
+        "124c63e0-2af2-4e54-8910-288c8a611fa1": {
+            "center": "ed4dde19-0fd3-4983-9d9b-9c967f0f3ab7",
+            "from": "6785596c-1819-4511-832e-596b29b1a75d",
+            "layer": 20,
+            "to": "83610fc1-1dcc-4eac-baf0-1e3013ae1eee",
+            "width": 200000
+        },
+        "14fc6172-bf40-484a-8c7d-d3025f1035a6": {
+            "center": "5b9a932b-c6a9-4359-b7c7-449448f23afa",
+            "from": "6c5518e7-97bb-4858-9faf-6eb6a9ad5911",
+            "layer": 50,
+            "to": "6c86e65f-045e-4216-a3cb-0ee27e2708d1",
+            "width": 0
+        },
+        "6417c2a5-09a6-457a-9f82-32f84ad4a785": {
+            "center": "5b9a932b-c6a9-4359-b7c7-449448f23afa",
+            "from": "6c86e65f-045e-4216-a3cb-0ee27e2708d1",
+            "layer": 50,
+            "to": "6c5518e7-97bb-4858-9faf-6eb6a9ad5911",
+            "width": 0
+        },
+        "9097c61a-5a19-4cde-8bb4-34b426d03017": {
+            "center": "ed4dde19-0fd3-4983-9d9b-9c967f0f3ab7",
+            "from": "83610fc1-1dcc-4eac-baf0-1e3013ae1eee",
+            "layer": 20,
+            "to": "6785596c-1819-4511-832e-596b29b1a75d",
+            "width": 200000
+        }
+    },
+    "default_model": "ae706d6d-52d9-433c-ba8f-bc466503c9d7",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 127000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "5b9a932b-c6a9-4359-b7c7-449448f23afa": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "6785596c-1819-4511-832e-596b29b1a75d": {
+            "position": [
+                -2540000,
+                254000
+            ]
+        },
+        "6c5518e7-97bb-4858-9faf-6eb6a9ad5911": {
+            "position": [
+                -2540000,
+                0
+            ]
+        },
+        "6c86e65f-045e-4216-a3cb-0ee27e2708d1": {
+            "position": [
+                2540000,
+                0
+            ]
+        },
+        "7b597fc5-c6cb-4477-8230-8830cf6071b9": {
+            "position": [
+                -2667000,
+                1270000
+            ]
+        },
+        "7c4c2804-37c0-46ce-b5d6-78d007d6f01d": {
+            "position": [
+                -3175000,
+                1778000
+            ]
+        },
+        "83610fc1-1dcc-4eac-baf0-1e3013ae1eee": {
+            "position": [
+                2540000,
+                -254000
+            ]
+        },
+        "921a2b93-e0cb-4f55-8cb3-e09e50425abb": {
+            "position": [
+                -3175000,
+                762000
+            ]
+        },
+        "babf9cf9-eda3-4b54-927b-8a1c76881325": {
+            "position": [
+                -3683000,
+                1270000
+            ]
+        },
+        "ed4dde19-0fd3-4983-9d9b-9c967f0f3ab7": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "fe69a85c-dc7f-41f3-b878-878642798a30": {
+            "position": [
+                -3175000,
+                762000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "81458a0c-b165-4446-823a-8b65ed1810d4": {
+            "from": "babf9cf9-eda3-4b54-927b-8a1c76881325",
+            "layer": 20,
+            "to": "7b597fc5-c6cb-4477-8230-8830cf6071b9",
+            "width": 200000
+        },
+        "a8c4982d-43b6-40f1-8de7-894c15fcff0d": {
+            "from": "7b597fc5-c6cb-4477-8230-8830cf6071b9",
+            "layer": 20,
+            "to": "7b597fc5-c6cb-4477-8230-8830cf6071b9",
+            "width": 200000
+        },
+        "b21b735f-6a4e-4628-9575-05d40f29b7de": {
+            "from": "921a2b93-e0cb-4f55-8cb3-e09e50425abb",
+            "layer": 20,
+            "to": "921a2b93-e0cb-4f55-8cb3-e09e50425abb",
+            "width": 200000
+        },
+        "d782d354-d55c-404e-a6b4-d4252ba9996e": {
+            "from": "7c4c2804-37c0-46ce-b5d6-78d007d6f01d",
+            "layer": 20,
+            "to": "fe69a85c-dc7f-41f3-b878-878642798a30",
+            "width": 200000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "ae706d6d-52d9-433c-ba8f-bc466503c9d7": {
+            "filename": "3d_models/Capacitors/C_Radial_D6.3mm_H7.0mm_P2.50mm.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": -1270000,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "CAP-R-254P-508D",
+    "pads": {
+        "aae4c346-db0c-416f-933c-1754d70795a3": {
+            "name": "+",
+            "padstack": "b406985b-8ff2-46ce-aa1a-a440bffa84cb",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_height": 1500000,
+                "pad_width": 1500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1270000,
+                    0
+                ]
+            }
+        },
+        "f3469102-3ea0-4c3d-b665-937a6fc639cf": {
+            "name": "-",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_diameter": 1500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1270000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "0843aa12-f1df-4fe1-9b6d-10abc0ee0b42": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        508000,
+                        2794000
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -508000,
+                        -2794000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "ecap"
+    ],
+    "texts": {
+        "517ff421-9293-4ff4-b070-0f4336d8cf96": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1524000,
+                    -1778000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 0
+        },
+        "74f7fd82-7cf3-4e7f-bd51-529ec2cb5b22": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1397000,
+                    3302000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "dad167c1-cabf-4385-ac3d-6cb0088bdcd4"
+}

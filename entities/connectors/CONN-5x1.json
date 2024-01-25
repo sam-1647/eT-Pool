@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "03598d95-3e0f-4ba5-a666-f9a53dbd766d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bdb029c7-5c54-4874-8671-4af5aab7420e"
+        }
+    },
+    "manufacturer": "BERG",
+    "name": "CONN-5x1",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sil"
+    ],
+    "type": "entity",
+    "uuid": "5c73cf0b-14b1-4400-9471-37c4af1531c1"
+}

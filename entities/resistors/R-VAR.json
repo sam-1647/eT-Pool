@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e8ef9322-5d8a-477e-bbab-dac26e206d03": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e37366bf-ff02-442f-9b45-f007b0932e7c"
+        }
+    },
+    "manufacturer": "",
+    "name": "R-VAR",
+    "prefix": "P",
+    "tags": [
+        "passive",
+        "trimmer"
+    ],
+    "type": "entity",
+    "uuid": "8b6cae51-00e3-471c-8820-2c90feb754d8"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9a0ed9bb-3d97-467b-95f8-72433314f8a8"
+        }
+    },
+    "manufacturer": "",
+    "name": "STM32-JTAG-10x2",
+    "prefix": "JTAG",
+    "tags": [
+        "jtag",
+        "stm32"
+    ],
+    "type": "entity",
+    "uuid": "aa5f8f6c-7951-4ab8-8431-d8a25dea034c"
+}

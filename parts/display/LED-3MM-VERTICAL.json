@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "LED-3MM-VERTICAL"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3mm LED Vertical Mount"
+    ],
+    "entity": "c33e09b0-2313-4055-bddc-e1d96de84fd4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Everlight"
+    ],
+    "model": "3cdc8b8d-1319-46cd-98fe-21012de2f2f0",
+    "package": "7e984d49-32da-43e9-aab2-63b97182f560",
+    "pad_map": {
+        "03110cad-29bf-4d70-97cd-ffacca184aae": {
+            "gate": "11a72710-3a35-4d48-891c-6ef720ced395",
+            "pin": "17bb7518-b804-49bc-97fe-b33caa43118b"
+        },
+        "bc6688f7-3419-4d72-aa89-9191c8eb03af": {
+            "gate": "11a72710-3a35-4d48-891c-6ef720ced395",
+            "pin": "a3bffc32-360f-4827-b2de-a7d46102d4d5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "dcb72a14-1e1e-498f-abab-6642a67fdc4f",
+    "value": [
+        false,
+        ""
+    ]
+}

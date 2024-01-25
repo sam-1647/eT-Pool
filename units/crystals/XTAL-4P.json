@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "XTAL-4P",
+    "pins": {
+        "17eb7323-95fe-4c7d-9853-9de580d1d784": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "1df102f3-636a-432e-8359-c83c6010ac31": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "a0999c9c-f4fa-4928-adda-545bde5b2f98": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "e11e08ca-b3cd-4830-9294-fda32b21b51b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "41b4dd6d-e078-4ab3-9330-da3c465f094e"
+}

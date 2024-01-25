@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "BERG-5x1-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Berg PinHeader, Male, Vertical, 2.54mm Pitch"
+    ],
+    "entity": "5c73cf0b-14b1-4400-9471-37c4af1531c1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "fcb4176e-d5ca-47c7-b0c7-0c77ff3a4992",
+    "package": "7e3e1289-52a1-420c-bc1d-fe1fe14e4314",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "03598d95-3e0f-4ba5-a666-f9a53dbd766d",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "03598d95-3e0f-4ba5-a666-f9a53dbd766d",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "03598d95-3e0f-4ba5-a666-f9a53dbd766d",
+            "pin": "c1a95f7e-15a7-42d8-8ba5-42b885a21cf3"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "03598d95-3e0f-4ba5-a666-f9a53dbd766d",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "03598d95-3e0f-4ba5-a666-f9a53dbd766d",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "1bfb9b9c-57b1-4c32-a7e3-9408160529e1",
+    "value": [
+        false,
+        ""
+    ]
+}

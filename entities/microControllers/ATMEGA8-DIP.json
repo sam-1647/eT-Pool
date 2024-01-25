@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2fe840f4-c00e-4a51-a1cf-29f275fb8564": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4e9fb27c-ad33-457d-acc8-2106de05331f"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATMEGA8-DIP",
+    "prefix": "U",
+    "tags": [
+        "avr",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "06079af1-0a13-4876-8a75-af8764fa5c78"
+}

@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "DIODE-BRIDGE-W10M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Bridge Rectfier"
+    ],
+    "entity": "2b292855-e912-46c4-8d2a-ac7823f9f979",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "689802c6-3495-467c-a0fd-528010d50a24",
+    "orderable_MPNs": {
+        "ac4b94e3-c760-4572-9f5f-a6c81ca335be": "W10M"
+    },
+    "package": "64d7ecde-bc25-4982-b767-04d27560ea4d",
+    "pad_map": {
+        "02783a18-57ee-4f45-926e-770aa59fc649": {
+            "gate": "ab3ca735-a5e0-42f0-9158-d9dd1ad7f271",
+            "pin": "e5e488c8-b13b-4a50-a76c-3ab4c510537c"
+        },
+        "159beb19-c258-4df2-b26c-57957b37b18d": {
+            "gate": "ab3ca735-a5e0-42f0-9158-d9dd1ad7f271",
+            "pin": "adcad978-5e6e-4bea-9cbe-598849a40f00"
+        },
+        "97a12630-6d9f-4ab8-a985-34ac0d440fdc": {
+            "gate": "ab3ca735-a5e0-42f0-9158-d9dd1ad7f271",
+            "pin": "c31acece-fb23-496b-9da1-7b63939612d1"
+        },
+        "e535f3fb-a932-4ff0-acad-4420effd7a3c": {
+            "gate": "ab3ca735-a5e0-42f0-9158-d9dd1ad7f271",
+            "pin": "ab87c587-903f-465d-abef-e3481ac9ad2e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bridge",
+        "diode"
+    ],
+    "type": "part",
+    "uuid": "c352064c-fe0e-4bb0-8390-a991edd97608",
+    "value": [
+        false,
+        "W10M"
+    ]
+}

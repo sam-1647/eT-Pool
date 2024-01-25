@@ -1,0 +1,68 @@
+{
+    "holes": {},
+    "name": "SMD circular",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ pad_diameter ]\ndup\ndup\nset-shape [ pad circle ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+\nset-shape [ mask circle ]\n\nget-parameter [ paste_mask_contraction ]\n2 *\n-\nset-shape [ paste circle ]",
+    "parameter_set": {
+        "pad_diameter": 1500000,
+        "paste_mask_contraction": 25000,
+        "solder_mask_expansion": 25000
+    },
+    "parameters_required": [
+        "pad_diameter"
+    ],
+    "polygons": {},
+    "shapes": {
+        "18c0cdf0-bc08-4afa-bb6e-140a5f47f1b3": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                1500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "2684d7ec-e920-44dd-b7c7-33cf20923ff3": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                1550000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "52251745-84bb-43fe-904e-4c189b55a8eb": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste",
+            "params": [
+                1450000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "6dac1988-b089-4e20-9c99-e5877724e6d9",
+    "well_known_name": "smd circular"
+}

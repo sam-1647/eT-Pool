@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c1c3a02c-9bea-41b5-bd14-00bcd1745176": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "97633fc9-dad4-4ba5-bfd2-9fa88e333a56"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATmega32-TQFP",
+    "prefix": "U",
+    "tags": [
+        "avr",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "615e2655-0973-4a72-93f4-aacf7553c92a"
+}

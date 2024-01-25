@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "2401a73b-df72-4ec4-8d1d-e0467bb02444": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5a147ebd-99ab-49a3-b3bc-cf7700aaa90a"
+        }
+    },
+    "manufacturer": "Titan Micro",
+    "name": "TMS1637-SO",
+    "prefix": "U",
+    "tags": [
+        "7-seg",
+        "common-anode",
+        "driver"
+    ],
+    "type": "entity",
+    "uuid": "e9dd5042-a88f-4a7d-8c5e-daf54b78f10f"
+}

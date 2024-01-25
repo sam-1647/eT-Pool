@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "L-0805-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 0805 Inductor"
+    ],
+    "entity": "eb5fc0e1-f2a0-4e1d-bcee-379309cdccef",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "dc5a670f-b1f3-4361-a210-e27220fe54d4",
+    "package": "7e6e93d2-216d-48a0-bfae-093352ef299d",
+    "pad_map": {
+        "0915d9ec-dc65-4477-a26e-a3d99680ed70": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "6180dc61-5ed7-4169-9456-adee6ee64ca6"
+        },
+        "94285aa5-2dc2-4253-95b7-030ef0bb1691": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "a970deb3-b40b-4334-85ab-5510e60167b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "0805",
+        "ind"
+    ],
+    "type": "part",
+    "uuid": "d7da3e1e-4b1d-46fa-be36-67361f1f2990",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

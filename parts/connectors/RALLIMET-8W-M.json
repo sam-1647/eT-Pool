@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-8W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8Way Male Connector,P=2.5mm"
+    ],
+    "entity": "694a7b2c-32bf-46a3-a762-6acd2f608c42",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "0cc456da-d549-4011-ae1b-ff5c8f3f5ad2",
+    "package": "841ab31e-b3e7-4e1e-b530-165d5046e15b",
+    "pad_map": {
+        "1c71da1b-7da8-4033-a7d2-9ac0d019cbaa": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "a8adab93-4e92-4a35-992c-d238f4862165"
+        },
+        "337e4d60-cce4-4d45-b6ec-d68133a76853": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "fc3a28a2-8ff7-400b-b20e-e70f7e843d04"
+        },
+        "4fa5ce50-c7e8-4e4b-95a0-43a4fb2264e6": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "88e925ca-65df-49ec-8a29-b7e5ea080e21"
+        },
+        "96399b4a-a491-44b8-a632-e26a7badd35f": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "35aab425-e9b3-4b1e-9a22-24bd08bd089b"
+        },
+        "9fffdadd-6a7f-4157-b258-d72a4c248528": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "e083c2c1-0e5a-40dc-934f-4d038addb317"
+        },
+        "cfde5c52-f9a6-4b09-8633-d54fb52a002d": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "b0d88104-8a4c-47ea-9377-24f95f238a9f"
+        },
+        "dd9ae7f3-c5a9-4dab-a2e0-4f2956d10c89": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "ba38a8d9-7b21-432b-a19d-0721d554f15c"
+        },
+        "f7571ab6-70c9-4a98-b036-f70fcb0dc462": {
+            "gate": "117eab77-c0ec-4b92-aa9e-36b7db30b427",
+            "pin": "87aeaec5-c3ba-4d57-8947-6899d46756d3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "8f42abfa-6715-49a9-8437-2c6bed8a961f",
+    "value": [
+        false,
+        ""
+    ]
+}

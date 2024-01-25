@@ -1,0 +1,115 @@
+{
+    "MPN": [
+        false,
+        "ULN2003-SOIC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "500mA OC Darlington Driver Array x 6"
+    ],
+    "entity": "f7c51375-9856-4ed2-af8b-3c9ec1dee1a0",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "546549d3-e06f-474e-9da7-588c352fb5aa",
+    "orderable_MPNs": {
+        "0f2206dd-65b4-4320-8d34-abc3f869881a": "ULN2003ADE4",
+        "46c560d3-fe95-497a-b283-c70b345b9fdf": "ULN2003AIDG4",
+        "4bc0e40d-15da-4b9a-85d6-4e688e291181": "ULN2003AIDRG4",
+        "5b7a1c83-9575-4060-a682-0a712eda2c8c": "ULN2003ADR",
+        "65869f03-c990-4ec6-ab7c-2c2ecccd8689": "ULN2003AIDR",
+        "845dde1a-216a-48f1-b72a-e4cee8b512a8": "ULN2003AE4",
+        "9f8bda7a-6355-41da-9c5a-142b6f769d5c": "ULN2003AD",
+        "aaadfc70-7e2c-4c82-a8e4-f90737832e6c": "ULN2003AIDRE4",
+        "c0beabcf-d2a6-4733-8929-7660044134ac": "ULN2003AIDE4",
+        "e540e370-9974-44cb-94a3-c39da6237270": "ULN2003ADRG3",
+        "fa42441c-ab2d-410e-9190-6d3df90b854c": "ULN2003ARG4"
+    },
+    "package": "b01500fc-3bc0-444f-bf2e-11c34fbb26c4",
+    "pad_map": {
+        "05c0b27a-25c0-4e32-8e2f-69ac4858d82c": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "10f3087f-f595-4213-ac45-7207a3f2a3a2"
+        },
+        "2ebb2a29-9a7b-417e-8a0a-a0a7ff8fe702": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "5bda6171-e996-4f56-b161-57e036867ffe"
+        },
+        "3b624ed5-687f-4dcd-b4bb-42fd94e07c62": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "b9c43c70-39e8-41ea-bbdb-3e590f1cd781"
+        },
+        "530676ac-adf2-4350-b4cc-9ccd2d75c578": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "4ea2e2a0-dbdf-46a1-909f-3adb65f2f12e"
+        },
+        "94a14367-bf81-47e9-b7da-8d85d6733768": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "3fe00df7-6a45-4cbf-9dd5-4aed762f6c55"
+        },
+        "9bb2a930-bc91-4adc-8d40-91f4727e40e2": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "89778395-347e-432f-b449-c36749676360"
+        },
+        "a257099a-891d-4141-ba01-581096970d9b": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "8cbc147c-631d-4d58-a156-8a7ee061c37d"
+        },
+        "ab2de05a-6821-4189-8478-f0dc0e96a5b5": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "8174a652-1f1a-4b67-a703-f78bc502e705"
+        },
+        "b4822a16-8b6c-4bf7-a2c2-b8d014949dd3": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "43ef0a00-21a2-45bf-80db-13a433d74171"
+        },
+        "c7b9d868-823d-4569-859e-ee900f0fdb3b": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "69848995-f03f-43bc-80ec-41f68844e027"
+        },
+        "e8952743-77cc-44e8-ab93-2ed76072d1e0": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "ec90461d-821c-4d4b-83f7-fa6a7dddd8ee"
+        },
+        "ea9d489a-2d0b-4417-892a-3a10fe3573fd": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "fe838383-382c-4115-91de-3865c702c7bf"
+        },
+        "f2b2d700-23cf-42e7-b217-15ecb824fcf6": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "3ffd928e-2b06-499f-aaa7-53312ab2846b"
+        },
+        "f51dc2cb-1aad-4f2d-9548-466fd6299d3f": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "28b71507-2f74-4d52-8193-c74a72705afe"
+        },
+        "f9f0cc3a-fa44-497e-87dc-5fc2fc707ce7": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "2686419e-1ec2-4e29-b5a8-cfbe575626ce"
+        },
+        "fac2ed38-ed93-4968-89f6-71156518677e": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "79f93644-0ee9-4989-9b21-91939114ae04"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "driver",
+        "ic",
+        "oc"
+    ],
+    "type": "part",
+    "uuid": "587913d0-72ef-4254-99b6-996add3ea5f5",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "AP7331-SOT23-5"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "300mA LDO VREG"
+    ],
+    "entity": "49446ff8-e964-44fb-9259-a234556c3db9",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "package": "59fe37ba-831b-4685-9438-e098a7a3fcd0",
+    "pad_map": {
+        "471036ea-6d7b-4a71-a556-f344b3a74b7e": {
+            "gate": "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d",
+            "pin": "65f8f45d-595c-4487-b032-2c709dff6468"
+        },
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d",
+            "pin": "dbd2c471-6648-4f46-b31f-8c00e9d254fa"
+        },
+        "9399b7aa-73ea-4cae-860a-7181e0c8caf3": {
+            "gate": "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d",
+            "pin": "ee6aa8d6-30b4-418a-b239-9caf36b3c822"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d",
+            "pin": "d05527f0-2354-445a-9d64-c4314dd5f8cd"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d",
+            "pin": "ca44d2fd-0c7d-46f7-8cd4-1fd4e6b0bb94"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ldo",
+        "linear",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "bbcfe47c-16f7-4f23-b5f0-19231997daa0",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

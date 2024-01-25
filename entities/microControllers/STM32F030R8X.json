@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "de53204c-8d2a-47f4-bce9-a215060082a2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "04857988-3acd-4aba-9ac7-4093dc0b813f"
+        }
+    },
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32F030R8X",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "cortex-m0"
+    ],
+    "type": "entity",
+    "uuid": "a29f7f5b-5e26-4357-b8c4-baba360987c2"
+}

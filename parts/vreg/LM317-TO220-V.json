@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "LM317-TO220-V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3-Terminal Adjustable Regulator"
+    ],
+    "entity": "8d077522-d7da-460a-bbaf-86bc8095139d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "23862377-3fe3-4566-8f3f-d7dc61a03e65",
+    "orderable_MPNs": {
+        "49d04e2f-e7d2-4e02-b500-573a09ca77d7": "LM317T"
+    },
+    "package": "1163a459-666b-4311-aaf0-9ef1fba3691c",
+    "pad_map": {
+        "321fd116-c77c-4b79-99a3-2474bcf8c17b": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "a0aea7ab-ab4f-4756-9f29-faceddb7359b"
+        },
+        "85f8add3-363b-46f2-ac30-189e8277444f": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "fdb36c1e-c929-4d80-900d-5a5fc2da6d1f"
+        },
+        "b4b1efbf-d79c-4ec5-8d53-9fce4b3e52fe": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "a025bb9f-5922-454f-997c-e83e46f4f50f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adj",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "ebd04ecd-40bd-45df-acb7-0e04ed80e321",
+    "value": [
+        false,
+        ""
+    ]
+}

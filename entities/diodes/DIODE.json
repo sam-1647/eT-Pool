@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "ded21b2b-58c1-48be-84cd-6109a5c02bc4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eec9c089-edaf-4d05-ad41-3bc4d8452fe7"
+        }
+    },
+    "manufacturer": "",
+    "name": "DIODE",
+    "prefix": "D",
+    "tags": [
+        "diode"
+    ],
+    "type": "entity",
+    "uuid": "e4bbc589-8d35-413c-95ca-9810ebe0ba35"
+}

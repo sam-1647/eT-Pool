@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "19043e68-3564-42b8-a0f9-a7a8de93fdb7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0a2d463b-edc9-4b3e-bf3f-4f37dbcecca7"
+        }
+    },
+    "manufacturer": "",
+    "name": "OLED-128X32-I2C",
+    "prefix": "DISP",
+    "tags": [
+        "display",
+        "oled"
+    ],
+    "type": "entity",
+    "uuid": "c9a57ac7-d517-49ce-a3a1-1ae0d94c4957"
+}

@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Microchip",
+    "name": "AT24CXXX",
+    "pins": {
+        "043dc510-35e2-4301-9277-cdc39447e79c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "27a0bd9e-131a-4979-85ad-302604775577": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3307e80f-841b-4d17-87d8-c84d19b3ba9d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "3e1ea4e8-247f-414c-85cd-d7e99ecc298e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "660e147a-2ddc-4733-a62d-44aad4bbf2b8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "85cd253c-9f13-41d6-b85f-d6c6c2601556": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "89871188-ff2a-4ae2-8548-6b212be6a3b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "ba83916e-abf9-4ce7-ac20-3a3303e85bdc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "WP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "20c796a4-ff0c-41f9-9142-3bdf34904a7f"
+}

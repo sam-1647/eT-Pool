@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PIC16F15244",
+    "pins": {
+        "01010a55-0c13-48dd-adf6-ef6c92fa1646": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~MCLR~/VPP/IOCA3/RA3",
+            "swap_group": 0
+        },
+        "08282711-498d-411c-a4a6-8061f425727a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC5/CCP1/IOCC5/RC5",
+            "swap_group": 0
+        },
+        "0b814b61-33dc-455e-abcb-70890a9942d1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB6/SDA1/SDI1/IOCB6/RB6",
+            "swap_group": 0
+        },
+        "141898c2-a926-48b9-9b89-6a02db248f9b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB5/RX1/DT1/IOCB5/RB5",
+            "swap_group": 0
+        },
+        "2a72a136-973e-4ebb-96d4-145bbe2fe575": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA1/VREF+/IOCA1/RA1/ICSP-CLK",
+            "swap_group": 0
+        },
+        "3588f3b1-32fe-4337-96d6-6e7d76d801c2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA0/IOCA0/RA0/ICSP-DAT",
+            "swap_group": 0
+        },
+        "3b229413-3169-47e5-a2b1-56baeea6e4b4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC4/IOCC4/RC4",
+            "swap_group": 0
+        },
+        "4ec01345-1018-4b37-8cd5-4a2f260b71bd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL1/SCK1/IOCB4/RB4",
+            "swap_group": 0
+        },
+        "4f362a0e-025d-4891-bb1b-1c13deb5a354": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB7/CK1/IOCB7/RB7",
+            "swap_group": 0
+        },
+        "5292b604-2331-46be-becf-e069656097f0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "55a944cb-b3f4-49c6-bf9e-1f6a333cd4e2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA2/TOCKI/IOCA2/INT/RA2",
+            "swap_group": 0
+        },
+        "5b1fa13b-0a00-429c-8e84-b3e3fe2f5b9f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA5/T1CKI/T2IN/IOCA5/CLKIN/RA5",
+            "swap_group": 0
+        },
+        "80fa096b-343b-49b9-b1bf-d98a4c155d0a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA4/T1G/IOCA4/CLKOUT/RA4",
+            "swap_group": 0
+        },
+        "82db3278-1c74-4393-9170-8c8c29c30b95": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC3/CCP2/IOCC3/RC3",
+            "swap_group": 0
+        },
+        "9a28861b-06d8-47bb-90de-da2ae0a81281": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~SS1~/IOCC6/RC6",
+            "swap_group": 0
+        },
+        "addc5901-cba0-445d-9fbc-f5daffb7402d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC0/RC0",
+            "swap_group": 0
+        },
+        "da0ade79-bab9-4d2a-860c-ba42702f18a7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC7/RC7",
+            "swap_group": 0
+        },
+        "ddca9ade-8350-49d5-99d4-0e92d9c6e3e0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "dfb63ea5-2d8f-44a8-902d-f08a391c7831": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC1/RC1",
+            "swap_group": 0
+        },
+        "eead922c-aedb-4131-abc3-f3d5b0800146": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC2/ADACT/IOCC2/RC2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "830ae37c-252d-4c42-9cde-dfbbd9bd5d99"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "XTAL-4P-ABM8AIG-8.000MHZ-1Z-T"
+    ],
+    "base": "5346a013-7850-42cc-bb2e-7c995a20431a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "8.00MHz 4-Pin Crystal"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Abracon"
+    ],
+    "model": "734ae080-f03f-4ca4-9db0-5d2f8b0b4cd0",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6e2708c2-cee4-4265-bb50-8c7484092a40",
+    "value": [
+        false,
+        "8.000MHz"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PIC16F15225",
+    "pins": {
+        "25eb6447-76c6-4397-89ee-11c7463af917": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INT/IOCA2/TOCKI/ANA2/RA2",
+            "swap_group": 0
+        },
+        "28f19004-c821-43ae-88b0-d85c4bbd0edf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC2/ADACT1/ANC2/RC2",
+            "swap_group": 0
+        },
+        "2cbc42ee-93a1-4bba-b5c9-7363521cc31d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC1/SDI1/SDA1/RC1",
+            "swap_group": 0
+        },
+        "4917aae7-92b4-4b15-8672-ecb1bb43d112": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~MCLR~/VPP/RA3",
+            "swap_group": 0
+        },
+        "70f8186e-31ad-49fb-b2c5-b42da326f09b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCA1/VREF+/ANA1/RA1/ISCP-CLK",
+            "swap_group": 0
+        },
+        "8de27d70-4569-4dbb-9d8b-f218e3798340": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "954295d5-442b-4477-8adb-7c2fd7bcfa47": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC4/CKI/ANC4/RC4",
+            "swap_group": 0
+        },
+        "99211827-8d53-4241-b528-81a48c70b1eb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLKOUT/IOCA4/TIG/ANA4/RA4",
+            "swap_group": 0
+        },
+        "b6042857-f470-44ee-80ad-c26727d9a992": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC0/SCK1/SCL1/RC0",
+            "swap_group": 0
+        },
+        "ccc79b03-599c-4887-880a-269e9fc45c6a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC5/DTI/RXI/CCP1/ANC5/RC5",
+            "swap_group": 0
+        },
+        "db482010-c611-4033-9514-de68a6f573a0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "f25b0aa1-8416-461a-9ed1-e2b04d88bc08": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLKIN/IOCA5/T2IN/TICKI/ANA5/RA5",
+            "swap_group": 0
+        },
+        "f484a7de-e044-4c0b-bbe3-7cd5e994a212": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCC3/~SSI~/CCP2/ANC3/RC3",
+            "swap_group": 0
+        },
+        "f71b5957-63a6-49f8-ad9e-79120b0c1d45": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IOCA0/ANA0/RA0/ICSP-DAT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5324ca0a-77f7-43ad-9f1e-9bd17bd79845"
+}

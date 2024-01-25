@@ -1,0 +1,116 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "AD5420",
+    "pins": {
+        "11af912d-3531-4d57-aaea-9b1ff2bc0ab9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BOOST",
+            "swap_group": 0
+        },
+        "3bd4c7b2-6ffa-4256-aa23-199960a1d571": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLEAR",
+            "swap_group": 0
+        },
+        "50ba1b0b-2faf-4cd7-8db1-8abf4b398304": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "R-SET",
+            "swap_group": 0
+        },
+        "5c2ecb8e-7f15-4e96-87ad-f997a0e4f01d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D-VCC-SEL",
+            "swap_group": 0
+        },
+        "62012806-af71-45fe-81cb-d1dcb0e2c641": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~FAULT~",
+            "swap_group": 0
+        },
+        "6bfcf4d4-cc41-48f4-b4d3-8baa220ad088": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDIN",
+            "swap_group": 0
+        },
+        "77882187-ed04-4e33-ab8e-8d0a99f4e042": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "7dc9c4d1-28f7-4a76-8326-e61327a3394d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-VDD",
+            "swap_group": 0
+        },
+        "80313265-8bef-47a3-8a9a-c4a59647d44e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "84718a46-cfa3-4037-a08c-00d8682b9287": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CAP1",
+            "swap_group": 0
+        },
+        "9ab16047-f9e0-4d83-b2cf-30223346e97b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LATCH",
+            "swap_group": 0
+        },
+        "b2d3dc26-3f63-4e5d-9144-a60960d98c10": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "I-OUT",
+            "swap_group": 0
+        },
+        "c45bc882-c185-4422-bed3-d2a1d129bca2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO",
+            "swap_group": 0
+        },
+        "d67db341-e0d4-40a3-ba12-4aaa05a2ffd9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CAP2",
+            "swap_group": 0
+        },
+        "deefceaf-ec12-4625-bd3a-fbe384541745": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "D-VCC",
+            "swap_group": 0
+        },
+        "e03b764a-5286-4b04-9b93-2c5f704f721b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REF-OUT",
+            "swap_group": 0
+        },
+        "e5961d4c-f231-4f18-b9b0-ce61be423d5e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "R-SENSE",
+            "swap_group": 0
+        },
+        "eca37bc1-42c4-4f13-9d28-4653abf20567": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REF-IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "835587fe-32eb-4c8a-baea-f75af7c7fe80"
+}

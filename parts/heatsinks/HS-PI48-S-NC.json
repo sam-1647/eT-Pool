@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "HS-PI48-S-NC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Heatsink PI48, Side Mount"
+    ],
+    "entity": "ce4b1609-d417-4d41-979d-b7165705140f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "e59e990b-68f8-4267-9db4-ffa261cfa2c2",
+    "package": "1cc8e62e-0356-4fd6-9f60-342610c13907",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "heatsink"
+    ],
+    "type": "part",
+    "uuid": "487218df-a63a-455c-8494-5dc556b063f4",
+    "value": [
+        false,
+        ""
+    ]
+}

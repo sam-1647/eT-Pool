@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "V-REF-3P",
+    "pins": {
+        "3d0db6b3-4351-44ab-903d-c9147d2a6bb5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "519f560e-ffa6-4efd-9562-b31386880f44": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "f66e39b5-5a10-44b2-ba54-73e936ccb266": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ADJ",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ef51a046-4d4c-4be5-9e5f-a71fd22024dc"
+}

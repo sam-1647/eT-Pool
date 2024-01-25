@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-5W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5Way Male Connector, P=25mm"
+    ],
+    "entity": "418c53bb-74f2-45c1-b7c5-145abdbbfc6b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "473029d7-914e-462a-96f4-f7faff180c8a",
+    "package": "27321927-9067-4485-b7bc-e6bd97ed9174",
+    "pad_map": {
+        "2df4bde1-1383-40a4-adc6-80498e396c6d": {
+            "gate": "ac5e2dc9-4678-4ad8-9d85-f22ee025017e",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "6c804bc1-9df3-4e72-ae60-50ae919f5221": {
+            "gate": "ac5e2dc9-4678-4ad8-9d85-f22ee025017e",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "acc041af-7d86-43c8-998b-34f2d49a8554": {
+            "gate": "ac5e2dc9-4678-4ad8-9d85-f22ee025017e",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "ad3a3778-cf7d-4a2c-a32d-852a36515930": {
+            "gate": "ac5e2dc9-4678-4ad8-9d85-f22ee025017e",
+            "pin": "c1a95f7e-15a7-42d8-8ba5-42b885a21cf3"
+        },
+        "b0f943dc-ea58-4a8d-9f04-d40415accd07": {
+            "gate": "ac5e2dc9-4678-4ad8-9d85-f22ee025017e",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "e0b97a89-aa59-4e2b-9b11-ea7c80f04aea",
+    "value": [
+        false,
+        ""
+    ]
+}

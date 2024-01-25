@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "DIODE-DO35-H-1016P-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DO35 Diode, Horizontal, 10.16mm Pitch"
+    ],
+    "entity": "e4bbc589-8d35-413c-95ca-9810ebe0ba35",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "0832149b-1635-44f2-bd57-baff50d6b6d7",
+    "package": "efed4bfb-fcc8-4840-8260-ab4eb405931d",
+    "pad_map": {
+        "ae18278e-8fc9-4c70-aa1f-9a05e321b854": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        },
+        "ddbd7629-79f6-464e-aadd-50825d6deabd": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1016p",
+        "diode",
+        "do35"
+    ],
+    "type": "part",
+    "uuid": "261e18c8-b9b0-4a54-99e4-54e4fbfe35d8",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

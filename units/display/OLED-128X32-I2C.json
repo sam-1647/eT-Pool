@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "OLED-128X32-I2C",
+    "pins": {
+        "42f71b72-6801-4445-90d9-712cda893c5b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "4a383aa4-073e-42b4-94ca-ab8a1594a8ea": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "9e6a2a9c-2469-4b42-b224-cd6d90bffaac": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "f7fa358d-fd5c-477b-b8bb-0eec01bdade2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0a2d463b-edc9-4b3e-bf3f-4f37dbcecca7"
+}

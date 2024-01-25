@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "23d0a69d-4984-46c6-b45f-e6b7b2bd165a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f92adc62-5e0f-4d05-81c2-847975554fb9"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-6x1",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sil"
+    ],
+    "type": "entity",
+    "uuid": "d3999fe7-9123-4771-9e50-476e902c2d93"
+}

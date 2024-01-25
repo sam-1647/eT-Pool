@@ -1,0 +1,284 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PIC16F15386-TQFP",
+    "pins": {
+        "1333b3f9-436e-4269-846c-32c40d699289": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "15f87888-98a5-4fea-a361-78f74becc7e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "179b59d1-8177-4087-bfee-56e1ecc52a24": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OSC1/ANA6/OCA6/CLKOUT/RA6",
+            "swap_group": 0
+        },
+        "2941b2ca-1ddd-4fc9-aca3-4271a4cc3ff4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF6/ANF6",
+            "swap_group": 0
+        },
+        "2eacb169-4d68-4025-b816-59b66af4eaac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE1/RE1",
+            "swap_group": 0
+        },
+        "347561e6-0eb9-4f35-86de-9aa3b4c0cbe7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF7/ANF7",
+            "swap_group": 0
+        },
+        "35763340-b2a7-4a5d-b2db-d37a5cea672c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC2/CCP1/IOCC2/RC2",
+            "swap_group": 0
+        },
+        "3dff680a-7e94-4147-83f8-3864702cd8c0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND0/SCK2/SCL2/RD0",
+            "swap_group": 0
+        },
+        "4c44cd1d-29bc-44a0-8dc1-0d21823e70b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF4/ANF4",
+            "swap_group": 0
+        },
+        "4d4c66aa-1271-4058-8d6f-d342eefd4dec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC7/RX1/DT1/IOCC7/RC7",
+            "swap_group": 0
+        },
+        "5b0dcc76-9fac-4ace-b9e0-28b866b86a2d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB3/C1IN2-C2IN2-/IOCB3/RB3",
+            "swap_group": 0
+        },
+        "611ef7ca-80a6-432b-b34e-bb0895e8cd3c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA5/ADCACT/T1G/~SS1~/IOCA5/RA5",
+            "swap_group": 0
+        },
+        "660c1b93-64b1-409d-bafb-f1223f5a2ed2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA1/C1IN1-/C2IN1-/CLCIN1/IOCA1/RA1",
+            "swap_group": 0
+        },
+        "6c025f5e-49d0-42cb-a254-ed87af05b50e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF3/ANF3",
+            "swap_group": 0
+        },
+        "6ea5b223-1ab3-46cd-b330-793ffa7efcc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OSC2/ANA7/IOCA7/CLKIN/RA7",
+            "swap_group": 0
+        },
+        "7218caf6-2cc1-42c7-9421-673ebcaa6e08": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF1/ANF1",
+            "swap_group": 0
+        },
+        "78e33032-65e7-418e-a149-a976c09f5da8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND5/RD5",
+            "swap_group": 0
+        },
+        "798abc8a-0b93-4746-9306-b471f0604459": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB2/SDA1/SDI1/IOCB2/RB2",
+            "swap_group": 0
+        },
+        "7b1f6203-acc8-4f0b-9e1d-6ae799fc0eb8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC1/SOSCI/CCP2/IOCC1/RC1",
+            "swap_group": 0
+        },
+        "7d8c02a0-bb74-4508-bef8-f5137fd70b3a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA2/C1IN0+/C2IN0+/DAC1OUT1/OCA2/RA2",
+            "swap_group": 0
+        },
+        "7e6b766c-5415-404d-b647-86fb23299fa6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA3/VREF+/C1IN1+/DACREF+/IOCA3/RA3",
+            "swap_group": 0
+        },
+        "8479f615-d360-42a9-9add-e9e1f1b6284f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC3/R2IN/SCK1/SCL2/IOCC3/RC3",
+            "swap_group": 0
+        },
+        "8b7f158b-f587-40cb-a1ed-34db302dc011": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC5/IOCC5/RC5",
+            "swap_group": 0
+        },
+        "8bca4f28-1e89-4eea-aeae-97c13c953c10": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND3/RD3",
+            "swap_group": 0
+        },
+        "8f8857be-b428-4d98-abd8-e842d505ab33": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB0/C1IN1+/CWG1/~SS2~/ZCD1/INT/IOCB0/RB0",
+            "swap_group": 0
+        },
+        "9669eee0-1007-4ccd-8018-b6cbdec4accc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND1/SDA2/SDI2/RD1",
+            "swap_group": 0
+        },
+        "9933a6d7-b5c6-4e55-b88a-930021707f91": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND7/RD7",
+            "swap_group": 0
+        },
+        "9d14f36c-2728-47af-ad3a-7727aaff3f2f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC6/TX1/CK1/IOCC6/RC6",
+            "swap_group": 0
+        },
+        "9e37c113-7232-4633-95e2-967e7e0f7ace": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~MCLR~/VPP/IOCE3/RE3",
+            "swap_group": 0
+        },
+        "a43d4ecf-cd4f-44bc-abcd-afb7d8ec38f8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF2/ANF2",
+            "swap_group": 0
+        },
+        "aa5bd3b0-85e6-4a56-b63e-e45e07c7c216": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND6/RD6",
+            "swap_group": 0
+        },
+        "adbb8be3-0ac2-4b25-9c07-f2a7757228ca": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ICSP-DAT/RB7",
+            "swap_group": 0
+        },
+        "adeaea72-11af-4d0e-a55c-6367989e1c00": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND2/RD2",
+            "swap_group": 0
+        },
+        "b0070cd1-9610-49aa-9213-ef6d2e88c7ce": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND4/RD4",
+            "swap_group": 0
+        },
+        "b64c41b0-f2e7-4536-bf3d-f1c3b174d66c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA4/C1IN1-/T0CKI/IOCA4/RA4",
+            "swap_group": 0
+        },
+        "b9504fcd-bebe-4b70-9758-91bda214d57a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF0/ANF0",
+            "swap_group": 0
+        },
+        "c262b96e-ddd9-4bb8-977f-fc6bf45559ac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE2/RE2",
+            "swap_group": 0
+        },
+        "d02df41d-f369-4d26-94e0-aabff775e6f7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB1/C1IN3-/C2IN3-/SCL1/SCK1/IOCB1/RB1",
+            "swap_group": 0
+        },
+        "d7a4978b-dd38-444a-a12e-e10f457afdcb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB5/IOCB5/RB5",
+            "swap_group": 0
+        },
+        "dfb455c3-78f4-4bea-ba46-9b673779f235": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB4/ADCACT/IOCB4/RB4",
+            "swap_group": 0
+        },
+        "e44d3364-3a8f-4238-8ccf-b8ecc1adc4bf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ICSP-CLK/RB6",
+            "swap_group": 0
+        },
+        "e97a9332-66f3-4c19-a3ef-619b28b2e2ed": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA0/C1IN0-/C2IN0/IOCA0/CLCIN0/RA0",
+            "swap_group": 0
+        },
+        "eeeb78c9-131a-4405-8193-003d6d70a432": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC4/SDA1/SDI1/IOCC4/RC4",
+            "swap_group": 0
+        },
+        "f4464d9c-19b1-46ed-b7f9-961c7c6af260": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE0/RE0",
+            "swap_group": 0
+        },
+        "f7039058-faa3-4a81-a1a6-4c8f512b8419": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC0/SOSCO/T1CKI/IOCC0/RC0",
+            "swap_group": 0
+        },
+        "f947632c-5632-46f9-9aef-e0e10dd5d5b6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RF5/ANF5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "84673eb5-33fd-450a-afcf-2f9cfe57beef"
+}

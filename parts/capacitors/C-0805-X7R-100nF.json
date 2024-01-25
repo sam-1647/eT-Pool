@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C-0805-X7R-100nF"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "100nF, X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "orderable_MPNs": {
+        "8b776dc4-87fa-4701-b737-d9418e49f1e7": "CC0805KRX7R9BB104"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4bfa0881-6d8a-483b-bf6c-055bfeb8e96f",
+    "value": [
+        false,
+        "100nF"
+    ]
+}

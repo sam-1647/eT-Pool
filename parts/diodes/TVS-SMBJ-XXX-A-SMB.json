@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "TVS-SMBJ-XXX-A-SMB"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Unidirectional TVS Diode"
+    ],
+    "entity": "833509c0-1cfe-42fd-9c13-f59680f11c18",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "f8607ec7-6742-446f-8fe9-1e1cd7cc4122",
+    "package": "99dceaca-c4dc-49b5-a395-a755e05b75fb",
+    "pad_map": {
+        "10cbca38-5cd2-4ef2-ad59-babc74872063": {
+            "gate": "120501d8-9fee-43ea-aa95-dc244d2c6a91",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        },
+        "d90afb1a-4e88-4154-9bb3-808d0f8c5d1f": {
+            "gate": "120501d8-9fee-43ea-aa95-dc244d2c6a91",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "smb",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "0e581893-5d4d-444b-8698-f8bd5827715a",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

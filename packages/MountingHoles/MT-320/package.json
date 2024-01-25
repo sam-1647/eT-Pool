@@ -1,0 +1,109 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {},
+    "keepouts": {
+        "24ce9ee0-a83c-461f-b815-e198cdf0f8bc": {
+            "all_cu_layers": true,
+            "exposed_cu_only": false,
+            "keepout_class": "mt-keepout",
+            "patch_types_cu": [
+                "track",
+                "pad",
+                "pad_th",
+                "via",
+                "plane",
+                "hole_pth"
+            ],
+            "polygon": "5b5ca4a0-50c2-46dd-96db-5902f8f281c6"
+        }
+    },
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "MT-320",
+    "pads": {
+        "a29420ee-c8c8-4f37-a40f-39eafa8c680f": {
+            "name": "1",
+            "padstack": "33abcd1e-ca77-4957-aaf9-97907aba0e35",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "5b5ca4a0-50c2-46dd-96db-5902f8f281c6": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3000000,
+                        0
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3000000,
+                        0
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "mt"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "1f9dbd00-4794-4f3c-81a3-038059a6a5db"
+}

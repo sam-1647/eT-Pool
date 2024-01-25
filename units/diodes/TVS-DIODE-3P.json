@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "TVS-DIODE-3P",
+    "pins": {
+        "8967e344-c09b-4a89-ab1f-982d8aab8d2b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Z2",
+            "swap_group": 0
+        },
+        "b930de16-2cb6-4f78-af2c-fc1f81dfa96d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "f51f9169-561d-4b5f-941c-1b11166d9c00": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Z1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ac2fdd98-9a39-4f17-a425-4aa94213c5eb"
+}

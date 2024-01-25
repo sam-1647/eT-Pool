@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Megawin",
+    "name": "MEGAWIN-8051-ICE-6P",
+    "pins": {
+        "359edeeb-c3af-4aa8-9843-20b1be80a67a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OCD-SCL/P44",
+            "swap_group": 0
+        },
+        "3a139145-fcf1-4543-a09a-0ca4c93929df": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bd694a33-ec95-4f9f-b855-f1fcd87ffe5c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OCD-SDA/P45",
+            "swap_group": 0
+        },
+        "c0cb85d8-07a1-4e14-a750-8e5b5c2e8a2b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RST",
+            "swap_group": 0
+        },
+        "c6160e56-cfef-42d9-af88-bff5981460d5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RXD/P30",
+            "swap_group": 0
+        },
+        "f8ba2cff-e2b2-441e-9cde-abfe41b52097": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b4609c7e-867f-4da5-b658-90b480b6dd9c"
+}

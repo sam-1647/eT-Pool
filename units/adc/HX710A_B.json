@@ -1,0 +1,56 @@
+{
+    "manufacturer": "AVIA Semiconductors",
+    "name": "HX710A_B",
+    "pins": {
+        "064cc1df-f474-44e6-9075-6c77b8454972": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "3324db26-0b8a-4a33-9cd7-29e6b7217368": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "4e27392c-0ffd-40ec-b5b3-d53286863669": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "8521da97-ac9c-47d2-91af-7c56122779b6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD-SCK",
+            "swap_group": 0
+        },
+        "c01c3a1a-1757-4335-8b1b-8dd0eb76776f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-VDD",
+            "swap_group": 0
+        },
+        "c2d73a0a-52b4-4c6b-849d-70d5e7c9f9a3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DOUT",
+            "swap_group": 0
+        },
+        "d1363d18-0ed8-4efd-8547-49fbbd1ec643": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "d8574632-95fb-439f-a518-2a9f0c1f1980": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "D-VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0afa86bf-a9b0-42ce-aba0-a17f7175d7da"
+}

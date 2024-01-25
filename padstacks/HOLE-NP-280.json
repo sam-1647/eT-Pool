@@ -1,0 +1,29 @@
+{
+    "holes": {
+        "c95e30c3-a20f-4e40-acc6-38bad03a43d8": {
+            "diameter": 2800000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": false,
+            "shape": "round"
+        }
+    },
+    "name": "HOLE-NP-280",
+    "padstack_type": "mechanical",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "b71b30d4-f069-47e8-9183-71c7f9b1c38c",
+    "well_known_name": ""
+}

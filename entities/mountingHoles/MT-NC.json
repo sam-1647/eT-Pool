@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c478d564-40b2-4ae3-b358-20f20a879a40": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eadc62cb-78e9-420d-b3f0-76559c8a3dca"
+        }
+    },
+    "manufacturer": "",
+    "name": "MT-NC",
+    "prefix": "MT",
+    "tags": [
+        "mt",
+        "nc"
+    ],
+    "type": "entity",
+    "uuid": "8278d0f2-a570-46c4-b038-e9e0a795936a"
+}

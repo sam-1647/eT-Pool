@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Maxim",
+    "name": "DS18B20",
+    "pins": {
+        "4764ba56-31c1-42c2-8742-a4faf19dcfc1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DQ",
+            "swap_group": 0
+        },
+        "6363f650-e36c-40fe-b52a-4259d39dfb74": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a6150912-00bb-4109-857b-7c79861b2309": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a224a4ed-4570-4d9c-8ca1-3f2ee7d00c32"
+}

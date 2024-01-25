@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "23e22365-3d08-4ffa-bcb3-d3f8c2d856e4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dacc48b7-3a63-4442-94e3-9156f2f23ab0"
+        }
+    },
+    "manufacturer": "Megawin",
+    "name": "MEGAWIN-8051-ISP-3P",
+    "prefix": "ISP",
+    "tags": [
+        "isp"
+    ],
+    "type": "entity",
+    "uuid": "c0f63141-b127-4602-a2c4-9bba29d40efb"
+}

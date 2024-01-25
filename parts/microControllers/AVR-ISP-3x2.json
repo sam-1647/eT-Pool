@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "AVR-ISP-3x2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3x2 ISP Header for AVR"
+    ],
+    "entity": "edf59d0e-646b-40b3-9e3a-ba2e649951ec",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "197f2d2b-1e82-4684-9268-c8aa0e640e60",
+    "package": "0110d9cf-16c2-4523-b959-e41808735df2",
+    "pad_map": {
+        "00f73434-9241-4085-bcdc-f06cdb750c24": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "e2de8ea8-6c13-4139-beba-c0325d561a21"
+        },
+        "3ec3e9ad-ca6c-4d78-8945-f85ad3bf0b09": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "e61856f7-bd61-4dd9-a942-4c8519386d02"
+        },
+        "51dae183-9de1-49d3-8df4-a5a1f047a1a7": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "e736cc95-d98b-4338-beda-64924ad27549"
+        },
+        "5a983bd8-e691-4576-9ac6-939904cd7958": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "99decd33-62f2-496b-a28c-8301e86f1c0d"
+        },
+        "91a21a23-d97c-4b1e-acad-55e189a38927": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "64f16bd7-4a52-451c-8860-cf71c99dd1c2"
+        },
+        "d88b2b5b-db73-4a93-a71c-e75dc6d6e5e3": {
+            "gate": "a7858f46-5a46-4047-a937-2f36a253b6b7",
+            "pin": "9f45b887-a53b-448d-b30b-293d1dfadd98"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "isp"
+    ],
+    "type": "part",
+    "uuid": "c8ad19f2-997b-40b7-8241-cebb2fb9c13d",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "AVR-UPDI-3P",
+    "pins": {
+        "2b6b0aa0-06b5-40c7-a41e-c5ef38735ce8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VTG",
+            "swap_group": 0
+        },
+        "3ecbe1f8-ebe3-484a-a3c8-450d4b175452": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "4e2577e8-8740-49a1-9299-f4890ac452aa": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "UPDI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5ab24a93-debd-4056-943d-61b25e3f5501"
+}

@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "PowerInductor-1230x1230x800"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Power Inductor, 12.3x12.3x8.0mm"
+    ],
+    "entity": "b9601b96-ec9e-4f84-8e18-d8df8b07a389",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "dd1d9b00-0f92-4648-a8e8-7869321d50a5",
+    "package": "56d9cf0f-894a-4133-a3fe-03de8fa2678e",
+    "pad_map": {
+        "a37bb13e-c853-47d0-b485-c6b21f60bb47": {
+            "gate": "4d8f6344-ae05-4b66-8237-5e0a8e1bf356",
+            "pin": "5929d14f-099f-4b6f-b9f9-8cf81554f39a"
+        },
+        "bfab4c4d-77d2-49e4-9d0c-fba2489215d3": {
+            "gate": "4d8f6344-ae05-4b66-8237-5e0a8e1bf356",
+            "pin": "1e55dc28-bccb-492f-9e87-2742684d12ef"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ind",
+        "pwr-inductors"
+    ],
+    "type": "part",
+    "uuid": "eb14f402-d462-4554-9e92-bd2616bc983b",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

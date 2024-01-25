@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "d7a1d7a6-dd12-4d56-b56a-98331eeb2b37": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a356fb0b-fb76-4586-b054-3709373f76b8"
+        }
+    },
+    "manufacturer": "",
+    "name": "BATTERY",
+    "prefix": "BAT",
+    "tags": [
+        "battery"
+    ],
+    "type": "entity",
+    "uuid": "158e25bf-650e-4ff6-9a66-c36cbab0f294"
+}

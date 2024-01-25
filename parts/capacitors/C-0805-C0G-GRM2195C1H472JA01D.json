@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-0805-C0G-GRM2195C1H472JA01D"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "4700pF, C0G, 0805 Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "4.7e-09",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3e3aa3f6-cfe6-4233-bb5f-a7a2338e8d43",
+    "value": [
+        false,
+        "4700pF"
+    ]
+}

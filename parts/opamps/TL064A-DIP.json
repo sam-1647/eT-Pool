@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "TL064A-DIP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Low Power JFET Quad OpAmp"
+    ],
+    "entity": "15f3000e-8a84-4897-bf14-863096d06ceb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "778876e7-f579-4001-873f-d7ccc6eab68c",
+    "orderable_MPNs": {
+        "b4bdd0b8-b12f-4346-ae1e-94ff00f0d69e": "TL064A-CN"
+    },
+    "package": "ed3ff4d5-51e1-4a68-826b-17e5ec4807ff",
+    "pad_map": {
+        "082c6e91-eb77-4874-852c-e06d62178792": {
+            "gate": "3fd132d8-5798-4310-a261-3bf27db78713",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "1aed244a-74f9-419b-a8d0-b63c4b87e73d": {
+            "gate": "8eb30467-33c1-4f33-8cc7-2bd79f0d3271",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "1e34314c-2298-409b-a036-0d865a46817a": {
+            "gate": "3fd132d8-5798-4310-a261-3bf27db78713",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "22a97a26-72bb-4ab0-a41e-ec3abc5f92f9": {
+            "gate": "39254242-e2c0-4be3-ba3c-a00525d2b8d2",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "312e4c29-e78c-4e47-afbf-1b2e1d77b14f": {
+            "gate": "39254242-e2c0-4be3-ba3c-a00525d2b8d2",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "47751886-155b-4b0c-aca2-4d58ef7c607c": {
+            "gate": "8eb30467-33c1-4f33-8cc7-2bd79f0d3271",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "647733a9-dab4-44eb-adef-31b1891ea689": {
+            "gate": "3fd132d8-5798-4310-a261-3bf27db78713",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "74712a28-3c11-48cd-a7c6-0584d323d2fe": {
+            "gate": "291e7997-66a6-4021-a9d2-29b3bf3136a8",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "7d3fa647-c654-42dc-a88b-8505ef6a1ea6": {
+            "gate": "291e7997-66a6-4021-a9d2-29b3bf3136a8",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "8145ce87-a3bf-4af2-8083-7863be9ccaac": {
+            "gate": "291e7997-66a6-4021-a9d2-29b3bf3136a8",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "850117fa-e9b6-4ca6-91b9-47853e6a2e79": {
+            "gate": "af7ed11e-4d2c-44a7-86fd-65f681d2726f",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        },
+        "af59442f-e368-4097-a821-05b13cd68569": {
+            "gate": "af7ed11e-4d2c-44a7-86fd-65f681d2726f",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "d5650941-f1d7-4f35-8ebd-ddb18c421339": {
+            "gate": "39254242-e2c0-4be3-ba3c-a00525d2b8d2",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "e244418d-3646-484c-8b7a-b34daa20326a": {
+            "gate": "8eb30467-33c1-4f33-8cc7-2bd79f0d3271",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "bdbe2520-5dd8-43a4-b342-880540b5c047",
+    "value": [
+        false,
+        ""
+    ]
+}

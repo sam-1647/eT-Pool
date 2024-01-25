@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "4437e180-fb1b-4f39-96cd-5d52b94e32b5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7638e153-56e1-4f2d-a8a5-7626cc0beecd"
+        }
+    },
+    "manufacturer": "BERG",
+    "name": "NUVOTON-ICSP-5P",
+    "prefix": "ICSP",
+    "tags": [
+        "conn",
+        "sil"
+    ],
+    "type": "entity",
+    "uuid": "97a4face-4f6a-46d2-84ac-25c4d0c310db"
+}

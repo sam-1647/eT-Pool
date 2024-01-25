@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "DIODE",
+    "pins": {
+        "8967e344-c09b-4a89-ab1f-982d8aab8d2b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "f51f9169-561d-4b5f-941c-1b11166d9c00": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eec9c089-edaf-4d05-ad41-3bc4d8452fe7"
+}

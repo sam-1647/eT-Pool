@@ -1,0 +1,38 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "STM32-SWD-5x1",
+    "pins": {
+        "6c17659b-47e7-4632-89ec-d79caa56ee9b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "nRST",
+            "swap_group": 0
+        },
+        "7a38a4b3-b6da-458c-9c26-4802bbf2884a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "888528a5-0b1a-4294-90de-e3694c8b1147": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWDCLK",
+            "swap_group": 0
+        },
+        "8aa964ab-d05f-4c98-9c88-5ec68416a6b1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        },
+        "ced434e7-28eb-4a87-91b9-ac5212b3d2a3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "cbcf0cdd-6e1b-43b2-ba9d-3fbc86f45a17"
+}

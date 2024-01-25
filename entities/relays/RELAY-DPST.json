@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "af7f73db-86d0-4072-8235-6b28e67e7988": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2c55a5b5-3cc0-4e66-bc5c-093111342fc9"
+        }
+    },
+    "manufacturer": "",
+    "name": "RELAY-DPST",
+    "prefix": "RLY",
+    "tags": [
+        "dpst",
+        "relay"
+    ],
+    "type": "entity",
+    "uuid": "92425af7-d786-4583-b9b8-2ff454fdc359"
+}

@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "BJT-NPN",
+    "pins": {
+        "249d5f2d-c07d-4122-b07a-ed5adecb2712": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "4dc9dfec-2292-4b69-9166-4d55a24a0343": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        },
+        "7b568d8f-59a5-42ed-827f-6401b2770a83": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d92db467-0590-4c75-ae35-f2279d21a3e4"
+}

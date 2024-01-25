@@ -1,0 +1,66 @@
+{
+    "MPN": [
+        false,
+        "GOODSKY-ST-SH-DPST"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DPST Relay"
+    ],
+    "entity": "92425af7-d786-4583-b9b8-2ff454fdc359",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "GOODSKY"
+    ],
+    "model": "f9d8f691-db3f-45a5-af91-42d01d5cd334",
+    "package": "0af02654-f335-4e88-a669-17594b2c5339",
+    "pad_map": {
+        "1d0f5772-2d67-43a9-9952-2ada40e755ee": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "59e01f7d-c83c-4559-968b-7a5271d6edbb"
+        },
+        "42dfca09-b792-448c-9eb4-9306be1d4f92": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8"
+        },
+        "481c22ad-c92a-4e52-a103-4d8831d54649": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "a7e2dce4-2244-4e22-9f56-f268beeeb0cc"
+        },
+        "4fd737df-a5c5-438f-aea5-d44f04d6373a": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "7dc78893-c580-44fd-b85c-1c693c34ba37"
+        },
+        "7225db36-4e8e-4838-ac05-e4c99cfff8e3": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "052edf91-ecb6-4034-95c3-87620b06fb6a"
+        },
+        "caca2a50-b5ab-499f-8146-9bea6ea2ea13": {
+            "gate": "af7f73db-86d0-4072-8235-6b28e67e7988",
+            "pin": "38ec4e0e-28fa-4f24-a6cc-fa091c67e755"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dpst",
+        "relay"
+    ],
+    "type": "part",
+    "uuid": "7f8495d6-d0eb-40b0-a4ce-6e0054943aea",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

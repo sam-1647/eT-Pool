@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ab3ca735-a5e0-42f0-9158-d9dd1ad7f271": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a2e4e99c-66b3-4f24-ae0d-542dc3d83dff"
+        }
+    },
+    "manufacturer": "",
+    "name": "DIODE-BRIDGE",
+    "prefix": "BR",
+    "tags": [
+        "bridge",
+        "diode"
+    ],
+    "type": "entity",
+    "uuid": "2b292855-e912-46c4-8d2a-ac7823f9f979"
+}

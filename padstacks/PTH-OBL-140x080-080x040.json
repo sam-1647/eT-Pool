@@ -1,0 +1,115 @@
+{
+    "holes": {
+        "98c0bf1a-e90a-4177-9402-bd6ead013a1d": {
+            "diameter": 500000,
+            "length": 800000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "slot"
+        }
+    },
+    "name": "PTH-OBL-140x080-080x050",
+    "padstack_type": "through",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "13232da5-db4a-40af-8881-7284e0b5b05a": {
+            "form": "obround",
+            "layer": 0,
+            "parameter_class": "copper",
+            "params": [
+                1400000,
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "1a0a6a74-22c7-47e1-8c39-79e37d4b54d6": {
+            "form": "obround",
+            "layer": -1,
+            "parameter_class": "copper",
+            "params": [
+                1400000,
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "91d0ce62-a33a-4d70-869a-aca15c5c611e": {
+            "form": "obround",
+            "layer": -100,
+            "parameter_class": "copper",
+            "params": [
+                1400000,
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f553a2f4-6f2d-410a-a14a-852797974546": {
+            "form": "obround",
+            "layer": -110,
+            "parameter_class": "mask",
+            "params": [
+                1450000,
+                850000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "fd47fdff-ef99-47d9-b136-0fbab0d0b74a": {
+            "form": "obround",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                1450000,
+                850000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "8abeb1b2-4ccb-41c8-8ec8-8e18dc26e7a0",
+    "well_known_name": ""
+}

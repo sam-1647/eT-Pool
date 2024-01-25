@@ -1,0 +1,104 @@
+{
+    "manufacturer": "AVIA Semi",
+    "name": "HX711-SO",
+    "pins": {
+        "01439e8e-ab84-4df1-bf7d-1f7935414803": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-B+",
+            "swap_group": 0
+        },
+        "04eb62a1-e109-4365-a820-b2441c05f121": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSUP",
+            "swap_group": 0
+        },
+        "09810095-60c6-46ff-b99e-624e6f832eab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VFB",
+            "swap_group": 0
+        },
+        "3e26836d-3c45-42a1-92ea-24ddb8d2e33e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-A-",
+            "swap_group": 0
+        },
+        "47bea1e2-cc10-4c89-9509-efcfd602f6ce": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-B-",
+            "swap_group": 0
+        },
+        "5036220e-7fad-4eab-8871-78a8df55a208": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD-SCK",
+            "swap_group": 0
+        },
+        "57e0ec29-3720-4a52-982c-c9a6d8dd401f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VBG",
+            "swap_group": 0
+        },
+        "5d74f649-aa32-40a2-bef3-a3b3015b066f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "D-VDD",
+            "swap_group": 0
+        },
+        "857336bf-abeb-4a04-96c5-08b9ea47a534": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RATE",
+            "swap_group": 0
+        },
+        "8633e632-8f3f-47bb-bfae-71f68e9573b7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XO",
+            "swap_group": 0
+        },
+        "962d2ba3-9aa4-4a17-a444-75e5caa00c79": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DOUT",
+            "swap_group": 0
+        },
+        "9ce2c4a4-6d77-4b71-8ddd-1b326b26fd0f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BASE",
+            "swap_group": 0
+        },
+        "9eaeb4a6-99ce-40b2-8d48-532ebcc97b69": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-A+",
+            "swap_group": 0
+        },
+        "a74ed18c-0582-48e4-bc91-fc387df7cfb1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-VDD",
+            "swap_group": 0
+        },
+        "df4c3617-29c5-47cc-8099-046d7785cb36": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-GND",
+            "swap_group": 0
+        },
+        "fe92abf6-0c07-42f0-b39f-ba8d3ef5a45d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XI",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5ce030e0-5365-4f78-afda-2e72cfcafb13"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f1514ae9-52ac-40fa-a985-583cda5a41a3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ef51a046-4d4c-4be5-9e5f-a71fd22024dc"
+        }
+    },
+    "manufacturer": "",
+    "name": "V-REF-3P",
+    "prefix": "U",
+    "tags": [
+        "3p",
+        "vref",
+        "zener"
+    ],
+    "type": "entity",
+    "uuid": "6154afcb-a2d9-4b75-91ca-57278ce86f31"
+}

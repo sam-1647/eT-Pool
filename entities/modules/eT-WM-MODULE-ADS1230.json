@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "724266ba-dcb3-4044-a196-531525a94c31": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9ad283e8-81df-409d-b539-89583a5533d5"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-WM-MODULE-ADS1230",
+    "prefix": "MD",
+    "tags": [
+        "loadcell",
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "29604322-ced6-4d86-bed2-8363e89efc6b"
+}

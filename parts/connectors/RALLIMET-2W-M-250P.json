@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-2W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2Way Male Connector, P=2.5mm"
+    ],
+    "entity": "9ecbec25-ffbc-4df3-b73e-dfead7a241f1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "7e0eb64a-d327-40f9-8eee-47be021e2088",
+    "package": "168863ce-b419-49b5-8183-00a555b7dfb9",
+    "pad_map": {
+        "c1b157c3-4671-4ccc-9ffe-3151c60a1809": {
+            "gate": "4fc3ccd6-fee9-4e3e-b037-c1e82ada3817",
+            "pin": "b0da620f-59c3-43f3-b651-2771957cc591"
+        },
+        "d410abc1-dab9-440f-8b48-e7e7827974fa": {
+            "gate": "4fc3ccd6-fee9-4e3e-b037-c1e82ada3817",
+            "pin": "6d5a8db5-2cad-4eec-b56d-8cb85f567410"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "7e95260c-10a1-48d2-9299-cb30ddab504e",
+    "value": [
+        false,
+        ""
+    ]
+}

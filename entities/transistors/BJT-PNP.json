@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "dfa6f886-2416-423e-8501-37639c088110": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8fab01f3-fa75-433d-8a4e-88746250ae75"
+        }
+    },
+    "manufacturer": "",
+    "name": "BJT-PNP",
+    "prefix": "Q",
+    "tags": [
+        "bjt"
+    ],
+    "type": "entity",
+    "uuid": "972d643b-bf4c-432a-9c5c-37ef0e809180"
+}

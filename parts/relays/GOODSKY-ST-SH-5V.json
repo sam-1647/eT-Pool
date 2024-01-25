@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "GOODSKY-ST-SH-DPST-5V"
+    ],
+    "base": "7f8495d6-d0eb-40b0-a4ce-6e0054943aea",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "DPST Relay, 5V Coil"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "GOODSKY"
+    ],
+    "model": "f9d8f691-db3f-45a5-af91-42d01d5cd334",
+    "orderable_MPNs": {
+        "42bdbe95-3ecc-45e3-b89d-1a9fca053d9b": "GS-ST-SH-2-05-T",
+        "972de332-db8a-4f67-a444-2c0632bbf4a8": "GS-ST-SH-2-05-D",
+        "a7eaa098-d52d-4124-abb6-56291cc136eb": "GS-ST-SH-2-05-L"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ad074119-ae1f-4454-bccd-7262f0dda4fd",
+    "value": [
+        true,
+        "GOODSKY-ST-SH-DPST"
+    ]
+}

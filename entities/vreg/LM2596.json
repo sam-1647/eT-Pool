@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "45adf4f2-9fb0-4c95-b087-3ce935a7848e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "99c57756-5a8d-4b93-8641-229576fcc2fc"
+        }
+    },
+    "manufacturer": "National Semi",
+    "name": "LM2596",
+    "prefix": "U",
+    "tags": [
+        "dcdc",
+        "stepdown"
+    ],
+    "type": "entity",
+    "uuid": "0f13bdad-868d-4399-a652-aa052de17300"
+}

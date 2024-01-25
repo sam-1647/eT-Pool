@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "R-0.25W-TH-1016P-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 1/4W TH Resistor, 10.16mm Pitch"
+    ],
+    "entity": "d8f2c278-6e93-4fe9-9bd0-ff5d83a19a3b",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "2819557c-d6ff-4be2-b81b-bb6d4ff79428",
+    "package": "a7b69500-6bba-45e8-a47c-47acf6dbb5c6",
+    "pad_map": {
+        "709ed449-d28a-41ac-923b-e930f11f5ff7": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "da27383d-b98f-42bf-a254-7b6261fbeb4c"
+        },
+        "ed986c73-d42a-4525-b836-4759ef59ae8a": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "39d5d4c8-0f29-4eb4-96dd-b96299c59dc5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "0-25watt",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "efa9041c-692a-4a15-927f-cfb13aa51653",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

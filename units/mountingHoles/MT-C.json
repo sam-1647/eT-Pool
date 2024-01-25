@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "MT-C",
+    "pins": {
+        "a37f711d-9ccf-4727-8d7f-d312b180a37b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c42a1419-3851-4c27-9ff6-f7a1c70cc67f"
+}

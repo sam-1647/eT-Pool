@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Megawin",
+    "name": "MA112AS16-SO",
+    "pins": {
+        "2a6ff9fe-4e10-4092-b3c1-262d31982d67": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "UPD",
+            "swap_group": 0
+        },
+        "682fa368-e4dd-46bc-8b98-ff13331a202a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "76ab42ff-8066-4a43-bd39-bbbc8dea2b6d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V33",
+            "swap_group": 0
+        },
+        "9848849f-e514-4b6a-8376-2e6c13c5bcf8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "cc321488-fdd9-4861-b5c5-dec00637fb52": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DP",
+            "swap_group": 0
+        },
+        "cc899631-9faa-40fe-bdf0-1cc47d1351ed": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "d6e147a2-053a-4541-af20-1fe45eeba387": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "dca4b0ee-1fb0-40b8-81b8-4d8204f7bfcf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DM",
+            "swap_group": 0
+        },
+        "e7536b00-9158-4f85-bfb7-b97e422d1955": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "nUPD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d3e0a06c-86f3-4586-a5a0-141172d221df"
+}

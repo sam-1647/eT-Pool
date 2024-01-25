@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "TBUx",
+    "pins": {
+        "2921ae02-4ea7-48bb-94ab-2d791b122d81": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "c5e90534-62f5-4517-b051-a806f1cb0358": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f0722cad-db17-4000-8c15-e3cbd4a7b0b3"
+}

@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AP7331-15-SOT23-5"
+    ],
+    "base": "bbcfe47c-16f7-4f23-b5f0-19231997daa0",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "300mA LDO VREG, 1.5V OUTPUT"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "orderable_MPNs": {
+        "baa0b4ae-48ac-4434-a894-34c00c5d1e37": "AP7331-15-W-G-7"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3d957551-996f-4341-b811-ed8d025efe74",
+    "value": [
+        true,
+        "AP7331-SOT23-5"
+    ]
+}

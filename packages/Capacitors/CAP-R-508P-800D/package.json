@@ -1,0 +1,318 @@
+{
+    "arcs": {
+        "37ce795f-1e77-41c3-b5d7-8ec0217445c8": {
+            "center": "a1cc2739-dbc7-41ec-bf9f-7ad9fc097151",
+            "from": "d6a6b1ec-c8a0-42e6-ad16-54f774433f46",
+            "layer": 20,
+            "to": "535b653b-7de6-4b63-93e6-2148ee199a4b",
+            "width": 200000
+        },
+        "68353297-c881-4632-9d0b-c4cca39a75d7": {
+            "center": "d0ee4ef9-6f4f-4b6b-94d4-b6b4e7b949bf",
+            "from": "011fab4f-d4a8-4de1-89a2-ce53c78bf5b7",
+            "layer": 50,
+            "to": "e4862ce7-d3d5-45aa-beff-f479ff403aa8",
+            "width": 0
+        },
+        "eea287af-dbab-40b4-8339-71efe60c6a67": {
+            "center": "a1cc2739-dbc7-41ec-bf9f-7ad9fc097151",
+            "from": "535b653b-7de6-4b63-93e6-2148ee199a4b",
+            "layer": 20,
+            "to": "d6a6b1ec-c8a0-42e6-ad16-54f774433f46",
+            "width": 200000
+        },
+        "faf929fa-9a5a-41b6-b6a4-5ee31520ba68": {
+            "center": "d0ee4ef9-6f4f-4b6b-94d4-b6b4e7b949bf",
+            "from": "e4862ce7-d3d5-45aa-beff-f479ff403aa8",
+            "layer": 50,
+            "to": "011fab4f-d4a8-4de1-89a2-ce53c78bf5b7",
+            "width": 0
+        }
+    },
+    "default_model": "13bd83db-64ed-40ea-9a53-7b1ddd53c82e",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "011fab4f-d4a8-4de1-89a2-ce53c78bf5b7": {
+            "position": [
+                -4000000,
+                0
+            ]
+        },
+        "029ff3ff-e1f5-43b2-8afd-92a3b69cc091": {
+            "position": [
+                -2400000,
+                1200000
+            ]
+        },
+        "152d149b-00c9-4cb5-afc3-fb5cec4f67d3": {
+            "position": [
+                -2400000,
+                2400000
+            ]
+        },
+        "16745bce-11aa-4823-bf0e-c8291784037f": {
+            "position": [
+                -1800000,
+                1800000
+            ]
+        },
+        "17cdd6e8-cb2e-442a-bd2a-afa302802b50": {
+            "position": [
+                -3000000,
+                1800000
+            ]
+        },
+        "535b653b-7de6-4b63-93e6-2148ee199a4b": {
+            "position": [
+                4000000,
+                0
+            ]
+        },
+        "a1cc2739-dbc7-41ec-bf9f-7ad9fc097151": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "d0ee4ef9-6f4f-4b6b-94d4-b6b4e7b949bf": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "d6a6b1ec-c8a0-42e6-ad16-54f774433f46": {
+            "position": [
+                -4000000,
+                0
+            ]
+        },
+        "e4862ce7-d3d5-45aa-beff-f479ff403aa8": {
+            "position": [
+                4000000,
+                0
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "1443497e-956a-487b-89bc-45c9267c1be0": {
+            "from": "029ff3ff-e1f5-43b2-8afd-92a3b69cc091",
+            "layer": 20,
+            "to": "152d149b-00c9-4cb5-afc3-fb5cec4f67d3",
+            "width": 200000
+        },
+        "25695884-5ee4-45da-95b4-c6eb69e89d8c": {
+            "from": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "layer": 50,
+            "to": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "width": 0
+        },
+        "71a22a19-e758-48f7-81d4-d6c165e9ba27": {
+            "from": "152d149b-00c9-4cb5-afc3-fb5cec4f67d3",
+            "layer": 50,
+            "to": "029ff3ff-e1f5-43b2-8afd-92a3b69cc091",
+            "width": 0
+        },
+        "878ab6d9-ccb3-4ab1-9325-6abe818747c9": {
+            "from": "17cdd6e8-cb2e-442a-bd2a-afa302802b50",
+            "layer": 50,
+            "to": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "width": 0
+        },
+        "9512ad63-4856-444e-b204-c50b60fbe7d3": {
+            "from": "152d149b-00c9-4cb5-afc3-fb5cec4f67d3",
+            "layer": 20,
+            "to": "152d149b-00c9-4cb5-afc3-fb5cec4f67d3",
+            "width": 200000
+        },
+        "d341a0db-9ce5-496b-b2a7-41112eac2e77": {
+            "from": "17cdd6e8-cb2e-442a-bd2a-afa302802b50",
+            "layer": 20,
+            "to": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "width": 200000
+        },
+        "ef9d0511-3d24-4488-8b04-b11921fbf9be": {
+            "from": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "layer": 20,
+            "to": "16745bce-11aa-4823-bf0e-c8291784037f",
+            "width": 200000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "13bd83db-64ed-40ea-9a53-7b1ddd53c82e": {
+            "filename": "3d_models/Capacitors/ECAP_R_D8_H12_PinD0.6_P5.08_black.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 553295,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "CAP-R-508P-800D",
+    "pads": {
+        "23b328cf-8059-4395-9f1e-f25b409e2806": {
+            "name": "-",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_diameter": 2000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2450000,
+                    0
+                ]
+            }
+        },
+        "d3b069ce-5f81-4f80-99b5-255239ac5a08": {
+            "name": "+",
+            "padstack": "b406985b-8ff2-46ce-aa1a-a440bffa84cb",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_height": 2000000,
+                "pad_width": 2000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2540000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "8.000mm 8.000mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
+    "polygons": {
+        "a0b1ff55-8bc1-4d0d-a65c-7a3104ef72f7": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4250000,
+                        -4250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4250000,
+                        4250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4250000,
+                        4250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4250000,
+                        -4250000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "ecap"
+    ],
+    "texts": {
+        "88262666-60c5-4131-8445-8002fceffe79": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1400000,
+                    4800000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "a214fa7b-e66a-4df5-87de-f99f73d4371c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2200000,
+                    -2600000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "b2676f60-9334-4513-bfc9-7f71cc641be7"
+}

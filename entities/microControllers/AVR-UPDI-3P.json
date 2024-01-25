@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "1fdddaa6-f983-434e-b5b0-113e0cd99648": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5ab24a93-debd-4056-943d-61b25e3f5501"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "AVR-UPDI-3P",
+    "prefix": "UPDI",
+    "tags": [
+        "isp"
+    ],
+    "type": "entity",
+    "uuid": "90890248-534b-45dd-889f-79da0cb9a979"
+}

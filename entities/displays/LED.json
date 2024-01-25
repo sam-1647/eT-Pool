@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "11a72710-3a35-4d48-891c-6ef720ced395": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f80c0eb0-9d49-4dc8-9762-49008e6e55ee"
+        }
+    },
+    "manufacturer": "",
+    "name": "LED",
+    "prefix": "LED",
+    "tags": [
+        "led"
+    ],
+    "type": "entity",
+    "uuid": "c33e09b0-2313-4055-bddc-e1d96de84fd4"
+}

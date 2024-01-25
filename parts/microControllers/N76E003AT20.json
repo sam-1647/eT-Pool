@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "N76E003AT20"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Nuvoton 1T 8051 Microcontroller"
+    ],
+    "entity": "76694c7f-0dbe-4043-a136-6922cba14125",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nuvoton"
+    ],
+    "model": "a17c525a-7d63-41e7-9d8a-a213ef695723",
+    "package": "4b41c067-c008-4388-8dd4-a12e894928fe",
+    "pad_map": {
+        "06b8e364-c80c-41b8-93ec-d79f65cbf1ad": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "016d2188-5197-4f3e-9ab3-132e7895fda0"
+        },
+        "0d3d5918-eb36-42d0-96d5-88b73e120a7a": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "508b4830-f182-4564-9f07-2b9cf3431a96"
+        },
+        "0d98bd3d-dad5-4368-af91-1ebafa53738f": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "c85acf09-0ab9-4dae-8d1e-ce1a019cd417"
+        },
+        "39bd41f1-b7b3-4bad-bc43-c15efd84bad1": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "1f296fa8-bb5f-4b69-a260-e3e43708b708"
+        },
+        "6dc4d6d0-7e55-4e9d-a75f-47682d7093e4": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "ce6b6434-338a-4a72-88d2-6126fd31e41c"
+        },
+        "6ea098e4-950a-4729-913a-ba23a03aa581": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "de810573-9c30-48df-a88a-d4f8c7a00cf3"
+        },
+        "780b4570-6b06-4d4c-8102-7e16bd4e1230": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "a3a9878e-4a68-4d85-ba76-626d9daa83a6"
+        },
+        "7900afb2-1873-4d6c-b682-a72e42b7f02d": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "5e6dbebb-e1a5-4ac1-a9ab-0d4fa07f1fbe"
+        },
+        "872b3805-8bb3-4e8a-a7ea-a1ad8c7b6455": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "26cd3734-52a2-40a4-973f-56aaa6e442b7"
+        },
+        "99f901a7-80b0-464f-94c8-aefb214293bd": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "7ede77a2-ff15-440d-a239-0ae11dd5e455"
+        },
+        "9b73b1ce-8151-41b3-8e2e-620fe3c96333": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "455ee4cf-4c24-41f4-9ef7-e4f5f0930129"
+        },
+        "a21efdb8-7891-4f07-aee9-6528c7b470ec": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "2b9e4082-3c42-4d2a-b88c-729ec1e76aec"
+        },
+        "b204e1d8-85fa-483f-a028-49edacef27e3": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "8c173605-b975-441c-a88e-690cc8822a16"
+        },
+        "beb48329-65fb-4738-a91b-d49f5322677c": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "8eaeb52b-d7c8-45b8-9f2c-510461b119c1"
+        },
+        "d4d9ab6f-cd93-4075-b8f4-18a22eb07a3c": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "d3376d2a-4519-4669-af8e-2352baac3798"
+        },
+        "e5b33a1d-7308-4213-af79-9d983f0a4515": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "ea75054d-b5ac-42af-8986-196f3fb766fb"
+        },
+        "eac014fa-fca2-4c07-9291-2cffb96c368b": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "c8e8a356-8a60-4b67-bbd9-427ff853847b"
+        },
+        "efcd96e2-23ab-4f4d-907d-5b8be53439f1": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "e0e9e103-932d-4a38-b48e-4ca00e39664f"
+        },
+        "f60bbe43-5a25-4482-b5af-f7228e0e3259": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "f4953a41-d9fc-40f7-87c1-9c6c82697f79"
+        },
+        "fe738339-4314-451e-b80c-71637c6f9ac3": {
+            "gate": "bb74cfba-a661-4267-8910-e8008e37efe9",
+            "pin": "05e0bd9d-367e-4833-9aca-bf46cb1ce1b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "8051",
+        "ic",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "ce6e9de3-6053-4a98-9c2f-d4847e3060dc",
+    "value": [
+        false,
+        ""
+    ]
+}

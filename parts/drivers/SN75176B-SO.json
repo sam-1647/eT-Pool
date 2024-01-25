@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "SN75176B-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "+5V RS485 Transceiver"
+    ],
+    "entity": "485e5ad8-db45-49a0-afca-a6158c4f522e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "orderable_MPNs": {
+        "297a2e79-39da-416f-94a3-fa248ef4fa11": "SN75176BPE4",
+        "5a57d73e-2800-4fda-85a2-1b66629f967a": "SN75176BDRG4",
+        "612218f6-f525-4b72-abaa-28f298c48856": "SN75176BPSR",
+        "6b7f7574-db8e-483f-b758-80bb0ed01838": "SN75176BDR",
+        "83169c70-9c2b-4666-9966-e6817d9c6e79": "SN75176BSRG4",
+        "88a88f2f-6534-4a68-b06c-2f4c2824ef53": "SN75176BDRE4"
+    },
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "1ff52e08-1a8e-41c2-850e-a39329e3b051"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "57b9a1cc-f538-422a-a77d-df339b45b484"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "36f86288-35a2-4fa7-ae67-6f5f507f594e"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "347f4ca8-4137-4f75-a759-d08de8a3f7dc"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "a95fb1ff-3d92-49e2-85ac-f87f3ea4d035"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "fd05daa1-3133-4877-b689-af07908536be"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "a9175807-423c-4523-b4a2-f4dd8dd26cc8"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "95f54c14-81eb-4920-acc8-aeee5f880892"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5d4389e0-32d2-4c03-89bb-8ef35b2c9347",
+    "value": [
+        false,
+        ""
+    ]
+}

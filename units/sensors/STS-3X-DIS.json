@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Senserion",
+    "name": "STS-3X-DIS",
+    "pins": {
+        "05a127e2-7035-49a9-a930-586103814291": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "26643046-40c3-4293-8aa3-92f297678a41": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "26ef32c6-796f-404c-8b7b-a682d33e285c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR",
+            "swap_group": 0
+        },
+        "504d408e-5a5d-4288-8b84-15ebc4e702ae": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "9ed0799a-8246-420d-93d6-fa8326c9440b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~NRST~",
+            "swap_group": 0
+        },
+        "d43ebb63-24f0-4fb4-99a4-6e1af95ba769": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "R(VSS)",
+            "swap_group": 0
+        },
+        "d7fd3025-0135-4e3c-98ea-c0d2b4be2c4f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "ff3e81f0-2f37-4706-909e-bfa5b16c9cd6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "38d71b7c-a10e-4484-a867-bd740bb33854"
+}

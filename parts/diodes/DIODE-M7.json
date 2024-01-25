@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DIODE-M7"
+    ],
+    "base": "b49aa1e4-16ac-4aeb-a022-89cf79f632e0",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "1000V,1A, General Purpose Diode"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "1779d551-a682-428e-a119-9659f0bc3aea",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9912b3c7-5efd-459e-b573-99edc0df57ed",
+    "value": [
+        false,
+        "M7"
+    ]
+}

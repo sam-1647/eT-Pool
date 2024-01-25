@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-0805-X7R-10nF"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "10nF, X7R 0805 Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "1e-08",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d6ea6d78-e1df-4960-b64c-08d7f35add62",
+    "value": [
+        false,
+        "10nF"
+    ]
+}

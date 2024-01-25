@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "3242798f-e47c-4710-8603-5739d6daa619": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "38d71b7c-a10e-4484-a867-bd740bb33854"
+        }
+    },
+    "manufacturer": "Senserion",
+    "name": "STS-3X-DIS",
+    "prefix": "U",
+    "tags": [
+        "humidity",
+        "sensor",
+        "temp"
+    ],
+    "type": "entity",
+    "uuid": "defce1e0-bfc4-4684-b526-3d0341ffc8aa"
+}

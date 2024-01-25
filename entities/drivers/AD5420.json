@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bc905ea4-2a90-4570-b0a7-1fbe0b71455b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "835587fe-32eb-4c8a-baea-f75af7c7fe80"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "AD5420",
+    "prefix": "U",
+    "tags": [
+        "4-20ma-driver",
+        "hart"
+    ],
+    "type": "entity",
+    "uuid": "422e0b29-2ed1-4cc1-9699-057645d9ab82"
+}

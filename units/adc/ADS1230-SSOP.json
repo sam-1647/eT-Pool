@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "ADS1230-SSOP",
+    "pins": {
+        "05d769b7-70b6-4a47-b218-3cfa0b23c37b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "D-GND",
+            "swap_group": 0
+        },
+        "3b236512-94a9-4a6a-9796-a324f636cf95": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-GND",
+            "swap_group": 0
+        },
+        "62039a4e-a166-4199-bfb3-30f062dc06f0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLKIN",
+            "swap_group": 0
+        },
+        "62699288-839d-4003-b814-19b058d7969e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GAIN/TEMP",
+            "swap_group": 0
+        },
+        "68cbeda9-7d09-432d-80aa-6db49de12ef7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "6bd03b6c-1941-40be-aeb0-f71187054cff": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1",
+            "swap_group": 0
+        },
+        "778c4e74-e505-46fb-85f2-a8c82dc1907f": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "~DRDY~/DOUT",
+            "swap_group": 0
+        },
+        "953783d0-95bd-4afe-8ba4-42e1371d70e9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF+",
+            "swap_group": 0
+        },
+        "9b268b16-fcc4-4c3b-b66f-e9c4302536ce": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "A-VDD",
+            "swap_group": 0
+        },
+        "a9a58046-5fa6-4bac-8451-c116cb6045f7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN+",
+            "swap_group": 0
+        },
+        "ba2316ec-f827-4c5c-b622-96bc2bcc842e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~PDWN~",
+            "swap_group": 0
+        },
+        "c67b9822-8d4f-4b22-b627-e42f72df857f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIN-",
+            "swap_group": 0
+        },
+        "d7cba508-0a36-4da4-bd7e-005da535ef64": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "D-VDD",
+            "swap_group": 0
+        },
+        "db634f23-9fb3-4b89-b81c-11c1f0c02e48": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2",
+            "swap_group": 0
+        },
+        "e10b0979-e65f-4bf5-a3df-f9b5c3b56dad": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPEED",
+            "swap_group": 0
+        },
+        "f9275eb4-0bcf-4ee8-96d4-2860ab31883d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4d0ec644-7693-4553-8e17-5406334a7c64"
+}

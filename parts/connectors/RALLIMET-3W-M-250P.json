@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-3W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3Way Male Connector, P=2.5mm"
+    ],
+    "entity": "f3923a4f-8657-47b0-a85d-5fbfb073dc72",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "3a04177a-afd1-47e6-aa7f-b2a242197922",
+    "package": "4741ddce-cfb3-4f43-a9cf-2d92c2ec8f1e",
+    "pad_map": {
+        "13f11ae6-5107-4ea4-8edc-7109d1d47c10": {
+            "gate": "3b3429db-1049-475f-b6df-5b9a47009c3f",
+            "pin": "96a91a5d-7491-40e4-b96f-8b2d67332d84"
+        },
+        "5412dbf8-7189-4918-833e-d0beb27cc7da": {
+            "gate": "3b3429db-1049-475f-b6df-5b9a47009c3f",
+            "pin": "c047928d-1f57-461e-8de5-8c9f7f9d3e56"
+        },
+        "b4450258-a542-45e2-9ee8-6a5108457e36": {
+            "gate": "3b3429db-1049-475f-b6df-5b9a47009c3f",
+            "pin": "a179c298-5695-47c4-92cb-bb8249797847"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "19b81d24-82b5-4136-963d-b157efdffc99",
+    "value": [
+        false,
+        ""
+    ]
+}

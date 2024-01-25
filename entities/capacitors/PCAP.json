@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3ed8628d-31e0-41a3-837f-f2cc37548334": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d0b03e84-0d13-4e47-949e-0e43fb1d71f5"
+        }
+    },
+    "manufacturer": "",
+    "name": "PCAP",
+    "prefix": "C",
+    "tags": [
+        "cap",
+        "polar"
+    ],
+    "type": "entity",
+    "uuid": "91995397-4ece-4611-b1d4-6f92e0d3539e"
+}

@@ -1,0 +1,29 @@
+{
+    "holes": {
+        "6087707c-d700-48f5-a00a-d3663e2c2805": {
+            "diameter": 1000000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "PTH-HOLE-100",
+    "padstack_type": "mechanical",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "610931c8-8325-493c-93da-be5aab40019f",
+    "well_known_name": ""
+}

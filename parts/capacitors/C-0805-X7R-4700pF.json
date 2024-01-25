@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-0805-X7R-4700pF"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "4700pF(4.7nF), X7R, 0805"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "4.7e-09",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "2d2a681a-0cba-42bf-ae5f-4c03c66b079d",
+    "value": [
+        false,
+        "4700pF"
+    ]
+}

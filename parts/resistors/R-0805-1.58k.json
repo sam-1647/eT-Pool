@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-1.58k"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "1.58k, 0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1580"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8264b7dc-9395-4ffe-8dee-86abc9691727",
+    "value": [
+        false,
+        "1.58 kΩ"
+    ]
+}

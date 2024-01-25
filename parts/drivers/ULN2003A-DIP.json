@@ -1,0 +1,108 @@
+{
+    "MPN": [
+        false,
+        "ULN2003A-DIP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "500mA.OC Darlington Transistor Array x 6"
+    ],
+    "entity": "f7c51375-9856-4ed2-af8b-3c9ec1dee1a0",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "f8087501-824b-44ee-b0fd-da40cf5d94a6",
+    "orderable_MPNs": {
+        "4a9bf7ad-7fe5-4f56-9b00-c22fadad68cd": "ULN2003AIN",
+        "a1aa84fc-b0fb-41f0-aed6-697ecec8f82d": "ULN2003ANE4",
+        "abd48e4c-6989-4579-8384-3ed497fbb3f3": "ULN2003AN",
+        "afc2f049-2d24-42d2-8bdc-b5ce958c4c55": "ULN2003AIN4"
+    },
+    "package": "6551f7c5-28c7-40b2-8656-ef59a5fd9d20",
+    "pad_map": {
+        "082c6e91-eb77-4874-852c-e06d62178792": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "4ea2e2a0-dbdf-46a1-909f-3adb65f2f12e"
+        },
+        "1aed244a-74f9-419b-a8d0-b63c4b87e73d": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "79f93644-0ee9-4989-9b21-91939114ae04"
+        },
+        "1e34314c-2298-409b-a036-0d865a46817a": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "43ef0a00-21a2-45bf-80db-13a433d74171"
+        },
+        "22a97a26-72bb-4ab0-a41e-ec3abc5f92f9": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "28b71507-2f74-4d52-8193-c74a72705afe"
+        },
+        "312e4c29-e78c-4e47-afbf-1b2e1d77b14f": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "fe838383-382c-4115-91de-3865c702c7bf"
+        },
+        "47751886-155b-4b0c-aca2-4d58ef7c607c": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "5bda6171-e996-4f56-b161-57e036867ffe"
+        },
+        "647733a9-dab4-44eb-adef-31b1891ea689": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "8174a652-1f1a-4b67-a703-f78bc502e705"
+        },
+        "74712a28-3c11-48cd-a7c6-0584d323d2fe": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "ec90461d-821c-4d4b-83f7-fa6a7dddd8ee"
+        },
+        "7ba0fe14-6895-4e30-8c7b-3a4327400640": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "3fe00df7-6a45-4cbf-9dd5-4aed762f6c55"
+        },
+        "7d3fa647-c654-42dc-a88b-8505ef6a1ea6": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "b9c43c70-39e8-41ea-bbdb-3e590f1cd781"
+        },
+        "8145ce87-a3bf-4af2-8083-7863be9ccaac": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "10f3087f-f595-4213-ac45-7207a3f2a3a2"
+        },
+        "816fd414-a6b6-4f10-9885-755d3f608f37": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "89778395-347e-432f-b449-c36749676360"
+        },
+        "850117fa-e9b6-4ca6-91b9-47853e6a2e79": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "69848995-f03f-43bc-80ec-41f68844e027"
+        },
+        "af59442f-e368-4097-a821-05b13cd68569": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "8cbc147c-631d-4d58-a156-8a7ee061c37d"
+        },
+        "d5650941-f1d7-4f35-8ebd-ddb18c421339": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "3ffd928e-2b06-499f-aaa7-53312ab2846b"
+        },
+        "e244418d-3646-484c-8b7a-b34daa20326a": {
+            "gate": "a2819a58-a741-46e5-ac4f-381a301bf452",
+            "pin": "2686419e-1ec2-4e29-b5a8-cfbe575626ce"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "driver",
+        "ic",
+        "oc"
+    ],
+    "type": "part",
+    "uuid": "23da735c-eee4-458d-9c72-7633b2fed961",
+    "value": [
+        false,
+        ""
+    ]
+}

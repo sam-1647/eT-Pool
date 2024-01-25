@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "SUPP",
+    "pins": {
+        "45a018ac-9768-4bbd-8d3d-f18d62b3ec36": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        },
+        "e2d598ef-1af3-41f8-90d3-fea24aa64a96": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+}

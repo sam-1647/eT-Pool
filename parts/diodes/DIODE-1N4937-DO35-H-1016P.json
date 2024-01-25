@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "DIODE-1N4937-DO35-H-1016P"
+    ],
+    "base": "261e18c8-b9b0-4a54-99e4-54e4fbfe35d8",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "1N4937, DO35 Diode, Horizontal, 10.16mm Pitch"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "0832149b-1635-44f2-bd57-baff50d6b6d7",
+    "orderable_MPNs": {
+        "12a01d7f-1fdb-47af-bc86-41fe26499880": "1N4937"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b41b85e7-8d0c-482b-9d15-0ba6c3edcec2",
+    "value": [
+        false,
+        "1N4937"
+    ]
+}

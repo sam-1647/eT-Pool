@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CONN-1-SUPP-100x280"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1 Pin Conn, PadHole=1mm, Support Hole=2.8mm"
+    ],
+    "entity": "eed7f606-8d4c-476c-8a8e-f6f8182fc2cb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "6664d691-b16b-4d84-aa82-d075182e0475",
+    "pad_map": {
+        "04178122-9f4f-4cfd-8323-1b41bedb0d5b": {
+            "gate": "012258b1-f5bc-474f-81fa-f5ebde08fe0e",
+            "pin": "69fc501e-fe06-460d-95c4-28cf27865062"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn"
+    ],
+    "type": "part",
+    "uuid": "bbfcfe97-66b8-4fca-add6-37f7576673e4",
+    "value": [
+        false,
+        ""
+    ]
+}

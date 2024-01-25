@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "LM1117-MP-33-TO252"
+    ],
+    "base": "51fb3bd5-ce44-4901-af99-d9a765b6cc2e",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "+3V3 Linear Regulator, TO252-2"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "332cb2fc-4014-4703-bb43-265056bdb2c1",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a00f7110-0786-4b2a-9b65-4d23baa99de8",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "eT-WM-MODULE-HX711"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "24-BIT Custom LoadCell Interface Module HX711"
+    ],
+    "entity": "843897fe-eb68-45d4-8ee9-2cf36c5268ac",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "fc549669-d969-4b21-8a61-0b07b9bb06cb",
+    "package": "f68582a0-cad1-483a-bd74-798a324f8eb3",
+    "pad_map": {
+        "0f1f8b97-1227-4f8e-b5f6-e2a17841b5f6": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "861bcb1e-6d24-42ed-b8c3-15beda2fdd76"
+        },
+        "164150c1-3ab6-4bff-b1ea-683b0553406e": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "8f05c85d-4c0d-417b-a0c2-6c76c6ce55a7"
+        },
+        "2b11f225-8ee3-40b4-9ef7-2423a6f60505": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "4d3fa26b-3184-4c9b-9612-033614b5d167"
+        },
+        "424c29e2-d5e0-4cca-b642-bdb5e413d3cd": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "383a23c1-d432-4f3b-9a92-6e56d093e58b"
+        },
+        "5cb5e8c6-7547-4989-a75b-dbff8393badb": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "22f766cf-c11a-4f57-8df7-b8f25e9ad306"
+        },
+        "845aab92-1175-4dca-99d8-3f707ba0fab5": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "0ab29eb3-a070-40ec-8787-949862667fad"
+        },
+        "89088c07-61ca-40ee-adf1-4ab532ed75ea": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "5c8d63d4-55e2-4f32-b49e-c9a3697fe737"
+        },
+        "9a95e1a8-d916-4e37-8bb3-b1c31f3ff31f": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "175ab968-670c-4d7a-ae50-f030ba7064e6"
+        },
+        "b3b3b94c-c695-4e97-bd0d-18ba0638e566": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "383a23c1-d432-4f3b-9a92-6e56d093e58b"
+        },
+        "f2c17df7-5965-4764-a581-bed4873ac512": {
+            "gate": "c0b98066-6bbf-486d-ad54-87bdd99e8f36",
+            "pin": "8c680c68-b73f-4e15-82be-b14fbd89dfc8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "loadcell",
+        "module"
+    ],
+    "type": "part",
+    "uuid": "9701be37-88f3-4adc-8866-f68971e6f975",
+    "value": [
+        false,
+        ""
+    ]
+}

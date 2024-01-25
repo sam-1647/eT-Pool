@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "C1206-Tantalum-160H-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1206/3216 Tantalum Cap, H=1.6mm"
+    ],
+    "entity": "91995397-4ece-4611-b1d4-6f92e0d3539e",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "e3e7313e-dd4f-4415-8f42-096c4b917f2d",
+    "package": "ddf77a47-1cbf-4aeb-a9a9-8fb08d1841c6",
+    "pad_map": {
+        "99f880b6-f49e-479c-8110-c40b09ac6834": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "f3c861c6-c124-4895-8abe-92428e891793": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1206",
+        "capacitor",
+        "tantalum"
+    ],
+    "type": "part",
+    "uuid": "b5fd7779-a76a-4919-83f5-b41c4b52b842",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,74 @@
+{
+    "MPN": [
+        false,
+        "STS30-DIS"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Sensrion T/H Sensor"
+    ],
+    "entity": "defce1e0-bfc4-4684-b526-3d0341ffc8aa",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Senserion"
+    ],
+    "model": "68e013de-0ef7-417a-b545-bb888aea4fe2",
+    "package": "18cb62e2-65c0-4b9e-8cf5-3d6a1236de3a",
+    "pad_map": {
+        "58d2c139-10e9-48e0-9749-cf07ae8d129d": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "26643046-40c3-4293-8aa3-92f297678a41"
+        },
+        "8b23c702-63f6-4adb-bb37-f524b0e2d9cc": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "26643046-40c3-4293-8aa3-92f297678a41"
+        },
+        "8b35b3fd-81a8-4128-8ed4-04b50eaa538c": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "05a127e2-7035-49a9-a930-586103814291"
+        },
+        "98327844-5d10-4f91-9232-dcba29f79e20": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "ff3e81f0-2f37-4706-909e-bfa5b16c9cd6"
+        },
+        "b104663c-217c-4ad5-8091-0500df49541b": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "26ef32c6-796f-404c-8b7b-a682d33e285c"
+        },
+        "b4954b3b-df22-44af-ba0c-3ff178b7ab66": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "9ed0799a-8246-420d-93d6-fa8326c9440b"
+        },
+        "ef887f5a-0daa-43e1-916e-c62133b5c7fa": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "504d408e-5a5d-4288-8b84-15ebc4e702ae"
+        },
+        "f2bf11b7-4b54-4322-8623-9593bfdbfbfb": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "d7fd3025-0135-4e3c-98ea-c0d2b4be2c4f"
+        },
+        "f8d93243-47df-4920-ab5c-21b3e7e2f3b3": {
+            "gate": "3242798f-e47c-4710-8603-5739d6daa619",
+            "pin": "d43ebb63-24f0-4fb4-99a4-6e1af95ba769"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "humidity",
+        "ic",
+        "sensor",
+        "temp"
+    ],
+    "type": "part",
+    "uuid": "efd105d7-16af-4496-a3a6-364d047c13ff",
+    "value": [
+        false,
+        ""
+    ]
+}

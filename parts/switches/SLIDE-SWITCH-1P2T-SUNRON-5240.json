@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "SLIDE-SWITCH-1P2T-SUNROM-5240"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Mini Slide Switch, 1P2T, 0.3A"
+    ],
+    "entity": "ba1b6fda-5b94-4af3-ac8f-d5fe41038300",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "93b2afef-d45f-418b-81f6-6be93610985e",
+    "pad_map": {
+        "1b09a896-6c3c-4569-accf-58c9d1901ead": {
+            "gate": "f8320be9-3262-44a5-aa49-856672652162",
+            "pin": "ada18778-4cdf-4639-a868-7c982a46736f"
+        },
+        "6d0cb16b-7306-456d-948a-3282a8ab6021": {
+            "gate": "f8320be9-3262-44a5-aa49-856672652162",
+            "pin": "c2e1fc6c-ea76-49ea-b586-eda0ebd73b57"
+        },
+        "a4f8eed9-9df4-4b6b-814b-f7d94950f3fe": {
+            "gate": "f8320be9-3262-44a5-aa49-856672652162",
+            "pin": "75db76af-a799-4815-8739-263c53ab2be1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "slide",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "76b6c504-01a4-4357-b6d3-7efc77a4b0bd",
+    "value": [
+        false,
+        ""
+    ]
+}

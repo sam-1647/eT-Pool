@@ -1,0 +1,29 @@
+{
+    "holes": {
+        "4dbb6987-95a8-4c0b-b11d-857489ed6c05": {
+            "diameter": 3200000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "PTH-HOLE-320",
+    "padstack_type": "through",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "33abcd1e-ca77-4957-aaf9-97907aba0e35",
+    "well_known_name": ""
+}

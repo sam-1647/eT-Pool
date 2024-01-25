@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "R-0805-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "0805, 1/8W Resistor"
+    ],
+    "entity": "d8f2c278-6e93-4fe9-9bd0-ff5d83a19a3b",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "package": "100f3ccd-278e-469e-b99c-3608bbe31fd8",
+    "pad_map": {
+        "44882b02-5545-4ba6-8888-cd9d501f0764": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "39d5d4c8-0f29-4eb4-96dd-b96299c59dc5"
+        },
+        "bdf604aa-1429-436f-9fc7-ee80efb2304f": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "da27383d-b98f-42bf-a254-7b6261fbeb4c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "0805",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "BJT-NPN-2N5294"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "BJT, npn, 80V, 4A"
+    ],
+    "entity": "bb7613f9-5dc4-4cac-8500-63835bfda9e2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CDIL"
+    ],
+    "model": "23862377-3fe3-4566-8f3f-d7dc61a03e65",
+    "orderable_MPNs": {
+        "b1005b3a-ebb5-44db-b11e-00dbc501238d": "2N5294"
+    },
+    "package": "1163a459-666b-4311-aaf0-9ef1fba3691c",
+    "pad_map": {
+        "321fd116-c77c-4b79-99a3-2474bcf8c17b": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "249d5f2d-c07d-4122-b07a-ed5adecb2712"
+        },
+        "85f8add3-363b-46f2-ac30-189e8277444f": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "4dc9dfec-2292-4b69-9166-4d55a24a0343"
+        },
+        "b4b1efbf-d79c-4ec5-8d53-9fce4b3e52fe": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "7b568d8f-59a5-42ed-827f-6401b2770a83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn"
+    ],
+    "type": "part",
+    "uuid": "d1a23497-6ca0-409e-aac8-1075014cf5ee",
+    "value": [
+        false,
+        "2N5294"
+    ]
+}

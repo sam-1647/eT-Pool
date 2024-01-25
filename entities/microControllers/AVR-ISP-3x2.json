@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "a7858f46-5a46-4047-a937-2f36a253b6b7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3b63b23b-a511-4b8b-9760-5af23b6e23b2"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "AVR-ISP-3x2",
+    "prefix": "ISP",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "edf59d0e-646b-40b3-9e3a-ba2e649951ec"
+}

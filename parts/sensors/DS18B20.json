@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "DS18B20"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1-Wire Digit Temp Sensor"
+    ],
+    "entity": "0809a3a6-acc5-45f8-9830-d26dc446d045",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "e673a69f-1018-43de-a464-f7b10592be8a",
+    "package": "adc0e155-26d1-4e9f-9b03-22a042e533a5",
+    "pad_map": {
+        "2ac88273-1510-486e-aea4-c587dbde6255": {
+            "gate": "f6c59d5d-0f44-437a-ad45-279c30d9b6b8",
+            "pin": "6363f650-e36c-40fe-b52a-4259d39dfb74"
+        },
+        "949fd58b-5e2a-4e5f-8d95-0fbd9909d276": {
+            "gate": "f6c59d5d-0f44-437a-ad45-279c30d9b6b8",
+            "pin": "a6150912-00bb-4109-857b-7c79861b2309"
+        },
+        "af1e091a-72c4-47ae-a36f-910fb0d1521e": {
+            "gate": "f6c59d5d-0f44-437a-ad45-279c30d9b6b8",
+            "pin": "4764ba56-31c1-42c2-8742-a4faf19dcfc1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "onewire",
+        "temp"
+    ],
+    "type": "part",
+    "uuid": "d41c4d7b-9bee-4cbc-9d4b-978dd69c5934",
+    "value": [
+        false,
+        ""
+    ]
+}

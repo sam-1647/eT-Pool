@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "af6a8027-7ecd-4b07-ad1f-c0fcd4859f99": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b564c45b-0667-463e-a572-6fb9a257ac5a"
+        }
+    },
+    "manufacturer": "Megawin",
+    "name": "MG82F6D64AD64",
+    "prefix": "U",
+    "tags": [
+        "8051",
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "c8a2bd49-611d-4cd2-9269-d0d459c093c5"
+}

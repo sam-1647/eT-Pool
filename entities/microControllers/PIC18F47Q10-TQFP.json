@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2cc4fc5f-44bf-40b5-ac9e-0d9fa2fdf060": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "faf596bb-ed52-4207-b7ca-0e451969d394"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PIC18F47Q10-TQFP",
+    "prefix": "U",
+    "tags": [
+        "pic18",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "c1ad1042-aa61-412a-8541-c2c7eae424ab"
+}

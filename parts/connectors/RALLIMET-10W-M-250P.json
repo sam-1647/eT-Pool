@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-10W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10Way Male Connector,P=2.5mm"
+    ],
+    "entity": "c8b01576-9a06-49b2-a6a1-100b03eafa35",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "665b7c44-9ea3-44f0-9031-fb39a946bba2",
+    "package": "3b1645a7-f102-4153-b97f-4efef936d62a",
+    "pad_map": {
+        "1c71da1b-7da8-4033-a7d2-9ac0d019cbaa": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "337e4d60-cce4-4d45-b6ec-d68133a76853": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        },
+        "4fa5ce50-c7e8-4e4b-95a0-43a4fb2264e6": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        },
+        "96399b4a-a491-44b8-a632-e26a7badd35f": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        },
+        "9fffdadd-6a7f-4157-b258-d72a4c248528": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "ad52ab30-3a52-43d9-baca-cda4a81c831a": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "d5599a62-493d-44e5-b5dd-bdc1888dbf4b"
+        },
+        "cfde5c52-f9a6-4b09-8633-d54fb52a002d": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "dd9ae7f3-c5a9-4dab-a2e0-4f2956d10c89": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "f54c4cb1-57e0-4e9c-a632-7149626a4514": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "f7571ab6-70c9-4a98-b036-f70fcb0dc462": {
+            "gate": "31bece60-9053-49fa-926b-91622de05505",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "9df9efe8-8602-43cd-8230-0f6823042b0f",
+    "value": [
+        false,
+        ""
+    ]
+}

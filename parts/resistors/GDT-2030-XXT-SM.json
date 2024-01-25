@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "GDT-2030-XXT-SM"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Fast Acting 3-Electrode Miniature Gas Discharge Tube"
+    ],
+    "entity": "a79eda21-8719-4bb8-8215-710000a2a2d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "f0913332-441a-4317-ba2d-d49b2e7f0063",
+    "orderable_MPNs": {
+        "e7978e93-8377-4cac-8a9c-df8b771ece2b": "GDT-2030-23T-SM",
+        "f8ae9d66-62c6-4709-99fb-0bffdd87f809": "GDT-2030-42T-SM"
+    },
+    "package": "a5c06371-77ef-43e3-95e2-c6d9de001be8",
+    "pad_map": {
+        "6483a29c-d8ef-4f14-abec-0bb0cf6753e6": {
+            "gate": "b9f0b5f4-6866-48f3-a718-addeb62c89d8",
+            "pin": "8f56d3c5-b342-446a-964d-7081e117e13c"
+        },
+        "6762cdf4-9117-41b6-b16d-61a77cf789cc": {
+            "gate": "b9f0b5f4-6866-48f3-a718-addeb62c89d8",
+            "pin": "38f84c02-dda7-4203-9323-df7abf21a316"
+        },
+        "8b26a6de-ffaa-438c-9297-9575045bb1d9": {
+            "gate": "b9f0b5f4-6866-48f3-a718-addeb62c89d8",
+            "pin": "84ec56b6-3b5a-4d75-bb81-895ecae9dfb0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gdt",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "7d959fd7-2adc-458e-8dfe-6ca2c6f871e1",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "PCAP",
+    "pins": {
+        "545640a2-621c-4098-8491-ae156e944ddf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        },
+        "a6e73080-880a-4281-be26-651fd25df4df": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d0b03e84-0d13-4e47-949e-0e43fb1d71f5"
+}

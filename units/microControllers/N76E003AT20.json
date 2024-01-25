@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Nuvoton",
+    "name": "N76E003AT20",
+    "pins": {
+        "016d2188-5197-4f3e-9ab3-132e7895fda0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.2/ICPCK/OCDCK/RXD_1/[SCL]",
+            "swap_group": 0
+        },
+        "05e0bd9d-367e-4833-9aca-bf46cb1ce1b4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM4/IC4/MISO/P0.1",
+            "swap_group": 0
+        },
+        "1f296fa8-bb5f-4b69-a260-e3e43708b708": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM0/IC0/P1.2",
+            "swap_group": 0
+        },
+        "26cd3734-52a2-40a4-973f-56aaa6e442b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA/FB/PWM1/P1.4",
+            "swap_group": 0
+        },
+        "2b9e4082-3c42-4d2a-b88c-729ec1e76aec": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TXD/AIN3/P0.6",
+            "swap_group": 0
+        },
+        "455ee4cf-4c24-41f4-9ef7-e4f5f0930129": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~RST~/P2.0",
+            "swap_group": 0
+        },
+        "508b4830-f182-4564-9f07-2b9cf3431a96": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RXD/AIN2/P0.7",
+            "swap_group": 0
+        },
+        "5e6dbebb-e1a5-4ac1-a9ab-0d4fa07f1fbe": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM5/IC5/AIN6/P0.3",
+            "swap_group": 0
+        },
+        "7ede77a2-ff15-440d-a239-0ae11dd5e455": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN5/STDAC/PWM3/IC3/P0.4",
+            "swap_group": 0
+        },
+        "8c173605-b975-441c-a88e-690cc8822a16": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.6/ICPDA/OCDDA/TXD_1/[SDA]",
+            "swap_group": 0
+        },
+        "8eaeb52b-d7c8-45b8-9f2c-510461b119c1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL/[STDAC]/P1.3",
+            "swap_group": 0
+        },
+        "a3a9878e-4a68-4d85-ba76-626d9daa83a6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "c85acf09-0ab9-4dae-8d1e-ce1a019cd417": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM2/IC6/T0/AIN4/P0.5",
+            "swap_group": 0
+        },
+        "c8e8a356-8a60-4b67-bbd9-427ff853847b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ce6b6434-338a-4a72-88d2-6126fd31e41c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~INT0~/OSCIN/AIN1/P3.0",
+            "swap_group": 0
+        },
+        "d3376d2a-4519-4669-af8e-2352baac3798": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM2/IC2/SPCLK/P1.0",
+            "swap_group": 0
+        },
+        "de810573-9c30-48df-a88a-d4f8c7a00cf3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM5/IC7/~SS~/P1.5",
+            "swap_group": 0
+        },
+        "e0e9e103-932d-4a38-b48e-4ca00e39664f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM1/IC1/AIN7/CLO/P1.1",
+            "swap_group": 0
+        },
+        "ea75054d-b5ac-42af-8986-196f3fb766fb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PWM3/IC3/MOSI/T1/P0.0",
+            "swap_group": 0
+        },
+        "f4953a41-d9fc-40f7-87c1-9c6c82697f79": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~INT1~/AIN0/P1.7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "16c8931d-bc98-4f7f-8d7f-2169e5cab4ec"
+}

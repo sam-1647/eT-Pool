@@ -1,0 +1,99 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "14fb852e-d9b7-44af-b7d8-a2fd89989906": {
+            "position": [
+                2500000,
+                2500000
+            ]
+        },
+        "c6897d8a-3ae3-4526-9d96-b0b23776c230": {
+            "position": [
+                2500000,
+                -2500000
+            ]
+        },
+        "d400e3f2-4739-4da4-a407-89aa13009d7d": {
+            "position": [
+                -2500000,
+                2500000
+            ]
+        },
+        "de4014e8-121f-4b8b-8c37-308223e10471": {
+            "position": [
+                -2500000,
+                -2500000
+            ]
+        }
+    },
+    "lines": {
+        "226050ad-848d-45b7-a0b4-7599f5063129": {
+            "from": "14fb852e-d9b7-44af-b7d8-a2fd89989906",
+            "layer": 0,
+            "to": "c6897d8a-3ae3-4526-9d96-b0b23776c230",
+            "width": 200000
+        },
+        "3843d27f-0bdb-4503-b723-f56ca53bbec8": {
+            "from": "d400e3f2-4739-4da4-a407-89aa13009d7d",
+            "layer": 0,
+            "to": "14fb852e-d9b7-44af-b7d8-a2fd89989906",
+            "width": 200000
+        },
+        "9ca59781-1b76-42ee-80f7-5f906de912f3": {
+            "from": "c6897d8a-3ae3-4526-9d96-b0b23776c230",
+            "layer": 0,
+            "to": "de4014e8-121f-4b8b-8c37-308223e10471",
+            "width": 200000
+        },
+        "a87d70e5-60dc-4f27-900e-0bb4fa363e3b": {
+            "from": "de4014e8-121f-4b8b-8c37-308223e10471",
+            "layer": 0,
+            "to": "d400e3f2-4739-4da4-a407-89aa13009d7d",
+            "width": 200000
+        }
+    },
+    "name": "HS-NC",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "39f7732a-6bb6-4106-a472-db21410b6ee6": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "40b8c2e2-1c3f-42a9-b454-fe60c6b66e6d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    -3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "9f83be4e-f8cd-48ba-8fb3-34e3a1dd935c",
+    "uuid": "ec2c92e8-659a-463a-bda8-6a25947b669c"
+}

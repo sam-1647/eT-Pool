@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c0b98066-6bbf-486d-ad54-87bdd99e8f36": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "52483345-92ba-4709-a72d-371ce195cca2"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-WM-MODULE-HX711",
+    "prefix": "MOD",
+    "tags": [
+        "loadcell",
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "843897fe-eb68-45d4-8ee9-2cf36c5268ac"
+}

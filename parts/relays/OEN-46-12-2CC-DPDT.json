@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "OEN-46-12-2CC-DPDT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "+12V DPDT RELAY"
+    ],
+    "entity": "d76ef80d-5e60-46e0-9db9-4525204837ff",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "OEN"
+    ],
+    "model": "0fd99a9c-207b-4c35-95f5-70f3dd67f4ac",
+    "orderable_MPNs": {
+        "17850eab-1d75-4cb3-b828-f32502eb83e5": "OEN-46-12-2CC-DPDT"
+    },
+    "package": "4a28725b-61c4-48bb-bd47-7dc3a488add9",
+    "pad_map": {
+        "01b8e189-dc30-4234-a548-cc49ae48e8a2": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "a7e2dce4-2244-4e22-9f56-f268beeeb0cc"
+        },
+        "0f34818d-544a-4f82-a25d-2e1c688386cf": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8"
+        },
+        "3ef0402b-a412-45b0-be67-c646fb9fbfca": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "81f972b9-cd36-4c3e-a2ad-1c4a15190e85"
+        },
+        "4663de5e-4b42-40e2-b92e-966297da27ca": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "38ec4e0e-28fa-4f24-a6cc-fa091c67e755"
+        },
+        "6a102399-f319-4dfc-92a3-4e1efaf743b0": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "7dc78893-c580-44fd-b85c-1c693c34ba37"
+        },
+        "de2198be-dda2-4bf0-8b2a-0b978bf05020": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "bc518a9e-2ead-45cf-afc9-1fb00a95cd86"
+        },
+        "ea4a1c28-d8d9-4ad8-b58c-5bb4f9990178": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "052edf91-ecb6-4034-95c3-87620b06fb6a"
+        },
+        "f6963971-1486-42a3-b3c8-8d40079c2243": {
+            "gate": "7d9979a8-823c-4ab8-b3a1-fd07d9c63769",
+            "pin": "59e01f7d-c83c-4559-968b-7a5271d6edbb"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dpdt",
+        "relay"
+    ],
+    "type": "part",
+    "uuid": "e6524a2a-270f-495f-a56f-88803e617734",
+    "value": [
+        false,
+        ""
+    ]
+}

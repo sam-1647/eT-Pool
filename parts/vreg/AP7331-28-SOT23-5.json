@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AP7331-28-SOT23-5"
+    ],
+    "base": "bbcfe47c-16f7-4f23-b5f0-19231997daa0",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "300mA LDO VREG, 2.8V OUTPUT"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "orderable_MPNs": {
+        "13845f61-4f0a-42ce-b8fc-ceab7b33c19f": "AP7331-28-W-G-7"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f1e0f3c4-edf1-4e99-8674-c2d4cb1f5b8e",
+    "value": [
+        true,
+        "AP7331-SOT23-5"
+    ]
+}

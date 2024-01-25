@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "AT24C16C-P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "16-KBIT I2C EEPROM"
+    ],
+    "entity": "8d187195-fa7f-4f54-8add-626f94b82d0c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "7fb617ac-a584-49b3-90be-8c60f76b67c5",
+    "package": "185954d6-63b3-4280-af72-a9fd57f467da",
+    "pad_map": {
+        "2e2ff7f8-89b2-47f6-a4f8-27de20212222": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "3307e80f-841b-4d17-87d8-c84d19b3ba9d"
+        },
+        "5942631c-a75e-4408-8f8e-9960dc8018fa": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "27a0bd9e-131a-4979-85ad-302604775577"
+        },
+        "714112bb-08c0-4246-8c86-ff9b93ad804b": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "85cd253c-9f13-41d6-b85f-d6c6c2601556"
+        },
+        "79003720-6378-4df1-bb83-8061ac5eaac7": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "043dc510-35e2-4301-9277-cdc39447e79c"
+        },
+        "ff4878ce-41b4-4569-9d0f-9d30d21a37ac": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "ba83916e-abf9-4ce7-ac20-3a3303e85bdc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "eeprom",
+        "i2c",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "85b062f8-72c9-4bbc-8539-aec05d70d4e0",
+    "value": [
+        false,
+        ""
+    ]
+}

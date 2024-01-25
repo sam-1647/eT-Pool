@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "FM24CL16B-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "I2C, 16kBIT FRAM, 3.3V"
+    ],
+    "entity": "8d187195-fa7f-4f54-8add-626f94b82d0c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Cypress Semi"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "orderable_MPNs": {
+        "4f97cfc2-7227-407c-9f63-c7af653cf7ea": "FM24CL16B-G",
+        "581fa149-a97c-4576-9c24-fc11a6770562": "FM24CL16B-GTR"
+    },
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "27a0bd9e-131a-4979-85ad-302604775577"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "043dc510-35e2-4301-9277-cdc39447e79c"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "ba83916e-abf9-4ce7-ac20-3a3303e85bdc"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "85cd253c-9f13-41d6-b85f-d6c6c2601556"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "a3732f70-d16e-485d-b24c-5c3581cc2428",
+            "pin": "3307e80f-841b-4d17-87d8-c84d19b3ba9d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fram",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "4a93ab49-d72e-44f2-b12a-970ee73c0ae1",
+    "value": [
+        false,
+        ""
+    ]
+}

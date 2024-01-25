@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "LM7805-TO263"
+    ],
+    "base": "c7347ecd-f594-461d-995d-0dc3352341a5",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "+5V Linear Regulator, TO263, 1.5A"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ST Microelectronics"
+    ],
+    "model": "d5a9e2dd-14ac-4ea0-9ccd-1cf9c128bc88",
+    "orderable_MPNs": {
+        "049257b1-d744-49af-aa14-b3fbac0625c2": "L7805ACD2T",
+        "3642e2a4-4344-49ab-910f-81862e7e1edc": "L7805ABD2T",
+        "c5180c94-7531-4ef6-96e6-ae925e051bb6": "L7805CD2T"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "93aaae9c-b7f6-4a68-84d0-8a701d8f45a9",
+    "value": [
+        true,
+        "LM78XX-TO263-Generic"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d63b2364-0049-4bdb-8db3-4bd38f537667": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ac2fdd98-9a39-4f17-a425-4aa94213c5eb"
+        }
+    },
+    "manufacturer": "",
+    "name": "TVS-DIODE-3P",
+    "prefix": "TVS",
+    "tags": [
+        "diode",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "9cf0c6f7-ad4b-4901-8664-82f36b6a3f51"
+}

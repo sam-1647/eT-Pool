@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "44b5496b-5303-4e23-8202-44358c8e2a9d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9f83be4e-f8cd-48ba-8fb3-34e3a1dd935c"
+        }
+    },
+    "manufacturer": "",
+    "name": "HS-NC",
+    "prefix": "HS",
+    "tags": [
+        "heatsink"
+    ],
+    "type": "entity",
+    "uuid": "ce4b1609-d417-4d41-979d-b7165705140f"
+}

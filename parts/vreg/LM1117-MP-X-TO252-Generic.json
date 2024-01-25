@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "LM1117-MP-X-TO252-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Positive Linear Regulator, TO252-2"
+    ],
+    "entity": "3d4f31bb-1be3-4189-9a31-7a6dc266e7fb",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "332cb2fc-4014-4703-bb43-265056bdb2c1",
+    "package": "99907c22-2120-4012-9613-44f9b17c8d83",
+    "pad_map": {
+        "43ddb30b-41cc-41a4-b857-26f9e9184f46": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "a025bb9f-5922-454f-997c-e83e46f4f50f"
+        },
+        "9263bf87-4b2d-4ad2-9817-7c45a3a8985a": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "a0aea7ab-ab4f-4756-9f29-faceddb7359b"
+        },
+        "9a3388ae-9dc3-4dfd-92e1-f5945f1272ac": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "fdb36c1e-c929-4d80-900d-5a5fc2da6d1f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "51fb3bd5-ce44-4901-af99-d9a765b6cc2e",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

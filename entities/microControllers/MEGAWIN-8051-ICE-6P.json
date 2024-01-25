@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "f2695f58-eed3-4243-a257-fe0fd25669d4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b4609c7e-867f-4da5-b658-90b480b6dd9c"
+        }
+    },
+    "manufacturer": "Megawin",
+    "name": "MEGAWIN-8051-ICE-6P",
+    "prefix": "ICE",
+    "tags": [
+        "ice"
+    ],
+    "type": "entity",
+    "uuid": "ede05d75-828e-464c-873f-21a930985f7c"
+}

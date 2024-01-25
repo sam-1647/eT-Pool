@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "HX711-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "24-BIT Sigma-Delta ADC"
+    ],
+    "entity": "3bb952de-b9b7-49f8-bc8a-179bdec4685f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AVIA Semiconductors"
+    ],
+    "model": "546549d3-e06f-474e-9da7-588c352fb5aa",
+    "package": "b01500fc-3bc0-444f-bf2e-11c34fbb26c4",
+    "pad_map": {
+        "05c0b27a-25c0-4e32-8e2f-69ac4858d82c": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "962d2ba3-9aa4-4a17-a444-75e5caa00c79"
+        },
+        "2ebb2a29-9a7b-417e-8a0a-a0a7ff8fe702": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "9ce2c4a4-6d77-4b71-8ddd-1b326b26fd0f"
+        },
+        "3b624ed5-687f-4dcd-b4bb-42fd94e07c62": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "8633e632-8f3f-47bb-bfae-71f68e9573b7"
+        },
+        "530676ac-adf2-4350-b4cc-9ccd2d75c578": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "df4c3617-29c5-47cc-8099-046d7785cb36"
+        },
+        "94a14367-bf81-47e9-b7da-8d85d6733768": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "857336bf-abeb-4a04-96c5-08b9ea47a534"
+        },
+        "9bb2a930-bc91-4adc-8d40-91f4727e40e2": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "5d74f649-aa32-40a2-bef3-a3b3015b066f"
+        },
+        "a257099a-891d-4141-ba01-581096970d9b": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "5036220e-7fad-4eab-8871-78a8df55a208"
+        },
+        "ab2de05a-6821-4189-8478-f0dc0e96a5b5": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "3e26836d-3c45-42a1-92ea-24ddb8d2e33e"
+        },
+        "b4822a16-8b6c-4bf7-a2c2-b8d014949dd3": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "57e0ec29-3720-4a52-982c-c9a6d8dd401f"
+        },
+        "c7b9d868-823d-4569-859e-ee900f0fdb3b": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "09810095-60c6-46ff-b99e-624e6f832eab"
+        },
+        "e8952743-77cc-44e8-ab93-2ed76072d1e0": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "fe92abf6-0c07-42f0-b39f-ba8d3ef5a45d"
+        },
+        "ea9d489a-2d0b-4417-892a-3a10fe3573fd": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "47bea1e2-cc10-4c89-9509-efcfd602f6ce"
+        },
+        "f2b2d700-23cf-42e7-b217-15ecb824fcf6": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "9eaeb4a6-99ce-40b2-8d48-532ebcc97b69"
+        },
+        "f51dc2cb-1aad-4f2d-9548-466fd6299d3f": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "01439e8e-ab84-4df1-bf7d-1f7935414803"
+        },
+        "f9f0cc3a-fa44-497e-87dc-5fc2fc707ce7": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "04eb62a1-e109-4365-a820-b2441c05f121"
+        },
+        "fac2ed38-ed93-4968-89f6-71156518677e": {
+            "gate": "cf8c7248-655d-4228-a822-42192b1647a3",
+            "pin": "a74ed18c-0582-48e4-bc91-fc387df7cfb1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "part",
+    "uuid": "eeb89ad2-4734-4a5b-98ae-de9752d7803f",
+    "value": [
+        false,
+        ""
+    ]
+}

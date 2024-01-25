@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Inductor-2p-AirCore",
+    "pins": {
+        "6180dc61-5ed7-4169-9456-adee6ee64ca6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "a970deb3-b40b-4334-85ab-5510e60167b4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b5ed19ef-5f02-4e92-b8a0-3b0ca96b5e58"
+}

@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "BJT-NPN-CTD100"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "100V BJT, npn"
+    ],
+    "entity": "bb7613f9-5dc4-4cac-8500-63835bfda9e2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "???"
+    ],
+    "model": "e673a69f-1018-43de-a464-f7b10592be8a",
+    "package": "adc0e155-26d1-4e9f-9b03-22a042e533a5",
+    "pad_map": {
+        "2ac88273-1510-486e-aea4-c587dbde6255": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "4dc9dfec-2292-4b69-9166-4d55a24a0343"
+        },
+        "949fd58b-5e2a-4e5f-8d95-0fbd9909d276": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "249d5f2d-c07d-4122-b07a-ed5adecb2712"
+        },
+        "af1e091a-72c4-47ae-a36f-910fb0d1521e": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "7b568d8f-59a5-42ed-827f-6401b2770a83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn"
+    ],
+    "type": "part",
+    "uuid": "69a2865d-c80e-491e-a541-a0a4c28b6c88",
+    "value": [
+        false,
+        "CTD100"
+    ]
+}

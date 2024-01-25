@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "88b15256-c5d6-4897-bcd2-03b2c6129f03": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f9e1c791-17a3-4cf4-b574-231f010cd29d"
+        }
+    },
+    "manufacturer": "",
+    "name": "USB-A-SH",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "usb-a"
+    ],
+    "type": "entity",
+    "uuid": "b99725b2-a937-48b1-ab7b-389729f4ca69"
+}

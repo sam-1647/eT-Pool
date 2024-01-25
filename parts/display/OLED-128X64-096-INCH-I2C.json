@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "OLED-128X64-096-INCH-I2C"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "0.96\" SSD1306 Based 128x64 OLED I2C Display"
+    ],
+    "entity": "866d2fe1-29e1-41cc-a962-ac32bd3e10cd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "6723d3f1-fb44-4729-a043-bc61e425846f",
+    "package": "2cc70027-c3e6-4aab-8249-d26dc85a78ad",
+    "pad_map": {
+        "023d9ef6-d190-4163-b33b-8e2629d67b73": {
+            "gate": "ab9b6aab-8664-429f-b50e-d2dad5c2e069",
+            "pin": "9e6a2a9c-2469-4b42-b224-cd6d90bffaac"
+        },
+        "380f19ea-796c-460d-8954-ccce7ba766fa": {
+            "gate": "ab9b6aab-8664-429f-b50e-d2dad5c2e069",
+            "pin": "42f71b72-6801-4445-90d9-712cda893c5b"
+        },
+        "8abce86b-de86-48b7-8daa-331915d59e0b": {
+            "gate": "ab9b6aab-8664-429f-b50e-d2dad5c2e069",
+            "pin": "f7fa358d-fd5c-477b-b8bb-0eec01bdade2"
+        },
+        "c609cca0-79af-4589-8220-c66559030281": {
+            "gate": "ab9b6aab-8664-429f-b50e-d2dad5c2e069",
+            "pin": "4a383aa4-073e-42b4-94ca-ab8a1594a8ea"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "display",
+        "i2c",
+        "oled"
+    ],
+    "type": "part",
+    "uuid": "6e272948-79d4-401a-b264-883e4b476b6f",
+    "value": [
+        false,
+        ""
+    ]
+}

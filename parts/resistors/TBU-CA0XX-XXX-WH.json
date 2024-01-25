@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "TBU-CA0XX-XXX-WH"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "High Speed Bi-Directional Transisent Surge Suppressor"
+    ],
+    "entity": "840d598e-8a0c-4395-941d-8b5ea0046f80",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "2be64668-d852-46b3-9a92-2759e661b9a7",
+    "package": "c38f2e39-3734-4bc1-a89a-ce4b11dd014b",
+    "pad_map": {
+        "3d2d59a4-8bb2-43b6-b06c-b6b119606563": {
+            "gate": "9da98c34-ea48-4f1b-a032-638c5059cc85",
+            "pin": "2921ae02-4ea7-48bb-94ab-2d791b122d81"
+        },
+        "bdbee390-f283-434e-a3ec-e9d096365fae": {
+            "gate": "9da98c34-ea48-4f1b-a032-638c5059cc85",
+            "pin": "c5e90534-62f5-4517-b051-a806f1cb0358"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "resistor",
+        "tss"
+    ],
+    "type": "part",
+    "uuid": "19f7745f-f092-443f-ab94-d43ea9b7f3a8",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

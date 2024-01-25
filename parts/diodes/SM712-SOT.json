@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "SM712-SOT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12V-7V Assymetrical TVS Diode"
+    ],
+    "entity": "9cf0c6f7-ad4b-4901-8664-82f36b6a3f51",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Semtech"
+    ],
+    "model": "8ac7a09e-8940-4680-8dc8-c33d748e3b25",
+    "package": "1c35b47e-98f1-4dbb-8e72-3a2ba4f4f46b",
+    "pad_map": {
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "d63b2364-0049-4bdb-8db3-4bd38f537667",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "d63b2364-0049-4bdb-8db3-4bd38f537667",
+            "pin": "b930de16-2cb6-4f78-af2c-fc1f81dfa96d"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "d63b2364-0049-4bdb-8db3-4bd38f537667",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3de7d880-f6b8-4202-83ee-190432c22ae1",
+    "value": [
+        false,
+        ""
+    ]
+}

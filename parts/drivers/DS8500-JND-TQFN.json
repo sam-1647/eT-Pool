@@ -1,0 +1,124 @@
+{
+    "MPN": [
+        false,
+        "DS8500-JND-TQFN"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "HART Transciever"
+    ],
+    "entity": "ac975645-16a3-433f-a95e-40d2103918d2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "fac34c8f-c1aa-493b-b981-374612171eed",
+    "orderable_MPNs": {
+        "eb0a9b2e-a2ae-43af-a6dc-9797f23f07f0": "DS8500-JND+"
+    },
+    "package": "8f2ad342-8708-4c12-82e9-e24ec3e32ab9",
+    "pad_map": {
+        "0dfffdeb-e8a2-4331-bd0f-fe3918e9cd54": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "cd7d36ba-bc7d-47c6-a026-a8a5caffb304"
+        },
+        "167bd1bd-d0cb-4934-8e33-2ef33714f7c5": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "52e74205-2396-4cc0-9829-dee7e17fd507"
+        },
+        "1d944ab2-2dd2-4004-affd-2c156e3868bf": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "34d8fcfe-f01f-405e-8e90-f66941e1117c"
+        },
+        "427ae855-233d-414f-bb95-5304cd116062": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "3ca6aae5-0fca-48ae-8918-b653eb5399a5"
+        },
+        "42955138-811a-4b41-9aea-6dea2ade1b07": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "c63b58a9-8ab6-4727-a6b0-4944df6e3a0f"
+        },
+        "44802e2d-588a-492f-a85e-36de911013ba": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "4ba7f61a-b760-4c70-8310-fcad55c716e3"
+        },
+        "734dbd69-23c1-4206-891f-56a6ef90e546": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "8c34d277-07be-4c36-baea-9e218c03d3fb"
+        },
+        "7b60614e-1c5c-4785-9a8f-63e8620ea35c": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "dfbf6544-21de-4b73-9ce2-f9e5214502a6"
+        },
+        "87e8d0cd-c5ff-44cb-b41d-b40081e33279": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "34d8fcfe-f01f-405e-8e90-f66941e1117c"
+        },
+        "896cb688-9df0-4a5a-9eb2-668e2efcfffa": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "ff46d81f-ebeb-4740-a854-8e19b12bd601"
+        },
+        "9427ee4f-1fbb-406e-92ae-35d877b0d3fc": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "ff46d81f-ebeb-4740-a854-8e19b12bd601"
+        },
+        "9652c3e9-fdab-4f99-8d72-53bd501654a4": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "d8d14b72-faab-46e2-bbc9-81e6085dd869"
+        },
+        "9aaee569-6599-423f-aae3-c2cc5f7c7067": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "a466a4f3-32b7-4ba7-befb-7939f080772b"
+        },
+        "9d81bd6e-5a52-4506-86a6-cc68c2bb45d2": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "a6f35175-21ff-4c03-ad0c-23136443dab6"
+        },
+        "9e03ae4a-ee4d-48c9-a5e5-79c630352a15": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "c63b58a9-8ab6-4727-a6b0-4944df6e3a0f"
+        },
+        "a99c2d33-56f1-4d4b-a293-82500c7a8f7b": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "2d20d6b8-ce29-4464-b418-e5a0c4d45ca3"
+        },
+        "c2885eb0-dc7c-4198-bff4-a88d82603a79": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "34d8fcfe-f01f-405e-8e90-f66941e1117c"
+        },
+        "d218a819-1796-4063-a6cb-cb0841d1ad5f": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "17e00a1e-a234-4a2e-ad2b-7ef7a56f7a2c"
+        },
+        "d6bd942b-04da-4159-8b5b-4349e25dfcd3": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "34d8fcfe-f01f-405e-8e90-f66941e1117c"
+        },
+        "dee5b7d8-cd6f-4cdf-97d2-b459967de21a": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "76978a11-6bab-4f9a-b1f6-1f8d2f6908c1"
+        },
+        "fb9d0955-48dc-43ac-8e51-8f90b6411be2": {
+            "gate": "a412b80b-3b56-4653-b4a9-191e7c20f7c2",
+            "pin": "bc85166c-a647-4d85-b09b-cbbab241015c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "hart",
+        "tx-rx"
+    ],
+    "type": "part",
+    "uuid": "4adc0486-053c-4aaf-9d9b-b6841257c076",
+    "value": [
+        false,
+        ""
+    ]
+}

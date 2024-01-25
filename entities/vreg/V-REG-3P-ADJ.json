@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9fe5906f-52f2-4e09-b64d-751e0fe6c6de": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f6cd4f01-be8a-404e-bd9f-3fb76dab30b8"
+        }
+    },
+    "manufacturer": "",
+    "name": "V-REG-3P-ADJ",
+    "prefix": "U",
+    "tags": [
+        "adj",
+        "vreg"
+    ],
+    "type": "entity",
+    "uuid": "8d077522-d7da-460a-bbaf-86bc8095139d"
+}

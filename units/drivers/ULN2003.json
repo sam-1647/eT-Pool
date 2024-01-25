@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "ULN2003",
+    "pins": {
+        "10f3087f-f595-4213-ac45-7207a3f2a3a2": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O5",
+            "swap_group": 0
+        },
+        "2686419e-1ec2-4e29-b5a8-cfbe575626ce": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I1",
+            "swap_group": 0
+        },
+        "28b71507-2f74-4d52-8193-c74a72705afe": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O7",
+            "swap_group": 0
+        },
+        "3fe00df7-6a45-4cbf-9dd5-4aed762f6c55": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O2",
+            "swap_group": 0
+        },
+        "3ffd928e-2b06-499f-aaa7-53312ab2846b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "43ef0a00-21a2-45bf-80db-13a433d74171": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I6",
+            "swap_group": 0
+        },
+        "4ea2e2a0-dbdf-46a1-909f-3adb65f2f12e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I5",
+            "swap_group": 0
+        },
+        "5bda6171-e996-4f56-b161-57e036867ffe": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I2",
+            "swap_group": 0
+        },
+        "69848995-f03f-43bc-80ec-41f68844e027": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I4",
+            "swap_group": 0
+        },
+        "79f93644-0ee9-4989-9b21-91939114ae04": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I3",
+            "swap_group": 0
+        },
+        "8174a652-1f1a-4b67-a703-f78bc502e705": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "I7",
+            "swap_group": 0
+        },
+        "89778395-347e-432f-b449-c36749676360": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O1",
+            "swap_group": 0
+        },
+        "8cbc147c-631d-4d58-a156-8a7ee061c37d": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O6",
+            "swap_group": 0
+        },
+        "b9c43c70-39e8-41ea-bbdb-3e590f1cd781": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O4",
+            "swap_group": 0
+        },
+        "ec90461d-821c-4d4b-83f7-fa6a7dddd8ee": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "O3",
+            "swap_group": 0
+        },
+        "fe838383-382c-4115-91de-3865c702c7bf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CD+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3afc6127-915f-4239-a353-49d9ad427a73"
+}

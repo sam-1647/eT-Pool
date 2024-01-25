@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "DCAP-1kpF"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1kpF(1nF) Disc Capcitor"
+    ],
+    "entity": "a9602075-1a80-4225-8ac1-e3966ae50c11",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "36020ffb-86a0-4961-8952-1e11be8b0caa",
+    "package": "c49215d3-1502-473d-8380-0e28158073d6",
+    "pad_map": {
+        "5786d14b-900f-4cc9-9963-dae3793bc083": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "6d3b829f-ab8c-44b2-9f87-ecc0bde6fbe9": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "Disc",
+        "value": "1e-09",
+        "wvdc": "25"
+    },
+    "tags": [
+        "capacitor",
+        "disc"
+    ],
+    "type": "part",
+    "uuid": "705c60fd-1c72-4591-83de-87c805182e3a",
+    "value": [
+        false,
+        "1kpF/25V"
+    ]
+}

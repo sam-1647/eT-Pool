@@ -1,0 +1,43 @@
+{
+    "gates": {
+        "291e7997-66a6-4021-a9d2-29b3bf3136a8": {
+            "name": "OP4",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "39254242-e2c0-4be3-ba3c-a00525d2b8d2": {
+            "name": "OP3",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "3fd132d8-5798-4310-a261-3bf27db78713": {
+            "name": "OP2",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "8eb30467-33c1-4f33-8cc7-2bd79f0d3271": {
+            "name": "OP1",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "af7ed11e-4d2c-44a7-86fd-65f681d2726f": {
+            "name": "SUPP",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "TL064A",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "15f3000e-8a84-4897-bf14-863096d06ceb"
+}

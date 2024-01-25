@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b9f0b5f4-6866-48f3-a718-addeb62c89d8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "82d0737c-1058-4055-a02b-3b81022843eb"
+        }
+    },
+    "manufacturer": "Bourns",
+    "name": "GDTx",
+    "prefix": "GDT",
+    "tags": [
+        "gdt",
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "a79eda21-8719-4bb8-8215-710000a2a2d4"
+}

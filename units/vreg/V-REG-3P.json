@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "V-REG-3P",
+    "pins": {
+        "a025bb9f-5922-454f-997c-e83e46f4f50f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "COM",
+            "swap_group": 0
+        },
+        "a0aea7ab-ab4f-4756-9f29-faceddb7359b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "fdb36c1e-c929-4d80-900d-5a5fc2da6d1f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b408f05e-c128-4bf8-bfb6-3ddca154f9fa"
+}

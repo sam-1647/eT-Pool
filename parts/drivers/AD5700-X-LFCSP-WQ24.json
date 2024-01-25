@@ -1,0 +1,145 @@
+{
+    "MPN": [
+        false,
+        "AD5700-X-LFCSP-WQ24"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Lowe Power HART Modem"
+    ],
+    "entity": "b16f2b59-991f-4cff-9633-3dfc0136a8b5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "eec01fa0-decd-4a58-9a55-991db2cb7bb9",
+    "orderable_MPNs": {
+        "82a99dc5-b0bd-4c9d-8a2d-cefb5a0c42a1": "AD5700-1BCPZ-RL7",
+        "a28d1af3-1d97-4c20-88be-b69fbe853e03": "AD5700ACPZ-RL7",
+        "aab7bc43-9767-4bad-b7ee-b8f52c772a4d": "AD5700BCPZ-RL7",
+        "c24a1a37-2d11-4f15-ae08-65044c9a401b": "AD5700-1ACPZ-RL7",
+        "c60dd1c6-6f19-4380-9b39-196ab61946dd": "AD5700BCPZ-R5",
+        "fd91ada0-526b-4572-b983-c5de576582b0": "AD5700-1BCPZ-R5"
+    },
+    "package": "8957d849-521c-4eb0-a006-bd74eec3478e",
+    "pad_map": {
+        "106763f5-175e-45d5-a314-8e41b79bd2fb": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "cddee614-ccec-4548-b1b0-6b6f68dcfd53"
+        },
+        "11597ae8-22a5-478f-a56f-7c9f89ec392a": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "992cb882-d960-4eed-be56-dd60e31e1ef5"
+        },
+        "2d684a77-5a1c-4ac8-a062-39f815928416": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "be0b9c4b-32e2-4243-9839-ce3a3f339b52"
+        },
+        "409bbbed-aabc-4cba-961c-c093bf8edbe0": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "6dd2393b-0e49-4cc9-8873-1eb7719645ee"
+        },
+        "41e2402f-2e57-44e0-8622-e1fc50a31cf7": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "6ca835bd-a835-40d6-8c92-af0f5c072ff6"
+        },
+        "47c89278-2847-4a89-807e-e8ff90c668f6": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "88fd043a-e31d-45b6-bba3-f19c33861b3b"
+        },
+        "5491b476-2f07-49df-bebe-b436a5b1f073": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "c17d9b95-462e-4f1b-b21e-1b00bc6639da"
+        },
+        "5b27c0e7-b27e-478a-a58d-a28ff9b543f2": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "b484253c-3234-45de-8b70-667762d4ef97"
+        },
+        "64816a0a-ce5d-405e-8608-bd6291195030": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "960977bd-ec75-44be-a457-2ce77da3c2b3"
+        },
+        "6992d24f-000a-4d1f-ab65-94402a7665a3": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "f15d3798-035b-4ad0-b841-4f600d3a2ae7"
+        },
+        "714112c6-06f3-4d19-acf1-d33b388dd0b7": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "45dbc981-d353-4ea8-90ec-b6beb483fb32"
+        },
+        "83b89f96-04ad-47a0-b98d-79eee2269ba9": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "0a01bb7c-9f2e-4de5-be92-e91845b4457c"
+        },
+        "8db882a4-48d6-40c2-9028-fe80a58d318c": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "eebbce22-2e44-485d-8dd7-bbcc70b7e058"
+        },
+        "8e8c5664-8b09-4210-8590-90ad9baecc89": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "da510435-34d1-42e9-8675-a31de61db4cf"
+        },
+        "a3d4d53a-ce19-453f-a8b8-05d03f5b1c43": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "dcda1e57-f982-4405-a0f2-58a9e4cc70b1"
+        },
+        "a64adec5-bf78-4a4e-9c2e-4e50702d91bd": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "d3cc8afc-3d84-4023-a75e-5d126c56c18e"
+        },
+        "ade2b3eb-ba4a-4686-a821-245bf9561b65": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "6dd2393b-0e49-4cc9-8873-1eb7719645ee"
+        },
+        "b44908e6-b4e5-4f5e-87c2-8683b034b698": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "ea7bc464-5c79-4f7f-b1d9-b70f94bde2ad"
+        },
+        "bb0e204e-ca3f-4ad6-b703-3c95c1e28565": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "32009880-2d8f-48a4-8951-e663c61e7d95"
+        },
+        "bb68d814-6f27-4be5-9a10-5d9ac2d00ec6": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "c257c256-fa98-4564-857a-22265c1fc6ee"
+        },
+        "bcd0ad4b-0357-42ab-8fb7-5eb511ff676d": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "27ea9fb3-4704-486d-ba9e-50f05a518d66"
+        },
+        "d737d108-bb8b-444e-8dee-97b7861eb8ba": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "8827e56c-a6a2-4b39-bc3d-b76e54c0a24a"
+        },
+        "dce0cd5d-bdaf-4ab8-8c49-4971e26120c3": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "5b550d22-d30c-40e2-985a-74a137035451"
+        },
+        "e68314d4-4fd7-4046-8e5f-28b5c50501ab": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "47335b6c-84fb-46c4-a987-63ebf2dd3308"
+        },
+        "ea0b8d40-cec9-4365-8a79-0d9bb7f2f00b": {
+            "gate": "6d4f86e7-3007-4bf4-8252-595b2b49e5cc",
+            "pin": "be0b9c4b-32e2-4243-9839-ce3a3f339b52"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "hart",
+        "tx-rx"
+    ],
+    "type": "part",
+    "uuid": "f9c1b829-4bcf-4d5d-abb6-becc03a1b118",
+    "value": [
+        false,
+        ""
+    ]
+}

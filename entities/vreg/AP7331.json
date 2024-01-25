@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "fb6ad050-f9ba-4818-bbb3-12de5d3a2b2d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1d3e964c-7e5e-4304-93d1-3a6f417b0e06"
+        }
+    },
+    "manufacturer": "Diodes Inc",
+    "name": "AP7331",
+    "prefix": "U",
+    "tags": [
+        "ldo",
+        "linear-reg",
+        "vreg"
+    ],
+    "type": "entity",
+    "uuid": "49446ff8-e964-44fb-9259-a234556c3db9"
+}

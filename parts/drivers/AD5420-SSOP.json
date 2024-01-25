@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "AD5420-SSOP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "16-BIT Current Out DAC with HART connectivity"
+    ],
+    "entity": "422e0b29-2ed1-4cc1-9699-057645d9ab82",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "fc130653-7c6f-4e04-b1f9-84018ab8902a",
+    "orderable_MPNs": {
+        "b18ebad8-6dcb-47f6-8fb0-81796a5f6012": "AD5420-AREZ"
+    },
+    "package": "7639dfd8-ae15-4379-b16e-5d983e7dd2bc",
+    "pad_map": {
+        "06925eda-37b8-4215-be6a-509e8284abbe": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "deefceaf-ec12-4625-bd3a-fbe384541745"
+        },
+        "069df978-837e-4814-b9db-a4cb3ed5f0e2": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "2aa6bace-e695-4ccd-b341-d071cfcf3db6": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "eca37bc1-42c4-4f13-9d28-4653abf20567"
+        },
+        "3350836d-8934-4061-b927-1eaffa80d148": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "62012806-af71-45fe-81cb-d1dcb0e2c641"
+        },
+        "37311e5a-d486-4fa3-9a86-6b35ce294224": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "77882187-ed04-4e33-ab8e-8d0a99f4e042"
+        },
+        "43a13798-02e4-48e5-bf53-4aa4c0117cc2": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "5c2ecb8e-7f15-4e96-87ad-f997a0e4f01d"
+        },
+        "58621dd6-8f6e-4e44-9285-fddc0941e733": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "3bd4c7b2-6ffa-4256-aa23-199960a1d571"
+        },
+        "58b1244a-6546-4362-a687-0b3c3c6fdc9a": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "e03b764a-5286-4b04-9b93-2c5f704f721b"
+        },
+        "5e5e061e-8ee8-4512-b29e-1996135ca13d": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "b2d3dc26-3f63-4e5d-9144-a60960d98c10"
+        },
+        "5f9ae287-1b4f-4d25-95ad-a9ad62ff89d3": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "6bfcf4d4-cc41-48f4-b4d3-8baa220ad088"
+        },
+        "6ef5e22f-9670-488c-84c3-5ad00e850817": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "11af912d-3531-4d57-aaea-9b1ff2bc0ab9"
+        },
+        "7b332b00-edf1-41de-9366-15e2cbf678e7": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "84718a46-cfa3-4037-a08c-00d8682b9287"
+        },
+        "7f9b0c45-412e-42ab-b2f8-f5c734e810f3": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "8462eea4-d9a2-4895-b415-414017cf4f8a": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "91fa5588-7700-4ff0-b76c-d51cd1b93e7b": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "d67db341-e0d4-40a3-ba12-4aaa05a2ffd9"
+        },
+        "9990ea49-a53e-4918-b321-ee976d369b92": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "a8b0a5ef-30e4-47c7-90a4-7844cb9723a7": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "c45bc882-c185-4422-bed3-d2a1d129bca2"
+        },
+        "baf7643a-3e29-45ed-a5b8-8757b98d4da0": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "e5961d4c-f231-4f18-b9b0-ce61be423d5e"
+        },
+        "bfe2e107-8040-4bc8-a4d1-9dbe180cdaa8": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "d7bcce4a-e537-42c2-a910-79366abd2633": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "7dc9c4d1-28f7-4a76-8326-e61327a3394d"
+        },
+        "d9e60678-5767-492c-a5d7-90591de6aa3e": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "50ba1b0b-2faf-4cd7-8db1-8abf4b398304"
+        },
+        "e5c016e6-46db-437e-9495-48699ba8c146": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "80313265-8bef-47a3-8a9a-c4a59647d44e"
+        },
+        "e73886c6-2e49-4251-a523-85e28fdf0a3e": {
+            "gate": "bc905ea4-2a90-4570-b0a7-1fbe0b71455b",
+            "pin": "9ab16047-f9e0-4d83-b2cf-30223346e97b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "4-20ma",
+        "dac",
+        "hart"
+    ],
+    "type": "part",
+    "uuid": "074330e3-517f-40b1-99c1-5419bc134854",
+    "value": [
+        false,
+        "AD5420-AREZ-SSOP"
+    ]
+}

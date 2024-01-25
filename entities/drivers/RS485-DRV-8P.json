@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9eaed040-4b02-4c00-bdca-a25228f83745": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "47c67363-a6c5-4046-8b07-3792cc105786"
+        }
+    },
+    "manufacturer": "",
+    "name": "RS485-DRV-8P",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "rs485"
+    ],
+    "type": "entity",
+    "uuid": "485e5ad8-db45-49a0-afca-a6158c4f522e"
+}

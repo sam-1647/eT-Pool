@@ -1,0 +1,78 @@
+{
+    "MPN": [
+        false,
+        "MT-C-320"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3.2mm Plated Mounting Hole with"
+    ],
+    "entity": "46a7539f-9a63-4082-b104-404878e1ac3e",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f023d5c0-6205-47d4-93b2-58243e251f63",
+    "pad_map": {
+        "09f835d3-6e8d-405a-a041-a78596ad32dd": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "5a0fe5ea-5408-47d0-9ee8-fd3f9d5098a2": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "6c70ff63-24bf-4de5-b339-2fa29034f03e": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "98e26cc0-8faa-47f7-952e-5e2947775eb8": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "9a9f8e79-9032-4355-ad45-788db6870390": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "aad4e6b1-4117-43d2-a172-4ceab8c5c0f8": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "aebd2ab3-5c01-4570-8e93-4fcef9f146f5": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "cad5edbc-75a2-4519-94ab-148f22e70ef1": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        },
+        "d0f772ff-4f01-477c-b64a-3be1960b4839": {
+            "gate": "fa041362-e787-4c12-a5c2-8007ca9ea423",
+            "pin": "a37f711d-9ccf-4727-8d7f-d312b180a37b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "c",
+        "mt"
+    ],
+    "type": "part",
+    "uuid": "ce0f1ecc-3e38-4b43-b103-371ba2a33489",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

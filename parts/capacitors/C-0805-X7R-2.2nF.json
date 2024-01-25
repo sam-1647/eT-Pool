@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-0805-X7R-2.2nF"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "2.2nF, X7R 0805 Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "2.2e-09",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5de83458-23b4-44f3-ab00-944481f68761",
+    "value": [
+        false,
+        "2.2nF"
+    ]
+}

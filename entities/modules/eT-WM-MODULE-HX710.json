@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "14236c36-03ee-404e-88d2-958692d983df": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "582c24f0-4237-4b84-b457-0a2d23c8e344"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-WM-MODULE-HX710",
+    "prefix": "MOD",
+    "tags": [
+        "loadcell",
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "90c7eba4-d117-44cc-a2fe-b1b4cc8f7b99"
+}

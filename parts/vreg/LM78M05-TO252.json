@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "LM78M05-TO252"
+    ],
+    "base": "830791a4-3ddf-48b8-966f-a4e681213b3c",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "+5V Linear Regulator LM78M05, TO252/DPAK"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "332cb2fc-4014-4703-bb43-265056bdb2c1",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "efe9ecc9-8d28-4b17-9536-74477c25eb7c",
+    "value": [
+        true,
+        "LM78XX-TO252-Generic"
+    ]
+}

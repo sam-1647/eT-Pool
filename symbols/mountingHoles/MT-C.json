@@ -1,0 +1,101 @@
+{
+    "arcs": {
+        "05cdcfcc-f986-4cdf-8a8d-104d75b410f1": {
+            "center": "7af3dc01-cde5-48cc-93dd-e7566b2f3184",
+            "from": "20f05748-f1ef-4a0b-9719-72fb2b56dbb8",
+            "layer": 0,
+            "to": "cfe25502-21bd-4ef0-abd1-788600b296ca",
+            "width": 200000
+        },
+        "dc1071f9-a584-4920-aae4-0370b3cae1ee": {
+            "center": "7af3dc01-cde5-48cc-93dd-e7566b2f3184",
+            "from": "cfe25502-21bd-4ef0-abd1-788600b296ca",
+            "layer": 0,
+            "to": "20f05748-f1ef-4a0b-9719-72fb2b56dbb8",
+            "width": 200000
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "20f05748-f1ef-4a0b-9719-72fb2b56dbb8": {
+            "position": [
+                0,
+                -1250000
+            ]
+        },
+        "7af3dc01-cde5-48cc-93dd-e7566b2f3184": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "cfe25502-21bd-4ef0-abd1-788600b296ca": {
+            "position": [
+                0,
+                1250000
+            ]
+        }
+    },
+    "lines": {},
+    "name": "MT-C",
+    "pins": {
+        "a37f711d-9ccf-4727-8d7f-d312b180a37b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 0,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                0,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "66d59e8b-865c-4640-a613-0608e8062e7c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "8823e7db-690c-49fc-9802-80891de62d70": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "c42a1419-3851-4c27-9ff6-f7a1c70cc67f",
+    "uuid": "1451131e-e160-4650-9782-b7c2d0985775"
+}

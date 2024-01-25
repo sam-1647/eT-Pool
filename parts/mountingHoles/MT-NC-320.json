@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "MT-NC-320"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3.2mm NonPlated Mounting Hole"
+    ],
+    "entity": "8278d0f2-a570-46c4-b038-e9e0a795936a",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1f9dbd00-4794-4f3c-81a3-038059a6a5db",
+    "pad_map": {
+        "a29420ee-c8c8-4f37-a40f-39eafa8c680f": {
+            "gate": "c478d564-40b2-4ae3-b358-20f20a879a40",
+            "pin": "6b5ed56b-e472-4fc9-849d-5fa0d1e2a24c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mt",
+        "nc"
+    ],
+    "type": "part",
+    "uuid": "f74ea8a7-52f6-47c0-a477-5396bb13c15d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

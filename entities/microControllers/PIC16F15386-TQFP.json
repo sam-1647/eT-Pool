@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9376b5b4-ccf0-456b-98de-14be507991f4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "84673eb5-33fd-450a-afcf-2f9cfe57beef"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PIC16F15386-TQFP",
+    "prefix": "U",
+    "tags": [
+        "pic16",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "911e8746-67af-4e31-980e-09121f3896af"
+}

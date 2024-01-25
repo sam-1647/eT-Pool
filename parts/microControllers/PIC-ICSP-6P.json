@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "PIC-ICSP-6P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "PIC10,12,16,18 ICSP Header"
+    ],
+    "entity": "4a4b52dd-12f7-4007-ac44-e2b38c1ca435",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "98282cb8-da2c-453d-88c8-cbbebdef1385",
+    "package": "58e2c7f3-7d71-4a66-bcdf-e85f998b4d40",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "035e983e-6fe8-40bd-a97e-259b091d9367"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "0ce4a08a-22f4-489b-b76b-c2a91fd4cdb1"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "8f14036d-9d46-410d-9c44-fca7e67471c8"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "01aa9f33-d503-4ca1-a61f-4d25da81b1c9"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "00c5214a-2309-4c3b-852c-e19f7c74a7e5"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "ac2baece-fb0d-4783-95e2-dac7768d088e",
+            "pin": "dc355be0-4747-4834-816f-5dfb92efe697"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "icsp",
+        "pic"
+    ],
+    "type": "part",
+    "uuid": "8e55096f-8314-47e9-80bd-517e27728620",
+    "value": [
+        false,
+        ""
+    ]
+}

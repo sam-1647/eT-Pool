@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "XTAL-2P-HC49S-PTH-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2-PIn, Low Cut, KDS Metal Can Crystal"
+    ],
+    "entity": "1b8a78bf-b3d7-455e-8736-3d767c8d8567",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KDS"
+    ],
+    "model": "8805adc6-f126-4236-b91f-6baf2e0f4644",
+    "package": "3be25819-e575-4cea-a6e1-51e6afd3cf08",
+    "pad_map": {
+        "3264fe48-7966-4947-9722-d8698c4526ef": {
+            "gate": "4425e28a-fc08-460a-bc06-a29b92e9a1bd",
+            "pin": "e11e08ca-b3cd-4830-9294-fda32b21b51b"
+        },
+        "39c183be-ffee-40fd-9b80-753e250c5507": {
+            "gate": "4425e28a-fc08-460a-bc06-a29b92e9a1bd",
+            "pin": "a0999c9c-f4fa-4928-adda-545bde5b2f98"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "xtal"
+    ],
+    "type": "part",
+    "uuid": "964025cc-0351-4fe2-b756-81d3b8f6c60d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "fa041362-e787-4c12-a5c2-8007ca9ea423": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c42a1419-3851-4c27-9ff6-f7a1c70cc67f"
+        }
+    },
+    "manufacturer": "",
+    "name": "MT-C",
+    "prefix": "MT",
+    "tags": [
+        "c",
+        "mt"
+    ],
+    "type": "entity",
+    "uuid": "46a7539f-9a63-4082-b104-404878e1ac3e"
+}

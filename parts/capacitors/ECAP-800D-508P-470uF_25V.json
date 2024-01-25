@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "ECAP-800D-508P-470uF_25V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Elec Cap, 470uF, 25V, D=8mm, P=5mm"
+    ],
+    "entity": "91995397-4ece-4611-b1d4-6f92e0d3539e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "13bd83db-64ed-40ea-9a53-7b1ddd53c82e",
+    "package": "b2676f60-9334-4513-bfc9-7f71cc641be7",
+    "pad_map": {
+        "23b328cf-8059-4395-9f1e-f25b409e2806": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "d3b069ce-5f81-4f80-99b5-255239ac5a08": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "Electrolytic",
+        "value": "0.00047",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "49eae983-23b4-4959-868e-680535ca392d",
+    "value": [
+        false,
+        "470µF/25V"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "7d39f859-62e5-47ee-8494-eecb670f5af9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5324ca0a-77f7-43ad-9f1e-9bd17bd79845"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PIC16F15225",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "pic16",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "bd6d93c7-6995-4832-b4f4-53511f8177a0"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "4d8f6344-ae05-4b66-8237-5e0a8e1bf356": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5647aa36-7090-4dc2-8dca-07008791e477"
+        }
+    },
+    "manufacturer": "",
+    "name": "Inductor-Core-2P",
+    "prefix": "L",
+    "tags": [
+        "2p",
+        "core",
+        "ind"
+    ],
+    "type": "entity",
+    "uuid": "b9601b96-ec9e-4f84-8e18-d8df8b07a389"
+}

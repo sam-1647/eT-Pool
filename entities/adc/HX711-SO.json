@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cf8c7248-655d-4228-a822-42192b1647a3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5ce030e0-5365-4f78-afda-2e72cfcafb13"
+        }
+    },
+    "manufacturer": "AVIA Semiconductors",
+    "name": "HX711-SO",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "entity",
+    "uuid": "3bb952de-b9b7-49f8-bc8a-179bdec4685f"
+}

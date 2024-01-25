@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "DIODE-SMA"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMA Diode SMD"
+    ],
+    "entity": "e4bbc589-8d35-413c-95ca-9810ebe0ba35",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "1779d551-a682-428e-a119-9659f0bc3aea",
+    "package": "56b67b5d-6cfc-4033-9cc6-c007ef5237c9",
+    "pad_map": {
+        "853d53dc-408c-47fb-83c6-e3472730f1bd": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        },
+        "a1159334-f0ef-4015-9318-4f10d0f938c4": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "sma"
+    ],
+    "type": "part",
+    "uuid": "b49aa1e4-16ac-4aeb-a022-89cf79f632e0",
+    "value": [
+        false,
+        ""
+    ]
+}

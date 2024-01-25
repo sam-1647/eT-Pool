@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "USB-A-SH-F-HORZ"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-Pin + 2-Pin Shield USB-A Female Horizontal"
+    ],
+    "entity": "b99725b2-a937-48b1-ab7b-389729f4ca69",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "0892e58b-a87a-4fec-bc03-4e755a309871",
+    "package": "4f8d1b36-b126-4638-b972-7edc261f034e",
+    "pad_map": {
+        "3f500821-77e0-4427-9c7d-3c164e5ffc53": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "5e25f94f-bb0f-4791-aa55-08cdcf8f3d17"
+        },
+        "4c3c915d-08ad-4c26-9366-1507dfef0071": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "072ca4b9-24fa-4340-9388-39d1bce4f9fd"
+        },
+        "82f575cf-7b96-4e92-baff-e476a37dfc03": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "0948adfd-df64-4f31-af16-2fa2103b6bc7"
+        },
+        "8829634c-0ff4-493d-8d70-5e656155ef5f": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "7639e4ea-dd02-4c10-95ae-21e679d1d2d0"
+        },
+        "8c378308-347e-4fcd-8770-b439eb9034da": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "1321136f-c7c9-41b5-a808-f26cfabad3d4"
+        },
+        "a5c93e0d-c144-4c56-ac5c-8d36c9a2adbd": {
+            "gate": "88b15256-c5d6-4897-bcd2-03b2c6129f03",
+            "pin": "81a7c5ad-cc39-40a2-a0a2-4420679697e8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "female",
+        "usb-a"
+    ],
+    "type": "part",
+    "uuid": "7a4239e2-7f3e-4e63-8208-0fcb6b2378bb",
+    "value": [
+        false,
+        ""
+    ]
+}

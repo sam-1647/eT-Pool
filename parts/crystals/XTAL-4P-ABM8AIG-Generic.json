@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "XTAL-4P-ABM8AIG-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-Pin Crystal"
+    ],
+    "entity": "436ada28-cd0c-413b-bdd1-4f8a4b86bf9b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Abracon"
+    ],
+    "model": "734ae080-f03f-4ca4-9db0-5d2f8b0b4cd0",
+    "package": "1ac958e8-683f-490e-9ec2-555ebcbe640b",
+    "pad_map": {
+        "2019936c-9adb-44b0-9986-3ef7241de22b": {
+            "gate": "6a3728e2-c14a-478b-98c6-819e766c4df1",
+            "pin": "17eb7323-95fe-4c7d-9853-9de580d1d784"
+        },
+        "99095d9e-4fb6-4555-93f1-091d33a77649": {
+            "gate": "6a3728e2-c14a-478b-98c6-819e766c4df1",
+            "pin": "1df102f3-636a-432e-8359-c83c6010ac31"
+        },
+        "a4c0d456-0612-47c3-99ff-74803dc4553d": {
+            "gate": "6a3728e2-c14a-478b-98c6-819e766c4df1",
+            "pin": "e11e08ca-b3cd-4830-9294-fda32b21b51b"
+        },
+        "bdf01b2a-b0e7-492a-8de3-ee87b097f786": {
+            "gate": "6a3728e2-c14a-478b-98c6-819e766c4df1",
+            "pin": "a0999c9c-f4fa-4928-adda-545bde5b2f98"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "xtal"
+    ],
+    "type": "part",
+    "uuid": "5346a013-7850-42cc-bb2e-7c995a20431a",
+    "value": [
+        false,
+        ""
+    ]
+}

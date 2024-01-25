@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "LM2596-TO263"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "150kHz StepDown 3A DC-DC Converter"
+    ],
+    "entity": "0f13bdad-868d-4399-a652-aa052de17300",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "National Semi"
+    ],
+    "model": "bf07c12f-b10f-475f-b666-614dde68872f",
+    "package": "808d6a9e-9d30-45d3-9a6d-af58e6861101",
+    "pad_map": {
+        "15239467-6cd9-4e98-a3dc-b7d4acb7d84c": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "4d0bd70d-cad7-4eee-b70e-dfe7b1b749ef"
+        },
+        "18495add-9c1c-42d7-95a5-8798db06d3c5": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "2f863f12-866b-4d99-adb7-b98d73b48f89"
+        },
+        "89b914d2-72a7-4207-aad1-0d938ee24660": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "f4c2ab3b-fce2-4c62-a553-31a2b84c43ff"
+        },
+        "d340b8c3-8f38-453d-9d65-dd6e088f5bb4": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "fd06a640-d967-4830-98ec-5b9fafc37ff6"
+        },
+        "e12f30ac-1ffe-4af7-8cd1-fba370fd2beb": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "2de91cd9-d95c-4f41-a482-f1730588903d"
+        },
+        "fd211efa-2bae-40ed-9833-39a05df8f23a": {
+            "gate": "45adf4f2-9fb0-4c95-b087-3ce935a7848e",
+            "pin": "5938508a-95cc-4d36-82aa-5a779def8eae"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ddpak",
+        "stepdown",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "ddc7c329-ff72-4b86-9ff1-3febbef92500",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

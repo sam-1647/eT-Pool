@@ -1,0 +1,236 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PIC18F47Q10-TQFP",
+    "pins": {
+        "00b3b5ed-69b7-4879-975d-2a96c3658f3d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA3/VREF-DAC+/VREF-ADC+/C1IN1+/IOCCA3/MDCARL/RA3",
+            "swap_group": 0
+        },
+        "0574b39c-be7b-4288-902a-95b8878ce1ba": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB5/T1G/IOCCB5/RB5",
+            "swap_group": 0
+        },
+        "0b4b1401-b304-4cff-8ee0-ee62bd0bf2df": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "13d6c924-7b2f-476f-aea4-7367e189e8d2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC1/CCP2/IOCC1/RC1",
+            "swap_group": 0
+        },
+        "17daa99b-2dd9-4090-b370-6229d0e60483": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC6/IOCC6/CK1/RC6",
+            "swap_group": 0
+        },
+        "1bce63db-5085-4800-9bae-cff41dbe87f4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC3/T2IN/IOCC3/SCK/SCL1/RC3",
+            "swap_group": 0
+        },
+        "1d8d468c-f912-4368-8205-9c607b4dc0f0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND5/RD5",
+            "swap_group": 0
+        },
+        "2564f973-ae7c-40fe-8d90-d5a794370d3d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE0/RE0",
+            "swap_group": 0
+        },
+        "25f32eb1-fc25-4469-836a-8f0830683e46": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB0/C2IN1+/CWG1/ZCDN/IOCCB0/INT0/~SS2~/RB0",
+            "swap_group": 0
+        },
+        "2ab04d13-0515-47e1-b194-157ddb3ba13d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC2/T5CKI/CCP1/IOCC2/RC2",
+            "swap_group": 0
+        },
+        "43bcee3e-89ae-4dbf-bcc7-dd314b9bdf6e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ICSP-DAT/AINB7/DAC1OUT2/T6IN/IOCCB7/RX2/DT2/RB7",
+            "swap_group": 0
+        },
+        "533f9eaf-9a3e-4f4b-9fab-146a67888ada": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB2/IOCCB2/INT2/SDI2/SDA2/RB2",
+            "swap_group": 0
+        },
+        "53d1527e-ce21-4e58-af3c-1ec36ef15d19": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~MCLR~/VPP/IOCC3/RE3",
+            "swap_group": 0
+        },
+        "5534cb14-af80-4792-9e09-929bf908fe56": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC7/IOCC7/RX1/DT1/RC7",
+            "swap_group": 0
+        },
+        "554ca950-ab54-48e9-adb8-d72ce25f316d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OSC1/ANA7/IOCCA7/CLKIN/RA7",
+            "swap_group": 0
+        },
+        "59c52b54-a649-47a8-873b-90dfb98b4036": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB3/C1IN20/C2IN20/IOCCB3/RB3",
+            "swap_group": 0
+        },
+        "5f463de3-f92d-462a-bc76-f9e158020852": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA0/C1IN0-/C2IN0-/IOCCA0/RA0",
+            "swap_group": 0
+        },
+        "629482f3-b8b2-4b0d-b26e-e78e2ea0adfb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND6/RD6",
+            "swap_group": 0
+        },
+        "64850dd0-5cc4-493d-b765-250a767baeca": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB4/TSG/IOCCB4/RB4",
+            "swap_group": 0
+        },
+        "6a7aef86-560f-4bf1-a9b1-a43206c14589": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA4/T0CLKI/IOCCA4/MDCARH/RA4",
+            "swap_group": 0
+        },
+        "77108790-995b-4e61-be7d-f28b2c7c6cc5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC0/T1CKI/T3CKI/T3G/IOCC0/SOSC0/RC0",
+            "swap_group": 0
+        },
+        "85e4c272-334f-4c0d-99c4-3ebf905a220a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "895bda89-c6bb-41d9-a080-54889fabbe69": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE2/RE2",
+            "swap_group": 0
+        },
+        "8f54be7c-a205-49b4-b66b-8c22a5c0b5aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND3/RD3",
+            "swap_group": 0
+        },
+        "977f895e-251f-4820-b726-bc5c84a037b8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND0/RD0",
+            "swap_group": 0
+        },
+        "b545dac9-1b5f-483b-b286-075f148940c3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANB1/C1IN3-/C2IN3-/IOCB1/INT1/SCK2/SCL2/RB1",
+            "swap_group": 0
+        },
+        "b6197e3a-60ab-4b1f-b63d-9f05607bb58b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ICSP-CLK/ANB6/IOCCB6/CK2/RB6",
+            "swap_group": 0
+        },
+        "b6df5cfe-e95e-4717-b8c5-15873f08b7a3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC4/IOCC4/SDI1/SDA1/RC4",
+            "swap_group": 0
+        },
+        "bd242ebf-220e-4665-8e45-5032d0208160": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND7/RD7",
+            "swap_group": 0
+        },
+        "d0c2ac46-23f1-49a7-817f-c0b96f05614e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANE1/RE1",
+            "swap_group": 0
+        },
+        "d94a67cd-0f4f-468f-8393-e5898bfe859d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND4/RD4",
+            "swap_group": 0
+        },
+        "e5b63968-0a6d-4472-8d3d-8fdc9facb5b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANC5/T4IN/IOCC5/RC5",
+            "swap_group": 0
+        },
+        "e653845e-2f5b-4251-bf11-148dcd787d8c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND2/RD2",
+            "swap_group": 0
+        },
+        "ed6b23f6-680f-4906-8d43-cf40bf8c3ca9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OSC2/ANA6/IOCA6/CLKOUT/RA6",
+            "swap_group": 0
+        },
+        "eefa0597-1719-44bc-94f8-fb0f30e7a415": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AND1/RD1",
+            "swap_group": 0
+        },
+        "f7e0a994-7add-473a-a84c-04a2c6f7e368": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA1/C1IN1-/C2IN1-/IOCCA1/RA1",
+            "swap_group": 0
+        },
+        "fabd384d-599a-4b85-88f3-52050e64a8f0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA2/DAC1OUT1/VREF-DAC-/VREF-ADC-/C1IN0+/C2IN0+/IOCC2/RA2",
+            "swap_group": 0
+        },
+        "fe70b707-4052-43a6-9e0a-4eb61b481da2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ANA5/IOCCA5/MDSRC/~SS1~/RA5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "faf596bb-ed52-4207-b7ca-0e451969d394"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a412b80b-3b56-4653-b4a9-191e7c20f7c2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d4b90288-d882-464d-ba81-f7fe6a849c1d"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "DS8500-JND-TQFN",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "hart"
+    ],
+    "type": "entity",
+    "uuid": "ac975645-16a3-433f-a95e-40d2103918d2"
+}

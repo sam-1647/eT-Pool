@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "36859c54-e16f-43e2-af50-335ec2887dc6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "20c796a4-ff0c-41f9-9142-3bdf34904a7f"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "AT24CXXX",
+    "prefix": "U",
+    "tags": [
+        "eeprom",
+        "i2c",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "010beb93-6cde-4f40-abca-df6b379697a2"
+}

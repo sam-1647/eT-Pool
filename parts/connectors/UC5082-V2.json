@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "UC5082-V2"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2Way,Female Connector, P=5.08mm"
+    ],
+    "entity": "6bafe00f-fcca-4c7d-9013-bd0b3ad62fb6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "ca185e13-8d05-442c-b112-ab1c5670f2b4",
+    "package": "117a3ea1-b59d-4789-82a2-f2e304c37309",
+    "pad_map": {
+        "24b00581-f8f3-481f-a161-3d3df35c112f": {
+            "gate": "a03b5e95-4aa8-4206-ab63-b0b190c26b0f",
+            "pin": "b0da620f-59c3-43f3-b651-2771957cc591"
+        },
+        "b5b8159a-1cf4-4a3e-a13c-c24a2c2cada0": {
+            "gate": "a03b5e95-4aa8-4206-ab63-b0b190c26b0f",
+            "pin": "6d5a8db5-2cad-4eec-b56d-8cb85f567410"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "female"
+    ],
+    "type": "part",
+    "uuid": "96d247da-61be-48ee-b46d-9f6308846184",
+    "value": [
+        false,
+        ""
+    ]
+}

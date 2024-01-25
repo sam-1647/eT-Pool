@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "LM2596S(X)-12-NOPB-TO263"
+    ],
+    "base": "ddc7c329-ff72-4b86-9ff1-3febbef92500",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "150kHz StepDown 3A DC-DC Converter, 12V OUTPUT"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "National Semi"
+    ],
+    "model": "bf07c12f-b10f-475f-b666-614dde68872f",
+    "orderable_MPNs": {
+        "06fd0bb1-5b00-48f3-bb4c-9172e5defb20": "LM2596S-12/NOPB",
+        "f1602121-afb7-44b6-8981-e53f3745e4ed": "LM2596SX-12-NOPB"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3a7c216f-aeb6-4bd2-902b-dac98ea40191",
+    "value": [
+        true,
+        "LM2596-TO263"
+    ]
+}

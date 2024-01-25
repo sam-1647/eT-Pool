@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "TVS-SMAJ-XXX-C-A-SMA"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "BiDirectional TVD Diode"
+    ],
+    "entity": "03d01edd-7ecf-4487-b40f-351076fe9791",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Littlefuse"
+    ],
+    "model": "1779d551-a682-428e-a119-9659f0bc3aea",
+    "package": "56b67b5d-6cfc-4033-9cc6-c007ef5237c9",
+    "pad_map": {
+        "853d53dc-408c-47fb-83c6-e3472730f1bd": {
+            "gate": "5d56514f-8560-4046-bfe2-e5d741e9b079",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        },
+        "a1159334-f0ef-4015-9318-4f10d0f938c4": {
+            "gate": "5d56514f-8560-4046-bfe2-e5d741e9b079",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "sma",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "d220afb2-524a-407f-b4e4-25ffa4591199",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

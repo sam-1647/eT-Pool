@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a2819a58-a741-46e5-ac4f-381a301bf452": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3afc6127-915f-4239-a353-49d9ad427a73"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "ULN2003",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "oc-driver"
+    ],
+    "type": "entity",
+    "uuid": "f7c51375-9856-4ed2-af8b-3c9ec1dee1a0"
+}

@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "UC5082-V9"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "9Way,Female Connector,P=5.08mm"
+    ],
+    "entity": "4a45f0cd-4e6d-47b0-a242-33849daaf677",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "fcdcfce2-ef9a-4824-b37f-ab923f1efaf0",
+    "package": "fa24c3fd-5cc8-48a5-91c5-670ce8a4e298",
+    "pad_map": {
+        "2c5f25c9-782c-4dff-b649-31217583fae5": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "2d2996f5-c695-4266-8e60-d6981b866b13": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "46a2bb03-f52f-4782-a1d4-29fb359cc781": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "7567b2ef-200f-4b36-a789-7f6cc3ad6678": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        },
+        "7d5856e3-e879-4ce0-8ddf-2a5319d263f9": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        },
+        "7efe50da-3ca1-4dbf-a69a-6a1bf262d096": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "866bf1e8-4fb9-4d6b-9f97-3e4b2ac131b6": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "c3bc0734-0f20-4ad4-86a4-ded5ca67716f": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        },
+        "f4d65005-8e71-4c17-b5bd-a0b1b7822c9c": {
+            "gate": "9760036c-1fe4-46d3-8add-609f5a1d36a0",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn"
+    ],
+    "type": "part",
+    "uuid": "be0c7c50-2bc1-482d-941b-2482532c2556",
+    "value": [
+        false,
+        ""
+    ]
+}

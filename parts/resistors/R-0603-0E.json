@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0603-0E"
+    ],
+    "base": "16f612b7-9f73-4f71-9d20-fe24497a348c",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "0E, 5%, 1/16W, 0603 Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "a691a68b-86fa-40fa-9299-1d5bb32e2823",
+    "parametric": {
+        "pmax": "0.0635",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "548f1008-b65f-4f1d-b914-c4567164df8e",
+    "value": [
+        false,
+        "0Ω"
+    ]
+}

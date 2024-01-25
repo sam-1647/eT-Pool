@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "AT24LC08B-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1.8-5.5V I2C 8-kBIT EEPROM, SOIC"
+    ],
+    "entity": "010beb93-6cde-4f40-abca-df6b379697a2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "27a0bd9e-131a-4979-85ad-302604775577"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "89871188-ff2a-4ae2-8548-6b212be6a3b4"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "043dc510-35e2-4301-9277-cdc39447e79c"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "660e147a-2ddc-4733-a62d-44aad4bbf2b8"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "ba83916e-abf9-4ce7-ac20-3a3303e85bdc"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "3e1ea4e8-247f-414c-85cd-d7e99ecc298e"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "85cd253c-9f13-41d6-b85f-d6c6c2601556"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "36859c54-e16f-43e2-af50-335ec2887dc6",
+            "pin": "3307e80f-841b-4d17-87d8-c84d19b3ba9d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "eeprom",
+        "i2c",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "df4832d0-857a-4c34-9a1a-f8fd5cbabd8c",
+    "value": [
+        false,
+        ""
+    ]
+}

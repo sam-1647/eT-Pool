@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "CAP",
+    "pins": {
+        "545640a2-621c-4098-8491-ae156e944ddf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "a6e73080-880a-4281-be26-651fd25df4df": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b4293e7b-e9a6-41e3-b24f-bb794aab1af6"
+}

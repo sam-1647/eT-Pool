@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "R-1206-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 1206 Resistor"
+    ],
+    "entity": "d8f2c278-6e93-4fe9-9bd0-ff5d83a19a3b",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Watts"
+    ],
+    "model": "efa70257-a926-4303-a2ba-3b765639ac0f",
+    "package": "0e8564a7-219a-4495-b678-c81b00c27d49",
+    "pad_map": {
+        "1ac5d621-ae5b-4982-9f94-41cafdddd6c0": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "da27383d-b98f-42bf-a254-7b6261fbeb4c"
+        },
+        "ea51d8b4-a26c-4081-ab76-98698f846ef5": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "39d5d4c8-0f29-4eb4-96dd-b96299c59dc5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1206",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "33f9cdea-6b17-40ef-bd2e-0e2babc15200",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

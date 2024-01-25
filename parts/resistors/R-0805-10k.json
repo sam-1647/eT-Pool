@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-10k"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5b973be7-ca5e-4007-a7ae-c671e0263cfb",
+    "value": [
+        false,
+        "10kΩ"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Microchip",
+    "name": "PIC-ICSP-6P",
+    "pins": {
+        "00c5214a-2309-4c3b-852c-e19f7c74a7e5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "01aa9f33-d503-4ca1-a61f-4d25da81b1c9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "DAT",
+            "swap_group": 0
+        },
+        "035e983e-6fe8-40bd-a97e-259b091d9367": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0ce4a08a-22f4-489b-b76b-c2a91fd4cdb1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~MCLR~",
+            "swap_group": 0
+        },
+        "8f14036d-9d46-410d-9c44-fca7e67471c8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "dc355be0-4747-4834-816f-5dfb92efe697": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AUX",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f215694d-e096-4a04-b407-c57adf1e6fd0"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "abb30176-7957-4196-b00a-00405f744b91": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cbcf0cdd-6e1b-43b2-ba9d-3fbc86f45a17"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "STM32-SWD-5x1",
+    "prefix": "SWD",
+    "tags": [
+        "stm32",
+        "swdio"
+    ],
+    "type": "entity",
+    "uuid": "da0f0183-5d50-4c9d-a5e0-6443b03f31df"
+}

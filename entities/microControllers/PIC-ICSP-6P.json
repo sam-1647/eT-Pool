@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "ac2baece-fb0d-4783-95e2-dac7768d088e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f215694d-e096-4a04-b407-c57adf1e6fd0"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "PIC-ICSP-6P",
+    "prefix": "ICSP",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "4a4b52dd-12f7-4007-ac44-e2b38c1ca435"
+}

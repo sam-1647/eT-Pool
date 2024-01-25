@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "R-2010-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 2010 Resistor"
+    ],
+    "entity": "d8f2c278-6e93-4fe9-9bd0-ff5d83a19a3b",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "45675531-314d-4766-ad23-0aa2f4f3bff2",
+    "package": "3ec8893c-ace2-4c62-bcb1-4968ba800b4b",
+    "pad_map": {
+        "103ff232-0410-44e6-b6e9-a457af9eb025": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "39d5d4c8-0f29-4eb4-96dd-b96299c59dc5"
+        },
+        "13527677-0968-48dd-996c-5aadea12a0d1": {
+            "gate": "23cd5742-7ea6-4de8-9320-07e3fdc56556",
+            "pin": "da27383d-b98f-42bf-a254-7b6261fbeb4c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "2010",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "b1b512a5-82ca-48a4-99f0-e7180b50768f",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

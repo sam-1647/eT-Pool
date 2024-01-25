@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "LM2596S(X)-ADJ-NOPB-TO263"
+    ],
+    "base": "ddc7c329-ff72-4b86-9ff1-3febbef92500",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "150kHz StepDown 3A DC-DC Converter, Adjustable OUTPUT"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "National Semi"
+    ],
+    "model": "bf07c12f-b10f-475f-b666-614dde68872f",
+    "orderable_MPNs": {
+        "e2c81acc-e949-453c-9af0-ed9c7f93dae4": "LM2596SX-ADJ/NOPB",
+        "ebdc5540-4720-4e2b-a4fe-d1f03941c157": "LM2596S-ADJ/NOPB"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "aa38d91a-f1f1-47f5-bb43-6b81e0c967e4",
+    "value": [
+        true,
+        "LM2596-TO263"
+    ]
+}

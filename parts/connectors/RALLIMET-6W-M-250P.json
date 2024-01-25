@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-6W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "6Way Male Connector,P=2.5mm"
+    ],
+    "entity": "0f23aabb-7ba8-426c-941f-6acace3ab120",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "784fb65a-ce4e-47f1-9f98-69452481ab28",
+    "package": "aa548c56-5485-492b-b6ae-2c796040030f",
+    "pad_map": {
+        "1c71da1b-7da8-4033-a7d2-9ac0d019cbaa": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "2d7c6034-e478-4625-a723-0d023c87aacc"
+        },
+        "96399b4a-a491-44b8-a632-e26a7badd35f": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "66a2cfa8-c7d1-47f2-9c49-0c03e347121e"
+        },
+        "9fffdadd-6a7f-4157-b258-d72a4c248528": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "243e983c-12bb-44ba-bc00-20e0163e0ed6"
+        },
+        "cfde5c52-f9a6-4b09-8633-d54fb52a002d": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "3ef9c3c1-3466-4f07-82f4-8f165594a6e7"
+        },
+        "dd9ae7f3-c5a9-4dab-a2e0-4f2956d10c89": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "ea4614fd-8a06-4322-a41d-cdfe9ed42621"
+        },
+        "f7571ab6-70c9-4a98-b036-f70fcb0dc462": {
+            "gate": "022533ea-385e-4eb9-8fb1-eaf5eacf5a8b",
+            "pin": "0dc1e0d5-422d-417e-a317-607266db4d6e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "3bae9413-36dc-4dab-a5b2-144aa96d8098",
+    "value": [
+        false,
+        ""
+    ]
+}

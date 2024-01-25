@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Microchip",
+    "name": "AT24C16",
+    "pins": {
+        "043dc510-35e2-4301-9277-cdc39447e79c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "27a0bd9e-131a-4979-85ad-302604775577": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3307e80f-841b-4d17-87d8-c84d19b3ba9d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "85cd253c-9f13-41d6-b85f-d6c6c2601556": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "ba83916e-abf9-4ce7-ac20-3a3303e85bdc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "WP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eba2b8fa-93d9-405a-8142-2cce1722eb79"
+}

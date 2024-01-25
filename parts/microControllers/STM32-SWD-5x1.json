@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "STM32-SWD-5x1"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5-Pin STM32 SWDIO Prog/Debug Connector"
+    ],
+    "entity": "da0f0183-5d50-4c9d-a5e0-6443b03f31df",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "fcb4176e-d5ca-47c7-b0c7-0c77ff3a4992",
+    "package": "7e3e1289-52a1-420c-bc1d-fe1fe14e4314",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "abb30176-7957-4196-b00a-00405f744b91",
+            "pin": "888528a5-0b1a-4294-90de-e3694c8b1147"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "abb30176-7957-4196-b00a-00405f744b91",
+            "pin": "7a38a4b3-b6da-458c-9c26-4802bbf2884a"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "abb30176-7957-4196-b00a-00405f744b91",
+            "pin": "ced434e7-28eb-4a87-91b9-ac5212b3d2a3"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "abb30176-7957-4196-b00a-00405f744b91",
+            "pin": "6c17659b-47e7-4632-89ec-d79caa56ee9b"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "abb30176-7957-4196-b00a-00405f744b91",
+            "pin": "8aa964ab-d05f-4c98-9c88-5ec68416a6b1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "swd"
+    ],
+    "type": "part",
+    "uuid": "c28f59bf-b33d-4b21-bf87-60ac51706fc6",
+    "value": [
+        false,
+        ""
+    ]
+}

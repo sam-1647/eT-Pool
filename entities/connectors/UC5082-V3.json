@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "45c4f2d6-a76f-4c28-98c3-22b5a9b30a0c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a2e1738c-6f99-44e5-a877-a13652b78b46"
+        }
+    },
+    "manufacturer": "Unix Connectors",
+    "name": "UC5082-V3",
+    "prefix": "CN",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "16612084-3415-484e-97ab-63cf5a0509e5"
+}

@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1206-Tantalum-160H-10uF_25V"
+    ],
+    "base": "b5fd7779-a76a-4919-83f5-b41c4b52b842",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "1206/3216 Tantalum Cap, H=1.6mm"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "e3e7313e-dd4f-4415-8f42-096c4b917f2d",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "Tantalum",
+        "value": "1e-05",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9d9300fa-1e30-4b80-8ccf-3e283705c33e",
+    "value": [
+        false,
+        "10µF/25V"
+    ]
+}

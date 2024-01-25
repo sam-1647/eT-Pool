@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "SWITCH-SPDT",
+    "pins": {
+        "563f2260-b54b-4e5a-904a-242be16b5dd0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "6cb62d61-7432-42e9-859a-4187ee5567e7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "7a103853-dfff-40a1-8e01-8d83366d391d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "c3dbcf32-1e42-43b8-934c-eff973deb723": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5f621b9b-28fc-470e-9064-b085786df30c"
+}

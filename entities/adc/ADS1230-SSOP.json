@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "32ecb576-5f9b-44c5-b751-8bf5682fd9d2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4d0ec644-7693-4553-8e17-5406334a7c64"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "ADS1230-SSOP",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "entity",
+    "uuid": "898436d9-ea62-43d6-abb4-a93675a01134"
+}

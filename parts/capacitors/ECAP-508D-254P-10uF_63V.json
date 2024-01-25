@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "ECAP-508D-254P-10uF_63V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Electrolyic Capacitor,10uF, 63V,D=5mm, P=2.5mm"
+    ],
+    "entity": "91995397-4ece-4611-b1d4-6f92e0d3539e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "ae706d6d-52d9-433c-ba8f-bc466503c9d7",
+    "package": "dad167c1-cabf-4385-ac3d-6cb0088bdcd4",
+    "pad_map": {
+        "aae4c346-db0c-416f-933c-1754d70795a3": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        },
+        "f3469102-3ea0-4c3d-b665-937a6fc639cf": {
+            "gate": "3ed8628d-31e0-41a3-837f-f2cc37548334",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "Electrolytic",
+        "value": "1e-05",
+        "wvdc": "63"
+    },
+    "tags": [
+        "capacitor",
+        "electrolytic"
+    ],
+    "type": "part",
+    "uuid": "f089b665-2c84-47e9-a2a7-378d9d4589a1",
+    "value": [
+        false,
+        "10µF/63V"
+    ]
+}

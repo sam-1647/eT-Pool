@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "DIODE-BRIDGE",
+    "pins": {
+        "ab87c587-903f-465d-abef-e3481ac9ad2e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "N",
+            "swap_group": 0
+        },
+        "adcad978-5e6e-4bea-9cbe-598849a40f00": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P",
+            "swap_group": 0
+        },
+        "c31acece-fb23-496b-9da1-7b63939612d1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AC1",
+            "swap_group": 0
+        },
+        "e5e488c8-b13b-4a50-a76c-3ab4c510537c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AC2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a2e4e99c-66b3-4f24-ae0d-542dc3d83dff"
+}

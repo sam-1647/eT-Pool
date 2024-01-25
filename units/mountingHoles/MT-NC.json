@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "MT-NC",
+    "pins": {
+        "6b5ed56b-e472-4fc9-849d-5fa0d1e2a24c": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eadc62cb-78e9-420d-b3f0-76559c8a3dca"
+}

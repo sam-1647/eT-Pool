@@ -1,0 +1,146 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "AD5700-X-LFCSP-WQ24",
+    "pins": {
+        "0a01bb7c-9f2e-4de5-be92-e91845b4457c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF-EN",
+            "swap_group": 0
+        },
+        "27ea9fb3-4704-486d-ba9e-50f05a518d66": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HART-IN",
+            "swap_group": 0
+        },
+        "32009880-2d8f-48a4-8951-e663c61e7d95": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RTS~",
+            "swap_group": 0
+        },
+        "45dbc981-d353-4ea8-90ec-b6beb483fb32": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DUPLEX",
+            "swap_group": 0
+        },
+        "47335b6c-84fb-46c4-a987-63ebf2dd3308": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CD",
+            "swap_group": 0
+        },
+        "5b550d22-d30c-40e2-985a-74a137035451": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "6ca835bd-a835-40d6-8c92-af0f5c072ff6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "6dd2393b-0e49-4cc9-8873-1eb7719645ee": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "8827e56c-a6a2-4b39-bc3d-b76e54c0a24a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL1",
+            "swap_group": 0
+        },
+        "88fd043a-e31d-45b6-bba3-f19c33861b3b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "960977bd-ec75-44be-a457-2ce77da3c2b3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "HART-OUT",
+            "swap_group": 0
+        },
+        "992cb882-d960-4eed-be56-dd60e31e1ef5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FILTER-SEL",
+            "swap_group": 0
+        },
+        "b484253c-3234-45de-8b70-667762d4ef97": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "be0b9c4b-32e2-4243-9839-ce3a3f339b52": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "c17d9b95-462e-4f1b-b21e-1b00bc6639da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK-CFG0",
+            "swap_group": 0
+        },
+        "c257c256-fa98-4564-857a-22265c1fc6ee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK-CFG1",
+            "swap_group": 0
+        },
+        "cddee614-ccec-4548-b1b0-6b6f68dcfd53": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IO-VCC",
+            "swap_group": 0
+        },
+        "d3cc8afc-3d84-4023-a75e-5d126c56c18e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~XTAL-EN~",
+            "swap_group": 0
+        },
+        "da510435-34d1-42e9-8675-a31de61db4cf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL2",
+            "swap_group": 0
+        },
+        "dcda1e57-f982-4405-a0f2-58a9e4cc70b1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CLKOUT",
+            "swap_group": 0
+        },
+        "ea7bc464-5c79-4f7f-b1d9-b70f94bde2ad": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REG-CAP",
+            "swap_group": 0
+        },
+        "eebbce22-2e44-485d-8dd7-bbcc70b7e058": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "f15d3798-035b-4ad0-b841-4f600d3a2ae7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC-IP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ed522ef5-aff4-4cf3-8b8d-d3cfd5c4db42"
+}

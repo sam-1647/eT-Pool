@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "36931915-f8af-447b-8c92-5ba1e2e8b0fb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b408f05e-c128-4bf8-bfb6-3ddca154f9fa"
+        }
+    },
+    "manufacturer": "",
+    "name": "V-REG-3P",
+    "prefix": "U",
+    "tags": [
+        "v-reg-3p"
+    ],
+    "type": "entity",
+    "uuid": "3d4f31bb-1be3-4189-9a31-7a6dc266e7fb"
+}

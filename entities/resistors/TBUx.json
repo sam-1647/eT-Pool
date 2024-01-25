@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9da98c34-ea48-4f1b-a032-638c5059cc85": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f0722cad-db17-4000-8c15-e3cbd4a7b0b3"
+        }
+    },
+    "manufacturer": "",
+    "name": "TBUx",
+    "prefix": "TBU",
+    "tags": [
+        "resistor",
+        "tss"
+    ],
+    "type": "entity",
+    "uuid": "840d598e-8a0c-4395-941d-8b5ea0046f80"
+}

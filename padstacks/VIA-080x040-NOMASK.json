@@ -1,0 +1,78 @@
+{
+    "holes": {
+        "8386e9f9-385a-4d80-8e3e-4555957bd85e": {
+            "diameter": 400000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "VIA-080x040-NOMASK",
+    "padstack_type": "via",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "95ac01b4-d00c-4689-a212-ce76f0f7802d": {
+            "form": "circle",
+            "layer": -1,
+            "parameter_class": "copper",
+            "params": [
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "bea34e33-9634-4326-8af7-a6c29622b2b1": {
+            "form": "circle",
+            "layer": -100,
+            "parameter_class": "copper",
+            "params": [
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "d6cbd790-c641-453b-bc9b-b70c87cf39f2": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "copper",
+            "params": [
+                800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "c1de49e8-5866-4ec7-ae7c-7d4a5d066bf9",
+    "well_known_name": ""
+}

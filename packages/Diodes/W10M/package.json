@@ -1,0 +1,299 @@
+{
+    "arcs": {
+        "82c19a5f-ae52-4a37-ae64-9d1bbec6b818": {
+            "center": "a00ac330-0507-43d9-8fa8-54c7edfacef0",
+            "from": "dcc25c5d-76f3-43f4-894e-91f73f59ea36",
+            "layer": 20,
+            "to": "c682bbb5-0087-4e9e-ba50-607fd315de33",
+            "width": 100000
+        },
+        "db4d3ba4-c22a-4266-8971-71fab3391f8c": {
+            "center": "04587654-b1a2-496d-8ee9-bc8ae057c84d",
+            "from": "36fe0bef-482b-43cd-954b-2b744c2788a2",
+            "layer": 50,
+            "to": "aea6c074-00e8-4252-8b4c-e140ac9d0c47",
+            "width": 0
+        },
+        "ece57b53-6ad2-42d3-b9da-b09c767402ae": {
+            "center": "04587654-b1a2-496d-8ee9-bc8ae057c84d",
+            "from": "aea6c074-00e8-4252-8b4c-e140ac9d0c47",
+            "layer": 50,
+            "to": "36fe0bef-482b-43cd-954b-2b744c2788a2",
+            "width": 0
+        },
+        "f3e3b05d-6b69-4a7e-a3c5-e5a3447ce901": {
+            "center": "a00ac330-0507-43d9-8fa8-54c7edfacef0",
+            "from": "c682bbb5-0087-4e9e-ba50-607fd315de33",
+            "layer": 20,
+            "to": "dcc25c5d-76f3-43f4-894e-91f73f59ea36",
+            "width": 100000
+        }
+    },
+    "default_model": "689802c6-3495-467c-a0fd-528010d50a24",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 500000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "04587654-b1a2-496d-8ee9-bc8ae057c84d": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "36fe0bef-482b-43cd-954b-2b744c2788a2": {
+            "position": [
+                -2500000,
+                -5000000
+            ]
+        },
+        "42e4458a-fd42-4690-a273-d9b367c614e9": {
+            "position": [
+                -5500000,
+                3500000
+            ]
+        },
+        "53a31b4c-89d7-4839-97c1-cd6817e2832c": {
+            "position": [
+                -6500000,
+                4500000
+            ]
+        },
+        "5f179cfd-6721-4438-9219-672f322799e1": {
+            "position": [
+                -5500000,
+                5500000
+            ]
+        },
+        "623cf561-87ea-4d85-bf33-c1c536d6e5ac": {
+            "position": [
+                -4500000,
+                4500000
+            ]
+        },
+        "a00ac330-0507-43d9-8fa8-54c7edfacef0": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "aea6c074-00e8-4252-8b4c-e140ac9d0c47": {
+            "position": [
+                2500000,
+                5000000
+            ]
+        },
+        "c682bbb5-0087-4e9e-ba50-607fd315de33": {
+            "position": [
+                5500000,
+                -500000
+            ]
+        },
+        "dcc25c5d-76f3-43f4-894e-91f73f59ea36": {
+            "position": [
+                -5500000,
+                500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "6d6a1898-1c92-4b8c-addb-ba12624a7f3c": {
+            "from": "623cf561-87ea-4d85-bf33-c1c536d6e5ac",
+            "layer": 20,
+            "to": "623cf561-87ea-4d85-bf33-c1c536d6e5ac",
+            "width": 200000
+        },
+        "cf521c65-61df-46ae-a2ad-f917a90fde56": {
+            "from": "53a31b4c-89d7-4839-97c1-cd6817e2832c",
+            "layer": 20,
+            "to": "623cf561-87ea-4d85-bf33-c1c536d6e5ac",
+            "width": 200000
+        },
+        "f6cfe5e9-4cfa-4303-b6cd-4c34e3b9744c": {
+            "from": "5f179cfd-6721-4438-9219-672f322799e1",
+            "layer": 20,
+            "to": "42e4458a-fd42-4690-a273-d9b367c614e9",
+            "width": 200000
+        }
+    },
+    "manufacturer": "Diodes Inc",
+    "models": {
+        "689802c6-3495-467c-a0fd-528010d50a24": {
+            "filename": "3d_models/Diodes/Diode_Bridge_Round_D9.8mm.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": -2498740,
+            "y": 2540000,
+            "yaw": 0,
+            "z": 1200000
+        }
+    },
+    "name": "W10M",
+    "pads": {
+        "02783a18-57ee-4f45-926e-770aa59fc649": {
+            "name": "AC2",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_diameter": 3000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    2500000
+                ]
+            }
+        },
+        "159beb19-c258-4df2-b26c-57957b37b18d": {
+            "name": "P",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_diameter": 3000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    2500000
+                ]
+            }
+        },
+        "97a12630-6d9f-4ab8-a985-34ac0d440fdc": {
+            "name": "AC1",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_diameter": 3000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    -2500000
+                ]
+            }
+        },
+        "e535f3fb-a932-4ff0-acad-4420effd7a3c": {
+            "name": "N",
+            "padstack": "394f3e74-fde4-44ae-8a93-3eaa02a67660",
+            "parameter_set": {
+                "hole_diameter": 1000000,
+                "pad_diameter": 3000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    -2500000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "2373fb1a-8a9b-4019-85d7-1353fd4b0bfe": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        6000000,
+                        -500000
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -6000000,
+                        500000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "bridge"
+    ],
+    "texts": {
+        "1e814c47-9875-4115-97c4-e507f76b0d3e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2000000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        },
+        "1f142037-d88a-436d-9280-e13a2bd7eda7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1500000,
+                    -7000000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "64d7ecde-bc25-4982-b767-04d27560ea4d"
+}

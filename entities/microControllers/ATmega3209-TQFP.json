@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "7d5c022d-0f34-4bda-ac86-bdb91eb1d20a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "01b3b1a7-6f06-4bae-9f6e-6772a43e38ec"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATmega3209-TQFP",
+    "prefix": "U",
+    "tags": [
+        "avr"
+    ],
+    "type": "entity",
+    "uuid": "8d525140-50c4-4751-9669-a8144fc20619"
+}

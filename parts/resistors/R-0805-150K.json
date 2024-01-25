@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-150k"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "150k 0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "150000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "eb5682cf-e54f-436f-b9de-ba0190ac74a4",
+    "value": [
+        false,
+        "150kΩ"
+    ]
+}

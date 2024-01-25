@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Inductor-2p-Core",
+    "pins": {
+        "1e55dc28-bccb-492f-9e87-2742684d12ef": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "5929d14f-099f-4b6f-b9f9-8cf81554f39a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5647aa36-7090-4dc2-8dca-07008791e477"
+}

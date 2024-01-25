@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "HS-PI49-NC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Precious Industries PI-49 Heatsink with 2x3mm Mounting"
+    ],
+    "entity": "ce4b1609-d417-4d41-979d-b7165705140f",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "clear",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "80cc0c89-5c16-4416-a564-f2b4be97478f",
+    "package": "73a3a333-f45f-492f-b70e-f89bdf2f7983",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "heatsink"
+    ],
+    "type": "part",
+    "uuid": "2598bb7d-018d-403d-a1ba-ff19b5485255",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "060dcb22-af82-4649-9491-8914ecb608da": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "598bd5f9-f39c-44ef-986d-e94e1a6ca77f"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATMEGA8-TQFP",
+    "prefix": "U",
+    "tags": [
+        "avr",
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "cde462eb-2320-4d2e-ad36-a88d4dbb63aa"
+}

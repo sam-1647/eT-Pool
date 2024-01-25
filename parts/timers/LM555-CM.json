@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "LM555-CM"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Timer"
+    ],
+    "entity": "42685c7a-f5f5-4009-bb66-9ec1f62de2b9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "National Semi"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "orderable_MPNs": {
+        "35a37208-b84d-4456-9f4b-731b0e7bf5c0": "LM555-CM"
+    },
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "52a05855-e982-4b39-9ff7-a98cf3ab0321"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "7c764b3c-1fa5-4fc6-9476-3d1d2ce1de4e"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "037213f3-e0fb-4047-81e8-9e3a1c043d7c"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "db104134-657a-4163-a650-8d3f92f3d662"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "9697cb1e-12a0-4d7e-8204-2765fc4e497a"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "e5d8d1c0-d951-4229-8fc1-34b7a2b7b82c"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "1feb4b56-21f2-48fa-b8f4-63252366f131"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "274be09e-74eb-4d75-9add-bd0b94a5134d",
+            "pin": "0fc520c5-a10f-472f-b70e-a35fc48eef5e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "timer"
+    ],
+    "type": "part",
+    "uuid": "654b9625-2212-4b56-856f-06cb7e7784a2",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "MPN": [
+        false,
+        "UC5082-V12"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12Way, Screw Terminal Block, P=5.08mm"
+    ],
+    "entity": "dbfb80bf-4a40-45fe-9e50-ff8be350fde6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "d59f0a79-61ee-4aa2-85ac-5f69de1d0316",
+    "orderable_MPNs": {
+        "22c316dd-92ba-4425-91ee-01b7bf7b96be": "UC5082-V12"
+    },
+    "package": "c9aee637-9680-4251-acbb-32c20de8ed0b",
+    "pad_map": {
+        "05b2832f-edea-4e43-a82e-19ecf271ef85": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "f521d634-2d75-4a17-8a78-b79af0a2d757"
+        },
+        "2c5f25c9-782c-4dff-b649-31217583fae5": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "2d2996f5-c695-4266-8e60-d6981b866b13": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "46a2bb03-f52f-4782-a1d4-29fb359cc781": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "7567b2ef-200f-4b36-a789-7f6cc3ad6678": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        },
+        "7d5856e3-e879-4ce0-8ddf-2a5319d263f9": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        },
+        "7efe50da-3ca1-4dbf-a69a-6a1bf262d096": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "866bf1e8-4fb9-4d6b-9f97-3e4b2ac131b6": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "9bc3af64-ba09-452f-88fc-46dacbc6d014": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "c909728f-a203-4b1f-ab80-05acbbf2dcba"
+        },
+        "b940256e-ebf7-41e7-aafc-ea0fd69bdd12": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "9379b0f6-daf6-45f9-81db-f53282aec630"
+        },
+        "c3bc0734-0f20-4ad4-86a4-ded5ca67716f": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        },
+        "f4d65005-8e71-4c17-b5bd-a0b1b7822c9c": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn"
+    ],
+    "type": "part",
+    "uuid": "9f9cb93c-bcf0-4c51-b79c-2fedc21d49f3",
+    "value": [
+        false,
+        ""
+    ]
+}

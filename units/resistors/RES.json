@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "RES",
+    "pins": {
+        "39d5d4c8-0f29-4eb4-96dd-b96299c59dc5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "da27383d-b98f-42bf-a254-7b6261fbeb4c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3661dfe8-b316-458c-b83d-fcaad4d2d15c"
+}

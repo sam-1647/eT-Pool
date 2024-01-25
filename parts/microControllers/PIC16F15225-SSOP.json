@@ -1,0 +1,99 @@
+{
+    "MPN": [
+        false,
+        "PIC16F15225-SSOP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "PIC16, 14kB Flash, 1kB RAM8-BIT Enhanced Core MicroController"
+    ],
+    "entity": "bd6d93c7-6995-4832-b4f4-53511f8177a0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "031ad20a-9e79-459e-a1ab-444f8af660bb",
+    "orderable_MPNs": {
+        "08c0a0a5-396c-46ea-b0d0-f8a4ee9abdda": "PIC16F15225-I/ST",
+        "17bf974c-49b3-4a0c-a4a5-af36b459ea30": "PIC16F15225-E/SS",
+        "4166fb80-140a-4e90-a827-db5aab707e6e": "PIC16F15225-I/SS",
+        "740e9816-3561-4ce0-bd32-66f6c1e8efbb": "PIC16F15225-E/ST"
+    },
+    "package": "5c78b0c6-6f2d-49ce-81b7-d9847e5c11b1",
+    "pad_map": {
+        "176cacf5-167f-4a8c-bc09-b44f1c48545b": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "99211827-8d53-4241-b528-81a48c70b1eb"
+        },
+        "399686a4-d0e4-41e4-87cf-56dd3f0649b2": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "8de27d70-4569-4dbb-9d8b-f218e3798340"
+        },
+        "3d293353-eba7-4423-a140-931b5bf98d4a": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "db482010-c611-4033-9514-de68a6f573a0"
+        },
+        "45fd9d2b-8eaa-47b5-8541-823f2f1c1478": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "954295d5-442b-4477-8adb-7c2fd7bcfa47"
+        },
+        "57e36e29-0797-4c35-93d9-a6a1c36e0db6": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "f25b0aa1-8416-461a-9ed1-e2b04d88bc08"
+        },
+        "7b4bbf94-87b8-4083-958c-7b69d8a62fd8": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "28f19004-c821-43ae-88b0-d85c4bbd0edf"
+        },
+        "8b01e4aa-ca09-4012-9f34-a58c042d7618": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "f71b5957-63a6-49f8-ad9e-79120b0c1d45"
+        },
+        "afbcac2f-8893-4ab6-9438-8272ae5b8a7b": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "f484a7de-e044-4c0b-bbe3-7cd5e994a212"
+        },
+        "c4892a2f-7815-4aab-a4a0-44cd69ea1cae": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "b6042857-f470-44ee-80ad-c26727d9a992"
+        },
+        "c610a3f8-0e36-464f-8a63-cbe923c8b13a": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "4917aae7-92b4-4b15-8672-ecb1bb43d112"
+        },
+        "ceed2679-08ed-4084-84d3-7a1f82b99383": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "25eb6447-76c6-4397-89ee-11c7463af917"
+        },
+        "d87c4a40-81bb-4ec8-b91f-990721f45a0e": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "ccc79b03-599c-4887-880a-269e9fc45c6a"
+        },
+        "dc9b31be-e2e4-4dc0-af58-44beb1a35387": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "2cbc42ee-93a1-4bba-b5c9-7363521cc31d"
+        },
+        "fd38bfc0-9621-4f12-b581-8c4191a44787": {
+            "gate": "7d39f859-62e5-47ee-8494-eecb670f5af9",
+            "pin": "70f8186e-31ad-49fb-b2c5-b42da326f09b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "pic16",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "3960ce7c-ba6d-4629-bc62-1ebdfb9daebd",
+    "value": [
+        false,
+        ""
+    ]
+}

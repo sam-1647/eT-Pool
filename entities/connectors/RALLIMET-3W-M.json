@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3b3429db-1049-475f-b6df-5b9a47009c3f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a2e1738c-6f99-44e5-a877-a13652b78b46"
+        }
+    },
+    "manufacturer": "Rallimet",
+    "name": "RALLIMET-3W-M",
+    "prefix": "CN",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "f3923a4f-8657-47b0-a85d-5fbfb073dc72"
+}

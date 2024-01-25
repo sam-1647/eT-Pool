@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "CONN-8x1",
+    "pins": {
+        "35aab425-e9b3-4b1e-9a22-24bd08bd089b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "87aeaec5-c3ba-4d57-8947-6899d46756d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "88e925ca-65df-49ec-8a29-b7e5ea080e21": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "a8adab93-4e92-4a35-992c-d238f4862165": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "b0d88104-8a4c-47ea-9377-24f95f238a9f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "ba38a8d9-7b21-432b-a19d-0721d554f15c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "e083c2c1-0e5a-40dc-934f-4d038addb317": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "fc3a28a2-8ff7-400b-b20e-e70f7e843d04": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "05f743b4-0445-4189-940a-2662309d2f97"
+}

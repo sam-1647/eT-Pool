@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "274be09e-74eb-4d75-9add-bd0b94a5134d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d7a089e9-7a3b-4cc0-919d-1c4a2dd94d55"
+        }
+    },
+    "manufacturer": "National Semi",
+    "name": "LM555",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "timer"
+    ],
+    "type": "entity",
+    "uuid": "42685c7a-f5f5-4009-bb66-9ec1f62de2b9"
+}

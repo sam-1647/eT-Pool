@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Titan Micro",
+    "name": "TMS1637-SO",
+    "pins": {
+        "054f151c-c9ad-422c-a17b-424e77b72c8d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID4",
+            "swap_group": 0
+        },
+        "2c95c6f0-f79d-4d59-a2e3-ff3512fe320d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID1",
+            "swap_group": 0
+        },
+        "3df5ccc3-0460-4bcb-867d-762a70e45b03": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID5",
+            "swap_group": 0
+        },
+        "43aeaf68-8e34-419d-a4f8-9c620d9fb2ea": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DIO",
+            "swap_group": 0
+        },
+        "4f7aef1f-3a7f-4e94-8d35-4b421d5e8933": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K1",
+            "swap_group": 0
+        },
+        "69f97ac0-0a1c-493c-abc8-6f8b4db85be8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "6bd48685-b5c4-47c7-8d49-db2243f33efc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "751e4df1-850b-44f5-954f-0802fb2b017b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG5/KS5",
+            "swap_group": 0
+        },
+        "7b29a85c-3041-4a73-a66e-78c0bfc682a0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG8/KS8",
+            "swap_group": 0
+        },
+        "801d5c82-3004-4771-bcf3-a2695b90b833": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID2",
+            "swap_group": 0
+        },
+        "9e6d2b45-181d-462a-a77b-bef7948748bc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG7/KS7",
+            "swap_group": 0
+        },
+        "a2c8d44b-4533-48f4-8c96-e955b7436ab6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K2",
+            "swap_group": 0
+        },
+        "a32f8310-5277-45bf-9cac-9276d4cb68c8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG6/KS6",
+            "swap_group": 0
+        },
+        "ab641a00-ec2d-4c03-a532-b17ac0bd079c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG3/KS3",
+            "swap_group": 0
+        },
+        "b9c6c538-39b0-472a-9134-160d6bafe68c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG2/KS2",
+            "swap_group": 0
+        },
+        "cd2e7e1c-2538-4084-8230-7cb9d773d7b0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "db15b2e7-6683-4f1f-9167-8bc21e7d529c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID3",
+            "swap_group": 0
+        },
+        "e50ebe78-954e-41dc-9a95-fd40680c746c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GRID6",
+            "swap_group": 0
+        },
+        "e63520cf-bc30-4284-9f49-6f88b25e9476": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG1/KS1",
+            "swap_group": 0
+        },
+        "f019358d-5e58-4072-97ea-ae7cef17a70c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SEG4/KS4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5a147ebd-99ab-49a3-b3bc-cf7700aaa90a"
+}

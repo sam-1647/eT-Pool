@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6a24234c-d6ea-42af-ac77-697910cb02d5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ffc8df01-6e2c-4056-ad7f-8a06213effab"
+        }
+    },
+    "manufacturer": "",
+    "name": "FRC-7x2",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "frc"
+    ],
+    "type": "entity",
+    "uuid": "e0b26254-f137-4a7e-b352-13cb3bf734ec"
+}

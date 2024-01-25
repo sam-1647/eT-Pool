@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "RELAY-DPST",
+    "pins": {
+        "052edf91-ecb6-4034-95c3-87620b06fb6a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P1",
+            "swap_group": 0
+        },
+        "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "NO",
+            "swap_group": 0
+        },
+        "38ec4e0e-28fa-4f24-a6cc-fa091c67e755": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "59e01f7d-c83c-4559-968b-7a5271d6edbb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P2",
+            "swap_group": 0
+        },
+        "7dc78893-c580-44fd-b85c-1c693c34ba37": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1",
+            "swap_group": 0
+        },
+        "a7e2dce4-2244-4e22-9f56-f268beeeb0cc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2c55a5b5-3cc0-4e66-bc5c-093111342fc9"
+}

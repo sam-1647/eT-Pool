@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "3296W-10k"
+    ],
+    "base": "3088e5b9-2e88-41e8-875a-76b11e5637a2",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "10-Turn Precision Trimmer"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "ce051620-e189-4123-a2ba-5fd28cb8106c",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3e89036f-42ef-4af2-984a-6f2fce72ee8c",
+    "value": [
+        false,
+        "10kΩ"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "C-1206-X7R-22pF"
+    ],
+    "base": "b98e886a-1ce1-41ef-a4c9-0b0ecd31d532",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "Generic 1206 NonPol Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Kyocera"
+    ],
+    "model": "5da1cc2e-2545-4cf4-9cfe-50917da1066c",
+    "orderable_MPNs": {
+        "834136e0-ebb7-4f3f-a790-51dee2650f81": "12065C220JAT2A"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "2.2e-11",
+        "wvdc": "50"
+    },
+    "tags": [
+        "1206",
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "3d78b971-84f6-4dc9-9837-62e9c561da1d",
+    "value": [
+        false,
+        "22.00 pF"
+    ]
+}

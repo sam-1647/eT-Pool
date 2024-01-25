@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "XTAL-2P",
+    "pins": {
+        "a0999c9c-f4fa-4928-adda-545bde5b2f98": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "e11e08ca-b3cd-4830-9294-fda32b21b51b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0ed3a35d-8269-4834-a8b4-09cd68f42515"
+}

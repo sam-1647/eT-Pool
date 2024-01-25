@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "UC5082-V3"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3Way,Female Connector,P=5.08mm"
+    ],
+    "entity": "16612084-3415-484e-97ab-63cf5a0509e5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "f260988a-b4ec-47a9-8bf3-4f6969fe9bf3",
+    "package": "ff68a7bd-cd5c-4a49-b0bd-98850e405bb4",
+    "pad_map": {
+        "2c5f25c9-782c-4dff-b649-31217583fae5": {
+            "gate": "45c4f2d6-a76f-4c28-98c3-22b5a9b30a0c",
+            "pin": "a179c298-5695-47c4-92cb-bb8249797847"
+        },
+        "7d5856e3-e879-4ce0-8ddf-2a5319d263f9": {
+            "gate": "45c4f2d6-a76f-4c28-98c3-22b5a9b30a0c",
+            "pin": "c047928d-1f57-461e-8de5-8c9f7f9d3e56"
+        },
+        "7efe50da-3ca1-4dbf-a69a-6a1bf262d096": {
+            "gate": "45c4f2d6-a76f-4c28-98c3-22b5a9b30a0c",
+            "pin": "96a91a5d-7491-40e4-b96f-8b2d67332d84"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "female"
+    ],
+    "type": "part",
+    "uuid": "365e1874-1501-4182-8af3-05d3c2f31ddb",
+    "value": [
+        false,
+        ""
+    ]
+}

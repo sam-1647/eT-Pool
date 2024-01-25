@@ -1,0 +1,73 @@
+{
+    "holes": {},
+    "name": "SMD obl",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ pad_width ]\nget-parameter [ pad_height ]\ndupc dupc\nset-shape [ pad obround ]\n\nget-parameter [ solder_mask_expansion ]\n2 *\n+xy\nset-shape [ mask obround ]\n\nget-parameter [ paste_mask_contraction ]\n2 *\n-xy\nset-shape [ paste obround ]",
+    "parameter_set": {
+        "pad_height": 1000000,
+        "pad_width": 1500000,
+        "paste_mask_contraction": 25000,
+        "solder_mask_expansion": 25000
+    },
+    "parameters_required": [
+        "pad_width",
+        "pad_height"
+    ],
+    "polygons": {},
+    "shapes": {
+        "00ed5cc0-61e2-4b79-8e60-80155e4d23a5": {
+            "form": "obround",
+            "layer": 30,
+            "parameter_class": "paste",
+            "params": [
+                1450000,
+                950000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "39e47b4e-0f0e-459f-8ffe-f12dfc6fd6a8": {
+            "form": "obround",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                1500000,
+                1000000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "ba30ab7a-51d2-405d-96b2-2f362171e6f8": {
+            "form": "obround",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                1550000,
+                1050000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "a9f6f085-51c0-45c2-b00c-6255f96bd28e",
+    "well_known_name": "smd obl"
+}

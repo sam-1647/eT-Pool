@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "4425e28a-fc08-460a-bc06-a29b92e9a1bd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0ed3a35d-8269-4834-a8b4-09cd68f42515"
+        }
+    },
+    "manufacturer": "",
+    "name": "XTAL-2P",
+    "prefix": "X",
+    "tags": [
+        "xtal"
+    ],
+    "type": "entity",
+    "uuid": "1b8a78bf-b3d7-455e-8736-3d767c8d8567"
+}

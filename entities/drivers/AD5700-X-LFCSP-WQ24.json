@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "6d4f86e7-3007-4bf4-8252-595b2b49e5cc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ed522ef5-aff4-4cf3-8b8d-d3cfd5c4db42"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "AD5700-X-LFCSP-WQ24",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "hart",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "b16f2b59-991f-4cff-9633-3dfc0136a8b5"
+}

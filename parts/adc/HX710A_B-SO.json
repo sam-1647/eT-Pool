@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "HX710A_B-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "24-BIT Sigma-Delta ADC"
+    ],
+    "entity": "13af0bb3-0d4c-4a5f-bcf6-b55357a356a2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AVIA Semiconductors"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "orderable_MPNs": {
+        "a18cc1b8-8e63-40fd-8b42-4a57572cfdd9": "HX710A-SO",
+        "f0970fcb-d2cd-43fe-8ed4-f3429590d372": "HX710B-SO"
+    },
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "4e27392c-0ffd-40ec-b5b3-d53286863669"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "3324db26-0b8a-4a33-9cd7-29e6b7217368"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "c2d73a0a-52b4-4c6b-849d-70d5e7c9f9a3"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "064cc1df-f474-44e6-9075-6c77b8454972"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "d8574632-95fb-439f-a518-2a9f0c1f1980"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "d1363d18-0ed8-4efd-8547-49fbbd1ec643"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "8521da97-ac9c-47d2-91af-7c56122779b6"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527",
+            "pin": "c01c3a1a-1757-4335-8b1b-8dd0eb76776f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "part",
+    "uuid": "338923e5-a0e7-4110-865e-34b9b472cd5f",
+    "value": [
+        false,
+        ""
+    ]
+}

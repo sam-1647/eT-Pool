@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TVS-SMBJ-24-A-SMB"
+    ],
+    "base": "0e581893-5d4d-444b-8698-f8bd5827715a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "Unidirectional TVS Diode"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "f8607ec7-6742-446f-8fe9-1e1cd7cc4122",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f596e44b-d6e7-4c2f-9ac1-fd5c5085627e",
+    "value": [
+        true,
+        "TVS-SMBJ-XXX-A-SMB"
+    ]
+}

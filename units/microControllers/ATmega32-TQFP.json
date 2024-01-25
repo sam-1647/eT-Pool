@@ -1,0 +1,248 @@
+{
+    "manufacturer": "Microchip",
+    "name": "ATmega32-TQFP",
+    "pins": {
+        "044d900b-58f5-4b4d-911c-464c41156ff5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC5/PA5",
+            "swap_group": 0
+        },
+        "0a3a1359-7d12-4dc5-bd82-00bda2c41ef9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ICP/PD6",
+            "swap_group": 0
+        },
+        "139e5bf3-d9db-4883-8aa0-ef163478bcb1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "1879df71-fdf4-4fe6-b0b1-b48fd00cb82e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OC2/PD7",
+            "swap_group": 0
+        },
+        "270d10a8-8500-418c-9d53-4927f2ee519b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISP-MISO/MISO/PB6",
+            "swap_group": 0
+        },
+        "2bceaaaf-b7f3-4eec-8e55-fe503f90bbea": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "T1/PB1",
+            "swap_group": 0
+        },
+        "2eefbfbe-e5a1-4103-8519-d4b9d6524e5c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC7/PA7",
+            "swap_group": 0
+        },
+        "35fa1d61-4368-40e9-82b2-3f7201d1f437": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC4/PA4",
+            "swap_group": 0
+        },
+        "418cf228-2b6f-430e-98d8-92a22bb5aba7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INT0/PD2",
+            "swap_group": 0
+        },
+        "4aef05fa-6f2d-44f3-917f-4dc19960308d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC0/PA0",
+            "swap_group": 0
+        },
+        "60069607-b914-4608-9870-56d79d3e5d9c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC2/PA2",
+            "swap_group": 0
+        },
+        "6633ae0b-4a9b-4d0d-b7d2-57052140f10c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "70c05cce-283c-4e79-825b-f2774f08ef54": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL/PC0",
+            "swap_group": 0
+        },
+        "719a2e9e-f7c5-4152-88f7-4623bf39c090": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TOSC2/PC7",
+            "swap_group": 0
+        },
+        "72485297-5fc9-4ec4-acbe-7f284fbaaed3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AINT1/OC0/PB3",
+            "swap_group": 0
+        },
+        "74429d97-374f-4018-a8e1-834f76415f74": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL1",
+            "swap_group": 0
+        },
+        "7b884416-de76-44da-8434-4d26eab8ad0d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TMS/PC3",
+            "swap_group": 0
+        },
+        "7cef3f2a-1afe-463a-8e89-6fe299a9ad85": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC1/PA1",
+            "swap_group": 0
+        },
+        "7ed02ce0-5a79-4d79-aa8f-a50749943fbb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TDI/PC5",
+            "swap_group": 0
+        },
+        "81fde50d-d451-4cb5-bd59-d1fd230dc96d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RXD/PD0",
+            "swap_group": 0
+        },
+        "883febdc-ae8d-41a5-be1b-05af652d7725": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "AREF",
+            "swap_group": 0
+        },
+        "90e81ec4-36eb-4f25-900e-48d3b99d6172": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~SS~/PB4",
+            "swap_group": 0
+        },
+        "91e9579d-82c8-4414-9a19-f0ef8d4f95dc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISP-MOSI/MOSI/PB5",
+            "swap_group": 0
+        },
+        "92c999d5-97fc-4880-b14a-87965bece05b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a12930a1-e173-4f87-aa6d-2fb3d85a27bb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC3/PA3",
+            "swap_group": 0
+        },
+        "aa3583bc-92a3-45c6-a286-8b9d004548d9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TCK/PC2",
+            "swap_group": 0
+        },
+        "ae3f7811-69c1-402a-96bd-31727c301375": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OC1A/PD5",
+            "swap_group": 0
+        },
+        "b0a875bf-a2b1-4928-957d-596a5894bc66": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA/PC1",
+            "swap_group": 0
+        },
+        "b532ef67-df53-4fa0-9111-59cc339c4406": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "T0/XCK/PB0",
+            "swap_group": 0
+        },
+        "bba2faed-0f06-43b4-ae5f-1b78fe8247be": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL2",
+            "swap_group": 0
+        },
+        "c376c05c-cebc-4973-bebe-31062a1d8529": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TOSC1/PC6",
+            "swap_group": 0
+        },
+        "c49c466a-4e45-4400-a470-177a5301f4b9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "AIN0/INT2/PB2",
+            "swap_group": 0
+        },
+        "c4f36140-08ce-4515-b9a1-5c6eb523485c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TDO/PC4",
+            "swap_group": 0
+        },
+        "c8ed41ed-0a05-4de9-972e-2eecfb813370": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TXD/PD1",
+            "swap_group": 0
+        },
+        "ca2d86b1-09e5-438b-a5a4-29c308b5c3cd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVCC",
+            "swap_group": 0
+        },
+        "d1540de8-a7c0-41de-a16b-00f58e0c919d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "INT1/PD3",
+            "swap_group": 0
+        },
+        "d49ffa27-eafa-488c-a208-0c6eb925d0c0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ISP-SCK/SCK/PB7",
+            "swap_group": 0
+        },
+        "dcb92c9d-6691-4936-bd9d-958a401d744c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "fc6fcfb2-3588-4806-ad2c-51b2b16d3647": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADC6/PA6",
+            "swap_group": 0
+        },
+        "ffff49c5-10a3-4c37-842e-70ddee90984f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "OC1B/PD4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "97633fc9-dad4-4ba5-bfd2-9fa88e333a56"
+}

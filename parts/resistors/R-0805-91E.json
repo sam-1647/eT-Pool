@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-91E"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "91E, 0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "91"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "bdac9047-7c16-4c67-8999-c64b2915f3fd",
+    "value": [
+        false,
+        "91Ω"
+    ]
+}

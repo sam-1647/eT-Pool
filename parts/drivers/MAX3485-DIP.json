@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "MAX3485-DIP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "+3V3 RS485 Transceiver"
+    ],
+    "entity": "485e5ad8-db45-49a0-afca-a6158c4f522e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "7fb617ac-a584-49b3-90be-8c60f76b67c5",
+    "orderable_MPNs": {
+        "1d6fa72c-b8de-410e-aff1-702115ea82d3": "MAX3485EPA",
+        "b27b4251-ac04-48c6-9cf5-68f138d847d8": "MAX3485CPA"
+    },
+    "package": "185954d6-63b3-4280-af72-a9fd57f467da",
+    "pad_map": {
+        "0b918593-e249-4502-b329-7bf7fb264225": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "57b9a1cc-f538-422a-a77d-df339b45b484"
+        },
+        "17609743-1ab5-4cbc-87b4-2d550a803bf4": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "347f4ca8-4137-4f75-a759-d08de8a3f7dc"
+        },
+        "2e2ff7f8-89b2-47f6-a4f8-27de20212222": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "95f54c14-81eb-4920-acc8-aeee5f880892"
+        },
+        "5942631c-a75e-4408-8f8e-9960dc8018fa": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "1ff52e08-1a8e-41c2-850e-a39329e3b051"
+        },
+        "714112bb-08c0-4246-8c86-ff9b93ad804b": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "a9175807-423c-4523-b4a2-f4dd8dd26cc8"
+        },
+        "79003720-6378-4df1-bb83-8061ac5eaac7": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "36f86288-35a2-4fa7-ae67-6f5f507f594e"
+        },
+        "fa178c13-51eb-4ba4-8482-eb27bdbff742": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "fd05daa1-3133-4877-b689-af07908536be"
+        },
+        "ff4878ce-41b4-4569-9d0f-9d30d21a37ac": {
+            "gate": "9eaed040-4b02-4c00-bdca-a25228f83745",
+            "pin": "a95fb1ff-3d92-49e2-85ac-f87f3ea4d035"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "driver",
+        "rs485"
+    ],
+    "type": "part",
+    "uuid": "050b44ac-fe7b-43b8-8474-9faa031ce891",
+    "value": [
+        false,
+        ""
+    ]
+}

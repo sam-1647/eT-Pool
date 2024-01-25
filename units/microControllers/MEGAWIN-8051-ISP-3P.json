@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Megawin",
+    "name": "MEGAWIN-8051-ISP-3P",
+    "pins": {
+        "a9994aa6-d8da-473f-ac73-abadaf22d1e0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d1c8f565-b378-4b5d-bb64-f0edbd65633a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P31/TXD",
+            "swap_group": 0
+        },
+        "e6c0c941-d074-47c6-895a-140869948e9a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dacc48b7-3a63-4442-94e3-9156f2f23ab0"
+}

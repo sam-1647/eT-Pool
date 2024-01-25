@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "CR2032-SUNROM-3731"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "CR2032 Battery Holder SMD"
+    ],
+    "entity": "158e25bf-650e-4ff6-9a66-c36cbab0f294",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "448b4243-5360-4053-80d2-0306c7ce648c",
+    "package": "4020a7b2-1a3f-44c9-8e87-9b76fb40099c",
+    "pad_map": {
+        "0750dd34-9ac2-41eb-ba1a-e9accbfc5377": {
+            "gate": "d7a1d7a6-dd12-4d56-b56a-98331eeb2b37",
+            "pin": "6bd320ef-1a81-487d-9505-f0291098c2ed"
+        },
+        "69fa8b48-ec7d-4793-93e9-843c662d0cf3": {
+            "gate": "d7a1d7a6-dd12-4d56-b56a-98331eeb2b37",
+            "pin": "6bd320ef-1a81-487d-9505-f0291098c2ed"
+        },
+        "b1c10fed-6a98-4530-b71f-4e7a43732691": {
+            "gate": "d7a1d7a6-dd12-4d56-b56a-98331eeb2b37",
+            "pin": "220e31a7-f1b0-4f24-a146-68b574d0c578"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "holder"
+    ],
+    "type": "part",
+    "uuid": "fd79ad4f-ec8b-4ac0-bfda-b5f79f598be9",
+    "value": [
+        false,
+        ""
+    ]
+}

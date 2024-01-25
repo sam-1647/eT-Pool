@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "f6c59d5d-0f44-437a-ad45-279c30d9b6b8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a224a4ed-4570-4d9c-8ca1-3f2ee7d00c32"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "DS18B20",
+    "prefix": "U",
+    "tags": [
+        "onewire",
+        "temp"
+    ],
+    "type": "entity",
+    "uuid": "0809a3a6-acc5-45f8-9830-d26dc446d045"
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "AVR-ISP-3x2",
+    "pins": {
+        "64f16bd7-4a52-451c-8860-cf71c99dd1c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RST",
+            "swap_group": 0
+        },
+        "99decd33-62f2-496b-a28c-8301e86f1c0d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "9f45b887-a53b-448d-b30b-293d1dfadd98": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VTG",
+            "swap_group": 0
+        },
+        "e2de8ea8-6c13-4139-beba-c0325d561a21": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e61856f7-bd61-4dd9-a942-4c8519386d02": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "e736cc95-d98b-4338-beda-64924ad27549": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3b63b23b-a511-4b8b-9760-5af23b6e23b2"
+}

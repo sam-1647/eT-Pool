@@ -1,0 +1,33 @@
+{
+    "manufacturer": "",
+    "name": "R-VAR",
+    "pins": {
+        "0dd5abd5-dd57-496a-84e9-adaff898ccce": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CCW",
+            "swap_group": 1
+        },
+        "28e34869-b366-4bdc-ad9c-37448b360d38": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CW",
+            "swap_group": 1
+        },
+        "44b00206-9d6d-4d75-a439-283d439b15fa": {
+            "alt_names": {
+                "9251d5a5-6c95-552f-b241-a22c61860edf": {
+                    "direction": "passive",
+                    "name": "Wiper"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "P",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e37366bf-ff02-442f-9b45-f007b0932e7c",
+    "version": 1
+}

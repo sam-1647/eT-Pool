@@ -1,0 +1,29 @@
+{
+    "holes": {
+        "7e6f6095-0a65-4ff0-aadf-d3cbed9e402e": {
+            "diameter": 3200000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": false,
+            "shape": "round"
+        }
+    },
+    "name": "HOLE-320",
+    "padstack_type": "mechanical",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "ee5a8384-b1c9-4075-a053-6a1e32efa82a",
+    "well_known_name": ""
+}

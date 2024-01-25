@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "SSC54-SMC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3A Schottky Diode"
+    ],
+    "entity": "e4bbc589-8d35-413c-95ca-9810ebe0ba35",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "50a125d4-80e8-4f83-9c1d-af81e92af6f1",
+    "package": "32093afa-eea4-47a7-a7e6-37ec4444efae",
+    "pad_map": {
+        "10cbca38-5cd2-4ef2-ad59-babc74872063": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        },
+        "d90afb1a-4e88-4154-9bb3-808d0f8c5d1f": {
+            "gate": "ded21b2b-58c1-48be-84cd-6109a5c02bc4",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "schottky",
+        "smc"
+    ],
+    "type": "part",
+    "uuid": "2c1a40ac-21d1-46ed-8fda-0e6cddf63cd0",
+    "value": [
+        false,
+        ""
+    ]
+}

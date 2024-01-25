@@ -1,0 +1,62 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "eT-WM-MODULE-HX711",
+    "pins": {
+        "0ab29eb3-a070-40ec-8787-949862667fad": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RATE",
+            "swap_group": 0
+        },
+        "175ab968-670c-4d7a-ae50-f030ba7064e6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+VCC",
+            "swap_group": 0
+        },
+        "22f766cf-c11a-4f57-8df7-b8f25e9ad306": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E-",
+            "swap_group": 0
+        },
+        "383a23c1-d432-4f3b-9a92-6e56d093e58b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "4d3fa26b-3184-4c9b-9612-033614b5d167": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI-SCLK",
+            "swap_group": 0
+        },
+        "5c8d63d4-55e2-4f32-b49e-c9a3697fe737": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S+",
+            "swap_group": 0
+        },
+        "861bcb1e-6d24-42ed-b8c3-15beda2fdd76": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPI-MISO",
+            "swap_group": 0
+        },
+        "8c680c68-b73f-4e15-82be-b14fbd89dfc8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S-",
+            "swap_group": 0
+        },
+        "8f05c85d-4c0d-417b-a0c2-6c76c6ce55a7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "52483345-92ba-4709-a72d-371ce195cca2"
+}

@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "LED-1206"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "LED 1206"
+    ],
+    "entity": "c33e09b0-2313-4055-bddc-e1d96de84fd4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "c8fa0cff-1a5f-4725-89e6-471cf3d4508b",
+    "package": "850432f6-f3c1-474f-bc62-897555d52958",
+    "pad_map": {
+        "29418d0b-126b-48b5-8eed-702355db1e00": {
+            "gate": "11a72710-3a35-4d48-891c-6ef720ced395",
+            "pin": "17bb7518-b804-49bc-97fe-b33caa43118b"
+        },
+        "eab06864-4c50-4c3d-bc1b-f5119a3cdaa4": {
+            "gate": "11a72710-3a35-4d48-891c-6ef720ced395",
+            "pin": "a3bffc32-360f-4827-b2de-a7d46102d4d5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1206",
+        "led"
+    ],
+    "type": "part",
+    "uuid": "0a9ef23b-99d1-4518-8c47-7ee1f4502ff9",
+    "value": [
+        false,
+        ""
+    ]
+}

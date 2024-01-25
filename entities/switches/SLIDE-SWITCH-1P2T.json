@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f8320be9-3262-44a5-aa49-856672652162": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2478ae61-c857-4a7e-91dc-651967488288"
+        }
+    },
+    "manufacturer": "",
+    "name": "SLIDE-SWITCH-1P2T",
+    "prefix": "SW",
+    "tags": [
+        "1p2t",
+        "slide",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "ba1b6fda-5b94-4af3-ac8f-d5fe41038300"
+}

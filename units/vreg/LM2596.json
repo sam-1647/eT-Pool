@@ -1,0 +1,44 @@
+{
+    "manufacturer": "National Semi",
+    "name": "LM2596",
+    "pins": {
+        "2de91cd9-d95c-4f41-a482-f1730588903d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V-OUT",
+            "swap_group": 0
+        },
+        "2f863f12-866b-4d99-adb7-b98d73b48f89": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "V-F/B",
+            "swap_group": 0
+        },
+        "4d0bd70d-cad7-4eee-b70e-dfe7b1b749ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "TAB-GND",
+            "swap_group": 0
+        },
+        "5938508a-95cc-4d36-82aa-5a779def8eae": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~ON~/OFF",
+            "swap_group": 0
+        },
+        "f4c2ab3b-fce2-4c62-a553-31a2b84c43ff": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-IN",
+            "swap_group": 0
+        },
+        "fd06a640-d967-4830-98ec-5b9fafc37ff6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "99c57756-5a8d-4b93-8641-229576fcc2fc"
+}

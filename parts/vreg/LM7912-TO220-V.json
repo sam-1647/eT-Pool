@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "LM7912-TO220-V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "-12V Linear Regulator"
+    ],
+    "entity": "3d4f31bb-1be3-4189-9a31-7a6dc266e7fb",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "National Semi"
+    ],
+    "model": "23862377-3fe3-4566-8f3f-d7dc61a03e65",
+    "orderable_MPNs": {
+        "5325a0a2-0c8a-472a-b166-f07774e5ac65": "LM7912"
+    },
+    "package": "1163a459-666b-4311-aaf0-9ef1fba3691c",
+    "pad_map": {
+        "321fd116-c77c-4b79-99a3-2474bcf8c17b": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "fdb36c1e-c929-4d80-900d-5a5fc2da6d1f"
+        },
+        "85f8add3-363b-46f2-ac30-189e8277444f": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "a0aea7ab-ab4f-4756-9f29-faceddb7359b"
+        },
+        "b4b1efbf-d79c-4ec5-8d53-9fce4b3e52fe": {
+            "gate": "36931915-f8af-447b-8c92-5ba1e2e8b0fb",
+            "pin": "a025bb9f-5922-454f-997c-e83e46f4f50f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "79xx",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "45571e13-4b71-482a-9b58-19077876bcda",
+    "value": [
+        false,
+        ""
+    ]
+}

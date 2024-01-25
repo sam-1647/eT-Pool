@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "ADS1230-IPWR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "20-BIT UltraLow Noise Sigma-Delta ADC"
+    ],
+    "entity": "898436d9-ea62-43d6-abb4-a93675a01134",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "53f73677-349c-4ec5-b481-95c9cbd3fdd3",
+    "package": "147b1cac-e429-40f8-84f8-fa7d49f1c133",
+    "pad_map": {
+        "16894ef2-452e-466f-b6bf-518a60689ea5": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "62699288-839d-4003-b814-19b058d7969e"
+        },
+        "1f8d0ee9-3dbb-4b1c-b09d-4198203861cf": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "ba2316ec-f827-4c5c-b622-96bc2bcc842e"
+        },
+        "21b4a3f9-818d-4b59-867f-f79dafb97d8e": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "778c4e74-e505-46fb-85f2-a8c82dc1907f"
+        },
+        "27ef6fc4-1702-4afe-a892-43e28585a4bf": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "e10b0979-e65f-4bf5-a3df-f9b5c3b56dad"
+        },
+        "35c4754a-ce30-4c41-bcb5-1aa14fb9d283": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "62039a4e-a166-4199-bfb3-30f062dc06f0"
+        },
+        "41a2de42-c3f9-4e4e-b979-1dac17283db1": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "a9a58046-5fa6-4bac-8451-c116cb6045f7"
+        },
+        "4aa369f4-1fc0-44f7-a8cd-6c6dfa3caf27": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "f9275eb4-0bcf-4ee8-96d4-2860ab31883d"
+        },
+        "8687230f-e0a4-4ab2-9f2b-d8a568795967": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "db634f23-9fb3-4b89-b81c-11c1f0c02e48"
+        },
+        "a33ac41a-942f-4489-a245-932fb6d00206": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "05d769b7-70b6-4a47-b218-3cfa0b23c37b"
+        },
+        "ab1f6585-d09d-4870-a58a-a5bb04cca279": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "953783d0-95bd-4afe-8ba4-42e1371d70e9"
+        },
+        "b55618c2-3ea1-4d2b-b888-58a9ac13de3e": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "3b236512-94a9-4a6a-9796-a324f636cf95"
+        },
+        "bc63b449-fc90-41db-a3f0-011de166eb42": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "6bd03b6c-1941-40be-aeb0-f71187054cff"
+        },
+        "c373c59c-f8c3-4b27-b064-eff79a4ecaac": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "68cbeda9-7d09-432d-80aa-6db49de12ef7"
+        },
+        "ce1d2f6b-af3d-42c0-9014-5b36c4ef3f06": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "9b268b16-fcc4-4c3b-b66f-e9c4302536ce"
+        },
+        "eb50de5b-e4b1-40e4-8360-511fab8a242f": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "d7cba508-0a36-4da4-bd7e-005da535ef64"
+        },
+        "f3e4a099-bc5d-4c43-a181-9d96cce13a25": {
+            "gate": "32ecb576-5f9b-44c5-b751-8bf5682fd9d2",
+            "pin": "c67b9822-8d4f-4b22-b627-e42f72df857f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "part",
+    "uuid": "6fa54de9-a3a7-4a5b-abf1-78eee1c8446e",
+    "value": [
+        false,
+        ""
+    ]
+}

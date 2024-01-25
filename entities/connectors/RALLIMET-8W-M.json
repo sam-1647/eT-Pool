@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "117eab77-c0ec-4b92-aa9e-36b7db30b427": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "05f743b4-0445-4189-940a-2662309d2f97"
+        }
+    },
+    "manufacturer": "Rallimet",
+    "name": "RALLIMET-8W-M",
+    "prefix": "CN",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "694a7b2c-32bf-46a3-a762-6acd2f608c42"
+}

@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "MEGAWIN-8051-ICE-6P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Megawin 8051 ICE 6P Header"
+    ],
+    "entity": "ede05d75-828e-464c-873f-21a930985f7c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Megawin"
+    ],
+    "model": "98282cb8-da2c-453d-88c8-cbbebdef1385",
+    "package": "58e2c7f3-7d71-4a66-bcdf-e85f998b4d40",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "f8ba2cff-e2b2-441e-9cde-abfe41b52097"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "c6160e56-cfef-42d9-af88-bff5981460d5"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "3a139145-fcf1-4543-a09a-0ca4c93929df"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "bd694a33-ec95-4f9f-b855-f1fcd87ffe5c"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "359edeeb-c3af-4aa8-9843-20b1be80a67a"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "f2695f58-eed3-4243-a257-fe0fd25669d4",
+            "pin": "c0cb85d8-07a1-4e14-a750-8e5b5c2e8a2b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ice"
+    ],
+    "type": "part",
+    "uuid": "faf1b233-a7f2-4a90-84e0-d0b707413499",
+    "value": [
+        false,
+        ""
+    ]
+}

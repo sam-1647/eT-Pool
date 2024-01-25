@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "549a1086-9c2b-4ec6-9b7f-fc24473d6e95": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5f621b9b-28fc-470e-9064-b085786df30c"
+        }
+    },
+    "manufacturer": "",
+    "name": "SWITCH-SPDT",
+    "prefix": "SW",
+    "tags": [
+        "sdpt",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "6122265b-de55-44bf-8135-8d7858edec98"
+}

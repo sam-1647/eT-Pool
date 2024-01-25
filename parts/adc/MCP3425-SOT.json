@@ -1,0 +1,66 @@
+{
+    "MPN": [
+        false,
+        "MCP3425-SOT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1-CH 16-BIT Sigma-Delta ADC"
+    ],
+    "entity": "3ffe6d3a-3a18-45f8-ad6e-70e2c3580efd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "6a048438-85af-479e-939c-c4869717c3c9",
+    "orderable_MPNs": {
+        "182fa324-ecd5-4c50-8528-1993f3d548b1": "MCP3425A3-E/CH",
+        "75bdc730-f2b9-4bf4-bfcd-c483d5e5b7d6": "MCP3425A0-E/CH",
+        "772d06e9-4c29-4393-a494-0e2880e4108b": "MCP3425A1-E/CH",
+        "7e5bb818-199b-494d-893d-a7d40e937d59": "MCP3425A2-E/CH"
+    },
+    "package": "30b1c6d3-8d23-4ffd-beaf-363949cd7268",
+    "pad_map": {
+        "1579a3ef-c9c8-4d01-b7c2-7e04956658c9": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "568b2af5-9fd3-4232-aa9b-d1f20b0ee8cf"
+        },
+        "471036ea-6d7b-4a71-a556-f344b3a74b7e": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "46c6c201-a10b-4302-abcc-3bbeca506a21"
+        },
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "49b4ee58-24d9-408c-98dd-8929f88c6bef"
+        },
+        "9399b7aa-73ea-4cae-860a-7181e0c8caf3": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "e53026e7-fb09-4ea9-96db-28c0e209c4f5"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "d47d46d5-16ab-47d7-acbd-2f1846af40d2"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "ba2b5eb5-d914-4e70-af3a-caab340c9486",
+            "pin": "6f565bd4-70fc-448f-b6ec-795a4ee8caf5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "part",
+    "uuid": "17298076-d965-44b3-933d-7300329cc48d",
+    "value": [
+        false,
+        ""
+    ]
+}

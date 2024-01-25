@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "C-0805-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 0805 Capacitor"
+    ],
+    "entity": "a9602075-1a80-4225-8ac1-e3966ae50c11",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "package": "0f596ad9-5ef0-4e85-9c82-8717ac38dabd",
+    "pad_map": {
+        "3b91b61a-7725-465c-a584-1cbc02a114f7": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "fe0784c5-b273-40b7-accd-d2e3463025ae": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "0805",
+        "capacitor",
+        "nonpolar"
+    ],
+    "type": "part",
+    "uuid": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

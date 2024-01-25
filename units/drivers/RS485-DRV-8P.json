@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "RS485-DRV-8P",
+    "pins": {
+        "1ff52e08-1a8e-41c2-850e-a39329e3b051": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "347f4ca8-4137-4f75-a759-d08de8a3f7dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DE",
+            "swap_group": 0
+        },
+        "36f86288-35a2-4fa7-ae67-6f5f507f594e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "57b9a1cc-f538-422a-a77d-df339b45b484": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RE~",
+            "swap_group": 0
+        },
+        "95f54c14-81eb-4920-acc8-aeee5f880892": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a9175807-423c-4523-b4a2-f4dd8dd26cc8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a95fb1ff-3d92-49e2-85ac-f87f3ea4d035": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "fd05daa1-3133-4877-b689-af07908536be": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "47c67363-a6c5-4046-8b07-3792cc105786"
+}

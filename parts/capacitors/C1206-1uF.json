@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C-1206-X7R-1uF"
+    ],
+    "base": "b98e886a-1ce1-41ef-a4c9-0b0ecd31d532",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "1uF 1206 NonPol Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5da1cc2e-2545-4cf4-9cfe-50917da1066c",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "X7R",
+        "value": "1e-06",
+        "wvdc": "50"
+    },
+    "tags": [
+        "1206",
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "84b3f0a1-b0d1-4986-8980-9d69d3ac11d2",
+    "value": [
+        false,
+        "1uF"
+    ]
+}

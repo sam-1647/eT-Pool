@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-ERJ-6ENF1204V"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "1.2M, 1%, 100ppm, 0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1.2e+06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a1f9337e-8eed-4364-8dab-485bd65dde00",
+    "value": [
+        false,
+        "1.2MΩ"
+    ]
+}

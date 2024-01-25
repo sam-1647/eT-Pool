@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TBU-CA065-200-WH"
+    ],
+    "base": "19f7745f-f092-443f-ab94-d43ea9b7f3a8",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "650V/200mA High Speed Bi-Directional Transisent Surge Suppressor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "2be64668-d852-46b3-9a92-2759e661b9a7",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f9b528d8-d460-4001-8c58-b598e9673ac4",
+    "value": [
+        true,
+        "TBU-CA0XX-XXX-WH"
+    ]
+}

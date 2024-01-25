@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "RALLIMET-4W-M-250P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4Way, Male Connector, P=2.5mm"
+    ],
+    "entity": "b8ee5437-1331-4dff-a10e-eec293940b67",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rallimet"
+    ],
+    "model": "245f6c05-46ab-4b2b-a6d4-25c44e9e2430",
+    "package": "6186b119-9f21-4fe7-ac18-93d2a059d541",
+    "pad_map": {
+        "2df4bde1-1383-40a4-adc6-80498e396c6d": {
+            "gate": "77509936-b0d1-4414-a978-e4187ddcb4ab",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "6c804bc1-9df3-4e72-ae60-50ae919f5221": {
+            "gate": "77509936-b0d1-4414-a978-e4187ddcb4ab",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "acc041af-7d86-43c8-998b-34f2d49a8554": {
+            "gate": "77509936-b0d1-4414-a978-e4187ddcb4ab",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "b0f943dc-ea58-4a8d-9f04-d40415accd07": {
+            "gate": "77509936-b0d1-4414-a978-e4187ddcb4ab",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "81737945-973b-43f3-b493-07789796bf85",
+    "value": [
+        false,
+        ""
+    ]
+}

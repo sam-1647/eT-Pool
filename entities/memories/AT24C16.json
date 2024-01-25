@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "a3732f70-d16e-485d-b24c-5c3581cc2428": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eba2b8fa-93d9-405a-8142-2cce1722eb79"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "AT24C16",
+    "prefix": "U",
+    "tags": [
+        "eeprom",
+        "fram",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "8d187195-fa7f-4f54-8add-626f94b82d0c"
+}

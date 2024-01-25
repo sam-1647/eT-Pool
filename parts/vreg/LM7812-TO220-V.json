@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "LM7812-TO220-V"
+    ],
+    "base": "a385c4f5-b6b9-4b56-8c45-b3feaa6ea823",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "+12V Linear Regulator, Vertical"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "23862377-3fe3-4566-8f3f-d7dc61a03e65",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8ed29a0e-f599-4ac6-bf1e-a8b53e2e1bbc",
+    "value": [
+        true,
+        "LM78XX-TO220-V-Generic"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SWITCH-SPDT-1000x600-SMD"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Tac Switch, SPDT, SMD"
+    ],
+    "entity": "6122265b-de55-44bf-8135-8d7858edec98",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "e3cecaef-9494-4a99-b1f9-3f12be9e7156",
+    "package": "b9d73ddc-d9dd-4896-9fb9-4b110fd57720",
+    "pad_map": {
+        "38e67518-e6a9-46e7-bfbe-c106af063eac": {
+            "gate": "549a1086-9c2b-4ec6-9b7f-fc24473d6e95",
+            "pin": "563f2260-b54b-4e5a-904a-242be16b5dd0"
+        },
+        "474d38ec-cb5b-4dd8-9045-7712ba5a50e6": {
+            "gate": "549a1086-9c2b-4ec6-9b7f-fc24473d6e95",
+            "pin": "c3dbcf32-1e42-43b8-934c-eff973deb723"
+        },
+        "e046caff-e6b4-4fae-8874-139555d37401": {
+            "gate": "549a1086-9c2b-4ec6-9b7f-fc24473d6e95",
+            "pin": "6cb62d61-7432-42e9-859a-4187ee5567e7"
+        },
+        "eb1a2465-5deb-4a70-8fa5-83f16322c040": {
+            "gate": "549a1086-9c2b-4ec6-9b7f-fc24473d6e95",
+            "pin": "7a103853-dfff-40a1-8e01-8d83366d391d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "spdt",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "ba69d29f-8b4f-4774-82b3-73aea010d33d",
+    "value": [
+        false,
+        ""
+    ]
+}

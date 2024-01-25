@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TBU-CA025-050-WH"
+    ],
+    "base": "19f7745f-f092-443f-ab94-d43ea9b7f3a8",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "250V/50mA High Speed Bi-Directional Transisent Surge Suppressor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "2be64668-d852-46b3-9a92-2759e661b9a7",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "03423ac9-9363-4482-b81a-e10582908ac0",
+    "value": [
+        false,
+        ""
+    ]
+}

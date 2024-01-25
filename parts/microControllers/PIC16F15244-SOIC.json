@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "PIC16F15244-SOIC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "PIC16 micro ,7kB Flash, 512B RAM"
+    ],
+    "entity": "85fd4ed8-bf69-4760-9307-6ceeedd82552",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "f568a882-d76a-4029-8801-66131b6f5802",
+    "orderable_MPNs": {
+        "7c79e1af-c6c3-4c52-81c4-5a4d2ff34193": "PIC16F15244-I/SO",
+        "e1e56212-681c-4527-90a6-489fc22779e7": "PIC16F15244-E/SO"
+    },
+    "package": "697d859f-9eea-41ff-a1a1-bf3251d954f0",
+    "pad_map": {
+        "0742698f-53a6-405c-bd8e-5a669239991d": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "82db3278-1c74-4393-9170-8c8c29c30b95"
+        },
+        "1b7b2077-e9a5-482c-9d36-3be737b9d94f": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "08282711-498d-411c-a4a6-8061f425727a"
+        },
+        "3f8190c4-cf57-4585-b9e4-f608818229ac": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "01010a55-0c13-48dd-adf6-ef6c92fa1646"
+        },
+        "45d9dc4d-71a0-4e3d-8e76-6e73751ecdf5": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "5292b604-2331-46be-becf-e069656097f0"
+        },
+        "47730048-4641-4183-ad76-16a5575b6ab0": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "0b814b61-33dc-455e-abcb-70890a9942d1"
+        },
+        "51cfbd08-dc35-4eab-9af0-4f9313ad0e4e": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "4f362a0e-025d-4891-bb1b-1c13deb5a354"
+        },
+        "549fd9c9-96cc-4c59-a6ed-f137be31824f": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "55a944cb-b3f4-49c6-bf9e-1f6a333cd4e2"
+        },
+        "6094a0cd-279b-403e-82cd-3fe1e1f085be": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "ddca9ade-8350-49d5-99d4-0e92d9c6e3e0"
+        },
+        "6379001b-ffe5-4262-8ccc-2ca5b7de2ae7": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "3b229413-3169-47e5-a2b1-56baeea6e4b4"
+        },
+        "68ddbd6e-ad0a-4c41-ae32-0eb097d84a28": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "80fa096b-343b-49b9-b1bf-d98a4c155d0a"
+        },
+        "6ad97cca-7d69-4961-b88b-dea64eaa730c": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "2a72a136-973e-4ebb-96d4-145bbe2fe575"
+        },
+        "6b1955b5-e2a3-426d-a049-7fbba821df2a": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "da0ade79-bab9-4d2a-860c-ba42702f18a7"
+        },
+        "6c26b836-7cd2-4c5f-b5de-e0cabf22aed2": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "dfb63ea5-2d8f-44a8-902d-f08a391c7831"
+        },
+        "9395b588-42e2-40b9-be70-ecf977c33c9f": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "eead922c-aedb-4131-abc3-f3d5b0800146"
+        },
+        "9566c560-73d0-43d1-b433-09ccded2bbb8": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "4ec01345-1018-4b37-8cd5-4a2f260b71bd"
+        },
+        "bb03f8b4-eace-4743-bdec-fb6e4107875c": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "3588f3b1-32fe-4337-96d6-6e7d76d801c2"
+        },
+        "bb83a29e-0314-4b60-93f3-8bfd0f18f40f": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "addc5901-cba0-445d-9fbc-f5daffb7402d"
+        },
+        "cd34f163-a352-477b-a409-c09dbd948ef3": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "5b1fa13b-0a00-429c-8e84-b3e3fe2f5b9f"
+        },
+        "d77c6605-6882-4508-9e5b-8955b04058fe": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "9a28861b-06d8-47bb-90de-da2ae0a81281"
+        },
+        "e99b1334-6f9f-4d27-8627-0469c6c2934c": {
+            "gate": "0355ad17-c2b9-425b-be5a-1e01af51ad66",
+            "pin": "141898c2-a926-48b9-9b89-6a02db248f9b"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "fd039133-f0df-412b-aaaa-dcea4b530c43",
+    "value": [
+        false,
+        ""
+    ]
+}

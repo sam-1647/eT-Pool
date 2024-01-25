@@ -1,0 +1,20 @@
+{
+    "manufacturer": "LED",
+    "name": "LED",
+    "pins": {
+        "17bb7518-b804-49bc-97fe-b33caa43118b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "a3bffc32-360f-4827-b2de-a7d46102d4d5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f80c0eb0-9d49-4dc8-9762-49008e6e55ee"
+}

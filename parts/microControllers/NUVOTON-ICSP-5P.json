@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "NUVOTON-ICSP-5P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Nuvoton 8051 ICSP Header"
+    ],
+    "entity": "97a4face-4f6a-46d2-84ac-25c4d0c310db",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "fcb4176e-d5ca-47c7-b0c7-0c77ff3a4992",
+    "package": "7e3e1289-52a1-420c-bc1d-fe1fe14e4314",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "4437e180-fb1b-4f39-96cd-5d52b94e32b5",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "4437e180-fb1b-4f39-96cd-5d52b94e32b5",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "4437e180-fb1b-4f39-96cd-5d52b94e32b5",
+            "pin": "c1a95f7e-15a7-42d8-8ba5-42b885a21cf3"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "4437e180-fb1b-4f39-96cd-5d52b94e32b5",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "4437e180-fb1b-4f39-96cd-5d52b94e32b5",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "icsp"
+    ],
+    "type": "part",
+    "uuid": "3349a767-ee2d-43f0-b941-b95326ce8b57",
+    "value": [
+        false,
+        ""
+    ]
+}

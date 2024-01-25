@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "6a3728e2-c14a-478b-98c6-819e766c4df1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "41b4dd6d-e078-4ab3-9330-da3c465f094e"
+        }
+    },
+    "manufacturer": "",
+    "name": "XTAL-4P",
+    "prefix": "X",
+    "tags": [
+        "xtal"
+    ],
+    "type": "entity",
+    "uuid": "436ada28-cd0c-413b-bdd1-4f8a4b86bf9b"
+}

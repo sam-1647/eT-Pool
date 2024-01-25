@@ -1,0 +1,29 @@
+{
+    "holes": {
+        "6087707c-d700-48f5-a00a-d3663e2c2805": {
+            "diameter": 1000000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "HOLE-100",
+    "padstack_type": "mechanical",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "e86be0a7-3438-4c07-862a-b4073bed7643",
+    "well_known_name": ""
+}

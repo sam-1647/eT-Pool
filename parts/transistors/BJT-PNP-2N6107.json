@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "BJT-PNP-2N6107"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "BJT, pnp, 80V, 7A"
+    ],
+    "entity": "972d643b-bf4c-432a-9c5c-37ef0e809180",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Multicomp"
+    ],
+    "model": "23862377-3fe3-4566-8f3f-d7dc61a03e65",
+    "orderable_MPNs": {
+        "8de9705b-9a95-4dac-862f-3d2baebf511d": "2N6107"
+    },
+    "package": "1163a459-666b-4311-aaf0-9ef1fba3691c",
+    "pad_map": {
+        "321fd116-c77c-4b79-99a3-2474bcf8c17b": {
+            "gate": "dfa6f886-2416-423e-8501-37639c088110",
+            "pin": "249d5f2d-c07d-4122-b07a-ed5adecb2712"
+        },
+        "85f8add3-363b-46f2-ac30-189e8277444f": {
+            "gate": "dfa6f886-2416-423e-8501-37639c088110",
+            "pin": "4dc9dfec-2292-4b69-9166-4d55a24a0343"
+        },
+        "b4b1efbf-d79c-4ec5-8d53-9fce4b3e52fe": {
+            "gate": "dfa6f886-2416-423e-8501-37639c088110",
+            "pin": "7b568d8f-59a5-42ed-827f-6401b2770a83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "pnp"
+    ],
+    "type": "part",
+    "uuid": "26c9c0b6-5377-4495-9cd3-b413eb3ef3f4",
+    "value": [
+        false,
+        "2N6107"
+    ]
+}

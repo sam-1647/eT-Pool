@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "PowerInductor-1230x1230x800-47uH"
+    ],
+    "base": "eb14f402-d462-4554-9e92-bd2616bc983b",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Power Inductor, 12.3x12.3x8.0mm, 47uH, 3.25A"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Sumida"
+    ],
+    "model": "dd1d9b00-0f92-4648-a8e8-7869321d50a5",
+    "orderable_MPNs": {
+        "c12f7433-53ac-4644-9221-5f2b3191138c": "CDRH127/LDNP-470MC"
+    },
+    "parametric": {
+        "dcr": "0.078",
+        "idc": "3.25",
+        "table": "inductors",
+        "value": "4.7e-05"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4e89dd5e-87c6-4047-af8f-eeb045b72fc6",
+    "value": [
+        false,
+        "47µH"
+    ]
+}

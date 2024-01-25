@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "012258b1-f5bc-474f-81fa-f5ebde08fe0e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "db4678cb-3709-4a21-ac13-fdf0531066a9"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-1",
+    "prefix": "CN",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "eed7f606-8d4c-476c-8a8e-f6f8182fc2cb"
+}

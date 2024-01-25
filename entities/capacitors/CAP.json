@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "60d5ea56-8aa8-41d0-ab00-dab9135e901c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b4293e7b-e9a6-41e3-b24f-bb794aab1af6"
+        }
+    },
+    "manufacturer": "",
+    "name": "CAP",
+    "prefix": "C",
+    "tags": [
+        "cap",
+        "nonpolar"
+    ],
+    "type": "entity",
+    "uuid": "a9602075-1a80-4225-8ac1-e3966ae50c11"
+}

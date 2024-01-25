@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Maxim",
+    "name": "DS8500-JND-TQFN",
+    "pins": {
+        "17e00a1e-a234-4a2e-ad2b-7ef7a56f7a2c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVDD",
+            "swap_group": 0
+        },
+        "2d20d6b8-ce29-4464-b418-e5a0c4d45ca3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OCD",
+            "swap_group": 0
+        },
+        "34d8fcfe-f01f-405e-8e90-f66941e1117c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "3ca6aae5-0fca-48ae-8918-b653eb5399a5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RST~",
+            "swap_group": 0
+        },
+        "4ba7f61a-b760-4c70-8310-fcad55c716e3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "FSK-OUT",
+            "swap_group": 0
+        },
+        "52e74205-2396-4cc0-9829-dee7e17fd507": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XCEN",
+            "swap_group": 0
+        },
+        "76978a11-6bab-4f9a-b1f6-1f8d2f6908c1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE",
+            "swap_group": 0
+        },
+        "8c34d277-07be-4c36-baea-9e218c03d3fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FSK-IN",
+            "swap_group": 0
+        },
+        "a466a4f3-32b7-4ba7-befb-7939f080772b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL1",
+            "swap_group": 0
+        },
+        "a6f35175-21ff-4c03-ad0c-23136443dab6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "D-OUT",
+            "swap_group": 0
+        },
+        "bc85166c-a647-4d85-b09b-cbbab241015c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "XTAL2",
+            "swap_group": 0
+        },
+        "c63b58a9-8ab6-4727-a6b0-4944df6e3a0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "cd7d36ba-bc7d-47c6-a026-a8a5caffb304": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RTS",
+            "swap_group": 0
+        },
+        "d8d14b72-faab-46e2-bbc9-81e6085dd869": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D-IN",
+            "swap_group": 0
+        },
+        "dfbf6544-21de-4b73-9ce2-f9e5214502a6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "ff46d81f-ebeb-4740-a854-8e19b12bd601": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d4b90288-d882-464d-ba81-f7fe6a849c1d"
+}

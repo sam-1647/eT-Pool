@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "92ba77a4-93ca-4c75-9c4c-e73b7cd6a527": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0afa86bf-a9b0-42ce-aba0-a17f7175d7da"
+        }
+    },
+    "manufacturer": "AVIA Semiconductors",
+    "name": "HX710A_B",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "entity",
+    "uuid": "13af0bb3-0d4c-4a5f-bcf6-b55357a356a2"
+}

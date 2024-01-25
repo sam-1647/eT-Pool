@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "bb74cfba-a661-4267-8910-e8008e37efe9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "16c8931d-bc98-4f7f-8d7f-2169e5cab4ec"
+        }
+    },
+    "manufacturer": "Nuvoton",
+    "name": "N76E003AT20",
+    "prefix": "U",
+    "tags": [
+        "8051",
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "76694c7f-0dbe-4043-a136-6922cba14125"
+}

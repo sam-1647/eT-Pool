@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "STM32-JTAG-10x2",
+    "pins": {
+        "2e3bc005-00e9-42e1-b89f-f8405c82af33": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "DBGACK",
+            "swap_group": 0
+        },
+        "65ffccdb-0db7-4ca0-983b-10ee950faccc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TMS",
+            "swap_group": 0
+        },
+        "7aa8d6be-0380-4641-abbd-e1e1926ecd70": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VTG",
+            "swap_group": 0
+        },
+        "88486fe2-3f69-4a1b-a338-ab863a63ad75": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TDI",
+            "swap_group": 0
+        },
+        "98c90c8c-72aa-4042-a1dd-2c942528f3ce": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "DBGRQ",
+            "swap_group": 0
+        },
+        "a046de7f-6b98-4943-b810-15c9c1aad89c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TCK",
+            "swap_group": 0
+        },
+        "a73564c0-fc7e-47f9-9b3c-cfc487234970": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c36aad09-5401-4291-a919-5dcf1ff3f367": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "nSRST",
+            "swap_group": 0
+        },
+        "cf478492-56a2-4d89-b9a4-3a5232f108bb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "nRST",
+            "swap_group": 0
+        },
+        "e5205874-ad5a-431b-9a75-bf87284cb603": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TDO",
+            "swap_group": 0
+        },
+        "e9614d62-d628-44c1-aa8f-43507e8212b3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "f54521a5-5a49-48d8-aae3-3b7089c06183": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RTCK",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9a0ed9bb-3d97-467b-95f8-72433314f8a8"
+}

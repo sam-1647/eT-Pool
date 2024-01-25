@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "L-1206-10uH"
+    ],
+    "base": "94dfa8c3-f097-4001-8627-383a0e375cb1",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "10uH 1206 Inductor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "a97360a1-92fe-406f-9210-991ae0023ef0",
+    "parametric": {
+        "dcr": "0",
+        "idc": "0.1",
+        "table": "inductors",
+        "value": "1e-05"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "99f294bd-0aa3-4a50-b52a-4bcf3bc99dcb",
+    "value": [
+        false,
+        "10µH"
+    ]
+}

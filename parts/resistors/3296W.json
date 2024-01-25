@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "3296W"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10-Turn Precision Trimmer"
+    ],
+    "entity": "8b6cae51-00e3-471c-8820-2c90feb754d8",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "ce051620-e189-4123-a2ba-5fd28cb8106c",
+    "package": "973cee51-4c6a-4c10-b224-975f1b33f065",
+    "pad_map": {
+        "07f4f874-eaeb-4ca7-b9fd-a62f27d99a45": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "28e34869-b366-4bdc-ad9c-37448b360d38"
+        },
+        "1217884b-6b32-4e9e-b3fa-a0455bd8320a": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "44b00206-9d6d-4d75-a439-283d439b15fa"
+        },
+        "322db6de-05e1-4e13-999a-570f8d70ec0c": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "0dd5abd5-dd57-496a-84e9-adaff898ccce"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "top-adjustment",
+        "trimmer"
+    ],
+    "type": "part",
+    "uuid": "3088e5b9-2e88-41e8-875a-76b11e5637a2",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

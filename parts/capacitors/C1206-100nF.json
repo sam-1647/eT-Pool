@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-1206-X7R-100nF"
+    ],
+    "base": "b98e886a-1ce1-41ef-a4c9-0b0ecd31d532",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "100nF 1206 NonPol Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "5da1cc2e-2545-4cf4-9cfe-50917da1066c",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e83e1890-21d6-4355-b7aa-590294bf0928",
+    "value": [
+        false,
+        "100.00 nF"
+    ]
+}

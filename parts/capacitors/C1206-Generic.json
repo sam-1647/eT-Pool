@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "C-1206-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 1206 NonPol Capacitor"
+    ],
+    "entity": "a9602075-1a80-4225-8ac1-e3966ae50c11",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "5da1cc2e-2545-4cf4-9cfe-50917da1066c",
+    "package": "07c665f2-21a4-4908-8639-1c8519df99ed",
+    "pad_map": {
+        "722580c0-7267-4fd2-bad0-c1a3009f17dc": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "8c199460-4b37-42c8-a130-e484243521dd": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1206",
+        "capacitor",
+        "nonpolar"
+    ],
+    "type": "part",
+    "uuid": "b98e886a-1ce1-41ef-a4c9-0b0ecd31d532",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

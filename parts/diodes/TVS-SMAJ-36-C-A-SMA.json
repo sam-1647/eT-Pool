@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TVS-SMAJ-36-C-A-SMA"
+    ],
+    "base": "d220afb2-524a-407f-b4e4-25ffa4591199",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "36V BiDirectional TVD Diode"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Littlefuse"
+    ],
+    "model": "1779d551-a682-428e-a119-9659f0bc3aea",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0822592d-519b-4c29-9a20-2adf33ed8b98",
+    "value": [
+        true,
+        "TVS-SMAJ-XXX-C-A-SMA"
+    ]
+}

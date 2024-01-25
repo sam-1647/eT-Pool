@@ -1,0 +1,655 @@
+{
+    "arcs": {},
+    "height": 297000000,
+    "junctions": {
+        "0a3afce1-d455-467e-bf6c-8c39ea95d380": {
+            "position": [
+                417500000,
+                28750000
+            ]
+        },
+        "0dbc1e45-9785-4a3e-86d6-a082112b1155": {
+            "position": [
+                341325000,
+                28700000
+            ]
+        },
+        "18385b2b-2107-48c4-abff-91f1a19d955b": {
+            "position": [
+                328000000,
+                21525000
+            ]
+        },
+        "19fac091-7ac7-4f5e-bbc2-669025510763": {
+            "position": [
+                417500000,
+                2500000
+            ]
+        },
+        "31bdfa09-5c5e-43dc-ac15-34329e2d49b6": {
+            "position": [
+                328000000,
+                37925000
+            ]
+        },
+        "32ecd499-604d-459d-a52b-97183a320531": {
+            "position": [
+                328000000,
+                31775000
+            ]
+        },
+        "3473f782-1a89-419b-97a8-e20a9787669b": {
+            "position": [
+                2500000,
+                294500000
+            ]
+        },
+        "3fc43c47-9164-40da-841e-307fdca54646": {
+            "position": [
+                417500000,
+                294500000
+            ]
+        },
+        "41a2b088-0d09-4f26-b86e-b1193fb07bea": {
+            "position": [
+                341325000,
+                11275000
+            ]
+        },
+        "608d9749-1b16-4539-b7fb-e7e71bfa4ee6": {
+            "position": [
+                103550000,
+                284050000
+            ]
+        },
+        "68fb1446-6451-4692-bc58-b92b29951ac8": {
+            "position": [
+                341325000,
+                21525000
+            ]
+        },
+        "7c293cc6-fa97-4813-a203-1f3f103b625c": {
+            "position": [
+                417400000,
+                11250000
+            ]
+        },
+        "7d1f12c7-e670-49f0-b75c-4be017906143": {
+            "position": [
+                341325000,
+                31775000
+            ]
+        },
+        "82119081-5f9d-49ef-9bbb-b0cc7d82846d": {
+            "position": [
+                401775000,
+                2500000
+            ]
+        },
+        "85c9b333-611f-4f97-b196-1e8b3ce0d9e3": {
+            "position": [
+                341325000,
+                11275000
+            ]
+        },
+        "9947da55-89dc-4318-946d-046e0dd19843": {
+            "position": [
+                331075000,
+                37925000
+            ]
+        },
+        "b6073c9b-2009-4a64-b060-05498180aeae": {
+            "position": [
+                341225000,
+                11275000
+            ]
+        },
+        "b77078cf-5a30-4088-84e1-71afd1a940ce": {
+            "position": [
+                341325000,
+                37925000
+            ]
+        },
+        "bf6568f6-bb55-4597-a893-a24cca30d6ea": {
+            "position": [
+                2500000,
+                2500000
+            ]
+        },
+        "c0e19b66-242f-40c4-817a-aeae1b2c3fa2": {
+            "position": [
+                417175000,
+                19475000
+            ]
+        },
+        "c1e7a806-ff85-4c10-a401-40b3f7879afb": {
+            "position": [
+                401750000,
+                37500000
+            ]
+        },
+        "e7a850f0-dccb-4060-9a95-802078dcae01": {
+            "position": [
+                328000000,
+                11275000
+            ]
+        },
+        "f03c37b3-cd25-4082-865d-d84c592479bc": {
+            "position": [
+                2500000,
+                285000000
+            ]
+        },
+        "f05a02aa-908b-4d92-9d4d-a6fb8823936c": {
+            "position": [
+                328000000,
+                2500000
+            ]
+        },
+        "f4ea818c-965b-44b6-87f8-11471c40b595": {
+            "position": [
+                103550000,
+                294500000
+            ]
+        },
+        "f690ed40-d87c-4afd-9951-503b102c8bfa": {
+            "position": [
+                341325000,
+                19475000
+            ]
+        },
+        "f9f3e7ca-26d8-45e9-a0de-6955d85bc2e7": {
+            "position": [
+                417500000,
+                37500000
+            ]
+        }
+    },
+    "lines": {
+        "0a2d6fe9-210b-41a6-8b41-20da9dfaa7d9": {
+            "from": "b77078cf-5a30-4088-84e1-71afd1a940ce",
+            "layer": 0,
+            "to": "f9f3e7ca-26d8-45e9-a0de-6955d85bc2e7",
+            "width": 0
+        },
+        "19b3b1c0-0717-4210-9c05-7cf12c843ee1": {
+            "from": "68fb1446-6451-4692-bc58-b92b29951ac8",
+            "layer": 0,
+            "to": "18385b2b-2107-48c4-abff-91f1a19d955b",
+            "width": 0
+        },
+        "1ce6081e-5b90-4d39-8294-60b8681d1c38": {
+            "from": "85c9b333-611f-4f97-b196-1e8b3ce0d9e3",
+            "layer": 0,
+            "to": "e7a850f0-dccb-4060-9a95-802078dcae01",
+            "width": 0
+        },
+        "240a32f6-8f23-4eff-a083-6e0c4ee66791": {
+            "from": "9947da55-89dc-4318-946d-046e0dd19843",
+            "layer": 0,
+            "to": "31bdfa09-5c5e-43dc-ac15-34329e2d49b6",
+            "width": 0
+        },
+        "2cf06d4e-a6e7-48bb-b4a5-522bd393ab4b": {
+            "from": "f4ea818c-965b-44b6-87f8-11471c40b595",
+            "layer": 0,
+            "to": "608d9749-1b16-4539-b7fb-e7e71bfa4ee6",
+            "width": 0
+        },
+        "304f1b13-f80f-4f2a-a8d7-76cfeb7e7b39": {
+            "from": "f690ed40-d87c-4afd-9951-503b102c8bfa",
+            "layer": 0,
+            "to": "c0e19b66-242f-40c4-817a-aeae1b2c3fa2",
+            "width": 0
+        },
+        "3437ebac-5992-4705-a27f-a5fdf32f7236": {
+            "from": "b77078cf-5a30-4088-84e1-71afd1a940ce",
+            "layer": 0,
+            "to": "9947da55-89dc-4318-946d-046e0dd19843",
+            "width": 0
+        },
+        "44933c03-b716-40b1-ae3d-c5b4fc0721d9": {
+            "from": "b6073c9b-2009-4a64-b060-05498180aeae",
+            "layer": 0,
+            "to": "7c293cc6-fa97-4813-a203-1f3f103b625c",
+            "width": 0
+        },
+        "53c67959-9d9a-4df3-aad0-d7b4ac5c523d": {
+            "from": "3473f782-1a89-419b-97a8-e20a9787669b",
+            "layer": 0,
+            "to": "3fc43c47-9164-40da-841e-307fdca54646",
+            "width": 0
+        },
+        "5de591a9-5439-43e9-918d-7939c579bcc7": {
+            "from": "41a2b088-0d09-4f26-b86e-b1193fb07bea",
+            "layer": 0,
+            "to": "b77078cf-5a30-4088-84e1-71afd1a940ce",
+            "width": 0
+        },
+        "6dfaaa86-a93a-44df-bc0a-201bf3e1a764": {
+            "from": "32ecd499-604d-459d-a52b-97183a320531",
+            "layer": 0,
+            "to": "32ecd499-604d-459d-a52b-97183a320531",
+            "width": 0
+        },
+        "86f76a84-201a-4507-b2d3-66e91c371f0b": {
+            "from": "f03c37b3-cd25-4082-865d-d84c592479bc",
+            "layer": 0,
+            "to": "f03c37b3-cd25-4082-865d-d84c592479bc",
+            "width": 0
+        },
+        "95b0de99-99ae-4778-b939-394e1b5b4037": {
+            "from": "19fac091-7ac7-4f5e-bbc2-669025510763",
+            "layer": 0,
+            "to": "bf6568f6-bb55-4597-a893-a24cca30d6ea",
+            "width": 0
+        },
+        "a2d1f03f-0b9d-4f65-9803-b29a4b22493c": {
+            "from": "c1e7a806-ff85-4c10-a401-40b3f7879afb",
+            "layer": 0,
+            "to": "82119081-5f9d-49ef-9bbb-b0cc7d82846d",
+            "width": 0
+        },
+        "a7065b22-3b1e-4989-be95-48b1e55de06b": {
+            "from": "0dbc1e45-9785-4a3e-86d6-a082112b1155",
+            "layer": 0,
+            "to": "0a3afce1-d455-467e-bf6c-8c39ea95d380",
+            "width": 0
+        },
+        "b38fd28c-88de-40d5-b54c-334da2926b4c": {
+            "from": "608d9749-1b16-4539-b7fb-e7e71bfa4ee6",
+            "layer": 0,
+            "to": "f03c37b3-cd25-4082-865d-d84c592479bc",
+            "width": 200000
+        },
+        "b8c4f0f4-c338-42d2-9a22-990c5bc68824": {
+            "from": "bf6568f6-bb55-4597-a893-a24cca30d6ea",
+            "layer": 0,
+            "to": "3473f782-1a89-419b-97a8-e20a9787669b",
+            "width": 0
+        },
+        "ca7aa2b8-d6d5-4d5b-8d68-165ff9ac09c5": {
+            "from": "7d1f12c7-e670-49f0-b75c-4be017906143",
+            "layer": 0,
+            "to": "32ecd499-604d-459d-a52b-97183a320531",
+            "width": 0
+        },
+        "d0a357dc-002f-4f20-9320-e36afd00e642": {
+            "from": "e7a850f0-dccb-4060-9a95-802078dcae01",
+            "layer": 0,
+            "to": "e7a850f0-dccb-4060-9a95-802078dcae01",
+            "width": 0
+        },
+        "d7f15d8a-3fe9-405d-9a81-b798071c264d": {
+            "from": "3fc43c47-9164-40da-841e-307fdca54646",
+            "layer": 0,
+            "to": "19fac091-7ac7-4f5e-bbc2-669025510763",
+            "width": 0
+        },
+        "dde4a542-7b93-4fd5-80e9-900577eb5701": {
+            "from": "18385b2b-2107-48c4-abff-91f1a19d955b",
+            "layer": 0,
+            "to": "18385b2b-2107-48c4-abff-91f1a19d955b",
+            "width": 0
+        },
+        "e1053ad8-d23a-41c8-ad58-82ecd70e9c82": {
+            "from": "f05a02aa-908b-4d92-9d4d-a6fb8823936c",
+            "layer": 0,
+            "to": "f05a02aa-908b-4d92-9d4d-a6fb8823936c",
+            "width": 0
+        },
+        "f0897141-a58f-4763-a42d-8303725c0cdb": {
+            "from": "31bdfa09-5c5e-43dc-ac15-34329e2d49b6",
+            "layer": 0,
+            "to": "f05a02aa-908b-4d92-9d4d-a6fb8823936c",
+            "width": 0
+        }
+    },
+    "name": "eT A3 Landscape",
+    "polygons": {},
+    "texts": {
+        "0ad7db5e-dc87-4b07-94a2-93deb5e87a47": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    347500000,
+                    6250000
+                ]
+            },
+            "size": 2200000,
+            "text": "$date",
+            "width": 0
+        },
+        "1ef2c22c-e073-4f61-9933-ab8c1b9f753c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    404325000,
+                    5737500
+                ]
+            },
+            "size": 3300000,
+            "text": "$rev",
+            "width": 0
+        },
+        "3385a858-d5f0-439f-b812-5eb4cd6d043c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    402412500,
+                    18000000
+                ]
+            },
+            "size": 1500000,
+            "text": "Number",
+            "width": 0
+        },
+        "42ab6360-7420-477a-a545-78ea48a12ed1": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    330050000,
+                    34850000
+                ]
+            },
+            "size": 2000000,
+            "text": "ISSUE",
+            "width": 0
+        },
+        "43c3f4ed-959c-4201-a5b0-d102adf17e3e": {
+            "font": "complex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4750000,
+                    289750000
+                ]
+            },
+            "size": 1500000,
+            "text": "SAUMITRA A DESHPANDE & embOS TECHNOLOGIES, INDIA. ANY REPRODUCTION",
+            "width": 0
+        },
+        "49d97e7b-3368-4bd5-ba2f-529ae190eec6": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    402300000,
+                    13950000
+                ]
+            },
+            "size": 2900000,
+            "text": "$sheet_idx/$sheet_total",
+            "width": 0
+        },
+        "57cc4afa-9cce-4335-915a-d541ee4ac230": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    331525000,
+                    6275000
+                ]
+            },
+            "size": 2000000,
+            "text": "DATE",
+            "width": 0
+        },
+        "5c5c977e-04df-47bd-b27d-07576d9a53f7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    329025000,
+                    19475000
+                ]
+            },
+            "size": 1500000,
+            "text": "CHECKED",
+            "width": 0
+        },
+        "6c5050db-a7bd-4494-9c35-dcd0d2e34ff6": {
+            "font": "complex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4750000,
+                    292600000
+                ]
+            },
+            "size": 1500000,
+            "text": "THE INFORMATION CONTAINED IN THIS DOCUMENT IS SOLE PROPERTY OF",
+            "width": 0
+        },
+        "6f4a5258-5d92-49ea-9f76-cea6f518c6cc": {
+            "font": "triplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    402862500,
+                    32737500
+                ]
+            },
+            "size": 1200000,
+            "text": "(C) 2010-2024",
+            "width": 0
+        },
+        "94f4e22f-915c-403d-8ea1-dcd5ac5299fd": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    329025000,
+                    29725000
+                ]
+            },
+            "size": 1500000,
+            "text": "DRAWN BY",
+            "width": 0
+        },
+        "ac8d50dc-8c11-43d5-a3b0-c9484904f488": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    342350000,
+                    27675000
+                ]
+            },
+            "size": 1500000,
+            "text": "Project",
+            "width": 0
+        },
+        "b1f542e0-3c09-4a3b-a213-ee65080740a5": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    341787500,
+                    36562500
+                ]
+            },
+            "size": 1500000,
+            "text": "CONTRACT DETAILS:",
+            "width": 0
+        },
+        "b4394dba-0a9d-4d0c-9725-17897af26118": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    342350000,
+                    18450000
+                ]
+            },
+            "size": 1500000,
+            "text": "Sheet",
+            "width": 0
+        },
+        "c12aa6e9-69f4-438f-9ccc-f8ca15e3e477": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    342350000,
+                    14350000
+                ]
+            },
+            "size": 3300000,
+            "text": "$sheet_title",
+            "width": 0
+        },
+        "d7aee0cf-61f0-4fc4-a645-678ac864db48": {
+            "font": "complex_italic",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4750000,
+                    283100000
+                ]
+            },
+            "size": 1500000,
+            "text": "PROPRIETORY",
+            "width": 0
+        },
+        "dbe3753a-ba65-4fb9-ac56-9d995cd4f03a": {
+            "font": "complex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4750000,
+                    286900000
+                ]
+            },
+            "size": 1500000,
+            "text": "IN PART OR WHOLE IS STRICTLY PROHOBITED WITHOUT EXPLICIT WRITTEN PERMISSION.",
+            "width": 0
+        },
+        "ecbc27f4-d1bd-45ca-a47b-5330024b757d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    402637500,
+                    9450000
+                ]
+            },
+            "size": 1500000,
+            "text": "Revision",
+            "width": 0
+        },
+        "ed58e717-5def-4c81-9c6b-e47f4f0f1be0": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    342350000,
+                    23575000
+                ]
+            },
+            "size": 3300000,
+            "text": "$project_title",
+            "width": 0
+        },
+        "f9f5436f-1903-4c98-9d8d-8cb6b58fff27": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    329025000,
+                    25625000
+                ]
+            },
+            "size": 2000000,
+            "text": "$author",
+            "width": 0
+        }
+    },
+    "type": "frame",
+    "uuid": "8e432d3b-4170-4220-94fe-93d226bcbcff",
+    "width": 420000000
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7d9979a8-823c-4ab8-b3a1-fd07d9c63769": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "10edd63a-7a5c-49c3-adc8-610499e6e433"
+        }
+    },
+    "manufacturer": "",
+    "name": "RELAY-DPDT",
+    "prefix": "RLY",
+    "tags": [
+        "dpdt",
+        "relay"
+    ],
+    "type": "entity",
+    "uuid": "d76ef80d-5e60-46e0-9db9-4525204837ff"
+}

@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "L-1206-Generic"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 1206 Inductor"
+    ],
+    "entity": "eb5fc0e1-f2a0-4e1d-bcee-379309cdccef",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "a97360a1-92fe-406f-9210-991ae0023ef0",
+    "package": "f4db06c3-6289-472e-91aa-fd4fde643a66",
+    "pad_map": {
+        "7caeb67e-7888-41e2-b636-ff2463c16538": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "6180dc61-5ed7-4169-9456-adee6ee64ca6"
+        },
+        "7e8f6719-53e9-450a-86fa-a69d68dd7a6a": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "a970deb3-b40b-4334-85ab-5510e60167b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "1206",
+        "ind"
+    ],
+    "type": "part",
+    "uuid": "94dfa8c3-f097-4001-8627-383a0e375cb1",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

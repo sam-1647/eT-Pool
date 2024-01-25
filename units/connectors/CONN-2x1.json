@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "CONN-2x1",
+    "pins": {
+        "6d5a8db5-2cad-4eec-b56d-8cb85f567410": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "b0da620f-59c3-43f3-b651-2771957cc591": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "906df633-222a-4c4e-a49a-e0d65f893ffe"
+}

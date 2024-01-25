@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "LM336B-2.5-TO92"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2.5V, Zener Voltage Reference"
+    ],
+    "entity": "6154afcb-a2d9-4b75-91ca-57278ce86f31",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "e673a69f-1018-43de-a464-f7b10592be8a",
+    "orderable_MPNs": {
+        "0e22bb53-6f0e-4328-b19f-3b99a3547277": "LM336BLPR-2.5",
+        "93aa0cdb-9842-4f99-8a31-08ea53f54d32": "LM336BLPE3-2.5",
+        "af8e1ae7-3392-4d98-8cea-5a9f448073d6": "LM336BLP-2.5"
+    },
+    "package": "adc0e155-26d1-4e9f-9b03-22a042e533a5",
+    "pad_map": {
+        "2ac88273-1510-486e-aea4-c587dbde6255": {
+            "gate": "f1514ae9-52ac-40fa-a985-583cda5a41a3",
+            "pin": "519f560e-ffa6-4efd-9562-b31386880f44"
+        },
+        "949fd58b-5e2a-4e5f-8d95-0fbd9909d276": {
+            "gate": "f1514ae9-52ac-40fa-a985-583cda5a41a3",
+            "pin": "f66e39b5-5a10-44b2-ba54-73e936ccb266"
+        },
+        "af1e091a-72c4-47ae-a36f-910fb0d1521e": {
+            "gate": "f1514ae9-52ac-40fa-a985-583cda5a41a3",
+            "pin": "3d0db6b3-4351-44ab-903d-c9147d2a6bb5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "2.5v",
+        "vref"
+    ],
+    "type": "part",
+    "uuid": "3f4606f2-9352-4809-83ac-ea5667c8e006",
+    "value": [
+        false,
+        ""
+    ]
+}

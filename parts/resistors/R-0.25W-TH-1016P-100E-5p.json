@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0.25W-TH-1016P-100E-5p"
+    ],
+    "base": "efa9041c-692a-4a15-927f-cfb13aa51653",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "Generic 1/4W TH Resistor, 10.16mm Pitch"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "2819557c-d6ff-4be2-b81b-bb6d4ff79428",
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "0f997b29-8ff8-472a-a032-a728bf21aed9",
+    "value": [
+        false,
+        "100Ω"
+    ]
+}

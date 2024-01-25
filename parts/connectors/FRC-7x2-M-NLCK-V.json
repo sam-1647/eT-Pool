@@ -1,0 +1,93 @@
+{
+    "MPN": [
+        false,
+        "FRC-7x2-M-NLCK-V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Flat Ribbon Cable, Male, No Lock, Vertical"
+    ],
+    "entity": "e0b26254-f137-4a7e-b352-13cb3bf734ec",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "a9d820ad-b994-4077-a65b-404c63d8ca05",
+    "package": "dd5b1e4b-2104-470e-9201-2aa41c511d14",
+    "pad_map": {
+        "00cc223f-4986-429d-9001-e33fe37e7fdd": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "9423ab1b-b06c-4782-8889-100b581b7f69"
+        },
+        "203deac6-af19-4982-a1b5-04d2e57f066a": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "6ec8935c-249a-4cbc-b778-e67db029b0cc"
+        },
+        "296cec3f-914e-484e-8f89-3ebf4922ea55": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "73062129-bf04-4a54-8cd2-0fd472d61477"
+        },
+        "2a7465e8-add1-467a-ae8d-40195dda0cea": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "fd5f0b64-190d-453a-b607-cf71654dd905"
+        },
+        "2b161df1-2a53-4e86-bfbf-864693324ea6": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "1ae20ec9-7426-426e-b3ed-0da12340eb33"
+        },
+        "56890f50-a19d-4a90-abd7-2f1b52f2b8c7": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "1d090a09-9cb0-40d1-af8f-3d363ded5f2b"
+        },
+        "56b3652f-3138-4e78-b6ce-808ac673ee08": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "864702e1-0fde-43a8-bfb0-cb1c507ce9cb"
+        },
+        "5d39bceb-4e74-4aca-b9d9-cf10c2852832": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "0748abc2-554b-4bf9-9421-4876f8741d00"
+        },
+        "6b098063-982e-4487-9b3a-91d9af41df02": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "f752befc-709a-4f38-a0c7-c5ee6e365383"
+        },
+        "86e157a3-806e-4657-bb4a-f1dec5618d24": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "f387155c-b60c-4d08-b7bd-b4866debf936"
+        },
+        "940f345f-e294-407b-8a49-eb0f7c451e87": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "2da15ecb-a968-48a4-802a-11c31c86a428"
+        },
+        "ab3e0af7-f646-4773-8bc0-6a7f4478900d": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "a244d293-6b87-4626-a90d-13b73d9e06ee"
+        },
+        "c7b3053c-14da-4b34-87d2-be92750830c3": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "2a55a117-8c00-4612-97f1-d26195330378"
+        },
+        "d4897883-b318-4c26-8d6f-804483c710b3": {
+            "gate": "6a24234c-d6ea-42af-ac77-697910cb02d5",
+            "pin": "4c5426e1-057f-4e14-837f-e80544027188"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "frc",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "c1822c35-b1ee-44fe-b96d-7f347de6c9f7",
+    "value": [
+        false,
+        ""
+    ]
+}

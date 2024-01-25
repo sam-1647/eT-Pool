@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b77d6e92-f705-4adf-b7a4-1956988c6e72": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b5ed19ef-5f02-4e92-b8a0-3b0ca96b5e58"
+        }
+    },
+    "manufacturer": "",
+    "name": "Inductor-AirCore-2P",
+    "prefix": "L",
+    "tags": [
+        "air",
+        "ind"
+    ],
+    "type": "entity",
+    "uuid": "eb5fc0e1-f2a0-4e1d-bcee-379309cdccef"
+}

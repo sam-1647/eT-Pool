@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "MA112SAS16-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB-UART Comm Driver"
+    ],
+    "entity": "99b52712-8627-48a6-845a-e0248b839209",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Megawin"
+    ],
+    "model": "546549d3-e06f-474e-9da7-588c352fb5aa",
+    "package": "b01500fc-3bc0-444f-bf2e-11c34fbb26c4",
+    "pad_map": {
+        "2ebb2a29-9a7b-417e-8a0a-a0a7ff8fe702": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "d6e147a2-053a-4541-af20-1fe45eeba387"
+        },
+        "530676ac-adf2-4350-b4cc-9ccd2d75c578": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "cc899631-9faa-40fe-bdf0-1cc47d1351ed"
+        },
+        "a257099a-891d-4141-ba01-581096970d9b": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "2a6ff9fe-4e10-4092-b3c1-262d31982d67"
+        },
+        "ab2de05a-6821-4189-8478-f0dc0e96a5b5": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "682fa368-e4dd-46bc-8b98-ff13331a202a"
+        },
+        "b4822a16-8b6c-4bf7-a2c2-b8d014949dd3": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "76ab42ff-8066-4a43-bd39-bbbc8dea2b6d"
+        },
+        "c7b9d868-823d-4569-859e-ee900f0fdb3b": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "cc321488-fdd9-4861-b5c5-dec00637fb52"
+        },
+        "f2b2d700-23cf-42e7-b217-15ecb824fcf6": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "9848849f-e514-4b6a-8376-2e6c13c5bcf8"
+        },
+        "f9f0cc3a-fa44-497e-87dc-5fc2fc707ce7": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "e7536b00-9158-4f85-bfb7-b97e422d1955"
+        },
+        "fac2ed38-ed93-4968-89f6-71156518677e": {
+            "gate": "2b2f6b5c-e860-4cea-8248-e57f034cb1ba",
+            "pin": "dca4b0ee-1fb0-40b8-81b8-4d8204f7bfcf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "usb-uart"
+    ],
+    "type": "part",
+    "uuid": "227e42be-6c38-48b7-9baa-756ecc27afbd",
+    "value": [
+        false,
+        ""
+    ]
+}

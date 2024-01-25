@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "23cd5742-7ea6-4de8-9320-07e3fdc56556": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3661dfe8-b316-458c-b83d-fcaad4d2d15c"
+        }
+    },
+    "manufacturer": "",
+    "name": "RES",
+    "prefix": "R",
+    "tags": [
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "d8f2c278-6e93-4fe9-9bd0-ff5d83a19a3b"
+}

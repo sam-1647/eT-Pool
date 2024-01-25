@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "2b2f6b5c-e860-4cea-8248-e57f034cb1ba": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d3e0a06c-86f3-4586-a5a0-141172d221df"
+        }
+    },
+    "manufacturer": "Megawin",
+    "name": "MA112SAS16-SO",
+    "prefix": "U",
+    "tags": [
+        "usb-uart"
+    ],
+    "type": "entity",
+    "uuid": "99b52712-8627-48a6-845a-e0248b839209"
+}

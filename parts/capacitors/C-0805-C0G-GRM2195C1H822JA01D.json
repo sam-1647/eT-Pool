@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C-0805-C0G-GRM2195C1H822JA01D"
+    ],
+    "base": "b2e77289-ebef-4b9d-94fd-c538e82f6d08",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "8200pF, C0G, 0805 Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "5ce26195-b334-4c4c-9852-6bc52988c0c1",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "8.2e-09",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "601bc88d-423a-42c6-b8ae-8b426a5e5ae1",
+    "value": [
+        false,
+        "8200pF"
+    ]
+}

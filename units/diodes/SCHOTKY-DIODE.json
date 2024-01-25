@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "SCHOTKY-DIODE",
+    "pins": {
+        "8967e344-c09b-4a89-ab1f-982d8aab8d2b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "f51f9169-561d-4b5f-941c-1b11166d9c00": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ee049092-8e1c-4065-b044-48815b9bdea8"
+}
