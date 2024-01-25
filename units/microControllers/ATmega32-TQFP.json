@@ -57,9 +57,15 @@
             "swap_group": 0
         },
         "4aef05fa-6f2d-44f3-917f-4dc19960308d": {
+            "alt_names": {
+                "142dc22f-a4bb-464f-870c-a0c5deb4fdd0": {
+                    "direction": "input",
+                    "name": "ADC0"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ADC0/PA0",
+            "primary_name": "PA0",
             "swap_group": 0
         },
         "60069607-b914-4608-9870-56d79d3e5d9c": {
@@ -244,5 +250,6 @@
         }
     },
     "type": "unit",
-    "uuid": "97633fc9-dad4-4ba5-bfd2-9fa88e333a56"
+    "uuid": "97633fc9-dad4-4ba5-bfd2-9fa88e333a56",
+    "version": 1
 }
