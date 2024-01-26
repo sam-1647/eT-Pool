@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "BJT-NPN-2N2222-SOT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "40V/600mA Small Signal BJT"
+    ],
+    "entity": "bb7613f9-5dc4-4cac-8500-63835bfda9e2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "8ac7a09e-8940-4680-8dc8-c33d748e3b25",
+    "orderable_MPNs": {
+        "5e3e8634-2e00-4016-95b7-9e487254fd12": "MMBT2222A"
+    },
+    "package": "1c35b47e-98f1-4dbb-8e72-3a2ba4f4f46b",
+    "pad_map": {
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "4dc9dfec-2292-4b69-9166-4d55a24a0343"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "249d5f2d-c07d-4122-b07a-ed5adecb2712"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "7b568d8f-59a5-42ed-827f-6401b2770a83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn"
+    ],
+    "type": "part",
+    "uuid": "2fc63b50-b15d-42f6-b558-b45b4a3d5a28",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "ALCD-16W-20x4"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "20x4 Alphanumeric LCD HD44780"
+    ],
+    "entity": "60ae2430-5003-4bea-993e-080abc8a9d92",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JHD"
+    ],
+    "model": "401d4012-be91-4dbc-ac83-c06582424d28",
+    "package": "c777e824-6abe-469d-afbf-87e10a4c09fb",
+    "pad_map": {
+        "22ce92f0-8479-4a2b-b9fb-2d7b33d04651": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "1f9cc6cd-59b5-48d9-ad67-c7b01fad9a80"
+        },
+        "3719f0fa-82c8-4fbf-8833-d0a0bd708f39": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "7c7ee8b3-4de3-4a57-92bd-5d619ad92119"
+        },
+        "4521f6be-9d53-453c-a798-270a0015b493": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "59e64894-e104-42e7-ba92-d28df470086b"
+        },
+        "6458086c-0292-4b08-a535-2642e27f3250": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "ded9c71a-71a1-4bad-9ec1-ab5157c51888"
+        },
+        "6d745203-a59d-4fe9-a7a6-a5f54d71776b": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "cc1ee908-6b24-4279-9be3-a0991b130e33"
+        },
+        "70b16858-5f89-4232-91fe-c4de1cf06d9a": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "c5841ea2-2bdb-4de0-9083-95ff9882712b"
+        },
+        "8d106bf7-143d-4784-aff7-f3b57c98e742": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "3f3e8890-bc9c-4089-acb6-7f2d9d3add99"
+        },
+        "91ed97ff-fd18-42ac-a1f1-fde58ab2abdf": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "37ca2dc2-65e3-4d0a-85a9-97e1304f1d16"
+        },
+        "92f734b8-f9c5-4bde-8a0c-a53be727e687": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "efa04ed0-24cb-4414-8143-893281797b10"
+        },
+        "a644ab40-18b9-48d9-9e30-b0bfcd6e8193": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "cd497710-4da7-4861-a5c7-6f489d10aea9"
+        },
+        "a6ba5912-0631-4f6b-bf20-0ba9cad747ab": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "62ceae2d-6c45-4d0c-a286-fdcc39129f3d"
+        },
+        "a8d63109-0e79-4c19-b59d-9865c95284dd": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "b55c9c01-4800-4328-ada9-8e5d77582860"
+        },
+        "c0e78747-ddcd-47f2-bf9a-5d9d88d17cd5": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "b9ac5561-a269-49af-8d52-5d213f9a5ab4"
+        },
+        "cb7ca1a2-9261-46f3-9762-3fd0230eca7e": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "7a6876e9-ea0b-4190-875c-f35667690877"
+        },
+        "e915bd27-5871-4147-9d5c-6236b7b37ce4": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "79ee6216-053f-4ca9-80ea-9fe6a8669583"
+        },
+        "f69cf819-8a3d-44f4-a64b-376662635144": {
+            "gate": "1800aefa-2fc0-4b77-8a19-fa76dc8181c4",
+            "pin": "81d9d8d4-2f60-4fa1-a7ed-9c3b38151a42"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "alcd",
+        "display"
+    ],
+    "type": "part",
+    "uuid": "ebddb29c-49eb-474f-8c4b-f700bd4c7a13",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a9de86a5-a499-404f-ad2e-dc5ef038218e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a94448cc-abeb-4c72-9767-c793ac005422"
+        }
+    },
+    "manufacturer": "Pololu",
+    "name": "Pololu-MODULE-DRV8825",
+    "prefix": "MOD",
+    "tags": [
+        "mod",
+        "stepper-motor"
+    ],
+    "type": "entity",
+    "uuid": "6d369392-5cdc-4513-abdd-89b51d739483"
+}

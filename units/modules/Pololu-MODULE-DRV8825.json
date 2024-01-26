@@ -1,0 +1,98 @@
+{
+    "manufacturer": "Pololu",
+    "name": "Pololu-MODULE-DRV8825",
+    "pins": {
+        "15800a1e-4dea-406c-bc35-a11093a6704b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SLEEP~",
+            "swap_group": 0
+        },
+        "29fe7df7-34cf-4c75-b78f-05088787fd05": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "M1",
+            "swap_group": 0
+        },
+        "2eb9f152-8a36-4f40-a3a6-f7142f95db34": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "3ecbe7fb-ffae-4bff-bcea-51ab5f27726e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "STEP",
+            "swap_group": 0
+        },
+        "56de58b0-74dc-4233-b743-307943b6b1cf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "71e034b2-4a0e-45a4-8e76-ba8fd33a9d84": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "811a9ddd-d8c1-4317-a696-b811b9033597": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "83914aaf-df30-4432-be11-fd5ee7d6830d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "M2",
+            "swap_group": 0
+        },
+        "93ffb8fa-0b6f-47dc-bb9e-96bf2a2ac856": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "M0",
+            "swap_group": 0
+        },
+        "bf59900e-6c7e-48ee-a117-8710c2146daa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~ENABLE~",
+            "swap_group": 0
+        },
+        "c08e85d5-f1e7-4ca3-9901-dc2ddeeaff0f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VMOT",
+            "swap_group": 0
+        },
+        "c868a793-5c7c-4d92-bd7a-dfe3515a74d7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "d0b27ac9-461b-4a0d-8cbb-e01f404c8d62": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d80728a6-e05e-455b-a865-c010b309be39": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "f54c044a-36de-4a91-8e66-313e237c1f2e": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~FAULT~",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a94448cc-abeb-4c72-9767-c793ac005422"
+}

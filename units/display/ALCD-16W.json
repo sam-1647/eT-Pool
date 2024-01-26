@@ -1,0 +1,104 @@
+{
+    "manufacturer": "JHD",
+    "name": "ALCD-16W",
+    "pins": {
+        "1f9cc6cd-59b5-48d9-ad67-c7b01fad9a80": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LED+",
+            "swap_group": 0
+        },
+        "37ca2dc2-65e3-4d0a-85a9-97e1304f1d16": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        },
+        "3f3e8890-bc9c-4089-acb6-7f2d9d3add99": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB4",
+            "swap_group": 0
+        },
+        "59e64894-e104-42e7-ba92-d28df470086b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB3",
+            "swap_group": 0
+        },
+        "62ceae2d-6c45-4d0c-a286-fdcc39129f3d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB5",
+            "swap_group": 0
+        },
+        "79ee6216-053f-4ca9-80ea-9fe6a8669583": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RS",
+            "swap_group": 0
+        },
+        "7a6876e9-ea0b-4190-875c-f35667690877": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "7c7ee8b3-4de3-4a57-92bd-5d619ad92119": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB1",
+            "swap_group": 0
+        },
+        "81d9d8d4-2f60-4fa1-a7ed-9c3b38151a42": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB0",
+            "swap_group": 0
+        },
+        "b55c9c01-4800-4328-ada9-8e5d77582860": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VEE",
+            "swap_group": 0
+        },
+        "b9ac5561-a269-49af-8d52-5d213f9a5ab4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "LED-",
+            "swap_group": 0
+        },
+        "c5841ea2-2bdb-4de0-9083-95ff9882712b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R/~W~",
+            "swap_group": 0
+        },
+        "cc1ee908-6b24-4279-9be3-a0991b130e33": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "cd497710-4da7-4861-a5c7-6f489d10aea9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB2",
+            "swap_group": 0
+        },
+        "ded9c71a-71a1-4bad-9ec1-ab5157c51888": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB6",
+            "swap_group": 0
+        },
+        "efa04ed0-24cb-4414-8143-893281797b10": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DB7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8493f2d0-7f96-448e-a2d9-ccc82610bd1e"
+}

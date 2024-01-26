@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "Pololu-MODULE-DRV8825"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2A, 8.2V-45V, 32uSTEP STEPPER MOTOR DRIVER"
+    ],
+    "entity": "6d369392-5cdc-4513-abdd-89b51d739483",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Pololu"
+    ],
+    "model": "2ad69a85-8bce-46ba-bd5c-ea170f6cf2ea",
+    "package": "038811e4-038f-4dcc-bb30-580032198eb6",
+    "pad_map": {
+        "008fce0e-c184-4d4d-891c-10a8da7f4ff1": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "c868a793-5c7c-4d92-bd7a-dfe3515a74d7"
+        },
+        "012c4696-00ac-4d26-88ad-6ae3145cea80": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "71e034b2-4a0e-45a4-8e76-ba8fd33a9d84"
+        },
+        "05567576-3b51-4c99-a48f-e65f2340b8ea": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "d80728a6-e05e-455b-a865-c010b309be39"
+        },
+        "2c8ff070-9a7f-4165-88c1-5b19ff251c27": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "2eb9f152-8a36-4f40-a3a6-f7142f95db34"
+        },
+        "46818804-7164-4486-aa01-a1b9524b06fc": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "29fe7df7-34cf-4c75-b78f-05088787fd05"
+        },
+        "652c2d1e-8007-491c-94b5-3a01fb3c6e27": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "d0b27ac9-461b-4a0d-8cbb-e01f404c8d62"
+        },
+        "90c48a2f-45aa-4694-a3ce-dd82bc3ebbe3": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "3ecbe7fb-ffae-4bff-bcea-51ab5f27726e"
+        },
+        "92aab001-2321-4256-9d81-564b8ef002cf": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "83914aaf-df30-4432-be11-fd5ee7d6830d"
+        },
+        "935a56a8-9d5a-4afc-8580-61779a1402c1": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "15800a1e-4dea-406c-bc35-a11093a6704b"
+        },
+        "9d776c98-42e3-470a-a0c9-32e2de6dd14e": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "bf59900e-6c7e-48ee-a117-8710c2146daa"
+        },
+        "9e6b0da2-63fd-492d-b827-58371a347ab3": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "56de58b0-74dc-4233-b743-307943b6b1cf"
+        },
+        "a5c6cc12-32ee-4dba-86e8-91d5c9d13be7": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "c08e85d5-f1e7-4ca3-9901-dc2ddeeaff0f"
+        },
+        "b1206f4a-890a-44b2-81b3-ad1798ed379c": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "93ffb8fa-0b6f-47dc-bb9e-96bf2a2ac856"
+        },
+        "c474ef2e-879a-45c3-a821-455551aca260": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "811a9ddd-d8c1-4317-a696-b811b9033597"
+        },
+        "d7f1fcc2-8696-4d96-bc7b-ce40c52769eb": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "f54c044a-36de-4a91-8e66-313e237c1f2e"
+        },
+        "f3a3dfc2-e6f6-4d96-8f45-dbc043bd084f": {
+            "gate": "a9de86a5-a499-404f-ad2e-dc5ef038218e",
+            "pin": "d0b27ac9-461b-4a0d-8cbb-e01f404c8d62"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "module",
+        "stepper-motor"
+    ],
+    "type": "part",
+    "uuid": "adce64ce-dea9-4297-bb6a-20595a769e84",
+    "value": [
+        false,
+        ""
+    ]
+}

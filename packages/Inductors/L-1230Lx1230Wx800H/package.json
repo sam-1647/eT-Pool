@@ -212,7 +212,7 @@
             "name": "2",
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
-                "pad_height": 2900000,
+                "pad_height": 3200000,
                 "pad_width": 5400000
             },
             "placement": {
@@ -228,7 +228,7 @@
             "name": "1",
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
-                "pad_height": 2900000,
+                "pad_height": 3200000,
                 "pad_width": 5400000
             },
             "placement": {

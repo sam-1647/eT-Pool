@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "1800aefa-2fc0-4b77-8a19-fa76dc8181c4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8493f2d0-7f96-448e-a2d9-ccc82610bd1e"
+        }
+    },
+    "manufacturer": "JHD",
+    "name": "ALCD-16W",
+    "prefix": "DISP",
+    "tags": [
+        "alcd",
+        "display"
+    ],
+    "type": "entity",
+    "uuid": "60ae2430-5003-4bea-993e-080abc8a9d92"
+}
