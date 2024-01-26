@@ -15,9 +15,15 @@
             "swap_group": 0
         },
         "0a3a1359-7d12-4dc5-bd82-00bda2c41ef9": {
+            "alt_names": {
+                "2ddca481-b118-42aa-883e-686ef0bc7f26": {
+                    "direction": "input",
+                    "name": "ICP"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ICP/PD6",
+            "primary_name": "PD6",
             "swap_group": 0
         },
         "139e5bf3-d9db-4883-8aa0-ef163478bcb1": {
@@ -69,9 +75,15 @@
             "swap_group": 0
         },
         "418cf228-2b6f-430e-98d8-92a22bb5aba7": {
+            "alt_names": {
+                "37ddef13-865d-4b9b-b68c-60e882526c58": {
+                    "direction": "input",
+                    "name": "INT0"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "INT0/PD2",
+            "primary_name": "PD2",
             "swap_group": 0
         },
         "4aef05fa-6f2d-44f3-917f-4dc19960308d": {
@@ -275,9 +287,15 @@
             "swap_group": 0
         },
         "d1540de8-a7c0-41de-a16b-00f58e0c919d": {
+            "alt_names": {
+                "addedcff-e831-4c68-9273-42e2e1d3f5c9": {
+                    "direction": "input",
+                    "name": "INT1"
+                }
+            },
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "INT1/PD3",
+            "primary_name": "PD3",
             "swap_group": 0
         },
         "d49ffa27-eafa-488c-a208-0c6eb925d0c0": {
