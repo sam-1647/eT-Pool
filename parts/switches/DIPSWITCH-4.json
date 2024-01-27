@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "DIPSWITCH-4"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-Way DIPSWITCH, PTH"
+    ],
+    "entity": "0ea86034-482d-42a1-bc1b-73177487b3a4",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "5af788f7-073d-402d-b6a8-3d373fc13584",
+    "package": "d1ea6428-4272-4807-b070-75caee18b85f",
+    "pad_map": {
+        "0b918593-e249-4502-b329-7bf7fb264225": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "bce6b73f-e2aa-403c-8275-6373f5eddb00"
+        },
+        "17609743-1ab5-4cbc-87b4-2d550a803bf4": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "e2f1c46c-93c6-44ca-ad5f-19688dbf7293"
+        },
+        "2e2ff7f8-89b2-47f6-a4f8-27de20212222": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "005a443e-ec60-4f80-abc3-b6a62db8927d"
+        },
+        "5942631c-a75e-4408-8f8e-9960dc8018fa": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "79330133-bf74-45ab-bdeb-8215c5c967a2"
+        },
+        "714112bb-08c0-4246-8c86-ff9b93ad804b": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "980dcf71-3b56-4514-8e2e-583978f5adbd"
+        },
+        "79003720-6378-4df1-bb83-8061ac5eaac7": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "6bd01d02-e385-4d3e-9057-391c76f73b36"
+        },
+        "fa178c13-51eb-4ba4-8482-eb27bdbff742": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "e52c6f82-b72e-481e-94f4-5238c6a21bae"
+        },
+        "ff4878ce-41b4-4569-9d0f-9d30d21a37ac": {
+            "gate": "0454f6ce-6623-423e-b894-9cda57304456",
+            "pin": "65def0fd-11c9-4811-be0b-5061aa846c58"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dipswitch"
+    ],
+    "type": "part",
+    "uuid": "c2cf54dc-94ea-42a2-8717-4fb952e65880",
+    "value": [
+        false,
+        ""
+    ]
+}

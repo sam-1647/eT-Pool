@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "PC817x"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-Pin General Purpose OptoCoupler"
+    ],
+    "entity": "8af1df5b-c110-45a1-bc26-5b86ffaf7f52",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Sharp"
+    ],
+    "model": "af2d3989-1678-4fc8-8705-94167a1a804c",
+    "orderable_MPNs": {
+        "5657648c-5af8-44fa-bb86-ba345975a218": "PC817A",
+        "9462c595-7dbb-42e3-9a7a-1d7f6e262189": "PC817C",
+        "f804f312-f0f2-44da-9534-bbdd851c4d4e": "PC817B"
+    },
+    "package": "d9d7bf40-86c6-4f19-8b16-a4a224f8c596",
+    "pad_map": {
+        "19340eae-dcf9-415f-bc56-ffad3af5bbb6": {
+            "gate": "d17e887d-23f8-47dd-9b1e-68f70da23d36",
+            "pin": "3925d29e-bf72-4967-be4f-a173682d81ab"
+        },
+        "39092dc6-5558-4bb0-a59f-a106954f2ee3": {
+            "gate": "d17e887d-23f8-47dd-9b1e-68f70da23d36",
+            "pin": "3551dbe5-ebcf-4036-af8a-5d449b701e8f"
+        },
+        "67a9b4eb-5fee-42f1-8215-57e8df856c41": {
+            "gate": "d17e887d-23f8-47dd-9b1e-68f70da23d36",
+            "pin": "6bc903e1-6275-4698-a902-380a3ad14a15"
+        },
+        "751db253-a4b5-4ce9-8eaf-4ee2ddfae2d5": {
+            "gate": "d17e887d-23f8-47dd-9b1e-68f70da23d36",
+            "pin": "404c2215-2cb7-443f-9204-95e486d621bb"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "opto"
+    ],
+    "type": "part",
+    "uuid": "3b29afe8-1675-41a0-ae6b-53013b5f641f",
+    "value": [
+        false,
+        ""
+    ]
+}

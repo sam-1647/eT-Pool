@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-2010-470E"
+    ],
+    "base": "b1b512a5-82ca-48a4-99f0-e7180b50768f",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "470E, 1/2W, 5%, 2010 Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Watts"
+    ],
+    "model": "45675531-314d-4766-ad23-0aa2f4f3bff2",
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "470"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "f42a0ef8-6c37-4bb1-918d-3c516fe3b9c6",
+    "value": [
+        false,
+        "470Ω"
+    ]
+}

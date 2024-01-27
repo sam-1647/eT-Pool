@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "OPTO-4P",
+    "pins": {
+        "3551dbe5-ebcf-4036-af8a-5d449b701e8f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        },
+        "3925d29e-bf72-4967-be4f-a173682d81ab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "404c2215-2cb7-443f-9204-95e486d621bb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "6bc903e1-6275-4698-a902-380a3ad14a15": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "cad5d0fd-0e6e-4185-a72d-589565279277"
+}

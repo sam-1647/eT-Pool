@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "0454f6ce-6623-423e-b894-9cda57304456": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eb4ea411-f727-438d-9ede-8be391641f8b"
+        }
+    },
+    "manufacturer": "",
+    "name": "DIPSWITCH-4",
+    "prefix": "SW",
+    "tags": [
+        "dipswitch"
+    ],
+    "type": "entity",
+    "uuid": "0ea86034-482d-42a1-bc1b-73177487b3a4"
+}
