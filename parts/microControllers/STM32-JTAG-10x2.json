@@ -23,11 +23,11 @@
     "pad_map": {
         "00cc223f-4986-429d-9001-e33fe37e7fdd": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "65ffccdb-0db7-4ca0-983b-10ee950faccc"
+            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
         },
         "1e5c57f6-3057-4346-bb52-9d6090aea346": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
+            "pin": "2e3bc005-00e9-42e1-b89f-f8405c82af33"
         },
         "203deac6-af19-4982-a1b5-04d2e57f066a": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
@@ -39,11 +39,11 @@
         },
         "2a7465e8-add1-467a-ae8d-40195dda0cea": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "c36aad09-5401-4291-a919-5dcf1ff3f367"
+            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
         },
         "2b161df1-2a53-4e86-bfbf-864693324ea6": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "98c90c8c-72aa-4042-a1dd-2c942528f3ce"
+            "pin": "a046de7f-6b98-4943-b810-15c9c1aad89c"
         },
         "56890f50-a19d-4a90-abd7-2f1b52f2b8c7": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
@@ -51,31 +51,31 @@
         },
         "56b3652f-3138-4e78-b6ce-808ac673ee08": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "a046de7f-6b98-4943-b810-15c9c1aad89c"
+            "pin": "88486fe2-3f69-4a1b-a338-ab863a63ad75"
         },
         "5a581caf-f1f4-403f-8d38-0cac81286aba": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
+            "pin": "c36aad09-5401-4291-a919-5dcf1ff3f367"
         },
         "5d39bceb-4e74-4aca-b9d9-cf10c2852832": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "e5205874-ad5a-431b-9a75-bf87284cb603"
+            "pin": "65ffccdb-0db7-4ca0-983b-10ee950faccc"
         },
         "6b098063-982e-4487-9b3a-91d9af41df02": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
+            "pin": "e5205874-ad5a-431b-9a75-bf87284cb603"
         },
         "86e157a3-806e-4657-bb4a-f1dec5618d24": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "88486fe2-3f69-4a1b-a338-ab863a63ad75"
+            "pin": "cf478492-56a2-4d89-b9a4-3a5232f108bb"
         },
         "940f345f-e294-407b-8a49-eb0f7c451e87": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "2e3bc005-00e9-42e1-b89f-f8405c82af33"
+            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
         },
         "ab3e0af7-f646-4773-8bc0-6a7f4478900d": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "f54521a5-5a49-48d8-aae3-3b7089c06183"
+            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
         },
         "b29da853-bcab-4a56-95f0-894af4b7082f": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
@@ -83,11 +83,11 @@
         },
         "c7b3053c-14da-4b34-87d2-be92750830c3": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "7aa8d6be-0380-4641-abbd-e1e1926ecd70"
+            "pin": "f54521a5-5a49-48d8-aae3-3b7089c06183"
         },
         "d4897883-b318-4c26-8d6f-804483c710b3": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "cf478492-56a2-4d89-b9a4-3a5232f108bb"
+            "pin": "7aa8d6be-0380-4641-abbd-e1e1926ecd70"
         },
         "e115c8f5-f35e-414c-9b5c-c934aa721f8c": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
@@ -95,7 +95,7 @@
         },
         "e7bf945a-1539-46e5-9dba-788230fd3294": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
-            "pin": "a73564c0-fc7e-47f9-9b3c-cfc487234970"
+            "pin": "98c90c8c-72aa-4042-a1dd-2c942528f3ce"
         },
         "ff98f69f-dfae-4e9c-9a89-4f40f5f91a69": {
             "gate": "cc7d8ec7-cc62-4490-9eca-0f3e4d575bd5",
