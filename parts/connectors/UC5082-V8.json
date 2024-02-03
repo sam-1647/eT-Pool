@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "UC5082-V8"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8Way, Female Connector,P=5.08mm"
+    ],
+    "entity": "a7102794-c6f1-4f39-90d7-874af809cc9d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "6afb3bfd-7572-4327-b121-e9a3071ef326",
+    "package": "6bf36bdb-1f38-4c7d-a419-889223ef09c8",
+    "pad_map": {
+        "2c5f25c9-782c-4dff-b649-31217583fae5": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "a8adab93-4e92-4a35-992c-d238f4862165"
+        },
+        "2d2996f5-c695-4266-8e60-d6981b866b13": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "ba38a8d9-7b21-432b-a19d-0721d554f15c"
+        },
+        "7567b2ef-200f-4b36-a789-7f6cc3ad6678": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "35aab425-e9b3-4b1e-9a22-24bd08bd089b"
+        },
+        "7d5856e3-e879-4ce0-8ddf-2a5319d263f9": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "87aeaec5-c3ba-4d57-8947-6899d46756d3"
+        },
+        "7efe50da-3ca1-4dbf-a69a-6a1bf262d096": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "b0d88104-8a4c-47ea-9377-24f95f238a9f"
+        },
+        "866bf1e8-4fb9-4d6b-9f97-3e4b2ac131b6": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "e083c2c1-0e5a-40dc-934f-4d038addb317"
+        },
+        "c3bc0734-0f20-4ad4-86a4-ded5ca67716f": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "fc3a28a2-8ff7-400b-b20e-e70f7e843d04"
+        },
+        "f4d65005-8e71-4c17-b5bd-a0b1b7822c9c": {
+            "gate": "b4f3d4b5-55fe-4103-97f4-67a5b07bcd38",
+            "pin": "88e925ca-65df-49ec-8a29-b7e5ea080e21"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn"
+    ],
+    "type": "part",
+    "uuid": "ca21786b-98d4-4443-8fb3-ba6c37dd4b0c",
+    "value": [
+        false,
+        ""
+    ]
+}

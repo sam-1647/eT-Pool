@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "BERG-2x1-JUMPER-254P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Berg 2x1 Male Pin Header,Vertical,Jumper, P=2.54mm"
+    ],
+    "entity": "e0064a78-e1f0-4c2a-a67f-1d24c6886004",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "d5dbd087-f0cc-436d-9779-80b9544cf761",
+    "package": "88b8c24b-2074-45fe-801f-9a8889ff865f",
+    "pad_map": {
+        "51dae183-9de1-49d3-8df4-a5a1f047a1a7": {
+            "gate": "fbe24109-6dcb-4c58-a034-559521eb28c6",
+            "pin": "6d5a8db5-2cad-4eec-b56d-8cb85f567410"
+        },
+        "5a983bd8-e691-4576-9ac6-939904cd7958": {
+            "gate": "fbe24109-6dcb-4c58-a034-559521eb28c6",
+            "pin": "b0da620f-59c3-43f3-b651-2771957cc591"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "jumper"
+    ],
+    "type": "part",
+    "uuid": "a2057f42-1ffb-42bd-8bde-3476ad5f72c7",
+    "value": [
+        false,
+        ""
+    ]
+}

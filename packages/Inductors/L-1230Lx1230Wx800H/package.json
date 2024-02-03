@@ -425,7 +425,42 @@
         "ind",
         "power-ind"
     ],
-    "texts": {},
+    "texts": {
+        "023c8b73-63c8-473b-8ba6-b8b3fa90886b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3900000,
+                    7400000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "3fb38a4c-31c2-4b40-b06d-45109db1aa3e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2200000,
+                    -200000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
     "type": "package",
     "uuid": "56d9cf0f-894a-4133-a3fe-03de8fa2678e"
 }
