@@ -472,7 +472,7 @@
             "name": "15",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -489,7 +489,7 @@
             "name": "8",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -519,7 +519,7 @@
             "name": "10",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -536,7 +536,7 @@
             "name": "13",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -570,7 +570,7 @@
             "name": "5",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -587,7 +587,7 @@
             "name": "11",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -604,7 +604,7 @@
             "name": "6",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -621,7 +621,7 @@
             "name": "14",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -638,7 +638,7 @@
             "name": "9",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -655,7 +655,7 @@
             "name": "12",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -672,7 +672,7 @@
             "name": "3",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -702,7 +702,7 @@
             "name": "16",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -719,7 +719,7 @@
             "name": "2",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -736,7 +736,7 @@
             "name": "4",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
@@ -753,7 +753,7 @@
             "name": "7",
             "padstack": "54660949-0d96-4d74-b6e0-94d279e8534a",
             "parameter_set": {
-                "hole_diameter": 600000,
+                "hole_diameter": 1000000,
                 "pad_height": 1500000,
                 "pad_width": 3000000
             },
