@@ -1,0 +1,92 @@
+{
+    "MPN": [
+        false,
+        "74HC14-SOIC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Hex Schmitt Trigger I/P Inverter"
+    ],
+    "entity": "52ecd53d-0129-4f8f-8f13-ff398bf02745",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "On Semi"
+    ],
+    "model": "5068c605-5787-49ac-92cf-8dbb9103475a",
+    "orderable_MPNs": {
+        "839f92ac-ea2d-4eef-b2c8-c7c97c0f45da": "74HC14DR2G"
+    },
+    "package": "44e85ad1-9570-4419-9a56-d4db124ce39a",
+    "pad_map": {
+        "05c0b27a-25c0-4e32-8e2f-69ac4858d82c": {
+            "gate": "cde624b3-bfe6-4320-b038-83ea5bc72142",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "2ebb2a29-9a7b-417e-8a0a-a0a7ff8fe702": {
+            "gate": "1d5a294b-e072-4321-90a0-9c0f2026a85a",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "3b624ed5-687f-4dcd-b4bb-42fd94e07c62": {
+            "gate": "cde624b3-bfe6-4320-b038-83ea5bc72142",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        },
+        "530676ac-adf2-4350-b4cc-9ccd2d75c578": {
+            "gate": "04ec65d0-2f2d-46dd-9999-1137959fa5d6",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        },
+        "a257099a-891d-4141-ba01-581096970d9b": {
+            "gate": "747ad144-95c6-4064-9322-c897753e66aa",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        },
+        "ab2de05a-6821-4189-8478-f0dc0e96a5b5": {
+            "gate": "9f5777be-0ea5-413b-8c9e-91d2109e6f10",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "b4822a16-8b6c-4bf7-a2c2-b8d014949dd3": {
+            "gate": "04ec65d0-2f2d-46dd-9999-1137959fa5d6",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "c7b9d868-823d-4569-859e-ee900f0fdb3b": {
+            "gate": "234479e3-0b9e-47eb-88c4-6966ceb01ea5",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "e8952743-77cc-44e8-ab93-2ed76072d1e0": {
+            "gate": "9f5777be-0ea5-413b-8c9e-91d2109e6f10",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        },
+        "ea9d489a-2d0b-4417-892a-3a10fe3573fd": {
+            "gate": "cff53f59-b072-4335-9c06-3a40ed103af0",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        },
+        "f2b2d700-23cf-42e7-b217-15ecb824fcf6": {
+            "gate": "cff53f59-b072-4335-9c06-3a40ed103af0",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "f51dc2cb-1aad-4f2d-9548-466fd6299d3f": {
+            "gate": "747ad144-95c6-4064-9322-c897753e66aa",
+            "pin": "8b869601-2b73-4b54-b770-073cb4a0e71e"
+        },
+        "f9f0cc3a-fa44-497e-87dc-5fc2fc707ce7": {
+            "gate": "1d5a294b-e072-4321-90a0-9c0f2026a85a",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        },
+        "fac2ed38-ed93-4968-89f6-71156518677e": {
+            "gate": "234479e3-0b9e-47eb-88c4-6966ceb01ea5",
+            "pin": "e7b28fcd-fd4e-47fc-8498-d9d77197781e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7152e4e5-4a92-455f-ad22-8d7c1abd52a6",
+    "value": [
+        false,
+        ""
+    ]
+}

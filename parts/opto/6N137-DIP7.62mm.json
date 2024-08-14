@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "6N137-DIP7.62mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10mpbs Optocoupler with High Gain & Strobe Input"
+    ],
+    "entity": "3cbfa2c4-124e-4a77-bac3-3837df0277e5",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "7fb617ac-a584-49b3-90be-8c60f76b67c5",
+    "orderable_MPNs": {
+        "959a69b4-c5c2-4e27-8e62-05a83b2f45a7": "6N137"
+    },
+    "package": "185954d6-63b3-4280-af72-a9fd57f467da",
+    "pad_map": {
+        "0b918593-e249-4502-b329-7bf7fb264225": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "8afa8ff1-0e01-4507-8d15-d70e6a616ef5"
+        },
+        "17609743-1ab5-4cbc-87b4-2d550a803bf4": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "785e9065-c787-482e-b4e6-eba3b42d4b02"
+        },
+        "2e2ff7f8-89b2-47f6-a4f8-27de20212222": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "23b6616e-b0e4-4e17-869f-b32ea1c875b6"
+        },
+        "714112bb-08c0-4246-8c86-ff9b93ad804b": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "c9810c2a-0c74-497f-89e9-1e1d0f7d2b14"
+        },
+        "79003720-6378-4df1-bb83-8061ac5eaac7": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "9709fa52-2cd2-4ab5-82dd-713e8edc33c7"
+        },
+        "ff4878ce-41b4-4569-9d0f-9d30d21a37ac": {
+            "gate": "592d471f-41c5-427a-a4ab-03bf6cd964c5",
+            "pin": "253e118d-8540-4b13-8198-93ba76981bd7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "opto"
+    ],
+    "type": "part",
+    "uuid": "32c4ce87-0c08-4c45-a2a9-06ff5e983d39",
+    "value": [
+        false,
+        ""
+    ]
+}

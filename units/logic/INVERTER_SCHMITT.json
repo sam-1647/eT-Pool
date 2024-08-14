@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "INVERTER_SCHMITT",
+    "pins": {
+        "8b869601-2b73-4b54-b770-073cb4a0e71e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "e7b28fcd-fd4e-47fc-8498-d9d77197781e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+}

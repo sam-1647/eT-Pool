@@ -1,0 +1,55 @@
+{
+    "gates": {
+        "04ec65d0-2f2d-46dd-9999-1137959fa5d6": {
+            "name": "3",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        },
+        "1d5a294b-e072-4321-90a0-9c0f2026a85a": {
+            "name": "1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        },
+        "234479e3-0b9e-47eb-88c4-6966ceb01ea5": {
+            "name": "2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        },
+        "747ad144-95c6-4064-9322-c897753e66aa": {
+            "name": "5",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        },
+        "9f5777be-0ea5-413b-8c9e-91d2109e6f10": {
+            "name": "7",
+            "suffix": "H",
+            "swap_group": 0,
+            "unit": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+        },
+        "cde624b3-bfe6-4320-b038-83ea5bc72142": {
+            "name": "6",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        },
+        "cff53f59-b072-4335-9c06-3a40ed103af0": {
+            "name": "4",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "f71869a7-3ba1-4d7e-b97e-b1b8a4b9bbff"
+        }
+    },
+    "manufacturer": "On Semi",
+    "name": "74HC14",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "logic"
+    ],
+    "type": "entity",
+    "uuid": "52ecd53d-0129-4f8f-8f13-ff398bf02745"
+}

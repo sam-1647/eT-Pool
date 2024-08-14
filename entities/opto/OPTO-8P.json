@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "592d471f-41c5-427a-a4ab-03bf6cd964c5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8d791968-1adf-4eb2-8855-e3c6d98df947"
+        }
+    },
+    "manufacturer": "",
+    "name": "OPTO-8P",
+    "prefix": "OK",
+    "tags": [
+        "opto"
+    ],
+    "type": "entity",
+    "uuid": "3cbfa2c4-124e-4a77-bac3-3837df0277e5"
+}

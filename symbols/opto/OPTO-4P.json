@@ -631,7 +631,42 @@
         }
     },
     "text_placements": {},
-    "texts": {},
+    "texts": {
+        "6ca6cada-5edc-4711-8898-fe180c3db0fc": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    -5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "b6474d02-f95f-4272-87e6-8ba220b18589": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
     "type": "symbol",
     "unit": "cad5d0fd-0e6e-4185-a72d-589565279277",
     "uuid": "8ee02b16-807c-4eee-bac7-94fba78c29cc"

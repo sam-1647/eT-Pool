@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "OPTO-8P",
+    "pins": {
+        "23b6616e-b0e4-4e17-869f-b32ea1c875b6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "253e118d-8540-4b13-8198-93ba76981bd7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VE",
+            "swap_group": 0
+        },
+        "785e9065-c787-482e-b4e6-eba3b42d4b02": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "8afa8ff1-0e01-4507-8d15-d70e6a616ef5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "9709fa52-2cd2-4ab5-82dd-713e8edc33c7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VO",
+            "swap_group": 0
+        },
+        "c9810c2a-0c74-497f-89e9-1e1d0f7d2b14": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8d791968-1adf-4eb2-8855-e3c6d98df947"
+}
