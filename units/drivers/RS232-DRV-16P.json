@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Maxim",
+    "name": "RS232-DRV-16P",
+    "pins": {
+        "3386abae-f60f-490a-bf26-e0465c6e8898": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "T2OUT",
+            "swap_group": 0
+        },
+        "3cb11e7d-91c3-4d49-989a-867798c56a69": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "4a1ae518-4b22-4179-8c46-a3bd75ea295d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "55ee89d3-400f-4fd3-b677-b3d03b136884": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1+",
+            "swap_group": 0
+        },
+        "59f1dc27-6f4d-49ea-9d0d-41ca080a7f89": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "T1IN",
+            "swap_group": 0
+        },
+        "6e377ca0-3e0b-469d-ac75-f1721a442c35": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1-",
+            "swap_group": 0
+        },
+        "7541ff96-3d0d-4ddc-ab81-346adbff0525": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R1IN",
+            "swap_group": 0
+        },
+        "7638b76c-3a83-4499-a134-09892688cf1b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2+",
+            "swap_group": 0
+        },
+        "7fe904c9-541f-4f7f-bce8-0a0835ea31ea": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2-",
+            "swap_group": 0
+        },
+        "851b824c-60ba-4094-9728-ccdb96f829c7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "T1OUT",
+            "swap_group": 0
+        },
+        "b0214bee-245e-45a7-9969-3e76ab435998": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "b5c2e0df-8028-469e-8381-c9a5a37ebbc7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "R2OUT",
+            "swap_group": 0
+        },
+        "b8c2799e-0825-46ce-8c77-f3f811ff11fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R2IN",
+            "swap_group": 0
+        },
+        "d62ebe2d-05e8-4a7c-a219-33f96e3c234e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "T2IN",
+            "swap_group": 0
+        },
+        "f2cf95eb-9560-4a9d-96c1-847731f36133": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "f4087dd7-a74a-4579-85c2-e45d5485970d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "R1OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "cf7c77a3-a346-4b92-9d38-2b6ec3dd38bb"
+}

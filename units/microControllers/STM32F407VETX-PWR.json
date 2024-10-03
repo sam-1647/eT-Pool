@@ -1,0 +1,56 @@
+{
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32F407VETX-PWR",
+    "pins": {
+        "0083bb08-c500-4b0d-ac90-5d91554f1ca7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "066f0a88-5506-44ed-a880-f8dcdd313a02": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA",
+            "swap_group": 0
+        },
+        "18eaa4dd-c4e8-42fa-942f-0b644ca26a6f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "240615ea-4b64-4260-bb32-6f012dab95ae": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF+",
+            "swap_group": 0
+        },
+        "7344cb76-5826-4782-8911-aecf52d22ef8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCAP-2",
+            "swap_group": 0
+        },
+        "d5845027-1174-47f8-ac48-95d1f7bb9acd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "ec15b7f1-d056-4609-9c9c-457f7872e4ce": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VCAP-1",
+            "swap_group": 0
+        },
+        "f9e95d0f-45da-4d18-8bf2-c83465f18aa4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSSA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "23c114ad-318e-4390-8092-3711bb79382e"
+}

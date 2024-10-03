@@ -60,7 +60,8 @@
     },
     "parametric": {},
     "tags": [
-        "driver",
+        "comm-driver",
+        "ic",
         "rs485"
     ],
     "type": "part",

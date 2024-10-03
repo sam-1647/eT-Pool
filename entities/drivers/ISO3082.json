@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d9137392-fe6d-4fee-bbaa-8a610eeaa4be": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b1429921-3aca-47f9-a8a1-48178372c421"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "ISO3082",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rs485"
+    ],
+    "type": "entity",
+    "uuid": "be9f571a-d87b-4416-80c1-e449156271aa"
+}

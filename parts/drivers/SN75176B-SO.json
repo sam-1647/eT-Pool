@@ -63,7 +63,11 @@
         }
     },
     "parametric": {},
-    "tags": [],
+    "tags": [
+        "comm-driver",
+        "ic",
+        "rs485"
+    ],
     "type": "part",
     "uuid": "5d4389e0-32d2-4c03-89bb-8ef35b2c9347",
     "value": [

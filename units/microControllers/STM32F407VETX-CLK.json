@@ -1,0 +1,107 @@
+{
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32F407VETX-CLK",
+    "pins": {
+        "09637a6f-ac82-4b9b-9c9d-11541d4b0892": {
+            "alt_names": {
+                "b5ee4a84-cbfe-4e9b-b322-20888db20035": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "bidirectional",
+                    "name": "PH0"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OSC-IN*",
+            "swap_group": 0
+        },
+        "0b5d4dc9-f263-4238-9fe5-c86b6480bf12": {
+            "alt_names": {
+                "b5ee4a84-cbfe-4e9b-b322-20888db20035": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "bidirectional",
+                    "name": "PC14"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OSC32-IN*",
+            "swap_group": 0
+        },
+        "258df916-a5bc-4d4d-a614-f48a82cc2a9b": {
+            "alt_names": {
+                "b5ee4a84-cbfe-4e9b-b322-20888db20035": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "bidirectional",
+                    "name": "PC15"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OSC32-OUT*",
+            "swap_group": 0
+        },
+        "68a223a2-40d4-4a21-bc44-f5a782b229c0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nRST",
+            "swap_group": 0
+        },
+        "723472b3-237b-4730-a800-d0ab35f5df79": {
+            "alt_names": {
+                "b5ee4a84-cbfe-4e9b-b322-20888db20035": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "bidirectional",
+                    "name": "PH1"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "OSC-OUT*",
+            "swap_group": 0
+        },
+        "7d77212b-5c93-40b2-979a-6addb09af51f": {
+            "alt_names": {
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "input",
+                    "name": "VPP"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT-0",
+            "swap_group": 0
+        },
+        "9a875aed-de96-471e-b9d4-bb35fd12b0d6": {
+            "alt_names": {
+                "b5ee4a84-cbfe-4e9b-b322-20888db20035": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f28c3e18-fdec-4db4-ad97-8481fdbe8c1c": {
+                    "direction": "bidirectional",
+                    "name": "PB2"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "*BOOT-1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c62ec055-e31e-48a1-af38-2b53195e5b8b",
+    "version": 1
+}

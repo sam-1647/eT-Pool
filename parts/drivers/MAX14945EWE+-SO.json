@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "MAX14945EWE+-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2.75kV Isolated 500kbps Half-Duplex RS485 Driver"
+    ],
+    "entity": "d0dbef94-e2d2-4df9-bbf4-976333fce5d9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "2c561abc-6835-4106-97f5-d9bc66c25e09",
+    "package": "de01a0df-e68d-448c-a954-c8224a9c3f10",
+    "pad_map": {
+        "0742698f-53a6-405c-bd8e-5a669239991d": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "6b9c974b-e934-4b45-8568-ca3df5671e23"
+        },
+        "1b7b2077-e9a5-482c-9d36-3be737b9d94f": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "02902c2f-3e66-4bb1-afbe-02fa356a0512"
+        },
+        "3f8190c4-cf57-4585-b9e4-f608818229ac": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "acf6a046-d24d-40e3-b3cc-090bc14ab6f2"
+        },
+        "45d9dc4d-71a0-4e3d-8e76-6e73751ecdf5": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "55e7a4f5-6c15-4308-b784-488c6ce7325e"
+        },
+        "549fd9c9-96cc-4c59-a6ed-f137be31824f": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "728ff80d-d5e5-4b2f-b97e-5f424c04e8e1"
+        },
+        "6094a0cd-279b-403e-82cd-3fe1e1f085be": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "85a1e4d3-1b2b-439e-b019-262dda0240cd"
+        },
+        "6379001b-ffe5-4262-8ccc-2ca5b7de2ae7": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "c490cbfb-95a0-4fa9-8eba-38cc4451d180"
+        },
+        "68ddbd6e-ad0a-4c41-ae32-0eb097d84a28": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "e77b08a2-9524-4167-922b-230602a06dff"
+        },
+        "6ad97cca-7d69-4961-b88b-dea64eaa730c": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "cdbb1110-26a2-40f0-b101-701c0fb668f2"
+        },
+        "6c26b836-7cd2-4c5f-b5de-e0cabf22aed2": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "604b4c9a-e46b-44c1-90b5-c53dcdff6220"
+        },
+        "9395b588-42e2-40b9-be70-ecf977c33c9f": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "cdbb1110-26a2-40f0-b101-701c0fb668f2"
+        },
+        "9566c560-73d0-43d1-b433-09ccded2bbb8": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "5b06ec0f-585d-4d34-adc5-729af1609924"
+        },
+        "bb03f8b4-eace-4743-bdec-fb6e4107875c": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "5b06ec0f-585d-4d34-adc5-729af1609924"
+        },
+        "bb83a29e-0314-4b60-93f3-8bfd0f18f40f": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "36e22e93-e014-460b-b37a-f6bf3cf541e3"
+        },
+        "cd34f163-a352-477b-a409-c09dbd948ef3": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "fa1fdb07-0e2a-4a89-a538-ece16b392b8a"
+        },
+        "d77c6605-6882-4508-9e5b-8955b04058fe": {
+            "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
+            "pin": "fa1fdb07-0e2a-4a89-a538-ece16b392b8a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "comm-driver",
+        "ic",
+        "rs485"
+    ],
+    "type": "part",
+    "uuid": "5753065d-aa6d-4c85-9111-7941b1f90ffe",
+    "value": [
+        false,
+        ""
+    ]
+}

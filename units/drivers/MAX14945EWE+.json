@@ -1,0 +1,86 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX14945EWE+",
+    "pins": {
+        "02902c2f-3e66-4bb1-afbe-02fa356a0512": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DE",
+            "swap_group": 0
+        },
+        "36e22e93-e014-460b-b37a-f6bf3cf541e3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "55e7a4f5-6c15-4308-b784-488c6ce7325e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD-A",
+            "swap_group": 0
+        },
+        "5b06ec0f-585d-4d34-adc5-729af1609924": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-B",
+            "swap_group": 0
+        },
+        "604b4c9a-e46b-44c1-90b5-c53dcdff6220": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VLDO",
+            "swap_group": 0
+        },
+        "6b9c974b-e934-4b45-8568-ca3df5671e23": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~SBA~",
+            "swap_group": 0
+        },
+        "728ff80d-d5e5-4b2f-b97e-5f424c04e8e1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "85a1e4d3-1b2b-439e-b019-262dda0240cd": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD-B",
+            "swap_group": 0
+        },
+        "acf6a046-d24d-40e3-b3cc-090bc14ab6f2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RE~",
+            "swap_group": 0
+        },
+        "c490cbfb-95a0-4fa9-8eba-38cc4451d180": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "cdbb1110-26a2-40f0-b101-701c0fb668f2": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "e77b08a2-9524-4167-922b-230602a06dff": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "fa1fdb07-0e2a-4a89-a538-ece16b392b8a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7603374f-113f-490a-a979-2a1414268bb9"
+}

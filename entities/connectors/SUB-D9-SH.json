@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7ce96af6-dfe5-4622-b32e-080a8547590c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9d030300-8210-4a1c-b1ec-6b104951f870"
+        }
+    },
+    "manufacturer": "",
+    "name": "SUB-D9-SH",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sub-d"
+    ],
+    "type": "entity",
+    "uuid": "26b2f9cd-f89f-4824-957f-bbdaa21e3ee1"
+}

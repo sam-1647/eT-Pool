@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7b706c10-6adb-4f73-873d-59a20d73a4cb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cf7c77a3-a346-4b92-9d38-2b6ec3dd38bb"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "RS232-DRV-16P",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rs323"
+    ],
+    "type": "entity",
+    "uuid": "480d5704-b8d1-4ffe-80d4-8ae52bd6a2de"
+}

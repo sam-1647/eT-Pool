@@ -1,0 +1,2253 @@
+{
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32F407VETX-MAIN",
+    "pins": {
+        "0439dc60-ff90-4638-9f16-ddcbfac26388": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "JTCK"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "passive",
+                    "name": "SWCLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA14",
+            "swap_group": 0
+        },
+        "0757ef1e-c61d-4fa4-8c14-e1fe5959befd": {
+            "alt_names": {
+                "10c082ad-aa61-411e-bb2f-ee7bd4b12301": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "500712ff-7d06-4c95-a70a-83f427ee25cc": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D2"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "SPI3-SCK"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "I2S3-CK"
+                },
+                "ad0e429a-d41c-488f-bd8d-b294fad83702": {
+                    "direction": "output",
+                    "name": "UASRT3-TX"
+                },
+                "b0ef7959-72b9-41f8-bba2-31652f71479a": {
+                    "direction": "passive",
+                    "name": "DCMI-D8"
+                },
+                "d324d873-9351-4049-be0d-9580c401107f": {
+                    "direction": "output",
+                    "name": "UART4-TX"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC10",
+            "swap_group": 0
+        },
+        "0a74e02d-4cba-4555-b385-5d8f02dd95a8": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH2N"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "passive",
+                    "name": "I2SEXT-SD"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "input",
+                    "name": "SPI2-MISO"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH2N"
+                },
+                "864719b0-7688-4793-9edc-23ce64317182": {
+                    "direction": "output",
+                    "name": "USART3-RTS"
+                },
+                "9782d3f5-0f84-45f7-a79e-55e5b476c301": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM12-CH1"
+                },
+                "fe63d5af-22eb-40e2-98db-aef4dac6278c": {
+                    "direction": "bidirectional",
+                    "name": "OTG-HS-DM"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB14",
+            "swap_group": 0
+        },
+        "0ab41eed-29b5-42e4-88ec-7d81eefefa21": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D11"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH4"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE14*",
+            "swap_group": 0
+        },
+        "0be69912-daae-4ca1-93f1-d9fede76a4bf": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "I2S3-MCK"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH2"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D7"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "USART6-RX"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "passive",
+                    "name": "DCMI-D1"
+                },
+                "d4f84b2f-0384-4250-b006-a330d7916bd0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "d85b76d9-30c3-47dd-b70d-e06f8e2078b0": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC7",
+            "swap_group": 0
+        },
+        "0fde9605-84a8-45b0-a5b9-c09a63b11481": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "USART1-CTS"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "CAN1-RX"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH4"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "OTG-FS-DM"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA11",
+            "swap_group": 0
+        },
+        "10f0a9aa-7b37-4383-911f-45bd56b112a1": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "input",
+                    "name": "USART2-RX"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM5-CH4"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM9-CH2"
+                },
+                "a3b40bd5-dc3d-401a-acb2-addfa9f5b6e7": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "a7f744de-c44c-432e-8279-c39e198c18e7": {
+                    "direction": "input",
+                    "name": "ADC123-IN3"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH4"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D0"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "passive",
+                    "name": "ETH-MII-COL"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA3",
+            "swap_group": 0
+        },
+        "14e874f5-afaa-48cc-a8a8-9ed4d69b5a60": {
+            "alt_names": {
+                "13282ad9-dbbc-4ee5-a845-5d57e05ee258": {
+                    "direction": "passive",
+                    "name": "ETH-MDC"
+                },
+                "8d0709d8-abd2-45f7-9c63-f4390eb1460e": {
+                    "direction": "output",
+                    "name": "EVETNOUT"
+                },
+                "ec0ec797-e674-47a4-8f5d-813aa6f59e99": {
+                    "direction": "input",
+                    "name": "ADC123-IN11"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC1",
+            "swap_group": 0
+        },
+        "1bfc4577-fa3d-4d06-9ecd-65adb3da051b": {
+            "alt_names": {
+                "3635ca27-c7c8-4838-8659-3101dd3fe29c": {
+                    "direction": "output",
+                    "name": "ETH-MII-TXD2"
+                },
+                "723ccc62-ea8d-47d1-97df-0be5218ababd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "8114996e-743f-4226-894c-3128c691e2b4": {
+                    "direction": "passive",
+                    "name": "I2S-EXT-SD"
+                },
+                "951722c8-8304-449c-a11c-10dbde770916": {
+                    "direction": "input",
+                    "name": "ADC123-IN12"
+                },
+                "a114199f-6ddf-4e39-a173-3a181c78e833": {
+                    "direction": "input",
+                    "name": "SPI2-MISO"
+                },
+                "b426242f-1a77-4a17-8d37-2f9e060af475": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-DIR"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC2",
+            "swap_group": 0
+        },
+        "21368cda-414c-4bcf-a997-3bc2cfc953df": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH4"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH3N"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D2"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RXD3"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH3N"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f92ab165-dfdc-4122-96d1-87997e3308cd": {
+                    "direction": "input",
+                    "name": "ADC12-IN9"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB1",
+            "swap_group": 0
+        },
+        "28c29f46-5db7-4fd8-96ce-7b00232b9f02": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "JTDO"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "passive",
+                    "name": "TRACEWO"
+                },
+                "878d0889-4cab-402f-ab4c-9469eafa82f3": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH2"
+                },
+                "95952553-1003-4692-8d5e-c97d7eb5d88b": {
+                    "direction": "output",
+                    "name": "SPI1-SCK"
+                },
+                "980e8b99-49fc-4675-9d3a-95e9d867442a": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "a65494a2-84f8-4ab0-9f7e-9dcb9797509f": {
+                    "direction": "output",
+                    "name": "I2S3-CK"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "SPI3-SCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB3",
+            "swap_group": 0
+        },
+        "296a87f6-81b2-4631-895e-1061517e8fc5": {
+            "alt_names": {
+                "36c075be-60b0-4d6d-a4f6-10d0454e2fa4": {
+                    "direction": "passive",
+                    "name": "TRACED0"
+                },
+                "9dc7859c-a336-4178-a95c-6ae8758aabdd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "b5bb2f3a-0611-40f0-bb3b-e95a9d79cf13": {
+                    "direction": "bidirectional",
+                    "name": "FSMC_19"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE3*",
+            "swap_group": 0
+        },
+        "2aec74c6-8b21-4570-84e2-82a5aa0ace62": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH3"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D4"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "bidirectional",
+                    "name": "TIM10-CH1"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D6"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "ETH-MII-TXD3"
+                },
+                "70e3fa9d-dfd9-4f5d-ae7a-95f99c412021": {
+                    "direction": "bidirectional",
+                    "name": "I2C1-SCL"
+                },
+                "8c7aed25-9d2d-49cb-97c8-2005a34fdb20": {
+                    "direction": "input",
+                    "name": "CAN1-RX"
+                },
+                "9c718be4-01f7-44fb-93ae-602c851b5cb6": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB8",
+            "swap_group": 0
+        },
+        "30512afc-7825-45f1-aa65-d2aca2764501": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D14"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "USART3-RX"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVENTOYT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD9*",
+            "swap_group": 0
+        },
+        "30e48fd6-8577-4c14-bec4-25df3ba6ea65": {
+            "alt_names": {
+                "109cc089-0446-49d5-993a-ac27c217f9ee": {
+                    "direction": "passive",
+                    "name": "I2SEXT-SD"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "NJTRST"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "SPI3-MISO"
+                },
+                "cb9ae5e2-bf4d-41b9-adb0-6354681a33b0": {
+                    "direction": "input",
+                    "name": "SPI1-MISO"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH1"
+                },
+                "f311b208-f5b7-428b-88b3-666b07931e4d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB4",
+            "swap_group": 0
+        },
+        "397d1209-63bf-4ae7-a1de-00e3a6fa2d08": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "output",
+                    "name": "SPI3-MOSI"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "TIM20CH2"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "bidirectional",
+                    "name": "I2S3-SD"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "I2C1-SMBA"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "CAN2-RX"
+                },
+                "70e3fa9d-dfd9-4f5d-ae7a-95f99c412021": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D10"
+                },
+                "8c7aed25-9d2d-49cb-97c8-2005a34fdb20": {
+                    "direction": "output",
+                    "name": "SPI1-MOSI"
+                },
+                "9c718be4-01f7-44fb-93ae-602c851b5cb6": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D7"
+                },
+                "dd747e08-50ff-4ecb-85cf-14f3e1dd66be": {
+                    "direction": "output",
+                    "name": "ETH-PPS-OUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE1*",
+            "swap_group": 0
+        },
+        "3dcc77c7-fd98-4abb-b6f5-1469a9ce8778": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D15"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "USART3-CK"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD10*",
+            "swap_group": 0
+        },
+        "40ee20cc-15f1-499e-bee8-2ca161c5fb96": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "SPI1-SCK"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-CK"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "TIM2-CH1-ETR"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH1N"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "input",
+                    "name": "ASC12-IN5"
+                },
+                "f92ab165-dfdc-4122-96d1-87997e3308cd": {
+                    "direction": "output",
+                    "name": "DAC-IUT2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA5",
+            "swap_group": 0
+        },
+        "44f63ac6-211d-451f-a860-89104cc21b2b": {
+            "alt_names": {
+                "23347a44-7f4d-46ff-bc95-e4abc6f91dc9": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D7"
+                },
+                "2b792c4a-dfdb-4e2e-9e24-ded7c35d96e0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "2e9398b6-4a6b-40cc-93b8-7ac925ac70c6": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D5"
+                },
+                "85b948f4-041e-4057-8a35-39c805abb992": {
+                    "direction": "output",
+                    "name": "CAN1-TX"
+                },
+                "aa8ccbcd-ef65-43c2-a26b-438a51b158e6": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH4"
+                },
+                "cdd95eae-b6af-4f94-90cb-a21cc44309b1": {
+                    "direction": "bidirectional",
+                    "name": "I2C1-SDA"
+                },
+                "d0ddfefe-b21d-4fc0-9596-c565958dd9f5": {
+                    "direction": "bidirectional",
+                    "name": "TIM11-CH1"
+                },
+                "d1b19453-221c-4e89-8df2-183818d04857": {
+                    "direction": "bidirectional",
+                    "name": "SPI2-NSS"
+                },
+                "f77662d6-9f7d-4f8a-a9f6-cee6a6846376": {
+                    "direction": "bidirectional",
+                    "name": "I2S2-WS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB9",
+            "swap_group": 0
+        },
+        "48bcf91d-23a4-444d-928d-45d59ff30989": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "SPI-MOSI"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "I2S2-SD"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH3N"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH3N"
+                },
+                "864719b0-7688-4793-9edc-23ce64317182": {
+                    "direction": "bidirectional",
+                    "name": "TIM12-CH2"
+                },
+                "9782d3f5-0f84-45f7-a79e-55e5b476c301": {
+                    "direction": "bidirectional",
+                    "name": "OTG-HS-DP"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "fe63d5af-22eb-40e2-98db-aef4dac6278c": {
+                    "direction": "input",
+                    "name": "RTC-REFIN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB15",
+            "swap_group": 0
+        },
+        "49fe5311-2512-41a4-bb4f-98f4cba7d5f5": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D6"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH1"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE9*",
+            "swap_group": 0
+        },
+        "4e793581-43b5-4f01-ab36-c183c62e1935": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "output",
+                    "name": "I2C1-SCL"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH1"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "output",
+                    "name": "CAN2-TX"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D5"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "USART1-TX"
+                },
+                "70e3fa9d-dfd9-4f5d-ae7a-95f99c412021": {
+                    "direction": "output",
+                    "name": "EVENOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB6",
+            "swap_group": 0
+        },
+        "523df87d-4288-4444-9e1d-eb9fd378dcee": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-NOE"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "USART2-RTS"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD4*",
+            "swap_group": 0
+        },
+        "55bf19bf-18d4-4f5e-bfaf-f17b571a3d64": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "USART2-TX"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM5-CH3"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM9-CH1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH3"
+                },
+                "caad6989-487b-4dd3-b328-4708aff67ce7": {
+                    "direction": "input",
+                    "name": "ADC123-IN2"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "passive",
+                    "name": "ETH-MDIO"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA2",
+            "swap_group": 0
+        },
+        "578e65bb-d03f-47ef-ba13-df38388b1a52": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "bidirectional",
+                    "name": "I2C1-SDA"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-NL"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-VSYNC"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "USART1-TX"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH2"
+                },
+                "70e3fa9d-dfd9-4f5d-ae7a-95f99c412021": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB7",
+            "swap_group": 0
+        },
+        "5a6b7f11-5faf-4eb9-b328-c22b1b4667e7": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-NWAIT"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "USART2-RX"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD6*",
+            "swap_group": 0
+        },
+        "5af07607-0811-4e2e-b637-959d0e1e1d48": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "passive",
+                    "name": "ETH-RMII-RX-D1"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RX-D1"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "input",
+                    "name": "ADC12-IN15"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "input",
+                    "name": "ASC12-IN5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC5",
+            "swap_group": 0
+        },
+        "5f67b554-8c97-45d2-afdf-6daa2ca0ecd5": {
+            "alt_names": {
+                "4ab1e677-35d1-4538-a5f4-c89558e62b04": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "6cf91d08-bdcc-4c89-80cc-9b7a7a942939": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH4"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "I2C2-SDA"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "USART3-RX"
+                },
+                "9359a1e7-20d3-4943-bbb3-e7bd505aacce": {
+                    "direction": "passive",
+                    "name": "ETH-MII-TX-EN"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D4"
+                },
+                "ee5e2980-bf8f-4fdf-8a6c-1667a04cafe1": {
+                    "direction": "passive",
+                    "name": "ETH-RMII-TX-EN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB11",
+            "swap_group": 0
+        },
+        "602f1f34-c693-48a9-98c3-9ad30b091b46": {
+            "alt_names": {
+                "78940d53-cccc-42fa-bc01-b903443d3c9f": {
+                    "direction": "input",
+                    "name": "ADC12-IN6"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "input",
+                    "name": "SPI1-MISO"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "TIM8-BKIN"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM13-CH1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "passive",
+                    "name": "DCMI-PIXCLK"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH1"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "input",
+                    "name": "TIM1-BKIN"
+                },
+                "f92ab165-dfdc-4122-96d1-87997e3308cd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA6",
+            "swap_group": 0
+        },
+        "629601ee-4ff7-4dd6-992a-e56851970b5d": {
+            "alt_names": {
+                "072c7f98-5a50-41d0-be5f-bd726e4d84ff": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "5a497d13-2467-47a8-abb7-9be27fdddd63": {
+                    "direction": "passive",
+                    "name": "TRACED1"
+                },
+                "aea66871-d86e-4d7d-b83a-a6ebf54f2050": {
+                    "direction": "passive",
+                    "name": "DCMI_D4"
+                },
+                "e3c77ca1-c52a-419b-ad00-38ab6481ac58": {
+                    "direction": "bidirectional",
+                    "name": "FSMC_A20"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE4*",
+            "swap_group": 0
+        },
+        "665e54af-edad-4e03-bbdf-fc591e785698": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D1"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH4"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD15*",
+            "swap_group": 0
+        },
+        "66a89901-e8fd-4e1d-b084-eccecc1e321d": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "SPI1-NSS"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "bidirectional",
+                    "name": "SPI3-NSS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA4",
+            "swap_group": 0
+        },
+        "6d4ef61b-2a25-4bc7-a7e5-19dd2c4257c6": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D13"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "USART3-TX"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVETOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD8*",
+            "swap_group": 0
+        },
+        "6d6fb9dc-218c-4caa-8312-429f03d7212d": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D2"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "CAN1-RX"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD0*",
+            "swap_group": 0
+        },
+        "7f3b97a2-6b28-44fe-8c80-b7da1005d7b5": {
+            "alt_names": {
+                "1e99e4b5-253a-413a-bd80-ef1c4528a442": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D11"
+                },
+                "2c46d9e5-25b7-4b37-8a49-7bfea3963943": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "TIM3-ETR"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "UART5-RX"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "SDIO-CMD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD2*",
+            "swap_group": 0
+        },
+        "84ba7eab-5e2d-457a-884e-1b3db27f0e90": {
+            "alt_names": {
+                "03b35238-43b7-4b28-87d1-ed5538c44090": {
+                    "direction": "output",
+                    "name": "EVENOUT"
+                },
+                "452b5fbd-8d2e-4f24-b216-e1bbccfee792": {
+                    "direction": "input",
+                    "name": "RTC-TAMP1"
+                },
+                "5712e55d-567f-4f39-b206-e5c402848fea": {
+                    "direction": "passive",
+                    "name": "RTC-TS"
+                },
+                "c6818c86-65b3-4bcc-892a-a9c5e5445488": {
+                    "direction": "output",
+                    "name": "RTC-OUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC13",
+            "swap_group": 0
+        },
+        "88fb6b91-7af3-4f29-9c66-b6b491857f2c": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "USART1-TX"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH2"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "passive",
+                    "name": "I2C3-SMBA"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "passive",
+                    "name": "DCMI-D0"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "OTG-FS-VBUS"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA9",
+            "swap_group": 0
+        },
+        "897e3fac-7944-4838-8696-6353f037775d": {
+            "alt_names": {
+                "6c1fa3ec-e7a0-469a-a544-36760c7187e5": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-ETR"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "passive",
+                    "name": "ETH-MII-CRS"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "USART2-CTS"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM5-CH1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "passive",
+                    "name": "TIM2-CH1-ETR"
+                },
+                "c8c39854-4aa6-4c09-8318-50e77ebf9a07": {
+                    "direction": "input",
+                    "name": "ADC123-IN0"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "output",
+                    "name": "UART4-TX"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "input",
+                    "name": "WKUP"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA0",
+            "swap_group": 0
+        },
+        "8b39b144-a1ca-43fe-addf-9518694b38f8": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "JTDI"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "SPI-NSS"
+                },
+                "630cd3f4-ed6a-40b6-94a9-38dd71d87817": {
+                    "direction": "bidirectional",
+                    "name": "SPI1-NSS"
+                },
+                "6f3d7ae2-c0ea-4afd-93a9-a2ecbe16a09f": {
+                    "direction": "bidirectional",
+                    "name": "I2S3-WS"
+                },
+                "a4c27da4-fcaf-47cb-9fd3-e268d7d9ff06": {
+                    "direction": "passive",
+                    "name": "TIM2-CH1-ETR"
+                },
+                "d597654e-b686-4855-8070-fd0c944ec4c3": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA15",
+            "swap_group": 0
+        },
+        "8bc68b1e-a8e7-46b7-9038-6a5bb8437d6f": {
+            "alt_names": {
+                "0c8dde74-febe-4b5e-a997-13841b926d71": {
+                    "direction": "passive",
+                    "name": "TRACECLK"
+                },
+                "c8bd6775-1dad-41a8-b723-105dc2574386": {
+                    "direction": "output",
+                    "name": "ETH_MII_TXD3"
+                },
+                "e50086a7-4ecc-4a07-9a11-c3a8e750ee9c": {
+                    "direction": "bidirectional",
+                    "name": "FSMC_A23"
+                },
+                "fce3df8b-bdee-40de-a8d8-7d17170b7f67": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE2*",
+            "swap_group": 0
+        },
+        "911d5348-4184-4225-af1e-631b0a589f79": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH3"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH2N"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RXD2"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH2N"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f92ab165-dfdc-4122-96d1-87997e3308cd": {
+                    "direction": "input",
+                    "name": "ADC12-IN8"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB0",
+            "swap_group": 0
+        },
+        "96205265-f4d3-4db4-af01-b49f7533d611": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D0"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH3"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD14*",
+            "swap_group": 0
+        },
+        "9c995354-b6c2-4796-af82-458ccc3c2472": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "I2S2-MCK"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH1"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "passive",
+                    "name": "DCMI-D0"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D6"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "output",
+                    "name": "USART6-TX"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "d85b76d9-30c3-47dd-b70d-e06f8e2078b0": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC6",
+            "swap_group": 0
+        },
+        "9eb1a4ab-dd3a-4a52-8211-a1268efa86fa": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "passive",
+                    "name": "TIM4--ETR"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-NBL0"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D2"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE0*",
+            "swap_group": 0
+        },
+        "a563c74d-7bf4-4f29-9ad7-1c34e037f52d": {
+            "alt_names": {
+                "45de2670-8065-4bf8-948c-1062d7999c3b": {
+                    "direction": "passive",
+                    "name": "I2SEXT-SD"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "UART4-RX"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "SPI3-MISO"
+                },
+                "abef1167-9171-4808-a9fb-50a72d9ce7c1": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D3"
+                },
+                "b62a0646-9b58-47de-a23f-b11d8e4753d2": {
+                    "direction": "input",
+                    "name": "USART3-RX"
+                },
+                "bc2793cd-a5c0-48c2-be0f-2e4eecc0457c": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "c6ab18ce-a7a0-4f90-a2e2-1ab079daee70": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D4"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC11",
+            "swap_group": 0
+        },
+        "a8bd84de-1e8e-4f28-9968-c881985023b0": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D10"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH3"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE13*",
+            "swap_group": 0
+        },
+        "ab121bd6-84c2-40f2-81b4-f24e867dc793": {
+            "alt_names": {
+                "39c342c1-36f3-4599-a529-e1fbc10a30db": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D12"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "TIM1-BKIN"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE15*",
+            "swap_group": 0
+        },
+        "acb549a2-87ab-4a26-ab0d-e1528be03912": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-ALE"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-A17"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH1"
+                },
+                "80968352-fbc2-46a7-b39e-4a1bacd45d46": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "output",
+                    "name": "USART3-RTS"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD12*",
+            "swap_group": 0
+        },
+        "b4c96cf3-868d-4da7-9eb2-18fb0e012ab9": {
+            "alt_names": {
+                "53f6d098-3ea1-4ac1-bcaa-3ed6028694a6": {
+                    "direction": "bidirectional",
+                    "name": "TIM9_CH1"
+                },
+                "5fbc7c92-db54-489a-8f58-5e367fa27e08": {
+                    "direction": "passive",
+                    "name": "DCMI_D6"
+                },
+                "803b635f-2ca2-4c74-b08a-2c40299e98fa": {
+                    "direction": "passive",
+                    "name": "TRACED2"
+                },
+                "8d339e03-b865-4b6f-8972-916603828193": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "ef1291f8-5ed0-4ff6-851a-77d92e17b4a3": {
+                    "direction": "bidirectional",
+                    "name": "FSMC_A21"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE5*",
+            "swap_group": 0
+        },
+        "b52bb48a-45c9-42bd-8715-3fdb3f18fecd": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-A18"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM4-CH2"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD13*",
+            "swap_group": 0
+        },
+        "bbfaad1a-7943-4384-9214-22fc4ff73b94": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D3"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "CAN1-TX"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD1*",
+            "swap_group": 0
+        },
+        "c033cbc4-312e-43ae-aede-d021b4d201ea": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-NWE"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "USART2-TX"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD5*",
+            "swap_group": 0
+        },
+        "c0948472-8f3c-425f-8f6f-5172b5c34431": {
+            "alt_names": {
+                "229a0934-4621-418e-865f-8ad36230fcec": {
+                    "direction": "output",
+                    "name": "SPI3-MOSI"
+                },
+                "3d4dd76b-9d0b-4790-bc22-b3f10c9107c7": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH2"
+                },
+                "47fb078f-83fa-4002-97ab-740e112f36bb": {
+                    "direction": "bidirectional",
+                    "name": "I2S3-SD"
+                },
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "bidirectional",
+                    "name": "I2C1-SMBA"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "CAN2-RX"
+                },
+                "70e3fa9d-dfd9-4f5d-ae7a-95f99c412021": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D10"
+                },
+                "8c7aed25-9d2d-49cb-97c8-2005a34fdb20": {
+                    "direction": "output",
+                    "name": "SPI1-MOSI"
+                },
+                "9c718be4-01f7-44fb-93ae-602c851b5cb6": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D7"
+                },
+                "dd747e08-50ff-4ecb-85cf-14f3e1dd66be": {
+                    "direction": "output",
+                    "name": "ETH-PPS-OUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB5",
+            "swap_group": 0
+        },
+        "c4fc4628-188a-48dd-8cff-a6a6b8cb0b3e": {
+            "alt_names": {
+                "7483e5f9-0022-450e-84a5-d3905a6db1f6": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "SPI1-MOSI"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH1N"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "bidirectional",
+                    "name": "TIM14-CH1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH2"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RX-DV"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH1N"
+                },
+                "eb16d513-ef46-48f8-9839-d9d1b3720e6f": {
+                    "direction": "input",
+                    "name": "ADC12-IN7"
+                },
+                "f92ab165-dfdc-4122-96d1-87997e3308cd": {
+                    "direction": "passive",
+                    "name": "ETH-RMII-CRS-DV"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA7",
+            "swap_group": 0
+        },
+        "c70b7872-7e49-4ae5-9229-8ba9c9d5855a": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-CLK"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "input",
+                    "name": "USART2-CTS"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD3*",
+            "swap_group": 0
+        },
+        "c8bf7d98-8ab6-4ab9-b16b-0ab2b055b162": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D8"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH2"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE11*",
+            "swap_group": 0
+        },
+        "cf8cd621-9f9c-41fe-a15d-93deb7dfd56a": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D7"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH2N"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE10*",
+            "swap_group": 0
+        },
+        "d429be69-acda-4d89-9a2c-3f4be5770d25": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "passive",
+                    "name": "ETH-RMII-RX-D0"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RX-D0"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "input",
+                    "name": "ADC12-IN14"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC4",
+            "swap_group": 0
+        },
+        "d5aa7a0a-d36a-4001-a936-fd808dabdcf1": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "UART5-TX"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "SDIO-CK"
+                },
+                "82a83249-bc22-458e-8e96-5d221e2e76dc": {
+                    "direction": "output",
+                    "name": "SPI3-MOSI"
+                },
+                "8ced593b-00b8-42d1-94ec-f367f9f89e39": {
+                    "direction": "bidirectional",
+                    "name": "USART3-CK"
+                },
+                "9d33e416-1d21-423f-8095-92e4099cac61": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "f5ce4eba-2c86-4eac-aa68-7558613d112e": {
+                    "direction": "bidirectional",
+                    "name": "DCMI-D9"
+                },
+                "fd97826d-f5ad-4222-807f-ba4bb869a549": {
+                    "direction": "bidirectional",
+                    "name": "I2S3-SD"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC12",
+            "swap_group": 0
+        },
+        "d5aab479-ec14-44da-9853-bbe964619728": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "USART1-RTS"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "CAN1-TX"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "passive",
+                    "name": "TIM1-ETR"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "OTG-FS-DP"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA12",
+            "swap_group": 0
+        },
+        "d71571cb-845c-4fe5-bb5d-601b225caf2c": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "USART1-RX"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH3"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "passive",
+                    "name": "OTG-FS-ID"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "passive",
+                    "name": "DCMI-D1"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA10",
+            "swap_group": 0
+        },
+        "dbde0fcf-1efb-4f43-9054-feff94a5f3a2": {
+            "alt_names": {
+                "0430af9a-5139-4c2d-af24-861429b1fb4d": {
+                    "direction": "output",
+                    "name": "ETH-MII-TXD1"
+                },
+                "0e4038d7-a88b-490f-acbb-8f1cd6702ff2": {
+                    "direction": "output",
+                    "name": "ETH-RMII-TXD1"
+                },
+                "29c0573e-b0be-48be-bd90-99d35e244308": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH1N"
+                },
+                "3158a7b4-d4ba-4e43-b4db-c3723a3fa2b3": {
+                    "direction": "output",
+                    "name": "CAN2-TX"
+                },
+                "70de8d85-7127-4e6f-b39e-80fa99eb976c": {
+                    "direction": "passive",
+                    "name": "OTG-HSULPI-D6"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "SPI2-SCK"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "output",
+                    "name": "I2S2-CK"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "input",
+                    "name": "USART3-CTS"
+                },
+                "a3fd7088-a9bc-474b-9bce-a9f8befd4dc6": {
+                    "direction": "passive",
+                    "name": "OTG-HS-VBUS"
+                },
+                "ced0a414-eb4c-4bdd-a5fe-11b813582d5d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB13",
+            "swap_group": 0
+        },
+        "dc1f1252-3d0a-4a95-a00d-27a74e4b8a0a": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "USART2-RTS"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "input",
+                    "name": "UART4-RX"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "ETH-RMII-REF-CLK"
+                },
+                "c3a776f9-4352-49fe-97f3-9d3fd5e16f07": {
+                    "direction": "input",
+                    "name": "ADC123-IN1"
+                },
+                "c661390d-6bed-4c4d-b9a8-7b3a5e77a961": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RX-CLK"
+                },
+                "d1e182ed-525e-4092-a90a-499d0edd41ef": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH2"
+                },
+                "d8a36daa-463f-48a3-ad3a-40f34e945a8d": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA1",
+            "swap_group": 0
+        },
+        "df125c82-1cd8-40ad-b56d-15c7466ea6c4": {
+            "alt_names": {
+                "1fe215c1-12ca-4cb4-8ba9-4c6d52db182f": {
+                    "direction": "output",
+                    "name": "USART3-TX"
+                },
+                "54c056f3-0db7-4ac4-a762-31eadfd441db": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "5807e01a-80cd-4019-9a24-1eab0d7897c2": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D3"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "SPI2-SCK"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "output",
+                    "name": "I2S2-CK"
+                },
+                "8f705a65-99a5-46d9-b84b-0d9a9a1c0052": {
+                    "direction": "passive",
+                    "name": "ETH-MII-RX-ER"
+                },
+                "9ed42b20-1d33-4e87-977b-a3b1f88c2b99": {
+                    "direction": "bidirectional",
+                    "name": "TIM2-CH3"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "I2C2-SCL"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB10",
+            "swap_group": 0
+        },
+        "e3f455a9-4c4e-4900-8b7a-57f4663c92be": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D9"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH3N"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE12*",
+            "swap_group": 0
+        },
+        "e992b4f4-5d91-462d-a2bb-ce0f4841c34e": {
+            "alt_names": {
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D4"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "TIM1-ETR"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE7*",
+            "swap_group": 0
+        },
+        "ea39265a-6945-4589-92ad-9a5bb91ea0dd": {
+            "alt_names": {
+                "4a16965d-d5db-4ec3-ae5d-a4e7c2b8ae35": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-STP"
+                },
+                "5bd7a3f6-928f-44c6-94c1-99bec4eb6629": {
+                    "direction": "input",
+                    "name": "ADC123-IN10"
+                },
+                "ddf525cb-a0bb-4d74-b021-f49b78ee7654": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC0",
+            "swap_group": 0
+        },
+        "ec8647c1-cbb5-4fac-ac8b-80ec97c92696": {
+            "alt_names": {
+                "2d0427e8-6a61-4c1a-ba16-143f2e0b3fdc": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH1N"
+                },
+                "7dc516cc-52f3-4c04-a3fe-b21f76d247fc": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "9cc53790-6729-4464-9994-97f70d6540ee": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-D5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE8*",
+            "swap_group": 0
+        },
+        "eda5296f-6f9f-497f-8064-40e60364166c": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-CLE"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-A16"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "input",
+                    "name": "USART3-CTS"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD11*",
+            "swap_group": 0
+        },
+        "efcbf86d-637e-48cc-96af-18a51d3a63dc": {
+            "alt_names": {
+                "20e3c520-81cb-4f5c-8d6a-c94fbce374f8": {
+                    "direction": "output",
+                    "name": "ETH-RMII-TXD0"
+                },
+                "5920a80f-8082-4c48-8a3d-313463af3ac0": {
+                    "direction": "input",
+                    "name": "TIM1-BKIN"
+                },
+                "711d8076-f7e8-4a8d-a018-7eb1198dcc19": {
+                    "direction": "bidirectional",
+                    "name": "USART3-CK"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "SPI2-NSS"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "I2S2-WS"
+                },
+                "8cd10738-eb37-41d3-8cdf-798bc283240a": {
+                    "direction": "output",
+                    "name": "ETH-MII-TXD0"
+                },
+                "9f8e0569-33c5-42bf-b797-bd4fe29c3dcd": {
+                    "direction": "passive",
+                    "name": "I2C2-SMBA"
+                },
+                "a2238734-e368-4a18-af1e-963a04f41490": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "a8ff8dd2-9b95-4bf5-8051-ab1fee18a585": {
+                    "direction": "input",
+                    "name": "CAN2-RX"
+                },
+                "bf5161fd-1a33-4690-a2a9-302d7c666d23": {
+                    "direction": "bidirectional",
+                    "name": "OTG-HS-TD"
+                },
+                "e825dbd0-caf2-4634-82f5-c9b0d0d3addc": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-D5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PB12",
+            "swap_group": 0
+        },
+        "f4fd3452-c90b-4535-ac71-4b04f4db5290": {
+            "alt_names": {
+                "0bb8b9a6-c916-40a7-8553-240341b8ca62": {
+                    "direction": "bidirectional",
+                    "name": "TIM9-CH2"
+                },
+                "1a1a3d05-0658-4fc5-ae90-99a7982e4fa6": {
+                    "direction": "passive",
+                    "name": "TRACDE3"
+                },
+                "36e35dde-9448-4778-800e-b9f3d4e80842": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "db0bda73-8835-4bf1-aceb-d279d2fe79a8": {
+                    "direction": "bidirectional",
+                    "name": "FSMC-A22"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE6*",
+            "swap_group": 0
+        },
+        "f511aefb-db8a-4f1b-9645-9743a65b73c5": {
+            "alt_names": {
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH3"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "bidirectional",
+                    "name": "SDI-D0"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH3"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "USART6-CK"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "passive",
+                    "name": "DCMI-D2"
+                },
+                "d85b76d9-30c3-47dd-b70d-e06f8e2078b0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC8",
+            "swap_group": 0
+        },
+        "f679ee71-f1e4-4022-b4ff-c6fed3545c0f": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "input",
+                    "name": "I2S-CKIN"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "passive",
+                    "name": "MCO2"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "bidirectional",
+                    "name": "TIM8-CH4"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "bidirectional",
+                    "name": "SDIO-D1"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "bidirectional",
+                    "name": "I2C3-SDA"
+                },
+                "a3dad4d7-0e17-47b7-8544-28c378ca55d3": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "passive",
+                    "name": "DCMI-D3"
+                },
+                "d85b76d9-30c3-47dd-b70d-e06f8e2078b0": {
+                    "direction": "bidirectional",
+                    "name": "TIM3-CH4"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC9",
+            "swap_group": 0
+        },
+        "f69ab636-e3af-4796-b743-6db9d5d72a7e": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "MCO1"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "bidirectional",
+                    "name": "USART1-CK"
+                },
+                "6e7a5ec1-7097-44e4-98c5-278ebf8d8eb6": {
+                    "direction": "bidirectional",
+                    "name": "TIM1-CH1"
+                },
+                "7c52d300-ccab-49ca-9d96-e6033d9ac5fa": {
+                    "direction": "output",
+                    "name": "I2C3-SCL"
+                },
+                "83c46439-4d36-4707-aefd-870b0d9db5a9": {
+                    "direction": "passive",
+                    "name": "OTG-FS-SOF"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA8",
+            "swap_group": 0
+        },
+        "f75dd9e4-198c-42c6-80eb-ec10e42251e9": {
+            "alt_names": {
+                "23347a44-7f4d-46ff-bc95-e4abc6f91dc9": {
+                    "direction": "bidirectional",
+                    "name": "SPI2-NSS"
+                },
+                "2b792c4a-dfdb-4e2e-9e24-ded7c35d96e0": {
+                    "direction": "passive",
+                    "name": "I2S2-SD"
+                },
+                "2e9398b6-4a6b-40cc-93b8-7ac925ac70c6": {
+                    "direction": "passive",
+                    "name": "OTG-HS-ULPI-NXT"
+                },
+                "85b948f4-041e-4057-8a35-39c805abb992": {
+                    "direction": "passive",
+                    "name": "ETH-MII-TX-CLK"
+                },
+                "aa8ccbcd-ef65-43c2-a26b-438a51b158e6": {
+                    "direction": "input",
+                    "name": "ADC123-IN13"
+                },
+                "cdd95eae-b6af-4f94-90cb-a21cc44309b1": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PC3",
+            "swap_group": 0
+        },
+        "fdc9acfd-4dba-4694-9bcc-6260f5cc1fd8": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "passive",
+                    "name": "JTMS"
+                },
+                "be3efe2a-104d-46a2-8268-4680db59e22b": {
+                    "direction": "output",
+                    "name": "EVENTOUT"
+                },
+                "c159e2f6-4179-4900-87d4-8ddc21f5c5c0": {
+                    "direction": "passive",
+                    "name": "SWDIO"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "*PA13",
+            "swap_group": 0
+        },
+        "ff87b9b8-f413-4765-a7e1-b8856b6f51dc": {
+            "alt_names": {
+                "58a50b95-06c3-499c-a325-cc2991ee0fa5": {
+                    "direction": "output",
+                    "name": "FSMC-NE1"
+                },
+                "5b929034-1118-4cde-9986-3ad4b0aaa0e3": {
+                    "direction": "output",
+                    "name": "FSMC-NCE2"
+                },
+                "6c00af96-2e90-461e-bb65-c5c9dd4ee917": {
+                    "direction": "output",
+                    "name": "EVENOUT"
+                },
+                "dca4bf69-f133-4a7b-bc74-3b4c9876d091": {
+                    "direction": "bidirectional",
+                    "name": "USART2-CK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PD7*",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8ef326cf-d39a-426a-a069-80459dffb077",
+    "version": 1
+}

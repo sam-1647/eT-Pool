@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "8d5d80be-5d59-4f48-a2c2-e43d5091459e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7603374f-113f-490a-a979-2a1414268bb9"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX14945EWE+",
+    "prefix": "U",
+    "tags": [
+        "driver",
+        "ic",
+        "rs485"
+    ],
+    "type": "entity",
+    "uuid": "d0dbef94-e2d2-4df9-bbf4-976333fce5d9"
+}

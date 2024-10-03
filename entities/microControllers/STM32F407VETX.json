@@ -1,0 +1,31 @@
+{
+    "gates": {
+        "1c3e343d-186b-4422-b7e6-9484165c42ae": {
+            "name": "PWR",
+            "suffix": "PWR",
+            "swap_group": 0,
+            "unit": "23c114ad-318e-4390-8092-3711bb79382e"
+        },
+        "e3c24754-0b10-46c8-b0d4-458c10352f74": {
+            "name": "CLK",
+            "suffix": "CLK",
+            "swap_group": 0,
+            "unit": "c62ec055-e31e-48a1-af38-2b53195e5b8b"
+        },
+        "fe711c10-d071-499f-9471-1337be6d3a4e": {
+            "name": "MAIN",
+            "suffix": "MAIN",
+            "swap_group": 0,
+            "unit": "8ef326cf-d39a-426a-a069-80459dffb077"
+        }
+    },
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32F407VETX",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "ea6d6f5e-6260-4753-94d9-e5dc489c9262"
+}
