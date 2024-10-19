@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "SUB-D9-FH-SH"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SUB-D9 Connector Female, Horizontal, with Shield"
+    ],
+    "entity": "26b2f9cd-f89f-4824-957f-bbdaa21e3ee1",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9c069bdf-2347-41f7-b0a4-a09f9a747fb8",
+    "pad_map": {
+        "39d08047-fc47-4e10-9804-0f04511cc89e": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "d08ca0ba-b52f-4dde-bbe3-bcc9fe68db4f"
+        },
+        "839d830f-57dc-4cbb-a5b4-2af606aaeb94": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "b2454163-44fe-4064-aaae-e61341cfdb6b"
+        },
+        "88b727b4-9da7-4221-b453-1e1e937ef92a": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "a955abd4-5417-4234-a16a-7980dd9f0e78"
+        },
+        "8eef526a-9fdb-444e-bfcf-188b52b60427": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "6a6f3055-9b76-463b-bcc4-64630733a77b"
+        },
+        "98845275-5b0f-4dc6-ad66-4d067d804e32": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "d548b737-5fd6-4e33-9e60-494945eee38c"
+        },
+        "addcf0b8-15fc-4f49-9138-b276781ce735": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "a6be6966-65aa-41b0-a4fa-07fd3cd1f77d"
+        },
+        "c7865c74-19e4-4d09-9bed-c221cf79fa0e": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "3982a450-9312-450e-a845-af4f60a8a8ca"
+        },
+        "d9392893-bdd5-4b45-b0ea-b0739b32c7b2": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "5b471c20-7c9d-4c9a-aac2-cef914acfa83"
+        },
+        "f9070c25-9ef5-4173-b456-c9ed12681a29": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "e9521928-1c69-454b-824b-0f4476169029"
+        },
+        "f910f885-1c56-4aa5-b87d-87b7d1354e3e": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "adb72e9c-047e-473b-a207-990b3fc3fd9e"
+        },
+        "fe5edb70-1cbd-41d6-9561-da2bcff9407d": {
+            "gate": "7ce96af6-dfe5-4622-b32e-080a8547590c",
+            "pin": "c6955ee9-4f0a-44e9-9433-87a3518a021c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "subd"
+    ],
+    "type": "part",
+    "uuid": "9e60223b-4a2f-460b-b26d-a349b51480ac",
+    "value": [
+        false,
+        ""
+    ]
+}

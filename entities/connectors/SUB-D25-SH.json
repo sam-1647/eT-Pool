@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "dac9ec50-2a14-457c-83a2-a6b1fa622a14": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ac35a793-180f-4104-bde3-b42be4860899"
+        }
+    },
+    "manufacturer": "TE Connectivity",
+    "name": "SUB-D25-SH",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sub-d"
+    ],
+    "type": "entity",
+    "uuid": "3dec69f7-9e85-4556-965e-4982bd02d431"
+}

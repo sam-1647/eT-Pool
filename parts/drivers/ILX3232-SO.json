@@ -1,0 +1,104 @@
+{
+    "MPN": [
+        false,
+        "ILX3232-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3.3/5V Single Supply RS323 Transceiver"
+    ],
+    "entity": "480d5704-b8d1-4ffe-80d4-8ae52bd6a2de",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "IK Semicon"
+    ],
+    "model": "546549d3-e06f-474e-9da7-588c352fb5aa",
+    "orderable_MPNs": {
+        "0b7963e8-e943-4603-bb59-1d4e1a534ab2": "ILX3232D"
+    },
+    "package": "b01500fc-3bc0-444f-bf2e-11c34fbb26c4",
+    "pad_map": {
+        "05c0b27a-25c0-4e32-8e2f-69ac4858d82c": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "f4087dd7-a74a-4579-85c2-e45d5485970d"
+        },
+        "2ebb2a29-9a7b-417e-8a0a-a0a7ff8fe702": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "f2cf95eb-9560-4a9d-96c1-847731f36133"
+        },
+        "3b624ed5-687f-4dcd-b4bb-42fd94e07c62": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "7541ff96-3d0d-4ddc-ab81-346adbff0525"
+        },
+        "530676ac-adf2-4350-b4cc-9ccd2d75c578": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "7fe904c9-541f-4f7f-bce8-0a0835ea31ea"
+        },
+        "94a14367-bf81-47e9-b7da-8d85d6733768": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "4a1ae518-4b22-4179-8c46-a3bd75ea295d"
+        },
+        "9bb2a930-bc91-4adc-8d40-91f4727e40e2": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "b0214bee-245e-45a7-9969-3e76ab435998"
+        },
+        "a257099a-891d-4141-ba01-581096970d9b": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "59f1dc27-6f4d-49ea-9d0d-41ca080a7f89"
+        },
+        "ab2de05a-6821-4189-8478-f0dc0e96a5b5": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "3386abae-f60f-490a-bf26-e0465c6e8898"
+        },
+        "b4822a16-8b6c-4bf7-a2c2-b8d014949dd3": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "3cb11e7d-91c3-4d49-989a-867798c56a69"
+        },
+        "c7b9d868-823d-4569-859e-ee900f0fdb3b": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "7638b76c-3a83-4499-a134-09892688cf1b"
+        },
+        "e8952743-77cc-44e8-ab93-2ed76072d1e0": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "851b824c-60ba-4094-9728-ccdb96f829c7"
+        },
+        "ea9d489a-2d0b-4417-892a-3a10fe3573fd": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "b5c2e0df-8028-469e-8381-c9a5a37ebbc7"
+        },
+        "f2b2d700-23cf-42e7-b217-15ecb824fcf6": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "b8c2799e-0825-46ce-8c77-f3f811ff11fb"
+        },
+        "f51dc2cb-1aad-4f2d-9548-466fd6299d3f": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "d62ebe2d-05e8-4a7c-a219-33f96e3c234e"
+        },
+        "f9f0cc3a-fa44-497e-87dc-5fc2fc707ce7": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "55ee89d3-400f-4fd3-b677-b3d03b136884"
+        },
+        "fac2ed38-ed93-4968-89f6-71156518677e": {
+            "gate": "7b706c10-6adb-4f73-873d-59a20d73a4cb",
+            "pin": "6e377ca0-3e0b-469d-ac75-f1721a442c35"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "comm-driver",
+        "ic",
+        "rs232"
+    ],
+    "type": "part",
+    "uuid": "5c0a4a2b-26f3-4596-99b3-5721be8f08e8",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "B-S-1W-MORNSUN-DCDC-ISO-4P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1W Isolated DC-DC Converter"
+    ],
+    "entity": "86947c0d-07d6-44eb-8951-a95d2b9a543d",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Monrsun"
+    ],
+    "model": "1d79e99c-fc8c-4bea-a5fe-718bef31fa96",
+    "package": "45cf7811-3c6c-49df-a649-564fb005b4fa",
+    "pad_map": {
+        "12dca7c2-9bec-481f-b9ba-c36913115621": {
+            "gate": "aa2b406b-eae4-4eee-9abf-3540417ae1f4",
+            "pin": "cd22eee2-2665-4c21-83df-ba453c3d1e3b"
+        },
+        "66a335d9-0bdf-4e31-9fb6-38a13aa2d94c": {
+            "gate": "aa2b406b-eae4-4eee-9abf-3540417ae1f4",
+            "pin": "99d6bf03-ec48-4cb9-a841-2a82182429a8"
+        },
+        "b2f30869-45b6-4840-844e-771b9cd42ee8": {
+            "gate": "aa2b406b-eae4-4eee-9abf-3540417ae1f4",
+            "pin": "70dbaa62-d894-49dd-aea2-8eee2a6fbfb9"
+        },
+        "c00456a7-d091-4a4d-887d-bcde56c7a2d0": {
+            "gate": "aa2b406b-eae4-4eee-9abf-3540417ae1f4",
+            "pin": "21db5a4c-54a9-4020-a1d8-b74d99da31ae"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "module"
+    ],
+    "type": "part",
+    "uuid": "80504103-4f41-4b6d-acec-4699340032c1",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -160,7 +160,7 @@
             "filename": "3d_models/Capacitors/ECAP_R_D8_H12_PinD0.6_P5.08_black.step",
             "pitch": 0,
             "roll": 0,
-            "x": 553295,
+            "x": 553290,
             "y": 0,
             "yaw": 0,
             "z": 0
@@ -179,7 +179,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2450000,
+                    2540000,
                     0
                 ]
             }

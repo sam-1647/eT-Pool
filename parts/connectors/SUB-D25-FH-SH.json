@@ -1,0 +1,144 @@
+{
+    "MPN": [
+        false,
+        "SUB-D25-FH-SH"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "D-SUB 25 Connector Female, Horizontal, Shielding"
+    ],
+    "entity": "3dec69f7-9e85-4556-965e-4982bd02d431",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "a89e03bd-e1ac-417e-9847-c2ac10f36fc8",
+    "package": "9489e1c1-f9d1-4a95-8b9b-01e787ceb649",
+    "pad_map": {
+        "0280c88e-8340-4d0e-af6f-e25f0131e561": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "67ee6675-f264-4e0b-b91c-0c79f32f64fb"
+        },
+        "082815c5-0321-4922-9779-7b6d585af0c4": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "9e9fbd8f-6ee4-46e6-bc91-254c5b7f3031"
+        },
+        "112e51d3-3be9-4557-812a-8b1df8418710": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "8513d839-5746-4345-8d5c-ec3fd7e748e0"
+        },
+        "1415b512-3ac4-4970-a67a-0a4a84ae00b7": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "d3dbc94a-5d45-4d9f-be0f-dd2c83d9c037"
+        },
+        "15abbdc2-186e-4bd7-aad9-f46a63ba2316": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "b48a5f4c-c41b-482d-987e-55552f63d2a8"
+        },
+        "19f4066e-0089-4266-b2ed-2ccea1fa4435": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "014b819a-e4e7-466e-a39f-7628fb1ce02a"
+        },
+        "1bd1e309-4b41-4883-a055-d34906354f4d": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "317570e0-242c-4dd2-940e-bab5ffcc9035"
+        },
+        "4e27e566-564a-44df-be07-aab693d00130": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "49232d86-c983-4585-9341-5353bd602657"
+        },
+        "565fe058-53fe-4ea1-969a-05e1912e1954": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "3a2fc549-8bc2-409d-9535-faf8a9b6dc8f"
+        },
+        "58004526-ca94-43b7-a5ec-b02e2935d9bc": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "3d73e271-1e63-446b-b9c2-b96da71374d9"
+        },
+        "689bceca-5320-4f5a-87c3-7851bff72c51": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "c2d61591-6dbf-4a85-9187-0d5f66ed1aaa"
+        },
+        "6d7953bc-a457-4219-b66d-97e9b7462561": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "8222075b-efb7-46ca-bfb9-624aed206701"
+        },
+        "73327fcb-7445-4241-9ed6-423a1bca7005": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "caed166b-edec-4a09-affb-c1df81dadea1"
+        },
+        "9a92d3db-9ef5-4ae3-b399-cd4c4d8b62b4": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "c5b26b59-b632-4ca7-b807-6f2adeb940af"
+        },
+        "bdfa5126-8ce5-4f12-9e59-d5b9320aa777": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "7734966e-6b9f-4b56-99ff-4af6ab949a8b"
+        },
+        "c134fc9a-1495-4a2f-ab0f-6ca9c12b9339": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "32e318f9-0c8e-4a5f-b6e5-fbca9134ff81"
+        },
+        "cd95c17e-3262-4b40-9a78-83503c63da74": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "c2f62653-6f2c-4118-98e2-7d56c5544b34"
+        },
+        "da5459c0-5a34-469c-ac2f-e2d6dd250971": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "5dc3719c-07d2-4c82-b7b9-49b28eb61d32"
+        },
+        "e0d4f064-9e22-4443-ac15-29585ee5b2dd": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "46f8a0b8-e9ac-4b9d-99ca-fc84a8517325"
+        },
+        "e431e725-af6f-404f-bc13-838ef6948892": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "20fda8b4-c3ac-4ec3-a165-bbe3e8958fc4"
+        },
+        "e630a07b-a3fe-4492-81bb-afd8df99e59c": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "6d7433b9-263c-48e2-8ad5-0bbe5f2c2926"
+        },
+        "ea08862c-ad57-4c8c-8448-28dc4c9803c5": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "5140f283-5595-46df-9f51-7f67d99e0ce1"
+        },
+        "ebd40cee-c4a7-4d66-9e4d-fbd9c4708c11": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "016f8917-338c-437d-891c-d7504a7e3eb5"
+        },
+        "f075ae15-7908-45f6-9e67-f3c9c17b1ff5": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "f98bd42b-ef04-4607-add3-e948b6f93fa0"
+        },
+        "f8a755ff-0c42-44b8-a9c5-e07ce5708e28": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "ffe8f051-b757-45c9-86e9-986133ce84f5"
+        },
+        "fa6b8385-f828-4367-a0e9-fd35c3825132": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "5a615454-5198-4bcb-b856-c9f91587e814"
+        },
+        "ffa3baf0-b356-44e5-a0ec-bce2bb53ae7a": {
+            "gate": "dac9ec50-2a14-457c-83a2-a6b1fa622a14",
+            "pin": "b513e232-f82d-4ddf-9163-97f00c000b70"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "subd"
+    ],
+    "type": "part",
+    "uuid": "e7d8c5fb-fd26-4503-b7e9-7e4f99b135b8",
+    "value": [
+        false,
+        ""
+    ]
+}

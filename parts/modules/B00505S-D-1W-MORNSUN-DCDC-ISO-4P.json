@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "B00505S/D-1W-MORNSUN-DCDC-ISO-4P"
+    ],
+    "base": "80504103-4f41-4b6d-acec-4699340032c1",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "5Vin-5Vout 1W Isolated DC-DC Converter"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Monrsun"
+    ],
+    "model": "1d79e99c-fc8c-4bea-a5fe-718bef31fa96",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3bf56e34-902b-41a1-8660-2441cd2373e8",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -132,13 +132,13 @@
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
                 "pad_height": 10800000,
-                "pad_width": 7500000
+                "pad_width": 8000000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    4000000,
+                    4500000,
                     0
                 ]
             }
@@ -357,6 +357,7 @@
         }
     },
     "tags": [
+        "d2pak",
         "to263"
     ],
     "texts": {

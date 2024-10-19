@@ -1,0 +1,392 @@
+{
+    "manufacturer": "",
+    "name": "CONN-32x2-DIN41612",
+    "pins": {
+        "05e9b7d4-5c80-4f0b-a2d6-5e17f4c2b83b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "34",
+            "swap_group": 0
+        },
+        "1588acd3-74d2-4bda-9e44-0735b9751f8b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "31",
+            "swap_group": 0
+        },
+        "1cdeffea-9737-4e56-971a-7f9858e07d07": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "24",
+            "swap_group": 0
+        },
+        "205d5725-501e-4f80-bffb-87362b8919f2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "2169f6c6-4c7e-4d42-804e-23fe06857adc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "29",
+            "swap_group": 0
+        },
+        "2b82b48b-4c0b-4b8d-8bd8-104a30f838e4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "59",
+            "swap_group": 0
+        },
+        "2cd9266e-1bf1-4d10-92e3-b693f545fcc1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "2f35e2e9-92c0-4c92-8d04-c9e82b6f544c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "56",
+            "swap_group": 0
+        },
+        "374669f6-7294-4eca-b156-53742323d67e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "21",
+            "swap_group": 0
+        },
+        "3b448187-d8dc-4fc6-8b15-f7808700eee3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "3b51282c-dd0a-42e3-b572-7b72244a9df7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "27",
+            "swap_group": 0
+        },
+        "3b93a0f7-44a6-42bb-b290-30c31b740aa6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "4136ad64-09ff-419f-93aa-1724cca46648": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "39",
+            "swap_group": 0
+        },
+        "43da78ca-c449-482d-9941-1e4edc1069a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "446b1967-2c53-4274-8aee-3cef127afd27": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "42",
+            "swap_group": 0
+        },
+        "47dc78a5-00f0-4505-be23-70dc08b988bc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "4ec3aff5-9722-4afb-9874-747aac1be602": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "5b11350a-84ff-4489-adcf-b1139180417b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "32",
+            "swap_group": 0
+        },
+        "5bca5c4a-5534-425d-99e0-3ef9b9613b08": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "28",
+            "swap_group": 0
+        },
+        "649cd405-b5b8-4aff-86f3-9c469d52f4bb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "55",
+            "swap_group": 0
+        },
+        "68c64e2c-11fd-498f-a072-48920373b06a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "44",
+            "swap_group": 0
+        },
+        "6d107a0a-fc4c-4b5f-acbf-cb1ba3693dab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "40",
+            "swap_group": 0
+        },
+        "6f908ca2-1ded-4a92-a952-2a346672162b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "50",
+            "swap_group": 0
+        },
+        "70b7ac61-6408-4d1c-8170-1fe22a5fa42e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "19",
+            "swap_group": 0
+        },
+        "74daeb90-7b47-4b5b-924a-e91f10a5e5e9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "53",
+            "swap_group": 0
+        },
+        "7717483e-b693-4ad6-aab5-748264129753": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "46",
+            "swap_group": 0
+        },
+        "7c631be0-37e3-4461-8790-5e206c52ecad": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "41",
+            "swap_group": 0
+        },
+        "80f63e2a-b8df-4fba-8e84-ca96d5c835a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "881691b6-9194-4794-80ea-45b95d6e0a40": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "58",
+            "swap_group": 0
+        },
+        "89479ea3-0a91-4802-894e-dba2f62dd5c7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "51",
+            "swap_group": 0
+        },
+        "8bdf289c-d8f2-4f1b-81a2-9c402ab23f04": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "54",
+            "swap_group": 0
+        },
+        "92913d31-6dcd-4ee0-bdab-787119adb43e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "43",
+            "swap_group": 0
+        },
+        "94187dd8-9556-4eaf-b694-deccd5af9b3d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "64",
+            "swap_group": 0
+        },
+        "9471f95d-c341-4c48-8709-392740ea0bb6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "63",
+            "swap_group": 0
+        },
+        "94980adc-75c2-41eb-8c56-1215ada3534c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "37",
+            "swap_group": 0
+        },
+        "9a2e11d4-ae59-43dd-9b53-543c2a990ffe": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "9d2e4241-47ae-4abe-b0f3-1c20bffa42c2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "48",
+            "swap_group": 0
+        },
+        "a15ffdc2-9a05-4c68-bbe7-5b45a885d2b5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "a4e4d4f9-6947-4261-958b-2ba35541e6f0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "a9c957a7-3a1e-4f02-8d3a-39b69d757d9f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "52",
+            "swap_group": 0
+        },
+        "ab36511f-abc6-4647-b0c2-19ab7006d302": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "38",
+            "swap_group": 0
+        },
+        "afc5c47c-89cb-4dbc-ab2a-54ecb8318d7b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "60",
+            "swap_group": 0
+        },
+        "b30257a0-a86c-42a1-9239-1c25843b63ab": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "47",
+            "swap_group": 0
+        },
+        "b58795e4-21df-4067-8998-201c974e241c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "45",
+            "swap_group": 0
+        },
+        "b7116af1-afc0-4fac-9731-8e0c8cf6c8d9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "bb9b55e5-369c-450d-aa4f-c343639167d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "30",
+            "swap_group": 0
+        },
+        "c15aa3d9-111b-41dc-970f-62bb68e77b19": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "35",
+            "swap_group": 0
+        },
+        "c9d6f53e-1748-4c27-a637-87865827ebaa": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "ccf58c16-8c2e-435b-bc41-a3b511ee9e7b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "36",
+            "swap_group": 0
+        },
+        "ce4bfaf0-ff84-41e5-93b9-72e52f765618": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "57",
+            "swap_group": 0
+        },
+        "d05a3893-bb93-426b-b189-81ed9851a535": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "d1b421a6-7389-453d-bae6-fe8cfa503c55": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "26",
+            "swap_group": 0
+        },
+        "d2c45213-3988-4b63-a725-a5f2a8ebf480": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "d2f8ec59-6b16-412e-8aee-df46840fd776": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "d3a52c20-4339-43f0-bc1f-f66ae034dde7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "61",
+            "swap_group": 0
+        },
+        "d462b0fa-fae2-45a3-a86b-2264de01cc8c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "22",
+            "swap_group": 0
+        },
+        "d708b453-54dd-4b24-bb96-1769620270e0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "49",
+            "swap_group": 0
+        },
+        "d9769766-e6b7-4bb6-836b-807ff8fc738d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "25",
+            "swap_group": 0
+        },
+        "e39f7f91-8c4e-45cb-91f7-78e19ef3dfb5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "18",
+            "swap_group": 0
+        },
+        "e9a63188-b7fc-4300-94b5-c52a556f9312": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "62",
+            "swap_group": 0
+        },
+        "ecba51f4-5100-4637-8806-6d1330bc48a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "33",
+            "swap_group": 0
+        },
+        "fa76cd12-c6e0-47d1-8ec2-ca1827a629dd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "fc7319d4-514f-478c-97fb-d031310633f4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "20",
+            "swap_group": 0
+        },
+        "fd5e54ba-f92d-4d27-9075-54a21b5457a4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "23",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9f97044d-659f-4f06-8ff4-5e0366141e63"
+}

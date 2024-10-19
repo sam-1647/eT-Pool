@@ -8,10 +8,22 @@
             "primary_name": "DE",
             "swap_group": 0
         },
+        "34d7fdfd-dbd0-4038-b83d-a3626df4004a": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC2",
+            "swap_group": 0
+        },
         "36e22e93-e014-460b-b37a-f6bf3cf541e3": {
             "direction": "bidirectional",
             "names": [],
             "primary_name": "A",
+            "swap_group": 0
+        },
+        "4a62b7cc-798d-4001-95cf-39e21e43da68": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-A2",
             "swap_group": 0
         },
         "55e7a4f5-6c15-4308-b784-488c6ce7325e": {
@@ -23,7 +35,7 @@
         "5b06ec0f-585d-4d34-adc5-729af1609924": {
             "direction": "power_input",
             "names": [],
-            "primary_name": "GND-B",
+            "primary_name": "GND-B1",
             "swap_group": 0
         },
         "604b4c9a-e46b-44c1-90b5-c53dcdff6220": {
@@ -62,6 +74,12 @@
             "primary_name": "TXD",
             "swap_group": 0
         },
+        "c93fbf6d-223d-4931-8475-021684380fef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-B2",
+            "swap_group": 0
+        },
         "cdbb1110-26a2-40f0-b101-701c0fb668f2": {
             "direction": "not_connected",
             "names": [],
@@ -77,7 +95,7 @@
         "fa1fdb07-0e2a-4a89-a538-ece16b392b8a": {
             "direction": "power_input",
             "names": [],
-            "primary_name": "GND-A",
+            "primary_name": "GND-A1",
             "swap_group": 0
         }
     },

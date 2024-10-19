@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "ULN2803-SOIC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8xOpen Collector Darlington Driver"
+    ],
+    "entity": "d1969041-b847-45ee-a781-ee27c053ff71",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "c893d4f7-972a-4fd0-bc41-528aa0324d69",
+    "orderable_MPNs": {
+        "e93365c6-e186-4e20-810c-5f113cf0d4ea": "ULN2803A"
+    },
+    "package": "ba967e36-feef-471b-a63f-25a0f3f5d438",
+    "pad_map": {
+        "0742698f-53a6-405c-bd8e-5a669239991d": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "8174a652-1f1a-4b67-a703-f78bc502e705"
+        },
+        "1b7b2077-e9a5-482c-9d36-3be737b9d94f": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "4ea2e2a0-dbdf-46a1-909f-3adb65f2f12e"
+        },
+        "3f8190c4-cf57-4585-b9e4-f608818229ac": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "69848995-f03f-43bc-80ec-41f68844e027"
+        },
+        "45d9dc4d-71a0-4e3d-8e76-6e73751ecdf5": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "2686419e-1ec2-4e29-b5a8-cfbe575626ce"
+        },
+        "549fd9c9-96cc-4c59-a6ed-f137be31824f": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "b9c43c70-39e8-41ea-bbdb-3e590f1cd781"
+        },
+        "6094a0cd-279b-403e-82cd-3fe1e1f085be": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "89778395-347e-432f-b449-c36749676360"
+        },
+        "6379001b-ffe5-4262-8ccc-2ca5b7de2ae7": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "43ef0a00-21a2-45bf-80db-13a433d74171"
+        },
+        "68ddbd6e-ad0a-4c41-ae32-0eb097d84a28": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "79f93644-0ee9-4989-9b21-91939114ae04"
+        },
+        "6ad97cca-7d69-4961-b88b-dea64eaa730c": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "ec90461d-821c-4d4b-83f7-fa6a7dddd8ee"
+        },
+        "6b1955b5-e2a3-426d-a049-7fbba821df2a": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "3ffd928e-2b06-499f-aaa7-53312ab2846b"
+        },
+        "6c26b836-7cd2-4c5f-b5de-e0cabf22aed2": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "8cbc147c-631d-4d58-a156-8a7ee061c37d"
+        },
+        "9395b588-42e2-40b9-be70-ecf977c33c9f": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "28b71507-2f74-4d52-8193-c74a72705afe"
+        },
+        "9566c560-73d0-43d1-b433-09ccded2bbb8": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "37d38bd8-c153-40df-b7b3-f2b914db0437"
+        },
+        "bb03f8b4-eace-4743-bdec-fb6e4107875c": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "3fe00df7-6a45-4cbf-9dd5-4aed762f6c55"
+        },
+        "bb83a29e-0314-4b60-93f3-8bfd0f18f40f": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "10f3087f-f595-4213-ac45-7207a3f2a3a2"
+        },
+        "cd34f163-a352-477b-a409-c09dbd948ef3": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "5bda6171-e996-4f56-b161-57e036867ffe"
+        },
+        "d77c6605-6882-4508-9e5b-8955b04058fe": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "e2a6c5c4-2f8a-461a-ac73-3308fe87097a"
+        },
+        "e99b1334-6f9f-4d27-8627-0469c6c2934c": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "fe838383-382c-4115-91de-3865c702c7bf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "driver",
+        "ic",
+        "oc"
+    ],
+    "type": "part",
+    "uuid": "42b56fa7-523e-422a-af4a-9fdfc9975344",
+    "value": [
+        false,
+        "ULN2803A"
+    ]
+}

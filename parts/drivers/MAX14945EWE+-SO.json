@@ -55,7 +55,7 @@
         },
         "6ad97cca-7d69-4961-b88b-dea64eaa730c": {
             "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
-            "pin": "cdbb1110-26a2-40f0-b101-701c0fb668f2"
+            "pin": "34d7fdfd-dbd0-4038-b83d-a3626df4004a"
         },
         "6c26b836-7cd2-4c5f-b5de-e0cabf22aed2": {
             "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
@@ -71,7 +71,7 @@
         },
         "bb03f8b4-eace-4743-bdec-fb6e4107875c": {
             "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
-            "pin": "5b06ec0f-585d-4d34-adc5-729af1609924"
+            "pin": "c93fbf6d-223d-4931-8475-021684380fef"
         },
         "bb83a29e-0314-4b60-93f3-8bfd0f18f40f": {
             "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
@@ -83,7 +83,7 @@
         },
         "d77c6605-6882-4508-9e5b-8955b04058fe": {
             "gate": "8d5d80be-5d59-4f48-a2c2-e43d5091459e",
-            "pin": "fa1fdb07-0e2a-4a89-a538-ece16b392b8a"
+            "pin": "4a62b7cc-798d-4001-95cf-39e21e43da68"
         }
     },
     "parametric": {},

@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "DC-DC-ISO-MODULE-4P",
+    "pins": {
+        "21db5a4c-54a9-4020-a1d8-b74d99da31ae": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-IN",
+            "swap_group": 0
+        },
+        "70dbaa62-d894-49dd-aea2-8eee2a6fbfb9": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND-OUT",
+            "swap_group": 0
+        },
+        "99d6bf03-ec48-4cb9-a841-2a82182429a8": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V-OUT",
+            "swap_group": 0
+        },
+        "cd22eee2-2665-4c21-83df-ba453c3d1e3b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1626fb64-01dd-436f-bd94-3c7b16a278bc"
+}

@@ -21,13 +21,13 @@
     "junctions": {
         "416cd2a5-9eee-43bd-9490-eea328365834": {
             "position": [
-                -3800000,
+                -4800000,
                 -2800000
             ]
         },
         "62bfb45b-c2da-4aee-9320-b30b247d317a": {
             "position": [
-                3800000,
+                4800000,
                 -2700000
             ]
         },
@@ -45,13 +45,13 @@
         },
         "9a4bd560-97ed-4986-bb5e-6e3ea0fb176c": {
             "position": [
-                -3800000,
+                -4800000,
                 3300000
             ]
         },
         "be139004-16ef-4af2-8050-26c7eb16919b": {
             "position": [
-                3800000,
+                4800000,
                 3300000
             ]
         }
@@ -179,7 +179,7 @@
             }
         }
     },
-    "parameter_program": "7.600mm 6.100mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.250mm ]",
+    "parameter_program": "10.000mm 6.600mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.250mm ]",
     "parameter_set": {
         "courtyard_expansion": 250000
     },
@@ -195,8 +195,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -4050000,
-                        -3050000
+                        -5250000,
+                        -3300000
                     ],
                     "type": "line"
                 },
@@ -207,8 +207,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -4050000,
-                        3550000
+                        -5250000,
+                        3800000
                     ],
                     "type": "line"
                 },
@@ -219,8 +219,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4050000,
-                        3550000
+                        5250000,
+                        3800000
                     ],
                     "type": "line"
                 },
@@ -231,8 +231,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4050000,
-                        -3050000
+                        5250000,
+                        -3300000
                     ],
                     "type": "line"
                 }
@@ -249,7 +249,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3800000,
+                        -4800000,
                         3300000
                     ],
                     "type": "line"
@@ -261,7 +261,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3800000,
+                        -4800000,
                         2100000
                     ],
                     "type": "line"
@@ -273,7 +273,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3800000,
+                        4800000,
                         2100000
                     ],
                     "type": "line"
@@ -285,7 +285,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3800000,
+                        4800000,
                         3300000
                     ],
                     "type": "line"

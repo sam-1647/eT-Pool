@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "670a6395-917b-4411-a2ee-80ec4b6f1a92": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9f97044d-659f-4f06-8ff4-5e0366141e63"
+        }
+    },
+    "manufacturer": "",
+    "name": "DIN41612-32x2",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "din"
+    ],
+    "type": "entity",
+    "uuid": "bf440305-1818-418b-93b0-f9a39ad7d01a"
+}

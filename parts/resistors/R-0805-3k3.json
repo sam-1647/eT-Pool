@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-3k3"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "3300"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "23c08b4f-747a-4b9e-aaa2-524206bc437e",
+    "value": [
+        false,
+        "3.30 kΩ"
+    ]
+}

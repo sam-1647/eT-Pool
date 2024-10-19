@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "aa2b406b-eae4-4eee-9abf-3540417ae1f4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1626fb64-01dd-436f-bd94-3c7b16a278bc"
+        }
+    },
+    "manufacturer": "",
+    "name": "DC-DC-ISO-MODULE-4P",
+    "prefix": "MOD",
+    "tags": [
+        "dcdc",
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "86947c0d-07d6-44eb-8951-a95d2b9a543d"
+}
