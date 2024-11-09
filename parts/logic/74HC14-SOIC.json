@@ -82,7 +82,10 @@
         }
     },
     "parametric": {},
-    "tags": [],
+    "tags": [
+        "ic",
+        "logic"
+    ],
     "type": "part",
     "uuid": "7152e4e5-4a92-455f-ad22-8d7c1abd52a6",
     "value": [

@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "ULN2803-DIP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "500mA OC Darlington Transistor Array x 8"
+    ],
+    "entity": "d1969041-b847-45ee-a781-ee27c053ff71",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "9eac0447-b47b-4956-8f24-bbdc27791b5f",
+    "orderable_MPNs": {
+        "0198cd8f-cb1f-4035-b4d7-a9c7076192fc": "ULN2803-P"
+    },
+    "package": "a7cbe2c7-425b-4a39-9e5a-632e7ee72bef",
+    "pad_map": {
+        "082c6e91-eb77-4874-852c-e06d62178792": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "4ea2e2a0-dbdf-46a1-909f-3adb65f2f12e"
+        },
+        "0dd66710-8249-4715-9c80-3bec3d2167dd": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "89778395-347e-432f-b449-c36749676360"
+        },
+        "1aed244a-74f9-419b-a8d0-b63c4b87e73d": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "79f93644-0ee9-4989-9b21-91939114ae04"
+        },
+        "1e34314c-2298-409b-a036-0d865a46817a": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "43ef0a00-21a2-45bf-80db-13a433d74171"
+        },
+        "22a97a26-72bb-4ab0-a41e-ec3abc5f92f9": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "fe838383-382c-4115-91de-3865c702c7bf"
+        },
+        "312e4c29-e78c-4e47-afbf-1b2e1d77b14f": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "3ffd928e-2b06-499f-aaa7-53312ab2846b"
+        },
+        "3149a5a6-8c69-4ab1-9cf2-7f2351d29426": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "3fe00df7-6a45-4cbf-9dd5-4aed762f6c55"
+        },
+        "47751886-155b-4b0c-aca2-4d58ef7c607c": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "5bda6171-e996-4f56-b161-57e036867ffe"
+        },
+        "647733a9-dab4-44eb-adef-31b1891ea689": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "8174a652-1f1a-4b67-a703-f78bc502e705"
+        },
+        "74712a28-3c11-48cd-a7c6-0584d323d2fe": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "10f3087f-f595-4213-ac45-7207a3f2a3a2"
+        },
+        "7ba0fe14-6895-4e30-8c7b-3a4327400640": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "b9c43c70-39e8-41ea-bbdb-3e590f1cd781"
+        },
+        "7d3fa647-c654-42dc-a88b-8505ef6a1ea6": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "8cbc147c-631d-4d58-a156-8a7ee061c37d"
+        },
+        "8145ce87-a3bf-4af2-8083-7863be9ccaac": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "28b71507-2f74-4d52-8193-c74a72705afe"
+        },
+        "816fd414-a6b6-4f10-9885-755d3f608f37": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "ec90461d-821c-4d4b-83f7-fa6a7dddd8ee"
+        },
+        "850117fa-e9b6-4ca6-91b9-47853e6a2e79": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "69848995-f03f-43bc-80ec-41f68844e027"
+        },
+        "af59442f-e368-4097-a821-05b13cd68569": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "37d38bd8-c153-40df-b7b3-f2b914db0437"
+        },
+        "d5650941-f1d7-4f35-8ebd-ddb18c421339": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "e2a6c5c4-2f8a-461a-ac73-3308fe87097a"
+        },
+        "e244418d-3646-484c-8b7a-b34daa20326a": {
+            "gate": "7185b690-592a-4f24-8b1a-8b0139eed1b7",
+            "pin": "2686419e-1ec2-4e29-b5a8-cfbe575626ce"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "driver",
+        "ic",
+        "oc"
+    ],
+    "type": "part",
+    "uuid": "6a69d981-0498-44df-b380-99bd329a6906",
+    "value": [
+        false,
+        ""
+    ]
+}

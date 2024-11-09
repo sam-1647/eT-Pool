@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "8xOpen Collector Darlington Driver"
+        "500mA OC Darlington Transistor Array x 8"
     ],
     "entity": "d1969041-b847-45ee-a781-ee27c053ff71",
     "inherit_model": true,
