@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Teaxs Instruments",
+    "name": "AM26LS32Ax",
+    "pins": {
+        "1bf392f0-8486-437a-b133-bb994e3e6ca5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~G~",
+            "swap_group": 0
+        },
+        "2099bfbf-1499-45eb-9dc7-92e88dba72db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2B",
+            "swap_group": 0
+        },
+        "2231a378-ac41-481b-bb0c-d9fc5aab0e74": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "2462d5b0-4269-4c94-82c0-7300182bce3a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1Y",
+            "swap_group": 0
+        },
+        "2760830a-443f-4a01-ad7c-24665d1a2fa4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "4B",
+            "swap_group": 0
+        },
+        "2fb75747-f115-4260-b899-e98ce447d708": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2A",
+            "swap_group": 0
+        },
+        "656f4e46-3ad5-4164-ac9a-a9bc25e1c80c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "4Y",
+            "swap_group": 0
+        },
+        "6cbb4f48-6157-45b7-9e85-5310fcf96e5a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "3B",
+            "swap_group": 0
+        },
+        "81965aef-6ffb-40fb-b03c-e25e2ae35c30": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "3A",
+            "swap_group": 0
+        },
+        "86445d24-c8bb-420f-a1ad-83a948462316": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "9bad7176-7d6b-4718-94c4-fe7666fb41bb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2Y",
+            "swap_group": 0
+        },
+        "a21d7f7d-6595-4353-8e96-4fa13845f500": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "3Y",
+            "swap_group": 0
+        },
+        "b3cf3edf-38cf-4486-bd7f-a1d51142d90a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        },
+        "bdd44805-d208-4a3a-ba2f-47dbfb58c126": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1B",
+            "swap_group": 0
+        },
+        "d20939e3-73d8-4fa0-9f20-2f544998ab21": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "4A",
+            "swap_group": 0
+        },
+        "dace4695-183a-4be9-94d0-8e44dd91a143": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "421f5c21-56a2-48f3-8c94-794feddcf959"
+}

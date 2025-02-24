@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "241a7933-d0db-4dc9-92c5-b15905fe3e2e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "421f5c21-56a2-48f3-8c94-794feddcf959"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "AM26LS32Ax",
+    "prefix": "U",
+    "tags": [
+        "dff-line-recvr",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "849d81f6-8d77-4b61-8168-db600a413461"
+}
