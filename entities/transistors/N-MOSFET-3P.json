@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5fed7a43-a17f-47b5-b50d-d57ecdfbadac": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "61c35bbd-1c60-4217-87ca-9c6d2b12b1d0"
+        }
+    },
+    "manufacturer": "",
+    "name": "N-MOSFET-3P",
+    "prefix": "T",
+    "tags": [
+        "mosfet",
+        "n-ch"
+    ],
+    "type": "entity",
+    "uuid": "18cb1180-ec40-46e4-bc1d-8c0714a3b1a8"
+}

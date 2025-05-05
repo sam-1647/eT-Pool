@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "802de20c-b8b4-42f1-8de3-5ad101a2685f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8f70b8ac-94df-4327-9320-35c3ab74a0b2"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-4x1",
+    "prefix": "CN",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "cd260061-996a-41dc-8e6a-9a66cf764a30"
+}

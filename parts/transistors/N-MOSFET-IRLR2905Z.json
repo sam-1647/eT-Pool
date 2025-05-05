@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "N-MOSFET-IRLR2905Z"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "N-CH Logic Level MOSFET, 55V, 42A, 12.5mOhm"
+    ],
+    "entity": "18cb1180-ec40-46e4-bc1d-8c0714a3b1a8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "International Rectifier"
+    ],
+    "model": "332cb2fc-4014-4703-bb43-265056bdb2c1",
+    "package": "99907c22-2120-4012-9613-44f9b17c8d83",
+    "pad_map": {
+        "43ddb30b-41cc-41a4-b857-26f9e9184f46": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "3cb64504-78c2-46e0-a01b-d8b7fc91140a"
+        },
+        "9263bf87-4b2d-4ad2-9817-7c45a3a8985a": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "29cf4631-92fb-4d61-8ab6-7f3d90b5903e"
+        },
+        "9a3388ae-9dc3-4dfd-92e1-f5945f1272ac": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "512d096b-b825-402c-9bdf-606710b0cf7d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-ch"
+    ],
+    "type": "part",
+    "uuid": "89c827c2-5419-4bfd-b667-32534c87b98a",
+    "value": [
+        false,
+        "IRLR2905Z"
+    ]
+}

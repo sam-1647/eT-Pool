@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "BJT-NPN-BD139-V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "BJT, npn, 80V, 1.5A"
+    ],
+    "entity": "bb7613f9-5dc4-4cac-8500-63835bfda9e2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST Microelectronics"
+    ],
+    "model": "b5a319df-b2ab-4251-8ab7-0d9693e1e376",
+    "package": "df878e34-9b66-4543-a4e7-fe5434e8be2b",
+    "pad_map": {
+        "56c40dda-8c17-4472-b07b-07e752ef9b94": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "249d5f2d-c07d-4122-b07a-ed5adecb2712"
+        },
+        "735388ab-a390-420d-9ac3-2e6d68c1f0ae": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "4dc9dfec-2292-4b69-9166-4d55a24a0343"
+        },
+        "95575017-f2c3-4bb4-a1ec-c7c98e3b62ea": {
+            "gate": "e5c3d42f-b583-4df2-be81-05cd155e364f",
+            "pin": "7b568d8f-59a5-42ed-827f-6401b2770a83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn"
+    ],
+    "type": "part",
+    "uuid": "907e7524-f3e5-4baa-9399-2dbcbc5dd95f",
+    "value": [
+        false,
+        "BD139"
+    ]
+}

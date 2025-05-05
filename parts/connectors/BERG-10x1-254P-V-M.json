@@ -1,0 +1,77 @@
+{
+    "MPN": [
+        false,
+        "BERG-10x1-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10x1 Berg Male Header, P=2.54mm"
+    ],
+    "entity": "6dc71489-623a-4e1c-8582-4d6aa9e1d66a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "d9a4f883-ed66-4838-9009-faf932f9d012",
+    "package": "6b965b86-47e5-4213-8a0f-80187689dd7a",
+    "pad_map": {
+        "1262870f-557b-4168-b1a2-bd4544e78792": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "548162db-0d98-4f0a-9b6d-67ab27b3519c": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        },
+        "651e1c34-cbe0-4db3-acc4-ca630ca88c46": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        },
+        "6eef9737-4aeb-4cfb-8712-b642a81618b6": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "d5599a62-493d-44e5-b5dd-bdc1888dbf4b"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "ec8afa11-283c-4174-9666-11cce90c20a1",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "b99b9644-987b-49c3-aeb7-0a565f744846",
+    "value": [
+        false,
+        ""
+    ]
+}

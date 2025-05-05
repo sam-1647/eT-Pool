@@ -9,14 +9,14 @@
     ],
     "description": [
         false,
-        "6x1 Berg Male Pin Header, P=2.45mm"
+        "6x1 Berg Male Pin Header, P=2.54mm"
     ],
     "entity": "d3999fe7-9123-4771-9e50-476e902c2d93",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        ""
+        "BERG"
     ],
     "model": "98282cb8-da2c-453d-88c8-cbbebdef1385",
     "package": "58e2c7f3-7d71-4a66-bcdf-e85f998b4d40",

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Microchip",
+    "name": "MCP3421-SOT",
+    "pins": {
+        "46c6c201-a10b-4302-abcc-3bbeca506a21": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VIN+",
+            "swap_group": 0
+        },
+        "49b4ee58-24d9-408c-98dd-8929f88c6bef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "568b2af5-9fd3-4232-aa9b-d1f20b0ee8cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VIN-",
+            "swap_group": 0
+        },
+        "6f565bd4-70fc-448f-b6ec-795a4ee8caf5": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "d47d46d5-16ab-47d7-acbd-2f1846af40d2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "e53026e7-fb09-4ea9-96db-28c0e209c4f5": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "420cb030-0f93-45b2-b0dc-a905d25295fe"
+}

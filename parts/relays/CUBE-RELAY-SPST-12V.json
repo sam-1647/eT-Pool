@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CUBE-RELAY-SPST-12V"
+    ],
+    "base": "ff93d1c3-a9af-42c9-ad0e-0d5fb2e2403e",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "+12V SPST Suger Cube Relay"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "1abee9f0-554c-42a1-9bdb-4d470257e161",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "14f34ab5-c5d5-4dc2-a789-4acdda61cfbe",
+    "value": [
+        true,
+        "CUBE-RELAY-SPST"
+    ]
+}

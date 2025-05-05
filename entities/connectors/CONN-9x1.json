@@ -11,7 +11,8 @@
     "name": "CONN-9x1",
     "prefix": "CN",
     "tags": [
-        "conn"
+        "conn",
+        "sil"
     ],
     "type": "entity",
     "uuid": "4a45f0cd-4e6d-47b0-a242-33849daaf677"

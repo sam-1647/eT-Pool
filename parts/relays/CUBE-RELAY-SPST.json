@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "CUBE-RELAY-SPST"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SPST Suger Cube Relay"
+    ],
+    "entity": "f8ce2662-da6b-40dd-a881-685cceb2e621",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "1abee9f0-554c-42a1-9bdb-4d470257e161",
+    "package": "e43db26b-aee0-45f3-8bff-4cb18ea4e692",
+    "pad_map": {
+        "0dba0912-5192-4ac8-8c2f-f47bdc5da28e": {
+            "gate": "331ab32a-b3e6-4cc0-8a91-08d8fc99d866",
+            "pin": "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8"
+        },
+        "5f55be78-4f4e-412a-b340-c9bea41d3f9c": {
+            "gate": "331ab32a-b3e6-4cc0-8a91-08d8fc99d866",
+            "pin": "052edf91-ecb6-4034-95c3-87620b06fb6a"
+        },
+        "94345201-e949-4a59-bc27-5b91cb1440a6": {
+            "gate": "331ab32a-b3e6-4cc0-8a91-08d8fc99d866",
+            "pin": "38ec4e0e-28fa-4f24-a6cc-fa091c67e755"
+        },
+        "a726826a-70e4-40e5-96ef-c46b7c9473da": {
+            "gate": "331ab32a-b3e6-4cc0-8a91-08d8fc99d866",
+            "pin": "a7e2dce4-2244-4e22-9f56-f268beeeb0cc"
+        },
+        "c6e86b20-80ec-4ddc-a05b-0c924f436638": {
+            "gate": "331ab32a-b3e6-4cc0-8a91-08d8fc99d866",
+            "pin": "7dc78893-c580-44fd-b85c-1c693c34ba37"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "relay",
+        "spst"
+    ],
+    "type": "part",
+    "uuid": "ff93d1c3-a9af-42c9-ad0e-0d5fb2e2403e",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

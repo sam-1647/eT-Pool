@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ba2b5eb5-d914-4e70-af3a-caab340c9486": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "420cb030-0f93-45b2-b0dc-a905d25295fe"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "MCP3421-SOT",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "sigma-delta"
+    ],
+    "type": "entity",
+    "uuid": "709d5bce-fae8-4932-8773-b3dabe1df031"
+}

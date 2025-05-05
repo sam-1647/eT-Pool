@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "R-0805-110E-1"
+    ],
+    "base": "662c38a8-d537-49d0-9490-01b02b92e202",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "0805, 1/8W Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Watts"
+    ],
+    "model": "218382b6-7511-4b39-91ae-257a506027ed",
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "110"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3eb066a4-f25e-4ded-b00b-3f4c6b062f68",
+    "value": [
+        false,
+        "110Ω"
+    ]
+}

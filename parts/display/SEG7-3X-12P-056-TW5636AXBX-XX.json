@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "SEG7-3X-12P-056-TW5636AXBX-XX"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12-Pin 3x7-Segment Display with RHS DP, 0.56\""
+    ],
+    "entity": "775adb8f-185b-473c-b9dd-9d3545cadaa3",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Twlight"
+    ],
+    "model": "09a5bd8d-fbdd-46ef-b76e-d9cd4dd1ba70",
+    "package": "45c4a412-26ee-46dd-9d84-930ef66f7633",
+    "pad_map": {
+        "08291756-b5c1-4db3-8dc3-bf39d7d8de19": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "b144542b-0cd6-4fb5-8eaf-212cf1a6c2f7"
+        },
+        "16c3c785-cc58-4a13-91c8-b27128a2f498": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "18c87fce-679e-49a2-8469-12bd02764d77"
+        },
+        "23860642-65e4-4d9d-b861-20ceb3b25272": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "e866a38c-5409-46b7-a781-50d9f95fd16e"
+        },
+        "635cabce-50bb-40fd-8781-ff5c0460766c": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "c1f90e74-8206-4fed-878a-b1bb4e2910b2"
+        },
+        "8a3ebd86-e139-492a-88b8-0af111c27eb2": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "d732d571-301b-41ad-8c05-548451512761"
+        },
+        "91db1cc7-ba65-4ff4-a181-b6515175c5e3": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "c5f0fbfe-71cc-4afe-93a3-13def1d1af78"
+        },
+        "9d481751-8924-418f-a5fe-525aea7a140b": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "22279b5a-bec7-4935-9aab-6d617d3e3268"
+        },
+        "a1c8d0d1-fdb4-4210-8a25-08571da5f427": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "72d63cb1-e574-4eb9-8745-0b63be55356a"
+        },
+        "d399b325-32e1-4443-a35c-6aa138c89142": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "8d9a19dd-a852-4073-807e-5c9bffe50bb1"
+        },
+        "d43cf98a-396f-4382-b020-3cb8603d14a9": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "4951f41b-ed74-4335-9b2b-5654b8f99232"
+        },
+        "ef9fe222-5bf3-4a15-a6b4-e01c5270cef7": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "56d52eb5-804b-42bd-98bd-7cfd4ce7090e"
+        },
+        "fec8ca4b-8d94-4005-97b6-cf151222d93a": {
+            "gate": "72e815f9-909a-467b-b044-43549a0cbaae",
+            "pin": "1c833363-fd41-4058-8307-132c9580f56a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "7-seg",
+        "display"
+    ],
+    "type": "part",
+    "uuid": "fe1527e3-1006-4e6d-b9a2-f070d00ead08",
+    "value": [
+        false,
+        "TW5636AXBX-XX"
+    ]
+}

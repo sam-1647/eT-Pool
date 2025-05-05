@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "N-MOSFET-2N7002"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "300mA/60V, N-CH MOSFET"
+    ],
+    "entity": "18cb1180-ec40-46e4-bc1d-8c0714a3b1a8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "8ac7a09e-8940-4680-8dc8-c33d748e3b25",
+    "package": "1c35b47e-98f1-4dbb-8e72-3a2ba4f4f46b",
+    "pad_map": {
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "512d096b-b825-402c-9bdf-606710b0cf7d"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "29cf4631-92fb-4d61-8ab6-7f3d90b5903e"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "5fed7a43-a17f-47b5-b50d-d57ecdfbadac",
+            "pin": "3cb64504-78c2-46e0-a01b-d8b7fc91140a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-ch"
+    ],
+    "type": "part",
+    "uuid": "855c4210-ddbd-4809-a3a2-d1bdfe80d10c",
+    "value": [
+        false,
+        ""
+    ]
+}

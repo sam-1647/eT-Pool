@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "BERG-4x1-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4x1 Berg Male Header, P=2.54mm"
+    ],
+    "entity": "cd260061-996a-41dc-8e6a-9a66cf764a30",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "2227af11-6a1d-4b84-a83b-23c8ccec1cc8",
+    "package": "f9981028-4fb0-4cb0-96b0-bc57819b5c2b",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male"
+    ],
+    "type": "part",
+    "uuid": "b0290a6f-8103-4956-9762-2d494d04f8af",
+    "value": [
+        false,
+        ""
+    ]
+}

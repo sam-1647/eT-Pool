@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "ADS1247-IPW"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "24-BIT Sigma Delta ADC with I-EXC"
+    ],
+    "entity": "65501889-55d8-41f1-8290-b74e3957abf9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "a17c525a-7d63-41e7-9d8a-a213ef695723",
+    "package": "4b41c067-c008-4388-8dd4-a12e894928fe",
+    "pad_map": {
+        "06b8e364-c80c-41b8-93ec-d79f65cbf1ad": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "e057d1d1-c6e1-4830-bae8-118ba1d226cb"
+        },
+        "0d3d5918-eb36-42d0-96d5-88b73e120a7a": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "1d22e066-bbd7-4cf9-a16f-3b6069cb9302"
+        },
+        "0d98bd3d-dad5-4368-af91-1ebafa53738f": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "d0263236-bb83-4575-9d62-6aac9f6da5ef"
+        },
+        "39bd41f1-b7b3-4bad-bc43-c15efd84bad1": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "06a3b28a-fbcc-4b8d-bba6-ab77589905d1"
+        },
+        "6dc4d6d0-7e55-4e9d-a75f-47682d7093e4": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "ebb08e64-d168-4c6b-9926-fda452ef7d00"
+        },
+        "6ea098e4-950a-4729-913a-ba23a03aa581": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "04467e2e-d7ec-4265-af5a-0e049081d3dd"
+        },
+        "780b4570-6b06-4d4c-8102-7e16bd4e1230": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "2e5e4eea-e902-47d7-a341-d3e74a4afb18"
+        },
+        "7900afb2-1873-4d6c-b682-a72e42b7f02d": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "f0623f7e-6e3c-42be-9a3f-a3e07973d1ec"
+        },
+        "872b3805-8bb3-4e8a-a7ea-a1ad8c7b6455": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "c89787c3-4317-4081-9c0c-71a54351663a"
+        },
+        "99f901a7-80b0-464f-94c8-aefb214293bd": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "8114717b-fbcf-4d11-bcf0-4bfd4ddd32c4"
+        },
+        "9b73b1ce-8151-41b3-8e2e-620fe3c96333": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "67204001-83de-4b2b-a197-bd1da522d137"
+        },
+        "a21efdb8-7891-4f07-aee9-6528c7b470ec": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "07c7478c-6f06-4d15-9369-ff17a9abb409"
+        },
+        "b204e1d8-85fa-483f-a028-49edacef27e3": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "c482096c-79b3-4e91-9a15-5d016162cebd"
+        },
+        "beb48329-65fb-4738-a91b-d49f5322677c": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "c329261f-0629-4c04-a68e-8694c78c3749"
+        },
+        "d4d9ab6f-cd93-4075-b8f4-18a22eb07a3c": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "01ea4113-e49f-4705-a2ee-9aecbacc357b"
+        },
+        "e5b33a1d-7308-4213-af79-9d983f0a4515": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "5852831e-251c-4b48-938f-3d6a2ac4d318"
+        },
+        "eac014fa-fca2-4c07-9291-2cffb96c368b": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "d6da0079-3503-4714-bd3f-5a29a74b215f"
+        },
+        "efcd96e2-23ab-4f4d-907d-5b8be53439f1": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "400c9b08-2de5-449a-9040-0ce27bfdf632"
+        },
+        "f60bbe43-5a25-4482-b5af-f7228e0e3259": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "adfc7ae6-ddbd-49e3-872d-e0d50ff39128"
+        },
+        "fe738339-4314-451e-b80c-71637c6f9ac3": {
+            "gate": "06a78d5e-4d26-45e3-9bae-273992ac1520",
+            "pin": "c7e88632-a9af-4e63-9dcb-2523bfd4f8f0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic",
+        "sigma-delta"
+    ],
+    "type": "part",
+    "uuid": "ac937985-926a-4456-a9b1-6ba59c737095",
+    "value": [
+        false,
+        ""
+    ]
+}

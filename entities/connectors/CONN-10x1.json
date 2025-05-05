@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ec8afa11-283c-4174-9666-11cce90c20a1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5d14d8cc-e80e-41c7-a2a3-7d7d5a1667db"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-10x1",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sil"
+    ],
+    "type": "entity",
+    "uuid": "6dc71489-623a-4e1c-8582-4d6aa9e1d66a"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "331ab32a-b3e6-4cc0-8a91-08d8fc99d866": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5c7408d1-347a-4f29-9808-bc781989a414"
+        }
+    },
+    "manufacturer": "",
+    "name": "RELAY-SPST",
+    "prefix": "RL",
+    "tags": [
+        "relay",
+        "spst"
+    ],
+    "type": "entity",
+    "uuid": "f8ce2662-da6b-40dd-a881-685cceb2e621"
+}

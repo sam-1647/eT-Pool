@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "N-MOSFET-3P",
+    "pins": {
+        "29cf4631-92fb-4d61-8ab6-7f3d90b5903e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "D",
+            "swap_group": 0
+        },
+        "3cb64504-78c2-46e0-a01b-d8b7fc91140a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        },
+        "512d096b-b825-402c-9bdf-606710b0cf7d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "61c35bbd-1c60-4217-87ca-9c6d2b12b1d0"
+}
