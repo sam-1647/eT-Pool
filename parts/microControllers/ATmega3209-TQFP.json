@@ -221,6 +221,7 @@
     "parametric": {},
     "tags": [
         "avr",
+        "ic",
         "uc"
     ],
     "type": "part",

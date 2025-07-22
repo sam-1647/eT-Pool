@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "BiDirectional TVD Diode"
+        "BiDirectional TVS Diode"
     ],
     "entity": "03d01edd-7ecf-4487-b40f-351076fe9791",
     "flags": {

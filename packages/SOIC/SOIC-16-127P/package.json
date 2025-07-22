@@ -1,20 +1,5 @@
 {
-    "arcs": {
-        "14eda2dc-b93c-4ec9-acb9-837db7399c84": {
-            "center": "580269c6-3616-43bd-81b2-9659dfd905f3",
-            "from": "29f68ec3-817c-49f7-afe0-e96c892f3163",
-            "layer": 50,
-            "to": "a3f0dde5-240d-497b-beaa-0b646e34d1cb",
-            "width": 0
-        },
-        "a707ad49-0a67-4fc5-b9e0-0cf95985ea4c": {
-            "center": "580269c6-3616-43bd-81b2-9659dfd905f3",
-            "from": "a3f0dde5-240d-497b-beaa-0b646e34d1cb",
-            "layer": 50,
-            "to": "29f68ec3-817c-49f7-afe0-e96c892f3163",
-            "width": 0
-        }
-    },
+    "arcs": {},
     "default_model": "546549d3-e06f-474e-9da7-588c352fb5aa",
     "dimensions": {},
     "grid_settings": {
@@ -40,22 +25,16 @@
                 -5080000
             ]
         },
-        "29f68ec3-817c-49f7-afe0-e96c892f3163": {
-            "position": [
-                -2400000,
-                5635000
-            ]
-        },
-        "580269c6-3616-43bd-81b2-9659dfd905f3": {
-            "position": [
-                -2600000,
-                5435000
-            ]
-        },
         "6df316ed-e1b4-4877-aadd-6f02c62a47e2": {
             "position": [
                 -1100000,
                 5135000
+            ]
+        },
+        "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0": {
+            "position": [
+                3800000,
+                5700000
             ]
         },
         "88eeedfe-6aee-43af-85dc-287b528bb21d": {
@@ -70,10 +49,10 @@
                 5135000
             ]
         },
-        "a3f0dde5-240d-497b-beaa-0b646e34d1cb": {
+        "97160387-1951-4d96-9c79-996abf2fe292": {
             "position": [
-                -2800000,
-                5235000
+                -3800000,
+                5700000
             ]
         },
         "ad38e368-4651-414c-a65a-be24df3f2d69": {
@@ -102,6 +81,30 @@
             "layer": 20,
             "to": "90de5017-c636-4a75-bf13-5fbb3c2dd4a4",
             "width": 200000
+        },
+        "3f8d20b8-55ef-4c12-999a-fd9b664bdefa": {
+            "from": "97160387-1951-4d96-9c79-996abf2fe292",
+            "layer": 20,
+            "to": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "width": 200000
+        },
+        "524ce3f3-dc98-4d06-bca1-1e92b5383dd6": {
+            "from": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "layer": 60,
+            "to": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "width": 0
+        },
+        "68188ecb-a8b5-4bf4-bc7d-72906a866fcc": {
+            "from": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "layer": 20,
+            "to": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "width": 200000
+        },
+        "8e75922f-5e14-4733-a10e-eb00cee78a43": {
+            "from": "97160387-1951-4d96-9c79-996abf2fe292",
+            "layer": 60,
+            "to": "7321c5e6-f4fa-4a42-9c5e-df315c1c66c0",
+            "width": 0
         },
         "aa99ddfd-cbc6-46d5-a5ac-1c2b151984bc": {
             "from": "ad38e368-4651-414c-a65a-be24df3f2d69",
@@ -434,36 +437,6 @@
         "courtyard_expansion": 250000
     },
     "polygons": {
-        "2a7105f2-117b-4973-ad03-b3cb56cf80dc": {
-            "layer": 20,
-            "parameter_class": "",
-            "vertices": [
-                {
-                    "arc_center": [
-                        -2600000,
-                        5435000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -2400000,
-                        5635000
-                    ],
-                    "type": "arc"
-                },
-                {
-                    "arc_center": [
-                        -2600000,
-                        5435000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -2800000,
-                        5235000
-                    ],
-                    "type": "arc"
-                }
-            ]
-        },
         "ae75c944-0286-4f39-ac29-7a668612730f": {
             "layer": 60,
             "parameter_class": "courtyard",
@@ -545,7 +518,7 @@
                 "mirror": false,
                 "shift": [
                     -1500000,
-                    6000000
+                    6600000
                 ]
             },
             "size": 1000000,

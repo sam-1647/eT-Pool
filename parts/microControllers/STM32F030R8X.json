@@ -286,6 +286,7 @@
     "tags": [
         "arm",
         "cortex-m0",
+        "ic",
         "uc"
     ],
     "type": "part",

@@ -10,7 +10,7 @@
     ],
     "description": [
         false,
-        "36V BiDirectional TVD Diode"
+        "36V BiDirectional TVS Diode"
     ],
     "inherit_model": true,
     "inherit_tags": true,

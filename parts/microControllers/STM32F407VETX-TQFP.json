@@ -427,6 +427,8 @@
     },
     "parametric": {},
     "tags": [
+        "arm",
+        "cortex-m4",
         "ic",
         "uc"
     ],

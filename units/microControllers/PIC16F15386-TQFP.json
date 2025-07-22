@@ -65,7 +65,7 @@
         "5b0dcc76-9fac-4ace-b9e0-28b866b86a2d": {
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ANB3/C1IN2-C2IN2-/IOCB3/RB3",
+            "primary_name": "ANB3/C1IN2-/C2IN2-/IOCB3/RB3",
             "swap_group": 0
         },
         "611ef7ca-80a6-432b-b34e-bb0895e8cd3c": {
@@ -119,7 +119,7 @@
         "7d8c02a0-bb74-4508-bef8-f5137fd70b3a": {
             "direction": "bidirectional",
             "names": [],
-            "primary_name": "ANA2/C1IN0+/C2IN0+/DAC1OUT1/OCA2/RA2",
+            "primary_name": "ANA2/C1IN0+/C2IN0+/DAC1OUT1/IOCA2/RA2",
             "swap_group": 0
         },
         "7e6b766c-5415-404d-b647-86fb23299fa6": {

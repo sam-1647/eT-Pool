@@ -43,6 +43,12 @@
                 4000000
             ]
         },
+        "63a85bb8-97b2-4c07-904d-e95cb310385f": {
+            "position": [
+                -3800000,
+                4500000
+            ]
+        },
         "77f41abf-a676-4d7b-8a6f-c39fbca5a6cd": {
             "position": [
                 -1200000,
@@ -65,6 +71,12 @@
             "position": [
                 -2000000,
                 4000000
+            ]
+        },
+        "aaa7ede0-b00a-48c2-affb-6e90f03e8d70": {
+            "position": [
+                3800000,
+                4500000
             ]
         },
         "c9c552f0-17cc-4939-8497-357b840bbc4d": {
@@ -130,10 +142,28 @@
             "to": "9dcba516-e825-4e45-b94d-3e7d13e80e67",
             "width": 200000
         },
+        "8fe0abe1-e818-4772-b06a-c67e4d02c96a": {
+            "from": "63a85bb8-97b2-4c07-904d-e95cb310385f",
+            "layer": 50,
+            "to": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
+            "width": 0
+        },
         "a8add2f4-d246-4752-a3b3-d05b12c50598": {
             "from": "9dcba516-e825-4e45-b94d-3e7d13e80e67",
             "layer": 20,
             "to": "c9c552f0-17cc-4939-8497-357b840bbc4d",
+            "width": 200000
+        },
+        "b64a364b-c4c4-4ce2-ba72-6d6536200be1": {
+            "from": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
+            "layer": 50,
+            "to": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
+            "width": 0
+        },
+        "be4aa49b-96dd-4d24-b1c7-3a9866bb306a": {
+            "from": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
+            "layer": 20,
+            "to": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
             "width": 200000
         },
         "c73e885d-dd7d-411f-9a69-5b7c46197343": {
@@ -147,6 +177,12 @@
             "layer": 50,
             "to": "3cfe76e5-0847-4336-9058-d5ef7adcaac5",
             "width": 0
+        },
+        "ebb6fa53-5d80-4dea-9b26-ecb424e7b3e3": {
+            "from": "63a85bb8-97b2-4c07-904d-e95cb310385f",
+            "layer": 20,
+            "to": "aaa7ede0-b00a-48c2-affb-6e90f03e8d70",
+            "width": 200000
         },
         "f527db5e-8ad1-4dbe-aefb-fe50cfd8c9c0": {
             "from": "47744235-0b0f-4416-964a-e0b311300f6c",
@@ -625,66 +661,6 @@
                     "type": "line"
                 }
             ]
-        },
-        "596b1ddb-eb18-4a28-8916-29a8d78c4e3f": {
-            "layer": 50,
-            "parameter_class": "",
-            "vertices": [
-                {
-                    "arc_center": [
-                        -3100000,
-                        4200000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -3000000,
-                        4400000
-                    ],
-                    "type": "arc"
-                },
-                {
-                    "arc_center": [
-                        -3100000,
-                        4200000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -3200000,
-                        4000000
-                    ],
-                    "type": "arc"
-                }
-            ]
-        },
-        "5de32544-cc55-4414-b038-a58b225011d8": {
-            "layer": 20,
-            "parameter_class": "",
-            "vertices": [
-                {
-                    "arc_center": [
-                        -3100000,
-                        4200000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -3000000,
-                        4400000
-                    ],
-                    "type": "arc"
-                },
-                {
-                    "arc_center": [
-                        -3100000,
-                        4200000
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -3200000,
-                        4000000
-                    ],
-                    "type": "arc"
-                }
-            ]
         }
     },
     "rules": {
@@ -730,7 +706,7 @@
                 "mirror": false,
                 "shift": [
                     -1300000,
-                    5000000
+                    5400000
                 ]
             },
             "size": 1000000,
