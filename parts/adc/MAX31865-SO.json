@@ -1,0 +1,120 @@
+{
+    "MPN": [
+        false,
+        "MAX31865-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "15-BIT PT100/PT1000 RTD-TO-RESISTOR CONVERTER"
+    ],
+    "entity": "17ff5396-496a-44ed-842c-101176c896e8",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "3eb15ce9-5d53-4bf5-9b56-88b77a9bed25",
+    "orderable_MPNs": {
+        "14e31352-4375-4865-b78a-146b447b96d6": "MAX31865AAP+"
+    },
+    "package": "39d84bc0-05f3-48ae-a649-bf86f7d24fda",
+    "pad_map": {
+        "06b8e364-c80c-41b8-93ec-d79f65cbf1ad": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "2c32bc1b-40b9-4b92-9e51-0d678796393a"
+        },
+        "0d3d5918-eb36-42d0-96d5-88b73e120a7a": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "0f84d49b-a824-4bb3-a204-96b6011ab1d5"
+        },
+        "0d98bd3d-dad5-4368-af91-1ebafa53738f": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "3149ee27-836e-484a-a749-bb09184889b4"
+        },
+        "39bd41f1-b7b3-4bad-bc43-c15efd84bad1": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "62361985-e651-4c9f-866b-3c60766886c0"
+        },
+        "6dc4d6d0-7e55-4e9d-a75f-47682d7093e4": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "e84cbe2f-ce7f-4de1-981d-2d7bad8f0cfe"
+        },
+        "6ea098e4-950a-4729-913a-ba23a03aa581": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "aa86e38f-4b2d-4855-ba16-0306c2d59807"
+        },
+        "780b4570-6b06-4d4c-8102-7e16bd4e1230": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "4c886664-52a8-494e-9ec8-81ef746ff0f2"
+        },
+        "7900afb2-1873-4d6c-b682-a72e42b7f02d": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "dfc01b1b-91bd-439a-a7a2-60681e5653f1"
+        },
+        "872b3805-8bb3-4e8a-a7ea-a1ad8c7b6455": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "ebfc2c63-1cf5-403b-a675-6978985fa044"
+        },
+        "99f901a7-80b0-464f-94c8-aefb214293bd": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "2e30ce4e-132b-47f6-bb53-d728c43ee981"
+        },
+        "9b73b1ce-8151-41b3-8e2e-620fe3c96333": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "6ccc3e70-ec75-41f3-b235-3e42e4824136"
+        },
+        "a21efdb8-7891-4f07-aee9-6528c7b470ec": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "4302a6e2-24b0-41a8-9739-6af452a661fe"
+        },
+        "b204e1d8-85fa-483f-a028-49edacef27e3": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "b4b4ec81-ea48-4b9a-b982-92bfcd1b5e23"
+        },
+        "beb48329-65fb-4738-a91b-d49f5322677c": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "4c03554a-19d9-4cce-a367-d235001735dc"
+        },
+        "d4d9ab6f-cd93-4075-b8f4-18a22eb07a3c": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "16ad2d17-098c-4d13-ab63-7b2b0526bf0d"
+        },
+        "e5b33a1d-7308-4213-af79-9d983f0a4515": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "b07ec107-3839-4691-aeaf-ef801a7b4462"
+        },
+        "eac014fa-fca2-4c07-9291-2cffb96c368b": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "afce160e-f2a1-4adb-b0c0-122d32c5ad18"
+        },
+        "efcd96e2-23ab-4f4d-907d-5b8be53439f1": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "35e60d4a-1ccc-4aa9-8309-105b77217a3c"
+        },
+        "f60bbe43-5a25-4482-b5af-f7228e0e3259": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "e6115aba-7d40-4924-8e3a-e259c1b3e97e"
+        },
+        "fe738339-4314-451e-b80c-71637c6f9ac3": {
+            "gate": "6223a6d3-26b7-4c20-8b04-f98976ce440e",
+            "pin": "bb86aae3-6e04-4a44-8cd7-90c97e72f53b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic",
+        "rtd"
+    ],
+    "type": "part",
+    "uuid": "0089bcd0-0cf6-4d9f-841c-76eb05e574ad",
+    "value": [
+        false,
+        "MAX31865AAP+"
+    ]
+}

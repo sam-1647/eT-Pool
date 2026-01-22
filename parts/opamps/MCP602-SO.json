@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "MCP602-SO"
+    ],
+    "datasheet": [
+        false,
+        "MyData\\ebooks\\Tech\\Datasheets\\op_amps\\MCP601_2_3_4.pdf"
+    ],
+    "description": [
+        false,
+        "2.7V to 6.0V Single Supply Dual CMOS OpAmp"
+    ],
+    "entity": "6c79242f-8790-4325-aed6-fee23a783243",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "orderable_MPNs": {
+        "42f21ade-53a4-430f-a20c-8338ea05550b": "MCP602-I/SN"
+    },
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "f9b206ad-7660-435a-8061-b86f26108bcb",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "f9b206ad-7660-435a-8061-b86f26108bcb",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "cc01e67b-a347-4ffa-b451-63566519b334",
+    "value": [
+        false,
+        ""
+    ]
+}

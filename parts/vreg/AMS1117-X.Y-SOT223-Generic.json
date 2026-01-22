@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "AMS1117-X.Y-SOT223-Generic"
+    ],
+    "datasheet": [
+        false,
+        "MyData\\ebooks\\Tech\\Datasheets\\regulator\\ams1117.pdf"
+    ],
+    "description": [
+        false,
+        "800mA LDO"
+    ],
+    "entity": "7d48b776-ceff-4bcf-9b65-46e464c4dfb1",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Advanced Monolithic System"
+    ],
+    "model": "afd5502b-9406-4ff6-97fe-fd8ab8ee3f14",
+    "package": "e081d939-d94a-42f4-b4b4-e07327c16b9a",
+    "pad_map": {
+        "78da974a-0807-4bea-92d4-71d9bcdf3429": {
+            "gate": "d1e5b7dd-ad46-49bf-8900-6e316c07d2c7",
+            "pin": "dbd2c471-6648-4f46-b31f-8c00e9d254fa"
+        },
+        "8cb54e22-ca02-4644-adf8-441ff3a3c18e": {
+            "gate": "d1e5b7dd-ad46-49bf-8900-6e316c07d2c7",
+            "pin": "65f8f45d-595c-4487-b032-2c709dff6468"
+        },
+        "b71572fe-804b-4acc-9ae6-3ef2fd1e7186": {
+            "gate": "d1e5b7dd-ad46-49bf-8900-6e316c07d2c7",
+            "pin": "d05527f0-2354-445a-9d64-c4314dd5f8cd"
+        },
+        "ddd3c2de-c44c-4865-ae16-3d6471e0a86f": {
+            "gate": "d1e5b7dd-ad46-49bf-8900-6e316c07d2c7",
+            "pin": "ca44d2fd-0c7d-46f7-8cd4-1fd4e6b0bb94"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ldo",
+        "linear",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "1bdc2ee9-a83a-4ea6-8e6d-7dd036d3014c",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "MCP602-DIP"
+    ],
+    "datasheet": [
+        false,
+        "E:\\MyData\\ebooks\\Tech\\Datasheets\\op_amps\\MCP601_2_3_4.pdf"
+    ],
+    "description": [
+        false,
+        "2.7-6.0V Single Supply Dual CMOS OpAMp"
+    ],
+    "entity": "6c79242f-8790-4325-aed6-fee23a783243",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "7fb617ac-a584-49b3-90be-8c60f76b67c5",
+    "orderable_MPNs": {
+        "34995909-2e89-460f-b40e-fbbf162968a5": "MCP602-E/P",
+        "8099ee15-c1a2-45d7-a831-948e39fb705a": "MCP602-I/P"
+    },
+    "package": "185954d6-63b3-4280-af72-a9fd57f467da",
+    "pad_map": {
+        "0b918593-e249-4502-b329-7bf7fb264225": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "17609743-1ab5-4cbc-87b4-2d550a803bf4": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "2e2ff7f8-89b2-47f6-a4f8-27de20212222": {
+            "gate": "f9b206ad-7660-435a-8061-b86f26108bcb",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        },
+        "5942631c-a75e-4408-8f8e-9960dc8018fa": {
+            "gate": "f9b206ad-7660-435a-8061-b86f26108bcb",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "714112bb-08c0-4246-8c86-ff9b93ad804b": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "79003720-6378-4df1-bb83-8061ac5eaac7": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "fa178c13-51eb-4ba4-8482-eb27bdbff742": {
+            "gate": "9e691363-ecfb-4193-ae58-454f8cb315bc",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "ff4878ce-41b4-4569-9d0f-9d30d21a37ac": {
+            "gate": "432922b7-84de-40c7-92a2-2ca11a233307",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "op"
+    ],
+    "type": "part",
+    "uuid": "5343a145-ab0b-4589-a308-26cbf2bdd3cd",
+    "value": [
+        false,
+        ""
+    ]
+}

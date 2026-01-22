@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "c56a87ff-5bb4-42ab-ae89-21b9d16a813f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9fb0d9a0-3427-4c66-ae49-e57751c8cda6"
+        }
+    },
+    "manufacturer": "Nuvoton",
+    "name": "MS51PC0AE",
+    "prefix": "U",
+    "tags": [
+        "8051",
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "1ab38f28-95c8-4328-a86b-097c052b51f9"
+}

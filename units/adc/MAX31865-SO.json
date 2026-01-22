@@ -1,0 +1,128 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX31865-SO",
+    "pins": {
+        "0f84d49b-a824-4bb3-a204-96b6011ab1d5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "16ad2d17-098c-4d13-ab63-7b2b0526bf0d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "2c32bc1b-40b9-4b92-9e51-0d678796393a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DGND",
+            "swap_group": 0
+        },
+        "2e30ce4e-132b-47f6-bb53-d728c43ee981": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "3149ee27-836e-484a-a749-bb09184889b4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~DRDY~",
+            "swap_group": 0
+        },
+        "35e60d4a-1ccc-4aa9-8309-105b77217a3c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDI",
+            "swap_group": 0
+        },
+        "4302a6e2-24b0-41a8-9739-6af452a661fe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVDD",
+            "swap_group": 0
+        },
+        "4c03554a-19d9-4cce-a367-d235001735dc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "FORCE-",
+            "swap_group": 0
+        },
+        "4c886664-52a8-494e-9ec8-81ef746ff0f2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "FORCE2",
+            "swap_group": 0
+        },
+        "62361985-e651-4c9f-866b-3c60766886c0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND2",
+            "swap_group": 0
+        },
+        "6ccc3e70-ec75-41f3-b235-3e42e4824136": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "BIAS",
+            "swap_group": 0
+        },
+        "aa86e38f-4b2d-4855-ba16-0306c2d59807": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RTD+",
+            "swap_group": 0
+        },
+        "afce160e-f2a1-4adb-b0c0-122d32c5ad18": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ISENOSR",
+            "swap_group": 0
+        },
+        "b07ec107-3839-4691-aeaf-ef801a7b4462": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CS~",
+            "swap_group": 0
+        },
+        "b4b4ec81-ea48-4b9a-b982-92bfcd1b5e23": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "FORCE+",
+            "swap_group": 0
+        },
+        "bb86aae3-6e04-4a44-8cd7-90c97e72f53b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SDO",
+            "swap_group": 0
+        },
+        "dfc01b1b-91bd-439a-a7a2-60681e5653f1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e6115aba-7d40-4924-8e3a-e259c1b3e97e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REFIN-",
+            "swap_group": 0
+        },
+        "e84cbe2f-ce7f-4de1-981d-2d7bad8f0cfe": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REFIN+",
+            "swap_group": 0
+        },
+        "ebfc2c63-1cf5-403b-a675-6978985fa044": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RTD-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2e92e97f-1b0a-4052-b571-b52966e4b63d"
+}

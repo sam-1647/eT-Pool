@@ -1,0 +1,31 @@
+{
+    "gates": {
+        "432922b7-84de-40c7-92a2-2ca11a233307": {
+            "name": "OP2",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "9e691363-ecfb-4193-ae58-454f8cb315bc": {
+            "name": "OP1",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "f9b206ad-7660-435a-8061-b86f26108bcb": {
+            "name": "SUPP",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "MCP602",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "6c79242f-8790-4325-aed6-fee23a783243"
+}

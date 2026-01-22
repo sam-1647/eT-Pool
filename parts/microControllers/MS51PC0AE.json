@@ -1,0 +1,165 @@
+{
+    "MPN": [
+        false,
+        "MS51PC0AE"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Nuvoton 1T-8051 Microcontroller, 32kB Flash, 2kB RAM"
+    ],
+    "entity": "1ab38f28-95c8-4328-a86b-097c052b51f9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nuvoton"
+    ],
+    "model": "6337c505-90b3-4e96-8166-568eab5fc124",
+    "package": "c6a854df-85ab-402d-b3ce-262a13938f0e",
+    "pad_map": {
+        "002a187e-9637-4c29-8c07-acfa05caef21": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "beba6348-c293-4fa9-9f1b-4c47c6acc167"
+        },
+        "0473d2f9-ee89-477d-b70d-93bf5b3c747d": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "e5db2f90-b433-4bb9-b81b-9391a55fcf52"
+        },
+        "1b9dbff8-6b8b-40da-ad4b-44472d9e5876": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "fa7d2dd3-d7b7-494b-8948-650a994924b9"
+        },
+        "220c2806-aa63-4c73-94ec-37b59d765049": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "31a26ed0-4601-44ac-9bfe-fb7be925c538"
+        },
+        "2e76f633-cc8e-4f6c-a1cf-6a846186cf11": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "1e494ed7-1a4b-4acd-a975-b5054d71622f"
+        },
+        "2f49a01b-b3c2-4871-8930-03c3be41b7a8": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "f4f9eb56-98f6-44f5-be3f-cd2d1e3060ea"
+        },
+        "37d144bd-ac64-43a1-a6bc-8ba018b98631": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "06421853-0769-4023-b252-ad3691c47c6d"
+        },
+        "37e7fe8e-6501-4180-beff-0850f60a6ca9": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "07dcdc0e-34cb-425f-827e-f0b5838b0b57"
+        },
+        "38a2fa13-60e2-42af-8fb1-8eb466a12e35": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "a90252e2-3202-4cad-b137-4867fecd8885"
+        },
+        "3d94c79d-092f-4c4d-b059-8e4e669597be": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "877fa30a-95a0-4e38-826d-a3652fc5bff6"
+        },
+        "43f8441b-21ae-4e3a-ba26-ebb69c3d3eca": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "04a1cf32-a49d-4a8a-9a46-8132ce1cd4db"
+        },
+        "444d0428-2ed9-49a5-9193-e75a185c4c73": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "d32d387f-212f-4b34-9e3e-383d75808a98"
+        },
+        "480af444-9847-4e5e-b7c8-c767d949b0e7": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "92baa188-68de-482b-a47a-6b6ef2cee39c"
+        },
+        "4e8c229c-ecbf-4445-9b5b-001cf26b130f": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "d6a1df86-2ee7-4396-9bca-b740bbff852a"
+        },
+        "531c38a7-d84c-4c0f-aacf-39bb1f323bb3": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "2a13a7e0-f6b3-4b16-85b8-3c9e4774b0b3"
+        },
+        "5348ae4e-ae3f-4231-9615-2fe5aa980dc7": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "d12e2731-5f89-4bd6-acb8-3ecc72703779"
+        },
+        "547dd043-7061-4d6f-bfcc-d85a7e1450d3": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "1641fd0d-fa34-48e1-8eec-389ef8f05127"
+        },
+        "64bf06e6-95a8-4ebc-ad80-823819b403af": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "7c5e7a4b-7574-4965-a6ef-f7f3e30be21a"
+        },
+        "6a87868c-34e6-4d70-96e0-f9186e9cd5b3": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "2d471c82-ca73-4d82-8e07-fb25ca194312"
+        },
+        "84d9a510-52e1-48d6-b108-e8bf2567139f": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "b1935542-4fd9-4816-81c2-3cc381b4f847"
+        },
+        "88894402-104c-4b1e-a092-dbd18aaa86a9": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "1fe43faa-c598-48f1-88e2-0aedca5ad412"
+        },
+        "8b6bfc82-2ff9-4380-87e2-7cca91ee8574": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "e92291e9-3f9e-46ec-a1d3-60b27fafd13f"
+        },
+        "a0b4b8a1-db01-4be3-99bd-5aea9a20a857": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "cbd10eca-952a-45db-822f-1a1a1fed2aa5"
+        },
+        "a950c3b6-553a-4bd2-9f54-293e6f11fa1e": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "60e18bd2-a104-449b-a61c-74cfb83c2972"
+        },
+        "b1cc7f00-4458-4e0c-9c7f-b6cfc103405a": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "d3b21b4f-5c51-4042-802a-d5ca0cb8695d"
+        },
+        "b86f37f0-d10b-4cd4-a335-65e33633405f": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "50ab3c6d-a799-4a95-a7d5-b9a3a4962d3a"
+        },
+        "bbea4d58-5e4a-4f45-b5cf-e28f9148ef5b": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "4248d534-4acf-4c40-ae08-fcff485f157f"
+        },
+        "cb448969-0fba-44af-be3e-5c46c9f6e4a0": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "1f3b205e-d6bb-4f4e-b4d8-fa76a54b251b"
+        },
+        "cf2bd8d7-78f0-4433-87fe-9c2d487dbf41": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "fd12f36d-90fb-4756-80d4-eeac8043b987"
+        },
+        "d867c125-fafa-45ed-9df3-201645487b2d": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "c13bc563-f9fe-44da-ad36-149ccd83be9a"
+        },
+        "e23a3bd2-795c-4406-8166-f54cd4a988c9": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "cec59ae8-e303-4cc8-aa81-acbcf5e35846"
+        },
+        "f38b4633-0b94-46b5-baae-64c4f774e515": {
+            "gate": "c56a87ff-5bb4-42ab-ae89-21b9d16a813f",
+            "pin": "ff682c80-0744-4111-9f58-40c765b1d0c6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "8051",
+        "ic",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "a6e1fcbb-e573-4f11-9455-5a183d2cf4f9",
+    "value": [
+        false,
+        ""
+    ]
+}

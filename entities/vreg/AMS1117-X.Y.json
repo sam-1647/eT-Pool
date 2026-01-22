@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d1e5b7dd-ad46-49bf-8900-6e316c07d2c7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dfddfed0-847f-4668-ae0f-af6f0a672eed"
+        }
+    },
+    "manufacturer": "Advanced Monolithic System",
+    "name": "AMS1117-X.Y",
+    "prefix": "U",
+    "tags": [
+        "ldo",
+        "linear-reg",
+        "vreg"
+    ],
+    "type": "entity",
+    "uuid": "7d48b776-ceff-4bcf-9b65-46e464c4dfb1"
+}

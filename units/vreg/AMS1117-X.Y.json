@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Diodes Inc",
+    "name": "AMS1117-X.Y",
+    "pins": {
+        "65f8f45d-595c-4487-b032-2c709dff6468": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V-IN",
+            "swap_group": 0
+        },
+        "ca44d2fd-0c7d-46f7-8cd4-1fd4e6b0bb94": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V-OUT1",
+            "swap_group": 0
+        },
+        "d05527f0-2354-445a-9d64-c4314dd5f8cd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "dbd2c471-6648-4f46-b31f-8c00e9d254fa": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V-OUT2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dfddfed0-847f-4668-ae0f-af6f0a672eed"
+}

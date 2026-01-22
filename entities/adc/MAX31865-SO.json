@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "6223a6d3-26b7-4c20-8b04-f98976ce440e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2e92e97f-1b0a-4052-b571-b52966e4b63d"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX31865-SO",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "ic",
+        "rtd"
+    ],
+    "type": "entity",
+    "uuid": "17ff5396-496a-44ed-842c-101176c896e8"
+}

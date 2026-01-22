@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "LM317L-TO92"
+    ],
+    "datasheet": [
+        false,
+        "MyData\\ebooks\\Tech\\Datasheets\\regulator\\lm317L.pdf"
+    ],
+    "description": [
+        false,
+        "100mA Adjustable Linear Regulator"
+    ],
+    "entity": "8d077522-d7da-460a-bbaf-86bc8095139d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "e673a69f-1018-43de-a464-f7b10592be8a",
+    "orderable_MPNs": {
+        "ee41eab9-e548-4b77-89f1-9f4e4ec1220f": "LM317L-LP"
+    },
+    "package": "adc0e155-26d1-4e9f-9b03-22a042e533a5",
+    "pad_map": {
+        "2ac88273-1510-486e-aea4-c587dbde6255": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "fdb36c1e-c929-4d80-900d-5a5fc2da6d1f"
+        },
+        "949fd58b-5e2a-4e5f-8d95-0fbd9909d276": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "a025bb9f-5922-454f-997c-e83e46f4f50f"
+        },
+        "af1e091a-72c4-47ae-a36f-910fb0d1521e": {
+            "gate": "9fe5906f-52f2-4e09-b64d-751e0fe6c6de",
+            "pin": "a0aea7ab-ab4f-4756-9f29-faceddb7359b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adj",
+        "linear",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "f4cc4430-9709-4d07-a629-aebf2fba8ca5",
+    "value": [
+        false,
+        ""
+    ]
+}
