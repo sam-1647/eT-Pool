@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "HONGFA-HEF32F-G-XX-HS-NPST"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10A, Submini Power Relay, No Pole"
+    ],
+    "entity": "78fd5ad5-9658-46d6-a2e6-fd0fcc7390c6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hongfa"
+    ],
+    "model": "240c0ec6-943d-4829-96e9-0514bad76193",
+    "package": "bd549bc3-5645-40d0-8ac9-577059434c59",
+    "pad_map": {
+        "76b8849d-1ff7-48e4-b5f7-3f36f84ab757": {
+            "gate": "8cf96fd8-d017-464d-9139-c96400918da1",
+            "pin": "38ec4e0e-28fa-4f24-a6cc-fa091c67e755"
+        },
+        "783eb68d-4abf-4395-bf08-d0d63bb0d4cf": {
+            "gate": "8cf96fd8-d017-464d-9139-c96400918da1",
+            "pin": "a7e2dce4-2244-4e22-9f56-f268beeeb0cc"
+        },
+        "aaa46e8f-b12b-491f-98cb-445d3dae711c": {
+            "gate": "8cf96fd8-d017-464d-9139-c96400918da1",
+            "pin": "7dc78893-c580-44fd-b85c-1c693c34ba37"
+        },
+        "bab64bd2-b1a2-4406-a5f3-b860fe22f999": {
+            "gate": "8cf96fd8-d017-464d-9139-c96400918da1",
+            "pin": "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "npst",
+        "relay"
+    ],
+    "type": "part",
+    "uuid": "db763882-53d2-4ef6-884d-e91b3a9008eb",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "930fd468-71df-40c9-a541-f69c558f6411": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4c53a070-9e07-4865-8741-4b2dcc65ec23"
+        }
+    },
+    "manufacturer": "",
+    "name": "SEG7-3X-11P-028",
+    "prefix": "DISP",
+    "tags": [
+        "7-seg",
+        "display"
+    ],
+    "type": "entity",
+    "uuid": "e3237ef6-2c2c-4a8d-9f82-ac6dc8cf8f15"
+}

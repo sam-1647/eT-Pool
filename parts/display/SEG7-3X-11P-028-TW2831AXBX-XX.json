@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "SEG7-3X-11P-028-TW2831AXBX-XX"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "11-Pin 3x7-Segment Display, AX=CC, BX=CA"
+    ],
+    "entity": "e3237ef6-2c2c-4a8d-9f82-ac6dc8cf8f15",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Twlight"
+    ],
+    "model": "29b45f26-9d92-4eda-9a40-277224c65a02",
+    "package": "9597c171-6d47-4451-8727-798df496e88d",
+    "pad_map": {
+        "08291756-b5c1-4db3-8dc3-bf39d7d8de19": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "b144542b-0cd6-4fb5-8eaf-212cf1a6c2f7"
+        },
+        "16c3c785-cc58-4a13-91c8-b27128a2f498": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "18c87fce-679e-49a2-8469-12bd02764d77"
+        },
+        "23860642-65e4-4d9d-b861-20ceb3b25272": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "e866a38c-5409-46b7-a781-50d9f95fd16e"
+        },
+        "635cabce-50bb-40fd-8781-ff5c0460766c": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "c1f90e74-8206-4fed-878a-b1bb4e2910b2"
+        },
+        "8a3ebd86-e139-492a-88b8-0af111c27eb2": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "d732d571-301b-41ad-8c05-548451512761"
+        },
+        "91db1cc7-ba65-4ff4-a181-b6515175c5e3": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "c5f0fbfe-71cc-4afe-93a3-13def1d1af78"
+        },
+        "9d481751-8924-418f-a5fe-525aea7a140b": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "22279b5a-bec7-4935-9aab-6d617d3e3268"
+        },
+        "a1c8d0d1-fdb4-4210-8a25-08571da5f427": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "72d63cb1-e574-4eb9-8745-0b63be55356a"
+        },
+        "d399b325-32e1-4443-a35c-6aa138c89142": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "8d9a19dd-a852-4073-807e-5c9bffe50bb1"
+        },
+        "ef9fe222-5bf3-4a15-a6b4-e01c5270cef7": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "56d52eb5-804b-42bd-98bd-7cfd4ce7090e"
+        },
+        "fec8ca4b-8d94-4005-97b6-cf151222d93a": {
+            "gate": "930fd468-71df-40c9-a541-f69c558f6411",
+            "pin": "1c833363-fd41-4058-8307-132c9580f56a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "7-seg",
+        "display"
+    ],
+    "type": "part",
+    "uuid": "aabb501a-5e63-4348-83af-7288bad889aa",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "RELAY-NPST",
+    "pins": {
+        "1ad92c4f-2ea9-43ef-9b2b-aa2dea24a2b8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CT2",
+            "swap_group": 0
+        },
+        "38ec4e0e-28fa-4f24-a6cc-fa091c67e755": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CT1",
+            "swap_group": 0
+        },
+        "7dc78893-c580-44fd-b85c-1c693c34ba37": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CL1",
+            "swap_group": 0
+        },
+        "a7e2dce4-2244-4e22-9f56-f268beeeb0cc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CL2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6ae3cb17-694c-4b3f-a2c5-8479817ebff2"
+}

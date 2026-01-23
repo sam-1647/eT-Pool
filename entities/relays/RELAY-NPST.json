@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "8cf96fd8-d017-464d-9139-c96400918da1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6ae3cb17-694c-4b3f-a2c5-8479817ebff2"
+        }
+    },
+    "manufacturer": "",
+    "name": "RELAY-NPST",
+    "prefix": "RLY",
+    "tags": [
+        "npst",
+        "relay"
+    ],
+    "type": "entity",
+    "uuid": "78fd5ad5-9658-46d6-a2e6-fd0fcc7390c6"
+}
