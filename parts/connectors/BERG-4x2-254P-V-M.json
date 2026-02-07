@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "BERG-4x2-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4x2 Male Pin Header, Vertical, P=2.54mm"
+    ],
+    "entity": "8a64b28b-5966-4448-bc85-a4fc2b4a6712",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "1945014a-4165-44f6-9cfc-7d57276555d3",
+    "package": "729c711b-6181-411b-af40-29ab831504f6",
+    "pad_map": {
+        "00f73434-9241-4085-bcdc-f06cdb750c24": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "a244d293-6b87-4626-a90d-13b73d9e06ee"
+        },
+        "0ae30ce5-16a5-4b1c-8eaf-ab57ac7d76c8": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "0748abc2-554b-4bf9-9421-4876f8741d00"
+        },
+        "3ec3e9ad-ca6c-4d78-8945-f85ad3bf0b09": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "9423ab1b-b06c-4782-8889-100b581b7f69"
+        },
+        "51dae183-9de1-49d3-8df4-a5a1f047a1a7": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "6ec8935c-249a-4cbc-b778-e67db029b0cc"
+        },
+        "5a983bd8-e691-4576-9ac6-939904cd7958": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "f387155c-b60c-4d08-b7bd-b4866debf936"
+        },
+        "91a21a23-d97c-4b1e-acad-55e189a38927": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "864702e1-0fde-43a8-bfb0-cb1c507ce9cb"
+        },
+        "9a966f62-ad80-40bd-92e5-5bc83460866d": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "fd5f0b64-190d-453a-b607-cf71654dd905"
+        },
+        "d88b2b5b-db73-4a93-a71c-e75dc6d6e5e3": {
+            "gate": "c0ba64dc-539f-4d6d-af24-aa3bcdc83ff0",
+            "pin": "4c5426e1-057f-4e14-837f-e80544027188"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "c7fd4f5f-65ef-45e7-a542-dd745526c0ed",
+    "value": [
+        false,
+        ""
+    ]
+}

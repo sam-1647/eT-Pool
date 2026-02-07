@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "UC3081-PLUGGABLE-RT-V4"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4-Wau,P=3.81mm, Pluggable Terminal Block"
+    ],
+    "entity": "cd260061-996a-41dc-8e6a-9a66cf764a30",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Unix Connectors"
+    ],
+    "model": "cd579696-523e-46ff-9248-c9b8186ec46e",
+    "package": "465e874a-dbda-4692-ba99-da8b73dd3fa4",
+    "pad_map": {
+        "2c5f25c9-782c-4dff-b649-31217583fae5": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "2d2996f5-c695-4266-8e60-d6981b866b13": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        },
+        "7567b2ef-200f-4b36-a789-7f6cc3ad6678": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "866bf1e8-4fb9-4d6b-9f97-3e4b2ac131b6": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "female"
+    ],
+    "type": "part",
+    "uuid": "2eefb223-ec83-4746-b304-95fe3dd0a21e",
+    "value": [
+        false,
+        ""
+    ]
+}

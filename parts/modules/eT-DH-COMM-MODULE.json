@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "eT-DH-COMM-MODULE"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2xRS485 Comm Module for Dehumidifier PCB"
+    ],
+    "entity": "f3a987ad-d52d-4bdf-a88d-3775530cc5dd",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "b4889e0f-a0cb-4db3-a6d4-50ad695864ca",
+    "package": "49294d8d-fa8c-48ef-bfb1-e0d396bd8663",
+    "pad_map": {
+        "19c8c535-b49f-4fdc-940c-2dbce30adc92": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "5e11298b-3c59-41c4-b9e3-8ae2259d217d"
+        },
+        "23059e72-2369-403f-a8d6-d9acac5e8190": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "9f7ac2a0-4193-4920-b51f-f5bb7b4110ae"
+        },
+        "3e9231cd-6e56-4f8e-bab2-a8a3e9eca9af": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "484a9452-f211-4c3e-bb55-ff8c814bbdce"
+        },
+        "55149e96-d8b0-4894-aa3e-63307480a48a": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "4efcb212-d011-4dc6-9538-c4c718a80037"
+        },
+        "56af4104-e525-4ef5-8733-02b02983bab6": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "b62b2bab-f07e-47f3-813a-057c949ba924"
+        },
+        "5ce359f7-7e5b-4fc0-b6cd-fe71c9b02a59": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "c396fea4-0879-4d8b-8f16-18796e9b05cf"
+        },
+        "9f910237-2143-4e5c-ba7a-a6f4ba58d118": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "65a717d2-0222-4414-8eca-19b6ec4db6a3"
+        },
+        "a103aa3c-7820-44f8-b6fe-b0d54f7a716c": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "487e05a9-1b87-4c0c-998e-2ffc73d46397"
+        },
+        "a6979e6d-471d-46d7-b4c9-7ecdc9eb6237": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "42799a83-0b34-44f3-b0d0-01a331af5ea5"
+        },
+        "b514221d-cf79-443f-b6b1-b1c08f860d35": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "33f94c3e-c6a3-488a-bc32-e9a205bdb0e0"
+        },
+        "cc427eeb-479a-4d66-b8ed-339ac553d501": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "ba217085-80a2-46b4-a892-2fa6351a9c10"
+        },
+        "d38496ec-f6ef-4500-9d2c-01a1e2ea7b5c": {
+            "gate": "a997f441-5382-4964-8f61-7e985791e293",
+            "pin": "f24bc719-9923-40fb-82e2-6a005507bdae"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "module",
+        "rs485"
+    ],
+    "type": "part",
+    "uuid": "b2a50ff4-0705-4714-970a-38406be91fa5",
+    "value": [
+        false,
+        ""
+    ]
+}

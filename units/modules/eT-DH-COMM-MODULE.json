@@ -1,0 +1,80 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "eT-DH-COMM-MODULE",
+    "pins": {
+        "33f94c3e-c6a3-488a-bc32-e9a205bdb0e0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "42799a83-0b34-44f3-b0d0-01a331af5ea5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TX1",
+            "swap_group": 0
+        },
+        "484a9452-f211-4c3e-bb55-ff8c814bbdce": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "487e05a9-1b87-4c0c-998e-2ffc73d46397": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "4efcb212-d011-4dc6-9538-c4c718a80037": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RX1",
+            "swap_group": 0
+        },
+        "5e11298b-3c59-41c4-b9e3-8ae2259d217d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "65a717d2-0222-4414-8eca-19b6ec4db6a3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+VCC",
+            "swap_group": 0
+        },
+        "9f7ac2a0-4193-4920-b51f-f5bb7b4110ae": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TX2",
+            "swap_group": 0
+        },
+        "b62b2bab-f07e-47f3-813a-057c949ba924": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN1",
+            "swap_group": 0
+        },
+        "ba217085-80a2-46b4-a892-2fa6351a9c10": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RX2",
+            "swap_group": 0
+        },
+        "c396fea4-0879-4d8b-8f16-18796e9b05cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN2",
+            "swap_group": 0
+        },
+        "f24bc719-9923-40fb-82e2-6a005507bdae": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0e86987e-8519-44ba-9829-b562a6547443"
+}
