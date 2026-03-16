@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9f6ccf9b-01b6-4a5a-85ea-8aea064dbb3c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b2d39fdf-af3a-4db3-b63b-c159bb5fd3b8"
+        }
+    },
+    "manufacturer": "HI-LINK",
+    "name": "HILINK-ACDC-MODULE-4P",
+    "prefix": "MOD",
+    "tags": [
+        "mod",
+        "vreg"
+    ],
+    "type": "entity",
+    "uuid": "98bc3407-6869-4923-9b48-5d4e80cea54e"
+}

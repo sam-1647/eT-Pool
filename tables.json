@@ -25,6 +25,19 @@
 				"unit" : "W",
 				"use_si" : false,
 				"digits" : 3
+			},
+			{
+				"name" : "type",
+				"display_name" : "Type",
+				"type" : "enum",
+				"required" : false,
+				"items" : [
+					"CFR",
+					"MFR",
+					"Wire Wound",
+					"NTC",
+					"MOV"
+				] 
 			}
 		]
 	},
@@ -75,7 +88,8 @@
 					"R",
 					"POLY/Box",
 					"Tantalum",
-					"Disc"
+					"Disc",
+					"MKTP/Y1"
 				]
 			},
 			{

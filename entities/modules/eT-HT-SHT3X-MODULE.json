@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "047d9f9e-cf9c-49ae-8f78-dfc181802780": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2a825a70-8e2c-4410-8c51-ed7ea678a5d8"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-HT-SHT3X-MODULE",
+    "prefix": "MOD",
+    "tags": [
+        "humidity",
+        "mod",
+        "temp"
+    ],
+    "type": "entity",
+    "uuid": "650a4568-baa8-4767-8b4f-da9dc443999b"
+}

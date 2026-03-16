@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Hi-Link",
+    "name": "HILINK-ACDC-MODULE-4P",
+    "pins": {
+        "21941991-5f11-4889-9950-7628dae6c026": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VO+",
+            "swap_group": 0
+        },
+        "45125e57-d328-4879-b653-ac0904b2ad69": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VO-",
+            "swap_group": 0
+        },
+        "62d796f8-1f42-4d64-9149-ba2512e14b15": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AC2",
+            "swap_group": 0
+        },
+        "fa4d83d9-4624-4bb2-9194-d1634cc2e1ed": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AC1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b2d39fdf-af3a-4db3-b63b-c159bb5fd3b8"
+}

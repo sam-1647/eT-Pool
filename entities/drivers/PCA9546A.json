@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9d6d3a72-15fd-4cfa-80be-5b8a091db10f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8e1d796c-d2df-454e-8332-5fc815dab49e"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "PCA9546A",
+    "prefix": "U",
+    "tags": [
+        "i2c",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "186feb72-448d-4f4a-a87f-207c820f98c8"
+}

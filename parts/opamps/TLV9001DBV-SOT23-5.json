@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "TLV9001DBV-SOT23-5"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Low Power Rail-To-Rail 1MHz OpAmp"
+    ],
+    "entity": "1847af18-4032-43d0-b720-9037b5468b2b",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "package": "59fe37ba-831b-4685-9438-e098a7a3fcd0",
+    "pad_map": {
+        "471036ea-6d7b-4a71-a556-f344b3a74b7e": {
+            "gate": "2789d201-be82-4b60-b884-744ebaccb42f",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "88aa5a2d-b6d1-4544-bf64-83335e01a9f3",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        },
+        "9399b7aa-73ea-4cae-860a-7181e0c8caf3": {
+            "gate": "2789d201-be82-4b60-b884-744ebaccb42f",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "88aa5a2d-b6d1-4544-bf64-83335e01a9f3",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "2789d201-be82-4b60-b884-744ebaccb42f",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "f76dde20-68dc-4c32-98e6-93977a61951a",
+    "value": [
+        false,
+        ""
+    ]
+}

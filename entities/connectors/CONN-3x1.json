@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3b01aa00-56a5-474e-bef0-f904bc7424a4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a2e1738c-6f99-44e5-a877-a13652b78b46"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-3x1",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "sil"
+    ],
+    "type": "entity",
+    "uuid": "d8cf50d9-97b6-48b0-8b1d-81a68d967409"
+}

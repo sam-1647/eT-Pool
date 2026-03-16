@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "3006P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "10/15T - Precision Trimmer"
+    ],
+    "entity": "8b6cae51-00e3-471c-8820-2c90feb754d8",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "72868893-b99f-499a-a3b4-8990b055692b",
+    "package": "6593af4e-9f9a-4681-a6ae-99e3d4673259",
+    "pad_map": {
+        "0eb46d95-a552-4dff-b828-1d1e88883849": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "44b00206-9d6d-4d75-a439-283d439b15fa"
+        },
+        "3884c449-14c9-4948-99f7-eb6485a0b822": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "0dd5abd5-dd57-496a-84e9-adaff898ccce"
+        },
+        "b7e9591b-9ada-4d89-9a25-4e1c4aa5e44c": {
+            "gate": "e8ef9322-5d8a-477e-bbab-dac26e206d03",
+            "pin": "28e34869-b366-4bdc-ad9c-37448b360d38"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "side-adjustment",
+        "trimmer"
+    ],
+    "type": "part",
+    "uuid": "15cc8737-ce61-4dc4-a390-8262fe5d8b42",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

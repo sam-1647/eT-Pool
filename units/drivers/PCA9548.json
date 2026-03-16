@@ -1,0 +1,152 @@
+{
+    "manufacturer": "Teaxs Instruments",
+    "name": "PCA9548",
+    "pins": {
+        "11592863-ad15-4572-bc6c-64f4f1dd189b": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-0",
+            "swap_group": 0
+        },
+        "3d201f0d-d455-4e1b-bad9-bc609c4382ea": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "3d8897fe-f85d-46be-82f4-e119c8fcd5f7": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-5",
+            "swap_group": 0
+        },
+        "3e5e7026-1ed6-4ef1-8432-f1d9190f1c09": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-3",
+            "swap_group": 0
+        },
+        "44f76a61-0f4d-4597-818d-cca272b050df": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-2",
+            "swap_group": 0
+        },
+        "48efcc35-4d28-4bd2-a30f-f8c069fedbab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "69e84970-d39f-425e-8853-02dba4ff5be0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "7044b695-85ed-4638-bfbb-659e21a215b5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SC-3",
+            "swap_group": 0
+        },
+        "740c5a4c-7e23-4d32-b835-10271adf76fa": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-1",
+            "swap_group": 0
+        },
+        "77fec93e-5a74-47d8-ba37-24365ae6856a": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "7ac13e73-a821-40ca-b06d-440f493f9a09": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-4",
+            "swap_group": 0
+        },
+        "7d7c5dc5-598e-48aa-8e3f-3cc200b14d7d": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-5",
+            "swap_group": 0
+        },
+        "802e3748-f426-400d-a2a2-d2cc4e0589f8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "822dba35-948c-4b4b-a35b-cb97d96120aa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8785d7ae-4b54-4788-8d37-0f4f5886c8c5": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-6",
+            "swap_group": 0
+        },
+        "8c6f29d4-38cd-4a81-84bb-33436f061a5a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "912da40c-03e5-4a0f-b846-22236c596e55": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-1",
+            "swap_group": 0
+        },
+        "9737face-f512-4e6b-a149-efb07512db2b": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-6",
+            "swap_group": 0
+        },
+        "97e2a044-2e35-4f1f-9863-81fa0fedd18d": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-7",
+            "swap_group": 0
+        },
+        "9c6dc3b4-8970-4827-bcfe-7b180ac7af15": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-0",
+            "swap_group": 0
+        },
+        "affcbb46-a67d-48e6-9166-e556b122d68f": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-2",
+            "swap_group": 0
+        },
+        "bf9e3848-1f15-4b31-adfe-2e561643a83c": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "ca1d58c7-811e-4fd5-80c5-7a9992ec6bc4": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-4",
+            "swap_group": 0
+        },
+        "d0e626d7-0cff-4f9f-851f-70aad918d326": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7dfd9e44-c2cc-4f6d-b26e-f3de64189cb1"
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "MOV",
+    "pins": {
+        "132b591b-1a6b-4e9f-89bb-32f428e54bdf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "71ecc108-716e-4bd5-beb9-e9a8a9105316": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "df8e8631-9f16-4a56-9897-20a24edb6465"
+}

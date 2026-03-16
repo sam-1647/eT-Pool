@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "BERG-3x1-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3x1 Berg, Male Header, SIL, Vertical, P=2.54mm"
+    ],
+    "entity": "d8cf50d9-97b6-48b0-8b1d-81a68d967409",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "d5dbd087-f0cc-436d-9779-80b9544cf761",
+    "package": "4a80a12c-047d-4a4f-8d33-e3aab3badb7c",
+    "pad_map": {
+        "51dae183-9de1-49d3-8df4-a5a1f047a1a7": {
+            "gate": "3b01aa00-56a5-474e-bef0-f904bc7424a4",
+            "pin": "96a91a5d-7491-40e4-b96f-8b2d67332d84"
+        },
+        "5a983bd8-e691-4576-9ac6-939904cd7958": {
+            "gate": "3b01aa00-56a5-474e-bef0-f904bc7424a4",
+            "pin": "c047928d-1f57-461e-8de5-8c9f7f9d3e56"
+        },
+        "91a21a23-d97c-4b1e-acad-55e189a38927": {
+            "gate": "3b01aa00-56a5-474e-bef0-f904bc7424a4",
+            "pin": "a179c298-5695-47c4-92cb-bb8249797847"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "c54943aa-9d18-45e6-8f79-b7abe0297ceb",
+    "value": [
+        false,
+        ""
+    ]
+}

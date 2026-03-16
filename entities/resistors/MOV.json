@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "95e224db-97ea-4b50-8adb-e56c30fd42ee": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "df8e8631-9f16-4a56-9897-20a24edb6465"
+        }
+    },
+    "manufacturer": "",
+    "name": "MOV",
+    "prefix": "MOV",
+    "tags": [
+        "mov"
+    ],
+    "type": "entity",
+    "uuid": "a5dac6e0-af08-4b33-8ee2-9e55cefa62eb"
+}

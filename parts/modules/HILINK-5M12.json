@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "HILINK-5M12"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "HI-Link AC-DC Module, +12VC/0.42A"
+    ],
+    "entity": "98bc3407-6869-4923-9b48-5d4e80cea54e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "HI-LINK"
+    ],
+    "model": "1ed9f022-20e6-4c8e-a2c8-464ddec665a7",
+    "package": "a31f619a-f94f-4459-9c7f-c98068519a8a",
+    "pad_map": {
+        "524a0c7f-9a3e-4c45-b78a-0fce7dae686c": {
+            "gate": "9f6ccf9b-01b6-4a5a-85ea-8aea064dbb3c",
+            "pin": "45125e57-d328-4879-b653-ac0904b2ad69"
+        },
+        "6358f914-0eac-4c1c-9d9b-ba372d7f3359": {
+            "gate": "9f6ccf9b-01b6-4a5a-85ea-8aea064dbb3c",
+            "pin": "21941991-5f11-4889-9950-7628dae6c026"
+        },
+        "84d9cb9e-f885-4a9f-a628-baa57be2edaf": {
+            "gate": "9f6ccf9b-01b6-4a5a-85ea-8aea064dbb3c",
+            "pin": "62d796f8-1f42-4d64-9149-ba2512e14b15"
+        },
+        "f822bd5c-7ace-4dc2-8331-3eaa465a0ee5": {
+            "gate": "9f6ccf9b-01b6-4a5a-85ea-8aea064dbb3c",
+            "pin": "fa4d83d9-4624-4bb2-9194-d1634cc2e1ed"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ac-dc",
+        "module",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "f2e36d70-5798-41af-a658-4bff0c8b63e2",
+    "value": [
+        false,
+        ""
+    ]
+}

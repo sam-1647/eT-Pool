@@ -1,0 +1,32 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "eT-HT-SHT3x-MODULE",
+    "pins": {
+        "3dbcd4e0-6246-4df7-aa85-0e9ab769b698": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "I2C-SCL",
+            "swap_group": 0
+        },
+        "3fabf47a-6bd4-4629-b12c-fb19d6abf261": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "90065499-83b5-4e58-8ef1-92671d39fc27": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "I2C-SDA",
+            "swap_group": 0
+        },
+        "d51fb1b4-7838-48b1-86ae-185a52f1fdc7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2a825a70-8e2c-4410-8c51-ed7ea678a5d8"
+}

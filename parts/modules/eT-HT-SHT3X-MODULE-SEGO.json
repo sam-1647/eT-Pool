@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "eT-HT-SHT3X-MODULE-SEGO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SEGO SHT3x Sensor Module"
+    ],
+    "entity": "650a4568-baa8-4767-8b4f-da9dc443999b",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "50ac6187-ecc4-44c7-a45b-de092e34956e",
+    "package": "bc8e77cb-c1c0-44f4-a9b6-5cd5ac0b0243",
+    "pad_map": {
+        "211d47f7-7f31-4ffe-947c-aea661b05375": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "d51fb1b4-7838-48b1-86ae-185a52f1fdc7"
+        },
+        "683d2851-f6d0-478d-82f1-65cc10cb80ef": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "90065499-83b5-4e58-8ef1-92671d39fc27"
+        },
+        "79af85c4-48d8-4541-95cb-45620fc674ca": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "3fabf47a-6bd4-4629-b12c-fb19d6abf261"
+        },
+        "aafd1644-78d3-4662-8819-54dd393ca0fe": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "3dbcd4e0-6246-4df7-aa85-0e9ab769b698"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "humidity",
+        "module",
+        "sensor",
+        "temp"
+    ],
+    "type": "part",
+    "uuid": "e7311b37-aa72-498a-874a-8de8d0e36316",
+    "value": [
+        false,
+        ""
+    ]
+}

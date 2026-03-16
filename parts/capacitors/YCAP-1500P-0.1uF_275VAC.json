@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "YCAP-1500P-0.1uF_275VAC"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "0.1uF/275VAC, MKTP, Y1 Capacitory"
+    ],
+    "entity": "a9602075-1a80-4225-8ac1-e3966ae50c11",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "de1ce5dd-3204-41b2-a892-11e96c1f6503",
+    "package": "7a25e49d-efdd-4ceb-8bc3-c70568f38c30",
+    "pad_map": {
+        "ee8aebff-3f00-4cdf-876c-30ea94f53154": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "a6e73080-880a-4281-be26-651fd25df4df"
+        },
+        "ff004459-d1c3-49da-81bc-47f43cc842b7": {
+            "gate": "60d5ea56-8aa8-41d0-ab00-dab9135e901c",
+            "pin": "545640a2-621c-4098-8491-ae156e944ddf"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "0",
+        "type": "MKTP/Y1",
+        "value": "1e-07",
+        "wvdc": "275"
+    },
+    "tags": [
+        "capacitor",
+        "mktp-y1"
+    ],
+    "type": "part",
+    "uuid": "24236ae3-ca45-4595-9d9b-e642b06eb2c1",
+    "value": [
+        false,
+        "0.1uF/275VAC"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "MPN": [
+        false,
+        "ATtiny1626-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "20-Pin,16kB Flash, 2kB RAM, tinyAVR-2 Family"
+    ],
+    "entity": "bf7dddce-b0fc-4a45-b81f-ca06db72778a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "f568a882-d76a-4029-8801-66131b6f5802",
+    "orderable_MPNs": {
+        "16a14385-a90e-41dd-aae6-57ff69aa65fd": "ATTINY1626-SFR",
+        "2cd99871-673f-4170-9fe8-eefd9667a3bd": "ATTINY1626-SF",
+        "797959bc-d3bd-4252-830b-46fa3a16f9f6": "ATTINY1626-SUR",
+        "ec3fd803-9382-40e3-bdb1-9f63c2f51719": "ATTINY1626-SU"
+    },
+    "package": "697d859f-9eea-41ff-a1a1-bf3251d954f0",
+    "pad_map": {
+        "0742698f-53a6-405c-bd8e-5a669239991d": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "738c9060-8d55-47dc-91bd-eb425e98b484"
+        },
+        "1b7b2077-e9a5-482c-9d36-3be737b9d94f": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "a589287d-bf7d-4be4-a3ad-590c290f63d7"
+        },
+        "3f8190c4-cf57-4585-b9e4-f608818229ac": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "04a73fc6-c6b0-42bf-a914-ec1b5f9441a4"
+        },
+        "45d9dc4d-71a0-4e3d-8e76-6e73751ecdf5": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "e0d69686-6507-40b2-b081-6311e1f47ad6"
+        },
+        "47730048-4641-4183-ad76-16a5575b6ab0": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "1c525459-8403-411f-ab28-0864ce4ea223"
+        },
+        "51cfbd08-dc35-4eab-9af0-4f9313ad0e4e": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "c1fd3f75-434a-42b4-a00c-13984405aa07"
+        },
+        "549fd9c9-96cc-4c59-a6ed-f137be31824f": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "ebd624ee-2ff9-49fd-ac8e-e807de64b934"
+        },
+        "6094a0cd-279b-403e-82cd-3fe1e1f085be": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "4c432022-dc9f-4163-8546-01a5ddad351f"
+        },
+        "6379001b-ffe5-4262-8ccc-2ca5b7de2ae7": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "2d179dd1-cdef-483c-9b7b-336015cec06b"
+        },
+        "68ddbd6e-ad0a-4c41-ae32-0eb097d84a28": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "cc21d6ff-716e-4ff6-ba4f-ea2af3be59df"
+        },
+        "6ad97cca-7d69-4961-b88b-dea64eaa730c": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "73787993-6a7d-4c58-810e-b9b7bcf3a15e"
+        },
+        "6b1955b5-e2a3-426d-a049-7fbba821df2a": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "275dd2e6-b062-4b44-8f7f-40f919cdfd94"
+        },
+        "6c26b836-7cd2-4c5f-b5de-e0cabf22aed2": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "01ac6828-0a30-4917-91d4-3b9ebd22ea95"
+        },
+        "9395b588-42e2-40b9-be70-ecf977c33c9f": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "a6b88874-710b-4af5-84b2-6e87aca97057"
+        },
+        "9566c560-73d0-43d1-b433-09ccded2bbb8": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "8e001579-7e67-4b86-a59b-7798a764555a"
+        },
+        "bb03f8b4-eace-4743-bdec-fb6e4107875c": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "d79dd580-ff4b-4eae-acc4-8137453da22e"
+        },
+        "bb83a29e-0314-4b60-93f3-8bfd0f18f40f": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "89fb6ad8-36bc-4caa-a2e8-2544308f6436"
+        },
+        "cd34f163-a352-477b-a409-c09dbd948ef3": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "db769255-3409-44b0-9545-337ab012b3a4"
+        },
+        "d77c6605-6882-4508-9e5b-8955b04058fe": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "201cec2d-6242-47a3-815e-4873de75c313"
+        },
+        "e99b1334-6f9f-4d27-8627-0469c6c2934c": {
+            "gate": "d6c6fa36-27a0-426e-9ad8-c08432110fde",
+            "pin": "fae02950-7288-4be0-bbc0-68570567ec16"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "avr",
+        "ic",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "3ede681e-4897-4b41-a0ef-346a18562d9d",
+    "value": [
+        false,
+        ""
+    ]
+}

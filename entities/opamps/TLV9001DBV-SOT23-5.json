@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "2789d201-be82-4b60-b884-744ebaccb42f": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "88aa5a2d-b6d1-4544-bf64-83335e01a9f3": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+        }
+    },
+    "manufacturer": "Teaxs Instruments",
+    "name": "TLV9001DBV-SOT23-5",
+    "prefix": "U",
+    "tags": [
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "1847af18-4032-43d0-b720-9037b5468b2b"
+}

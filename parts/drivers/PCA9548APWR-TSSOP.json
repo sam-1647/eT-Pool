@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "PCA9548APWR-TSSOP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8-CH I2C Switch"
+    ],
+    "entity": "61998032-a3a1-49d2-896a-cdced48aa2c9",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "b5e41d48-b63a-416b-88bb-ad04c4aa672d",
+    "package": "98145d1a-8fe3-4f3a-87d5-883fff484bd0",
+    "pad_map": {
+        "06925eda-37b8-4215-be6a-509e8284abbe": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "69e84970-d39f-425e-8853-02dba4ff5be0"
+        },
+        "069df978-837e-4814-b9db-a4cb3ed5f0e2": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "48efcc35-4d28-4bd2-a30f-f8c069fedbab"
+        },
+        "2aa6bace-e695-4ccd-b341-d071cfcf3db6": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "7d7c5dc5-598e-48aa-8e3f-3cc200b14d7d"
+        },
+        "3350836d-8934-4061-b927-1eaffa80d148": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "8c6f29d4-38cd-4a81-84bb-33436f061a5a"
+        },
+        "37311e5a-d486-4fa3-9a86-6b35ce294224": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "44f76a61-0f4d-4597-818d-cca272b050df"
+        },
+        "43a13798-02e4-48e5-bf53-4aa4c0117cc2": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "3d8897fe-f85d-46be-82f4-e119c8fcd5f7"
+        },
+        "58621dd6-8f6e-4e44-9285-fddc0941e733": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "740c5a4c-7e23-4d32-b835-10271adf76fa"
+        },
+        "58b1244a-6546-4362-a687-0b3c3c6fdc9a": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "ca1d58c7-811e-4fd5-80c5-7a9992ec6bc4"
+        },
+        "5e5e061e-8ee8-4512-b29e-1996135ca13d": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "97e2a044-2e35-4f1f-9863-81fa0fedd18d"
+        },
+        "5f9ae287-1b4f-4d25-95ad-a9ad62ff89d3": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "affcbb46-a67d-48e6-9166-e556b122d68f"
+        },
+        "615c1838-9505-4bef-b0bc-0b6452bd721e": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "77fec93e-5a74-47d8-ba37-24365ae6856a"
+        },
+        "6ef5e22f-9670-488c-84c3-5ad00e850817": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "d0e626d7-0cff-4f9f-851f-70aad918d326"
+        },
+        "7b332b00-edf1-41de-9366-15e2cbf678e7": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "3d201f0d-d455-4e1b-bad9-bc609c4382ea"
+        },
+        "7f9b0c45-412e-42ab-b2f8-f5c734e810f3": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "11592863-ad15-4572-bc6c-64f4f1dd189b"
+        },
+        "8462eea4-d9a2-4895-b415-414017cf4f8a": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "7044b695-85ed-4638-bfbb-659e21a215b5"
+        },
+        "91fa5588-7700-4ff0-b76c-d51cd1b93e7b": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "bf9e3848-1f15-4b31-adfe-2e561643a83c"
+        },
+        "9990ea49-a53e-4918-b321-ee976d369b92": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "9c6dc3b4-8970-4827-bcfe-7b180ac7af15"
+        },
+        "a8b0a5ef-30e4-47c7-90a4-7844cb9723a7": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "3e5e7026-1ed6-4ef1-8432-f1d9190f1c09"
+        },
+        "baf7643a-3e29-45ed-a5b8-8757b98d4da0": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "9737face-f512-4e6b-a149-efb07512db2b"
+        },
+        "bfe2e107-8040-4bc8-a4d1-9dbe180cdaa8": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "822dba35-948c-4b4b-a35b-cb97d96120aa"
+        },
+        "d7bcce4a-e537-42c2-a910-79366abd2633": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "802e3748-f426-400d-a2a2-d2cc4e0589f8"
+        },
+        "d9e60678-5767-492c-a5d7-90591de6aa3e": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "7ac13e73-a821-40ca-b06d-440f493f9a09"
+        },
+        "e73886c6-2e49-4251-a523-85e28fdf0a3e": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "912da40c-03e5-4a0f-b846-22236c596e55"
+        },
+        "e787858c-6fe5-4b87-8ce9-d0f256a3589e": {
+            "gate": "c51569dc-f0b0-458f-b1c0-6953747e9525",
+            "pin": "8785d7ae-4b54-4788-8d37-0f4f5886c8c5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "i2c",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "8030d87c-7b78-434f-a66d-8679aa01e3ce",
+    "value": [
+        false,
+        ""
+    ]
+}

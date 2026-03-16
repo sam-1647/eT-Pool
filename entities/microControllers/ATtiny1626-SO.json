@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d6c6fa36-27a0-426e-9ad8-c08432110fde": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1ce432eb-7206-4c6b-bdce-aa57b106878b"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATtiny1626-SO",
+    "prefix": "U",
+    "tags": [
+        "avr",
+        "ic",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "bf7dddce-b0fc-4a45-b81f-ca06db72778a"
+}

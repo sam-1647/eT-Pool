@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "eT-HT-SHT3X-MODULE-APT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "APT SHT3x Sensor Module"
+    ],
+    "entity": "650a4568-baa8-4767-8b4f-da9dc443999b",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e49770ac-4cd5-4bd8-93ca-9d509dcfeaf3",
+    "pad_map": {
+        "16081556-881d-4304-a6e9-48b495678460": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "90065499-83b5-4e58-8ef1-92671d39fc27"
+        },
+        "1fda6cca-e8d1-4fc6-ab49-d219510564da": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "3fabf47a-6bd4-4629-b12c-fb19d6abf261"
+        },
+        "e59d0461-f26c-4b6a-8257-3764ea0f5a9f": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "d51fb1b4-7838-48b1-86ae-185a52f1fdc7"
+        },
+        "f91521f2-5d3c-44f5-949e-b76b83cb7e56": {
+            "gate": "047d9f9e-cf9c-49ae-8f78-dfc181802780",
+            "pin": "3dbcd4e0-6246-4df7-aa85-0e9ab769b698"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "humidity",
+        "module",
+        "sensor",
+        "temp"
+    ],
+    "type": "part",
+    "uuid": "8a45190a-8a4c-4a18-8b70-ac47ea51f984",
+    "value": [
+        false,
+        ""
+    ]
+}

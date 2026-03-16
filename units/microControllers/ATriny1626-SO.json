@@ -1,0 +1,505 @@
+{
+    "manufacturer": "Microchip",
+    "name": "ATriny1626-SO",
+    "pins": {
+        "01ac6828-0a30-4917-91d4-3b9ebd22ea95": {
+            "alt_names": {
+                "829bee98-6116-4d38-a4f5-b2904ef2b43a": {
+                    "direction": "input",
+                    "name": "AIN15"
+                },
+                "953bc5c0-415f-44b2-a4df-10891eaab6b5": {
+                    "direction": "bidirectional",
+                    "name": "~SS~"
+                },
+                "bb826552-8e9f-4d8e-84f3-af094c717026": {
+                    "direction": "output",
+                    "name": "TCA0-WO3"
+                },
+                "e14f1b1a-d511-4a7d-a892-c92e3ced00e6": {
+                    "direction": "output",
+                    "name": "XDIR1"
+                },
+                "ef3d2dd7-0229-47ed-bcbb-1413a4f88672": {
+                    "direction": "input",
+                    "name": "LUT3-IN2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC3",
+            "swap_group": 0
+        },
+        "04a73fc6-c6b0-42bf-a914-ec1b5f9441a4": {
+            "alt_names": {
+                "3af71409-2349-42db-ab6d-0859d7f4a80e": {
+                    "direction": "input",
+                    "name": "AC0-AINN0"
+                },
+                "dd6fe734-05d3-4c8d-b380-30635b4e9abf": {
+                    "direction": "input",
+                    "name": "AIN6"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA6",
+            "swap_group": 0
+        },
+        "1c525459-8403-411f-ab28-0864ce4ea223": {
+            "alt_names": {
+                "1b0db472-3a1d-4246-a459-37c72e53d034": {
+                    "direction": "output",
+                    "name": "TCA0-WO0"
+                },
+                "63eebb29-543a-42d6-8a59-ebb3f10ef1e4": {
+                    "direction": "input",
+                    "name": "AIN11"
+                },
+                "77116139-beb7-4754-89c4-d9970e41f1ce": {
+                    "direction": "open_collector",
+                    "name": "SCL"
+                },
+                "91ad5657-348e-44be-b9b8-c2c22200bd2c": {
+                    "direction": "output",
+                    "name": "XDIR0"
+                },
+                "b0816ff3-5d96-4520-96e5-aac8c7f9a924": {
+                    "direction": "input",
+                    "name": "LUT2-IN0"
+                },
+                "d9e7b98b-66b1-469d-8f45-4325839db662": {
+                    "direction": "input",
+                    "name": "AC0-AINN2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB0",
+            "swap_group": 0
+        },
+        "201cec2d-6242-47a3-815e-4873de75c313": {
+            "alt_names": {
+                "045d1ac6-0e4f-4fe4-9037-6f33f456f9d8": {
+                    "direction": "input",
+                    "name": "LUT2-OUT"
+                },
+                "08a1cc18-4652-4a2f-a4bb-319dadbd067f": {
+                    "direction": "output",
+                    "name": "TCA0-WO0"
+                },
+                "2c3ceeb1-5d42-41c5-9652-b67dacfb9a61": {
+                    "direction": "input",
+                    "name": "RXD0"
+                },
+                "f699d098-152a-4f7c-b876-d5e45f0debfc": {
+                    "direction": "passive",
+                    "name": "TOSC1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB3",
+            "swap_group": 0
+        },
+        "275dd2e6-b062-4b44-8f7f-40f919cdfd94": {
+            "alt_names": {
+                "2c989783-c45f-44b8-8f5b-0758b69fe480": {
+                    "direction": "passive",
+                    "name": "TOSC2"
+                },
+                "4dde63fc-b15d-4379-bd6b-02d3357b34ba": {
+                    "direction": "output",
+                    "name": "EVOUTB"
+                },
+                "62d7ccb5-acf6-4683-bccf-68247b56c0c0": {
+                    "direction": "input",
+                    "name": "LUT2-IN2"
+                },
+                "6e40346d-8cfa-45fc-be74-c7e7c7eaa120": {
+                    "direction": "output",
+                    "name": "TCA0-WI2"
+                },
+                "8be0720f-3e0b-4456-9e39-f8125d9db40e": {
+                    "direction": "output",
+                    "name": "TXD0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "2d179dd1-cdef-483c-9b7b-336015cec06b": {
+            "alt_names": {
+                "379bb724-1431-4eaa-b075-1b2873414c5c": {
+                    "direction": "input",
+                    "name": "AIN8"
+                },
+                "3e023df3-b478-4fd9-b77d-0ac8fcc565aa": {
+                    "direction": "output",
+                    "name": "CLKOUT"
+                },
+                "afa8213b-7e8a-4a56-b369-3b6d32bf4aee": {
+                    "direction": "output",
+                    "name": "TCA0-WO2"
+                },
+                "e865dd9f-0a65-4eca-9136-dbacaa8d346b": {
+                    "direction": "input",
+                    "name": "AC0-AINP1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB5",
+            "swap_group": 0
+        },
+        "4c432022-dc9f-4163-8546-01a5ddad351f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "73787993-6a7d-4c58-810e-b9b7bcf3a15e": {
+            "alt_names": {
+                "2e440d82-9997-44d0-b93d-830d14f1cced": {
+                    "direction": "output",
+                    "name": "EVOUTA"
+                },
+                "7b4db729-1cf9-4187-b7e4-7481e926339b": {
+                    "direction": "input",
+                    "name": "RXD1"
+                },
+                "aafba90a-6e69-454f-8dec-42c206d97bdf": {
+                    "direction": "input",
+                    "name": "AIN2"
+                },
+                "ac2d0c73-79b9-4feb-ae6d-8be5a5093ddc": {
+                    "direction": "input",
+                    "name": "MISO"
+                },
+                "e71fd9ad-7df4-4ef0-a496-8f4514f78386": {
+                    "direction": "input",
+                    "name": "RXD0"
+                },
+                "e780f843-709b-44f8-84e4-fb460d823870": {
+                    "direction": "input",
+                    "name": "LUT0-IN2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA2",
+            "swap_group": 0
+        },
+        "738c9060-8d55-47dc-91bd-eb425e98b484": {
+            "alt_names": {
+                "153196fb-d62a-4882-9404-611b3045df0d": {
+                    "direction": "output",
+                    "name": "LUT0-OUT"
+                },
+                "38bcd32b-2907-4a19-93a3-7a354f6dcbbb": {
+                    "direction": "output",
+                    "name": "TCA0-WO1"
+                },
+                "46623a7f-f92b-4428-9b9d-e34922bd375c": {
+                    "direction": "input",
+                    "name": "AIN9"
+                },
+                "bc713b4a-240b-42d4-8d09-1c9d69c23415": {
+                    "direction": "input",
+                    "name": "~RESET~"
+                },
+                "e8f586d4-8937-4544-99dd-a6ae4564bc6d": {
+                    "direction": "input",
+                    "name": "AC0-AINN1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB4",
+            "swap_group": 0
+        },
+        "89fb6ad8-36bc-4caa-a2e8-2544308f6436": {
+            "alt_names": {
+                "c54369a1-903c-4bd9-a8df-e4c77605017a": {
+                    "direction": "bidirectional",
+                    "name": "PA0"
+                },
+                "f94517cc-ed6b-4aef-baf8-a8b2d1d23d40": {
+                    "direction": "input",
+                    "name": "LUT0-IN0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~RESET~/UPDI",
+            "swap_group": 0
+        },
+        "8e001579-7e67-4b86-a59b-7798a764555a": {
+            "alt_names": {
+                "1c7e5adf-428d-4ade-8a78-9bc5bc92b88a": {
+                    "direction": "input",
+                    "name": "LUT3-IN1"
+                },
+                "2ba9507b-2316-4b73-bb5a-4fd0e08d6bbb": {
+                    "direction": "output",
+                    "name": "LUT1-OUT"
+                },
+                "81ae02af-47c1-411c-96ef-26fd91a12631": {
+                    "direction": "input",
+                    "name": "AIN13"
+                },
+                "90cb1f32-589f-42d9-853d-81bfd99269ad": {
+                    "direction": "input",
+                    "name": "MISO"
+                },
+                "b81cd166-7024-4d2e-a169-39f9755f44de": {
+                    "direction": "input",
+                    "name": "RXD1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC1",
+            "swap_group": 0
+        },
+        "a589287d-bf7d-4be4-a3ad-590c290f63d7": {
+            "alt_names": {
+                "9cd47224-0932-4655-a52a-85249180d6fd": {
+                    "direction": "input",
+                    "name": "LUT1-OUT"
+                },
+                "af9959cb-0c15-418f-bb1a-10a0442226bb": {
+                    "direction": "output",
+                    "name": "EVOUTA"
+                },
+                "c718a5e4-c23e-4892-aeb6-3023bc6629a1": {
+                    "direction": "input",
+                    "name": "AIN7"
+                },
+                "eb804b39-f94e-4fdf-aa6d-0b8c1c751716": {
+                    "direction": "input",
+                    "name": "AC0-AINP0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA7",
+            "swap_group": 0
+        },
+        "a6b88874-710b-4af5-84b2-6e87aca97057": {
+            "alt_names": {
+                "06f633bc-b47a-4112-a9fc-4773bcdedade": {
+                    "direction": "input",
+                    "name": "LUT3-IN2"
+                },
+                "0b3dae8b-84fd-427c-be94-dcbb0dc171d0": {
+                    "direction": "output",
+                    "name": "TXD1"
+                },
+                "12b64f41-d103-4230-a150-22bce5c46836": {
+                    "direction": "input",
+                    "name": "AIN14"
+                },
+                "c1a6c01d-7ccc-4ef8-9542-d58f66b7811f": {
+                    "direction": "output",
+                    "name": "MOSI"
+                },
+                "e606e82b-f5d4-4d77-aa53-59a07902a62b": {
+                    "direction": "output",
+                    "name": "EVOUTC"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC2",
+            "swap_group": 0
+        },
+        "c1fd3f75-434a-42b4-a00c-13984405aa07": {
+            "alt_names": {
+                "343a8fe7-5c7d-4f61-a02d-d836ca8215d6": {
+                    "direction": "input",
+                    "name": "AC0-AINO2"
+                },
+                "36c9dfef-dfbb-4c9a-8c21-84d8bf09e3e6": {
+                    "direction": "open_collector",
+                    "name": "SDA0"
+                },
+                "44e9e852-047f-45e7-9b1f-47084cac1c87": {
+                    "direction": "bidirectional",
+                    "name": "XCK0"
+                },
+                "59599c96-a96f-478d-84fe-9e9cf8d7adac": {
+                    "direction": "input",
+                    "name": "AIN10"
+                },
+                "9f335fc1-7b18-49f7-ac91-3413a6028ed5": {
+                    "direction": "input",
+                    "name": "LUT2-IN1"
+                },
+                "c60709cc-ce9d-40d8-97e9-bfd46e5e4592": {
+                    "direction": "output",
+                    "name": "TCA0-WO1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PB1",
+            "swap_group": 0
+        },
+        "cc21d6ff-716e-4ff6-ba4f-ea2af3be59df": {
+            "alt_names": {
+                "114375f7-befe-47b9-9109-145c8d6c74c5": {
+                    "direction": "output",
+                    "name": "TCBn-WO0"
+                },
+                "1382819a-4a2b-4956-82a1-64132abd31a9": {
+                    "direction": "input",
+                    "name": "VREFA"
+                },
+                "5e7a83dc-a2fe-4607-a790-c57379d6c8a2": {
+                    "direction": "output",
+                    "name": "AC0-OUT"
+                },
+                "64e1eef4-c56d-4e10-97d9-b0fc5dbb4a49": {
+                    "direction": "output",
+                    "name": "TCA0-WO5"
+                },
+                "b6449643-45fc-41ee-ba7a-12a1e3c6e6a9": {
+                    "direction": "input",
+                    "name": "AIN5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA5",
+            "swap_group": 0
+        },
+        "d79dd580-ff4b-4eae-acc4-8137453da22e": {
+            "alt_names": {
+                "14734a6c-5c3f-4670-9f47-3e15fcb5097b": {
+                    "direction": "output",
+                    "name": "TCBn-WO1"
+                },
+                "5b7a55ce-e4ab-44d7-b9ee-b078aad230d3": {
+                    "direction": "bidirectional",
+                    "name": "XCK0"
+                },
+                "6eb57fae-6e6d-48f9-a1da-3eb5a21f3861": {
+                    "direction": "output",
+                    "name": "TCA0-WO3"
+                },
+                "7d5e8a56-9577-4b4d-a600-6cfb49c4c7a5": {
+                    "direction": "output",
+                    "name": "SCK"
+                },
+                "82363cfa-27fd-4740-9588-6b50e9a51e6e": {
+                    "direction": "input",
+                    "name": "XCK1"
+                },
+                "efe736af-3e5d-4abc-895b-37491c8ef261": {
+                    "direction": "input",
+                    "name": "EXTCLK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA3",
+            "swap_group": 0
+        },
+        "db769255-3409-44b0-9545-337ab012b3a4": {
+            "alt_names": {
+                "0122ad8d-9986-4e38-91f7-6a251cff5ef6": {
+                    "direction": "input",
+                    "name": "AIN4"
+                },
+                "0387bdef-de24-4390-bb6a-81fe34a48929": {
+                    "direction": "input",
+                    "name": "LUT0-OUT"
+                },
+                "584c0b8f-1cfb-4b92-80e8-6a1948ab63c1": {
+                    "direction": "bidirectional",
+                    "name": "~SS~"
+                },
+                "685bfaa2-34a1-4d3c-b657-a780c2378aa7": {
+                    "direction": "output",
+                    "name": "WO4"
+                },
+                "7505675f-1323-4f7a-880c-374672a276ea": {
+                    "direction": "output",
+                    "name": "XDIR"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA4",
+            "swap_group": 0
+        },
+        "e0d69686-6507-40b2-b081-6311e1f47ad6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "ebd624ee-2ff9-49fd-ac8e-e807de64b934": {
+            "alt_names": {
+                "31f5de41-9229-4ef3-85a4-67c4158cf782": {
+                    "direction": "input",
+                    "name": "AIN1"
+                },
+                "44d5d039-e9e8-456e-b2ba-3142833348ab": {
+                    "direction": "output",
+                    "name": "MOSI"
+                },
+                "5c201b42-ac0d-45c9-87b6-4773f19dc2e8": {
+                    "direction": "output",
+                    "name": "TXD0"
+                },
+                "d716abda-8eab-4126-a6d7-6bc9d5b32d14": {
+                    "direction": "output",
+                    "name": "TXD1"
+                },
+                "e91da1bc-912f-449c-8d92-655b085fe9b4": {
+                    "direction": "input",
+                    "name": "LUT0-IN1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PA1",
+            "swap_group": 0
+        },
+        "fae02950-7288-4be0-bbc0-68570567ec16": {
+            "alt_names": {
+                "45192df8-77d1-4531-92c8-c6be74a61d2a": {
+                    "direction": "output",
+                    "name": "TCBn-WO0"
+                },
+                "bacf6e57-9a53-4607-95f3-736e768f2216": {
+                    "direction": "input",
+                    "name": "LUT3-IN0"
+                },
+                "c964d205-418a-4325-9836-652743779aac": {
+                    "direction": "bidirectional",
+                    "name": "XCK1"
+                },
+                "e5f5b8a6-7451-4b5a-9f95-f3dfac4802ca": {
+                    "direction": "output",
+                    "name": "SCK"
+                },
+                "fa6012b5-ac44-4511-9a49-3a52e66436f8": {
+                    "direction": "input",
+                    "name": "AIN12"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC0",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1ce432eb-7206-4c6b-bdce-aa57b106878b",
+    "version": 1
+}

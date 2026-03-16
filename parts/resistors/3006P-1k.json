@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "3006P-1k"
+    ],
+    "base": "15cc8737-ce61-4dc4-a390-8262fe5d8b42",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "10/15T - Precision Trimmer"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "72868893-b99f-499a-a3b4-8990b055692b",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "88661756-3416-4ea1-85eb-41b3ac10dca4",
+    "value": [
+        true,
+        "3006P-1k"
+    ]
+}

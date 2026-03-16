@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Teaxs Instruments",
+    "name": "PCA9546",
+    "pins": {
+        "08555767-fc4f-4eb8-b0ac-3718ea4f8d13": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-3",
+            "swap_group": 0
+        },
+        "38b578e6-c250-4b21-8ff0-ff416e096567": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "45b92f0d-1be2-4181-9b9d-df9d43dab148": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-2",
+            "swap_group": 0
+        },
+        "4a54aeaa-b06b-4e4e-a4cb-e146f8df9079": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "62dd555f-6917-478a-ba52-81f5c4d58503": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "736863b8-47fa-4725-b421-13cf7f245dba": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-3",
+            "swap_group": 0
+        },
+        "878dd60a-9c1c-4c5d-bded-0c372cebb670": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "8ef691fa-92af-4291-942e-5a27a31a531e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "93ec37fc-50ba-4fb6-92dc-e89dc775d741": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-2",
+            "swap_group": 0
+        },
+        "9c176047-3940-4488-98b7-8c6e446c2494": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-1",
+            "swap_group": 0
+        },
+        "ae89be99-79a6-46f8-96fd-70c9c4528397": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "c68a1c7e-1088-49f3-9ce1-46f090bceb13": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-0",
+            "swap_group": 0
+        },
+        "d19be4c5-a37e-4dec-b9e7-380f801e235d": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SC-0",
+            "swap_group": 0
+        },
+        "d2df6ebe-19ff-420a-9262-8cfd0ff50d4b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "ecbae301-edc9-4315-a3bd-14c0500b5c4a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "fa023833-67ce-4b12-9dc8-5c41fc0ee926": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SD-1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8e1d796c-d2df-454e-8332-5fc815dab49e"
+}
