@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "R-0.25W-TH-1016P-10k-5p-CFR"
+        "R-0.25W-TH-1016P-4k7-5p-MFR"
     ],
     "base": "efa9041c-692a-4a15-927f-cfb13aa51653",
     "datasheet": [
@@ -10,7 +10,7 @@
     ],
     "description": [
         false,
-        "1/4W TH Resistor, 10.16mm Pitch, 10k"
+        "1/4W TH Resistor, 10.16mm Pitch, 4k7, MFR, 5%"
     ],
     "inherit_model": true,
     "inherit_tags": true,
@@ -22,15 +22,15 @@
     "parametric": {
         "pmax": "0.25",
         "table": "resistors",
-        "tolerance": "0",
-        "type": "CFR",
-        "value": "10000"
+        "tolerance": "5",
+        "type": "MFR",
+        "value": "4700"
     },
     "tags": [],
     "type": "part",
-    "uuid": "eeada9c4-8c96-4fb8-8dc2-08f51783b64e",
+    "uuid": "5ebeea8e-966f-418f-89f2-fe7025c520b0",
     "value": [
         false,
-        "10kΩ"
+        "4k7"
     ]
 }

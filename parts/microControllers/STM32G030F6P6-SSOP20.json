@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "STM32G030F6P6-SSOP20"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "STM32G0 Cortex M0, 32-BIT uC, 32kB Flash, 8kB RAM"
+    ],
+    "entity": "a9520441-a0f3-4887-8b0f-d855e5c8866c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST Microelectronics"
+    ],
+    "model": "a17c525a-7d63-41e7-9d8a-a213ef695723",
+    "package": "4b41c067-c008-4388-8dd4-a12e894928fe",
+    "pad_map": {
+        "06b8e364-c80c-41b8-93ec-d79f65cbf1ad": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "3931698e-1f36-4ed0-9762-056af828a739"
+        },
+        "0d3d5918-eb36-42d0-96d5-88b73e120a7a": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "a990c817-f999-4553-b05b-a0e60c981014"
+        },
+        "0d98bd3d-dad5-4368-af91-1ebafa53738f": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "70357f0f-a03a-40db-a29a-76398169922b"
+        },
+        "39bd41f1-b7b3-4bad-bc43-c15efd84bad1": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "ed014390-3ad5-4f69-9fad-f961d6e9307a"
+        },
+        "6dc4d6d0-7e55-4e9d-a75f-47682d7093e4": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "cc58e026-b2a8-47cb-a82d-2fbdf3d47faa"
+        },
+        "6ea098e4-950a-4729-913a-ba23a03aa581": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "3fe7aae6-c064-4f27-8928-7adff38e4101"
+        },
+        "780b4570-6b06-4d4c-8102-7e16bd4e1230": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "4c1c1bab-f1e8-419f-9fda-d245304ea739"
+        },
+        "7900afb2-1873-4d6c-b682-a72e42b7f02d": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "431181c7-e76c-4720-ad07-d8c6e1186828"
+        },
+        "872b3805-8bb3-4e8a-a7ea-a1ad8c7b6455": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "f4f6638b-d7d7-4046-8855-99a2b021b64e"
+        },
+        "99f901a7-80b0-464f-94c8-aefb214293bd": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "ba0a3b88-3c52-474f-be9a-f7dabea682e0"
+        },
+        "9b73b1ce-8151-41b3-8e2e-620fe3c96333": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "cdba4f93-ddc8-4e7e-853c-a10fda54018a"
+        },
+        "a21efdb8-7891-4f07-aee9-6528c7b470ec": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "6f66f8c5-967d-4c77-9fa0-12fcf25b1afe"
+        },
+        "b204e1d8-85fa-483f-a028-49edacef27e3": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "e1919a48-7fe3-4429-85f1-a6467c4ce4bb"
+        },
+        "beb48329-65fb-4738-a91b-d49f5322677c": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "02de4578-d93a-4241-bd52-c35a7b3cce46"
+        },
+        "d4d9ab6f-cd93-4075-b8f4-18a22eb07a3c": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "6758838e-9fb9-4d8d-811f-25c8ee0317eb"
+        },
+        "e5b33a1d-7308-4213-af79-9d983f0a4515": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "08911753-da76-4401-96a6-04bc2a1eec0d"
+        },
+        "eac014fa-fca2-4c07-9291-2cffb96c368b": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "01a9d6ea-db36-46f5-a257-143131bf7243"
+        },
+        "efcd96e2-23ab-4f4d-907d-5b8be53439f1": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "9bedc1e1-f4e6-4303-849e-fd80e3a578c4"
+        },
+        "f60bbe43-5a25-4482-b5af-f7228e0e3259": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "cb437bda-fa8e-4a03-a00e-1d75678ae3b8"
+        },
+        "fe738339-4314-451e-b80c-71637c6f9ac3": {
+            "gate": "f558438c-42b8-4ea5-8796-d3d6a58239d6",
+            "pin": "38804ca5-5474-45b5-82ff-0e241e7eeb4e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "48830303-099b-4d99-b5cf-cddd4098a29b",
+    "value": [
+        false,
+        ""
+    ]
+}

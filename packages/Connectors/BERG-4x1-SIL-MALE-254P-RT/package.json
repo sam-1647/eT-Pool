@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "2227af11-6a1d-4b84-a83b-23c8ccec1cc8",
+    "default_model": "0b488b6f-2918-4fa7-b84f-6d812efdb644",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -163,8 +163,8 @@
     },
     "manufacturer": "BERG",
     "models": {
-        "2227af11-6a1d-4b84-a83b-23c8ccec1cc8": {
-            "filename": "3d_models/Connector/PinHeader_1x04_P2.54mm_Vertical.step",
+        "0b488b6f-2918-4fa7-b84f-6d812efdb644": {
+            "filename": "3d_models/Connector/PinHeader_1x04_P2.54mm_RT.step",
             "pitch": 0,
             "roll": 0,
             "x": 0,
@@ -173,7 +173,7 @@
             "z": 0
         }
     },
-    "name": "BERG-4x1-SIL-MALE-254-Vertical",
+    "name": "BERG-4x1-SIL-MALE-254P-RT",
     "pads": {
         "2443ef6c-7763-4f24-99f7-3dac3622e216": {
             "name": "3",
@@ -410,5 +410,5 @@
         }
     },
     "type": "package",
-    "uuid": "f9981028-4fb0-4cb0-96b0-bc57819b5c2b"
+    "uuid": "2380a4d9-fc16-4c40-b304-fc599062bc0a"
 }

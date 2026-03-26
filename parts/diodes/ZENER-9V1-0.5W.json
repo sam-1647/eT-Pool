@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "ZENER-9V1-0.5W"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "9.1V Zener"
+    ],
+    "entity": "833509c0-1cfe-42fd-9c13-f59680f11c18",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "baf2db39-bd27-4cc9-b722-b53b12e5fef2",
+    "package": "efed4bfb-fcc8-4840-8260-ab4eb405931d",
+    "pad_map": {
+        "ae18278e-8fc9-4c70-aa1f-9a05e321b854": {
+            "gate": "120501d8-9fee-43ea-aa95-dc244d2c6a91",
+            "pin": "8967e344-c09b-4a89-ab1f-982d8aab8d2b"
+        },
+        "ddbd7629-79f6-464e-aadd-50825d6deabd": {
+            "gate": "120501d8-9fee-43ea-aa95-dc244d2c6a91",
+            "pin": "f51f9169-561d-4b5f-941c-1b11166d9c00"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "do35",
+        "zener"
+    ],
+    "type": "part",
+    "uuid": "e02a43bc-e022-465c-8838-294f722653b2",
+    "value": [
+        false,
+        "FZ9V1"
+    ]
+}

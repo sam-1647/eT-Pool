@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "BERG-4x1-RT-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4x1 Berg Connector, Right Angle, P=2.54mm"
+    ],
+    "entity": "cd260061-996a-41dc-8e6a-9a66cf764a30",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "0b488b6f-2918-4fa7-b84f-6d812efdb644",
+    "package": "2380a4d9-fc16-4c40-b304-fc599062bc0a",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "427b6338-1b7a-4ebe-9029-4fc60082fd5a"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "4ee3e89c-0ee7-4ec9-acf8-1d1e29748f84"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "204a38c9-d811-4bba-a6ed-b0776057d896"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "802de20c-b8b4-42f1-8de3-5ad101a2685f",
+            "pin": "beb219c3-a581-43d0-b83c-c53b41b90618"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "right-angle"
+    ],
+    "type": "part",
+    "uuid": "2cd38dc6-c70c-4675-b68e-6a39312da0e8",
+    "value": [
+        false,
+        ""
+    ]
+}

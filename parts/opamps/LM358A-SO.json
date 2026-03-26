@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "LM358A-SO"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Dual General Purpose OpAmp"
+    ],
+    "entity": "3b77e9d3-8455-4dc2-a0d8-c086d5714824",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "National Semi"
+    ],
+    "model": "f8f47ff9-dc27-4886-a0ad-c34a72dbcd11",
+    "package": "13eb72ba-93c9-4832-9ac7-a2a5693d9cf9",
+    "pad_map": {
+        "61b34852-4c44-48cc-b18c-e9f45e9c1b4e": {
+            "gate": "e1154524-4408-48d4-a57f-d5cc171921f0",
+            "pin": "e2d598ef-1af3-41f8-90d3-fea24aa64a96"
+        },
+        "9ce4823d-b632-4ef3-9e15-fdcb2c075e8f": {
+            "gate": "fc0a0097-2413-4ab6-9de9-63967072d0ed",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "9fa8e1e5-3b10-47fc-bfd5-c1d08ff88f4f": {
+            "gate": "9cbdf400-2725-4f2d-ada0-7c432c789778",
+            "pin": "d02ac8a0-b754-4800-b9c9-681f78434851"
+        },
+        "b34e328d-670d-406e-bc06-4a41cbb44000": {
+            "gate": "fc0a0097-2413-4ab6-9de9-63967072d0ed",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "bb4eaa46-ae30-47c1-8fbe-27a8552e1344": {
+            "gate": "9cbdf400-2725-4f2d-ada0-7c432c789778",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "cf50dc2d-0eb8-4c78-a1aa-3a8ce767b7c7": {
+            "gate": "fc0a0097-2413-4ab6-9de9-63967072d0ed",
+            "pin": "e781ceb5-8848-44e2-883f-9cab3474d000"
+        },
+        "daf49917-519c-4429-8527-02843ef0942c": {
+            "gate": "9cbdf400-2725-4f2d-ada0-7c432c789778",
+            "pin": "16bb4756-543b-4b55-939d-d3d5a254fad4"
+        },
+        "e6a24826-6a1e-420e-913c-bc7bd9007817": {
+            "gate": "e1154524-4408-48d4-a57f-d5cc171921f0",
+            "pin": "45a018ac-9768-4bbd-8d3d-f18d62b3ec36"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "f679b702-de18-4c32-b6e9-691b525b3230",
+    "value": [
+        false,
+        ""
+    ]
+}

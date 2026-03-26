@@ -1,0 +1,31 @@
+{
+    "gates": {
+        "9cbdf400-2725-4f2d-ada0-7c432c789778": {
+            "name": "OP2",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        },
+        "e1154524-4408-48d4-a57f-d5cc171921f0": {
+            "name": "SUPP",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "be87c3b3-94b3-4878-a92d-3345bee85d80"
+        },
+        "fc0a0097-2413-4ab6-9de9-63967072d0ed": {
+            "name": "OP1",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "bb0ae453-c198-4a34-a4ad-3a16ca0339a9"
+        }
+    },
+    "manufacturer": "National Semi",
+    "name": "LM358A",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "3b77e9d3-8455-4dc2-a0d8-c086d5714824"
+}

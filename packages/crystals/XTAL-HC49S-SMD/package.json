@@ -768,6 +768,23 @@
         "xtal"
     ],
     "texts": {
+        "a4626386-1733-4a09-86c0-4ece79ba0c52": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3600000,
+                    3300000
+                ]
+            },
+            "size": 800000,
+            "text": "$RD",
+            "width": 150000
+        },
         "b7145b9a-ce50-49f8-b8d0-17e457ec6a90": {
             "font": "simplex",
             "from_smash": false,

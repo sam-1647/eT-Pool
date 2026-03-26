@@ -1,0 +1,56 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "AVR-MCHIP-JTAG",
+    "pins": {
+        "042afe9d-8402-4d1f-a045-b5437c3f83f2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TMS",
+            "swap_group": 0
+        },
+        "356413b9-b8df-4c3a-b6c4-2c43f7964f0a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TDO",
+            "swap_group": 0
+        },
+        "459d347b-a10f-414a-8784-1a071bdde1c8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VTG",
+            "swap_group": 0
+        },
+        "704c8225-5116-4e4b-80c2-51a1b3b2e216": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TCK",
+            "swap_group": 0
+        },
+        "70f825e0-eae0-40d2-abc2-b267fb380067": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "77cb0fc8-7671-434a-9eea-0ba4bcc8c286": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TDI",
+            "swap_group": 0
+        },
+        "7a4092e4-fb74-4186-a387-089dc5564612": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        },
+        "c351c2e7-bfa8-470e-a271-ae4de79918fe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "395f8b4e-fa40-4828-af52-0e4158fac7ed"
+}

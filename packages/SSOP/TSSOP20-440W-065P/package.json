@@ -309,6 +309,15 @@
             "y": 0,
             "yaw": 0,
             "z": 0
+        },
+        "d4d0fcec-f698-4d08-8729-56e13c9f289b": {
+            "filename": "3d_models/SSOP/STM32G030F6P6-TSSOP20.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
         }
     },
     "name": "TSSOP20-440W-065P",

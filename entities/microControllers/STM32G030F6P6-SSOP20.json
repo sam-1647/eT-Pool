@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f558438c-42b8-4ea5-8796-d3d6a58239d6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "05039b88-6570-47d5-8adf-5e7fa8f8dbef"
+        }
+    },
+    "manufacturer": "ST Microelectronics",
+    "name": "STM32G030F6P6-SSOP20",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "stm32",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "a9520441-a0f3-4887-8b0f-d855e5c8866c"
+}

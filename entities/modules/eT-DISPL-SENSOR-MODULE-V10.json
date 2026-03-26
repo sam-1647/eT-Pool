@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "750ecaeb-4951-4c5f-9668-8039e1dce535": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a65c7c38-1fa3-49c1-9584-4e9d33c48424"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-DISPL-SENSOR-MODULE-V10",
+    "prefix": "MOD",
+    "tags": [
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "8ffddc38-1061-4fbd-8d33-e644c1c8a30c"
+}

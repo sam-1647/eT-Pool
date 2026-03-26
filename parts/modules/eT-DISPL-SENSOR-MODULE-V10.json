@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "eT-DISPL-SENSOR-MODULE-V10"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Displacement Sensor Interface Module"
+    ],
+    "entity": "8ffddc38-1061-4fbd-8d33-e644c1c8a30c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "1ca6ee97-95d7-4b02-8a93-f4e6a8a85780",
+    "package": "d28b309e-8fe5-4185-b975-334d1fffe8c7",
+    "pad_map": {
+        "0deaadf3-192d-4266-9ed3-db6df598df67": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "2c153508-6098-43b3-aa93-1830e4ad5ff1"
+        },
+        "38a45803-8090-4003-adec-bc776a422db0": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "57171d79-d9b7-4bd1-9795-786ea1ece93b"
+        },
+        "3de42ebd-ffbf-4d45-b3ac-874946b87340": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "57171d79-d9b7-4bd1-9795-786ea1ece93b"
+        },
+        "47a87e76-2033-44e7-a19d-1d2e68ffe976": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "2c153508-6098-43b3-aa93-1830e4ad5ff1"
+        },
+        "56275d63-a554-4992-91bd-4d0f0754eaf6": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "a7cad9c0-69e6-4278-82da-5cbc4f406343"
+        },
+        "586c3a75-c349-46c2-bc0b-cca1366fbb06": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "a7cad9c0-69e6-4278-82da-5cbc4f406343"
+        },
+        "af997608-94f8-49ea-b047-af053425e975": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "d579e643-16c7-4cd6-9062-b4d5d4b687c3"
+        },
+        "d93a4f12-0dfa-45e8-885c-ee15254c416e": {
+            "gate": "750ecaeb-4951-4c5f-9668-8039e1dce535",
+            "pin": "4d765bef-c08f-4252-b8fb-6384d4c9780f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "module"
+    ],
+    "type": "part",
+    "uuid": "e4d983be-35b0-477b-bf08-cabbcd4560f4",
+    "value": [
+        false,
+        ""
+    ]
+}

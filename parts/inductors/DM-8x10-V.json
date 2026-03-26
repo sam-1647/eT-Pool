@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "DM-8x10-V"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "H=8mm, Dia=10mm, Core Inductor"
+    ],
+    "entity": "eb5fc0e1-f2a0-4e1d-bcee-379309cdccef",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "a825b155-3c16-4eef-a42a-1522941c473c",
+    "package": "f98be64f-e98f-4e7d-b68e-e119a6ae7ee5",
+    "pad_map": {
+        "3a48801e-379a-4fdb-9d1a-d89dbd3df1f5": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "a970deb3-b40b-4334-85ab-5510e60167b4"
+        },
+        "80fbc9ec-8914-487b-8085-e2b933744266": {
+            "gate": "b77d6e92-f705-4adf-b7a4-1956988c6e72",
+            "pin": "6180dc61-5ed7-4169-9456-adee6ee64ca6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ind"
+    ],
+    "type": "part",
+    "uuid": "13fda940-dbc6-4dc7-ab2f-7f31e2c3d911",
+    "value": [
+        false,
+        ""
+    ]
+}

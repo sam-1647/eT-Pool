@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "AVR-MCHP-JTAG-8P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8-Pin JTAG for AVR using Microchip Debuggers"
+    ],
+    "entity": "6c98c305-eee2-41d1-a3b3-f566a6be78cd",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "38f4984d-53f3-4bf2-90ef-f9942d8c8ccd",
+    "package": "4281e171-f449-4c39-8bf4-f445adff00e9",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "c351c2e7-bfa8-470e-a271-ae4de79918fe"
+        },
+        "548162db-0d98-4f0a-9b6d-67ab27b3519c": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "042afe9d-8402-4d1f-a045-b5437c3f83f2"
+        },
+        "651e1c34-cbe0-4db3-acc4-ca630ca88c46": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "77cb0fc8-7671-434a-9eea-0ba4bcc8c286"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "70f825e0-eae0-40d2-abc2-b267fb380067"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "704c8225-5116-4e4b-80c2-51a1b3b2e216"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "356413b9-b8df-4c3a-b6c4-2c43f7964f0a"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "459d347b-a10f-414a-8784-1a071bdde1c8"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "af246ef1-6ef2-4fa8-ac4a-b259843fb11d",
+            "pin": "7a4092e4-fb74-4186-a387-089dc5564612"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "jtag",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "653ee9a2-1321-4d40-9392-59c32a1d7d2e",
+    "value": [
+        false,
+        ""
+    ]
+}

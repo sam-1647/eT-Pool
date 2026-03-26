@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "XTAL-2P-HC49S-SMD-3.6684MHz"
+    ],
+    "base": "80ce20ea-8540-47a4-82dc-8f8074174080",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "2-PIn, Low Cut, KDS Metal Can Crystal, SMD"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KDS"
+    ],
+    "model": "43564431-60b8-4ed5-b102-9e80383a5341",
+    "parametric": {},
+    "tags": [
+        "xtal"
+    ],
+    "type": "part",
+    "uuid": "66f78614-696f-494f-b209-6fff160b1c86",
+    "value": [
+        false,
+        "3.6684MHz"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "af246ef1-6ef2-4fa8-ac4a-b259843fb11d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "395f8b4e-fa40-4828-af52-0e4158fac7ed"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "AVR-MCHP-JTAG-8P",
+    "prefix": "JTAG",
+    "tags": [
+        "jtag",
+        "uc"
+    ],
+    "type": "entity",
+    "uuid": "6c98c305-eee2-41d1-a3b3-f566a6be78cd"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "XTAL-2P-HC49S-PTH-16.00MHz"
+    ],
+    "base": "964025cc-0351-4fe2-b756-81d3b8f6c60d",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "2-PIn, Low Cut, KDS Metal Can Crystal"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KDS"
+    ],
+    "model": "8805adc6-f126-4236-b91f-6baf2e0f4644",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1879ed27-00f6-457a-9f49-b5da872252d8",
+    "value": [
+        true,
+        "XTAL-2P-HC49S-PTH-Generic"
+    ]
+}

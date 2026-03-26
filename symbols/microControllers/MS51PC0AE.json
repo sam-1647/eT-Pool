@@ -4,25 +4,25 @@
     "junctions": {
         "32b29ece-1760-40d4-876e-664a37e54ba9": {
             "position": [
-                -16250000,
+                -30000000,
                 -35000000
             ]
         },
         "454efbeb-faf0-4370-ab58-0d9b7c7ec645": {
             "position": [
-                16250000,
+                30000000,
                 -35000000
             ]
         },
         "7e9cc4df-5ef6-4dfb-b037-0879ed4c218b": {
             "position": [
-                -16250000,
+                -30000000,
                 35000000
             ]
         },
         "d2e54034-a6cf-44d4-86a5-aa05386c36ef": {
             "position": [
-                16250000,
+                30000000,
                 35000000
             ]
         }
@@ -68,7 +68,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 2500000
             ]
         },
@@ -85,7 +85,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -22500000
             ]
         },
@@ -102,7 +102,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 23750000
             ]
         },
@@ -119,7 +119,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 -32500000
             ]
         },
@@ -136,7 +136,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -11250000
             ]
         },
@@ -153,7 +153,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 27500000
             ]
         },
@@ -170,7 +170,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 17500000
             ]
         },
@@ -187,7 +187,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 5000000
             ]
         },
@@ -204,7 +204,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 8750000
             ]
         },
@@ -221,7 +221,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -1250000
             ]
         },
@@ -238,7 +238,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -17500000
             ]
         },
@@ -255,8 +255,8 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
-                -10000000
+                -32500000,
+                -12500000
             ]
         },
         "60e18bd2-a104-449b-a61c-74cfb83c2972": {
@@ -272,7 +272,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -3750000
             ]
         },
@@ -289,7 +289,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 32500000
             ]
         },
@@ -306,7 +306,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -30000000
             ]
         },
@@ -323,7 +323,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -8750000
             ]
         },
@@ -340,7 +340,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -18750000,
+                -32500000,
                 -30000000
             ]
         },
@@ -357,7 +357,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -20000000
             ]
         },
@@ -374,7 +374,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 15000000
             ]
         },
@@ -391,7 +391,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 25000000
             ]
         },
@@ -408,7 +408,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 32500000
             ]
         },
@@ -425,7 +425,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -27500000
             ]
         },
@@ -442,7 +442,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 22500000
             ]
         },
@@ -459,7 +459,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -15000000
             ]
         },
@@ -476,7 +476,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 30000000
             ]
         },
@@ -493,7 +493,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 2500000
             ]
         },
@@ -510,7 +510,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -6250000
             ]
         },
@@ -527,7 +527,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 7500000
             ]
         },
@@ -544,7 +544,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 10000000
             ]
         },
@@ -561,7 +561,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 12500000
             ]
         },
@@ -578,7 +578,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -32500000
             ]
         },
@@ -595,7 +595,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                18750000,
+                32500000,
                 -25000000
             ]
         }
@@ -612,7 +612,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -16250000,
+                    -30000000,
                     -36250000
                 ]
             },
@@ -629,7 +629,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -16250000,
+                    -30000000,
                     36250000
                 ]
             },

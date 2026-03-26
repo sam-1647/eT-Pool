@@ -1,0 +1,38 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "eT-DISPL-SENSOR-MODULE-V10",
+    "pins": {
+        "2c153508-6098-43b3-aa93-1830e4ad5ff1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-O",
+            "swap_group": 0
+        },
+        "4d765bef-c08f-4252-b8fb-6384d4c9780f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "57171d79-d9b7-4bd1-9795-786ea1ece93b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VS",
+            "swap_group": 0
+        },
+        "a7cad9c0-69e6-4278-82da-5cbc4f406343": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VFB",
+            "swap_group": 0
+        },
+        "d579e643-16c7-4cd6-9062-b4d5d4b687c3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND-I",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a65c7c38-1fa3-49c1-9584-4e9d33c48424"
+}
