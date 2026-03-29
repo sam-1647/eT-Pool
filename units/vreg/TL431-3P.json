@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Teaxs Instruments",
+    "name": "TL431-3P",
+    "pins": {
+        "1b507630-0324-430c-8c9f-a6779e140b76": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "R",
+            "swap_group": 0
+        },
+        "7b6b8bd6-83d5-4f65-ab90-87c954f50fbe": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "d6743e92-9e30-418c-b638-fb9bc56c536e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5569fce1-a712-45b1-8123-f4cee230e6d8"
+}

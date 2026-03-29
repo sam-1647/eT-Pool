@@ -173,8 +173,8 @@
             "name": "2",
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
-                "pad_height": 550000,
-                "pad_width": 1200000
+                "pad_height": 950000,
+                "pad_width": 1400000
             },
             "placement": {
                 "angle": 16384,
@@ -189,8 +189,8 @@
             "name": "1",
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
-                "pad_height": 550000,
-                "pad_width": 1200000
+                "pad_height": 950000,
+                "pad_width": 1400000
             },
             "placement": {
                 "angle": 16384,
@@ -205,8 +205,8 @@
             "name": "3",
             "padstack": "bee1119a-e340-4c28-bdd5-f78340d60494",
             "parameter_set": {
-                "pad_height": 550000,
-                "pad_width": 1200000
+                "pad_height": 950000,
+                "pad_width": 1400000
             },
             "placement": {
                 "angle": 16384,

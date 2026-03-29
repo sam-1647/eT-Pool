@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Diodes Inc",
+    "name": "AP2204-SOT23-5",
+    "pins": {
+        "100a1ba5-8e73-4f19-a51c-ef7590bdbbd8": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "1dd63caa-80e8-4ca8-92fe-dccdc006d08b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "62a1f7f3-f5e3-4f10-8d2b-62e30ae3eca3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ADJ/NC",
+            "swap_group": 0
+        },
+        "8e94f8c5-746e-4f27-9607-76e3f21d5ab0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a205634b-11e4-4d0b-b609-595de5125b6e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b2412fc3-6065-4435-8ae3-dd5b860fa870"
+}

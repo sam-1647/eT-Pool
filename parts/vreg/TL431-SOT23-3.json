@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "TL431-SOT23-3"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2.5V/xV Temp. Compnenstaed Zener Ref"
+    ],
+    "entity": "759568f1-5c1f-41f6-b77c-536482029eb1",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Teaxs Instruments"
+    ],
+    "model": "8ac7a09e-8940-4680-8dc8-c33d748e3b25",
+    "package": "1c35b47e-98f1-4dbb-8e72-3a2ba4f4f46b",
+    "pad_map": {
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "484ae811-c20e-465b-affd-93ed9aab8f3f",
+            "pin": "1b507630-0324-430c-8c9f-a6779e140b76"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "484ae811-c20e-465b-affd-93ed9aab8f3f",
+            "pin": "7b6b8bd6-83d5-4f65-ab90-87c954f50fbe"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "484ae811-c20e-465b-affd-93ed9aab8f3f",
+            "pin": "d6743e92-9e30-418c-b638-fb9bc56c536e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "vref",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "ee37bf2a-482a-42c3-8c1f-c51af85beac1",
+    "value": [
+        false,
+        ""
+    ]
+}

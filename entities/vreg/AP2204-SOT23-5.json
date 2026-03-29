@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b2412fc3-6065-4435-8ae3-dd5b860fa870"
+        }
+    },
+    "manufacturer": "Diodes Inc",
+    "name": "AP2204-SOT23-5",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "vreg"
+    ],
+    "type": "entity",
+    "uuid": "a2ed2797-474b-4013-a612-45569d0ce5e0"
+}

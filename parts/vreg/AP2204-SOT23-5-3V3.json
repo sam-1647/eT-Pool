@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AP2204-SOT23-5-3V3"
+    ],
+    "base": "7d66ed6b-b02b-4a58-ad17-836b7e98bcb6",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Wide Input 150mA ULDO, Vout=3.3V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "orderable_MPNs": {
+        "ab13b804-0ec5-45e1-b0a5-cc0c77ce1e5b": "AP2204K-3.3TRG1"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "535ac0e8-7627-4e2b-8bf9-733904adf45d",
+    "value": [
+        false,
+        "AP2204K-3.3TRG1"
+    ]
+}

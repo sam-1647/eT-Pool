@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "AP2204-SOT23-5"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Wide Input 150mA ULDO"
+    ],
+    "entity": "a2ed2797-474b-4013-a612-45569d0ce5e0",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc"
+    ],
+    "model": "81786dfc-8ee7-4a0f-9de8-0acdf70b1f71",
+    "package": "59fe37ba-831b-4685-9438-e098a7a3fcd0",
+    "pad_map": {
+        "471036ea-6d7b-4a71-a556-f344b3a74b7e": {
+            "gate": "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd",
+            "pin": "1dd63caa-80e8-4ca8-92fe-dccdc006d08b"
+        },
+        "629bd9e1-7c73-4e95-a69e-8db35e8b21c8": {
+            "gate": "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd",
+            "pin": "100a1ba5-8e73-4f19-a51c-ef7590bdbbd8"
+        },
+        "9399b7aa-73ea-4cae-860a-7181e0c8caf3": {
+            "gate": "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd",
+            "pin": "a205634b-11e4-4d0b-b609-595de5125b6e"
+        },
+        "b29cb559-0827-4fd8-a57b-94516c588c97": {
+            "gate": "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd",
+            "pin": "8e94f8c5-746e-4f27-9607-76e3f21d5ab0"
+        },
+        "f26264c6-c7d3-4483-b32f-49b213c6158e": {
+            "gate": "fec1cce2-b3ba-4db6-b3a4-0d77c86fa7cd",
+            "pin": "62a1f7f3-f5e3-4f10-8d2b-62e30ae3eca3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "vreg"
+    ],
+    "type": "part",
+    "uuid": "7d66ed6b-b02b-4a58-ad17-836b7e98bcb6",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}
