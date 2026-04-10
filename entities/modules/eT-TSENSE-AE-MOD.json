@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "365d1da7-f22f-4412-b949-e3c4af69cf1d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "038d23f8-64c0-442d-8bd8-557c99d96260"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "eT-TSENSE-AE-MOD",
+    "prefix": "MOD",
+    "tags": [
+        "mod",
+        "temp"
+    ],
+    "type": "entity",
+    "uuid": "804bb103-ded0-47ec-aa0e-2059ff69cc20"
+}

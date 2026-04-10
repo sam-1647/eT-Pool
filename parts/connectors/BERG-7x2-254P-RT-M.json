@@ -1,0 +1,94 @@
+{
+    "MPN": [
+        false,
+        "BERG-7x2-254P-RT-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "7x2 Male Pin header, Rtight Angle, P=2.54mm"
+    ],
+    "entity": "0d0fb7bd-ee98-409c-b5f0-27d324acf78f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "fd7fbc9b-8ede-4d83-879c-a2e57781329f",
+    "package": "ca50c9bb-6818-45ef-8feb-c4dd3ce6fb2a",
+    "pad_map": {
+        "00f73434-9241-4085-bcdc-f06cdb750c24": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "a244d293-6b87-4626-a90d-13b73d9e06ee"
+        },
+        "06fe863d-5d93-483f-9b28-81a4c4233922": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "f752befc-709a-4f38-a0c7-c5ee6e365383"
+        },
+        "0ae30ce5-16a5-4b1c-8eaf-ab57ac7d76c8": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "0748abc2-554b-4bf9-9421-4876f8741d00"
+        },
+        "3ec3e9ad-ca6c-4d78-8945-f85ad3bf0b09": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "9423ab1b-b06c-4782-8889-100b581b7f69"
+        },
+        "51dae183-9de1-49d3-8df4-a5a1f047a1a7": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "6ec8935c-249a-4cbc-b778-e67db029b0cc"
+        },
+        "526775ec-30f1-49ae-bdc3-7ab3e3c8e1ed": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "73062129-bf04-4a54-8cd2-0fd472d61477"
+        },
+        "5a983bd8-e691-4576-9ac6-939904cd7958": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "f387155c-b60c-4d08-b7bd-b4866debf936"
+        },
+        "88e09580-3c28-4e0c-9b10-854ee5f94d38": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "2a55a117-8c00-4612-97f1-d26195330378"
+        },
+        "91a21a23-d97c-4b1e-acad-55e189a38927": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "864702e1-0fde-43a8-bfb0-cb1c507ce9cb"
+        },
+        "9a966f62-ad80-40bd-92e5-5bc83460866d": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "fd5f0b64-190d-453a-b607-cf71654dd905"
+        },
+        "d5c404bf-55b1-4cd6-b16c-5464c7b4fee7": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "1ae20ec9-7426-426e-b3ed-0da12340eb33"
+        },
+        "d88b2b5b-db73-4a93-a71c-e75dc6d6e5e3": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "4c5426e1-057f-4e14-837f-e80544027188"
+        },
+        "de8b7b2b-ad9b-4aef-af4e-6a5c17ddd2af": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "2da15ecb-a968-48a4-802a-11c31c86a428"
+        },
+        "ecf0a955-3ff5-4e10-9e51-a179b8b1a7da": {
+            "gate": "c8310dee-ebb1-4401-898b-ced06517c54a",
+            "pin": "1d090a09-9cb0-40d1-af8f-3d363ded5f2b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "dil",
+        "male",
+        "right-angle"
+    ],
+    "type": "part",
+    "uuid": "44359f90-6f90-4eaa-82c2-cce65278ad41",
+    "value": [
+        false,
+        ""
+    ]
+}

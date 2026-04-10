@@ -1,0 +1,125 @@
+{
+    "MPN": [
+        false,
+        "eT-TSENSE-AE-MOD"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Custom RTD Sensor Interface Module"
+    ],
+    "entity": "804bb103-ded0-47ec-aa0e-2059ff69cc20",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "41480993-864d-447f-98aa-fbd183f1dd4f",
+    "package": "9162d192-18ec-41ae-aa40-53f8250a5937",
+    "pad_map": {
+        "07f6d976-2256-4567-8c05-d5e4ef953e38": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "c0a536e4-dc8d-42d3-9ab9-1cfd594155ec"
+        },
+        "0c2254f3-17b3-454e-bc6f-99de926018c8": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "fc76aeae-af6b-4dbb-8b03-92e774f2dda7"
+        },
+        "0f63945d-5e36-4dd1-9c57-062039e6cc8c": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "2ce1ece0-e6bf-4353-a705-54d2c39ed3cc"
+        },
+        "144ae5e7-af6b-468f-a2b0-b673496261f4": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "ea02b9c7-3d87-46dc-8a11-79437453e43f"
+        },
+        "170e3901-e134-47c8-877d-69f21b6600cb": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "062249e0-0fd0-4515-b186-e885e29c8d59"
+        },
+        "1cb0861a-bfff-49fd-bd53-874a5ca030cc": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "c0a536e4-dc8d-42d3-9ab9-1cfd594155ec"
+        },
+        "2082129a-6356-42f3-b732-70e0475e92e1": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a48c3c14-99ac-4f97-b3c3-063047064860"
+        },
+        "28d9936f-4e41-45d0-aaac-a4497fa28498": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "47095a59-0898-4b3e-8d38-e9990736a23b"
+        },
+        "35a9acc5-d230-4290-bbc6-9f3c766071ba": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "47095a59-0898-4b3e-8d38-e9990736a23b"
+        },
+        "3a3cb252-19e1-4113-8fa0-7f68450f1355": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "fc76aeae-af6b-4dbb-8b03-92e774f2dda7"
+        },
+        "3f988648-0740-43c2-ada4-dd3c65c53c51": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "95543069-8cb5-464c-86e3-ba33ee10d793"
+        },
+        "4c086897-8499-486f-a3e4-9c8be5695aa9": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a76f0717-ed3f-43c8-aac3-6e68060549db"
+        },
+        "5cbff6e1-ac50-4bee-9975-cb35391a0fa1": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a76f0717-ed3f-43c8-aac3-6e68060549db"
+        },
+        "5e769599-4cac-4438-9bf6-09601b9dce18": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "062249e0-0fd0-4515-b186-e885e29c8d59"
+        },
+        "5ee5e9df-e971-4ff5-87b1-41371e6d2ec3": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a76f0717-ed3f-43c8-aac3-6e68060549db"
+        },
+        "847ba20b-3da3-4ad5-9af2-6f4702715bc7": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "95543069-8cb5-464c-86e3-ba33ee10d793"
+        },
+        "910f6b51-2e98-4386-a462-fbb8c6b3048a": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a48c3c14-99ac-4f97-b3c3-063047064860"
+        },
+        "c7231cbf-8ca6-4b38-9672-0253d167308f": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "64eabb9e-499b-438c-aa73-0f40daf6e708"
+        },
+        "d39903ea-2560-4530-bf3f-3e4dc890e2a8": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "eb948e2a-0527-489b-a224-980c36ea24e9"
+        },
+        "e57e1cda-e1e0-4a0b-a88e-2e1c50e6a492": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "a76f0717-ed3f-43c8-aac3-6e68060549db"
+        },
+        "e7e24f16-72a8-4625-bf70-3e1a83919d6e": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "94baf931-61c9-4353-bd8f-2033ddd7616f"
+        },
+        "e9a4d37f-e1ad-4851-9a14-741fd4d47947": {
+            "gate": "365d1da7-f22f-4412-b949-e3c4af69cf1d",
+            "pin": "64eabb9e-499b-438c-aa73-0f40daf6e708"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "module",
+        "rtd",
+        "temp"
+    ],
+    "type": "part",
+    "uuid": "74e1b292-cd5e-4f94-8051-de378ad059e1",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "eT-TSENSE-AE-MOD",
+    "pins": {
+        "062249e0-0fd0-4515-b186-e885e29c8d59": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED-CS",
+            "swap_group": 0
+        },
+        "2ce1ece0-e6bf-4353-a705-54d2c39ed3cc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI-MOSI",
+            "swap_group": 0
+        },
+        "47095a59-0898-4b3e-8d38-e9990736a23b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "IEXC",
+            "swap_group": 0
+        },
+        "64eabb9e-499b-438c-aa73-0f40daf6e708": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "I2C-SCL",
+            "swap_group": 0
+        },
+        "94baf931-61c9-4353-bd8f-2033ddd7616f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~RDY~",
+            "swap_group": 0
+        },
+        "95543069-8cb5-464c-86e3-ba33ee10d793": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a48c3c14-99ac-4f97-b3c3-063047064860": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "I2C-SDA",
+            "swap_group": 0
+        },
+        "a76f0717-ed3f-43c8-aac3-6e68060549db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RTD-",
+            "swap_group": 0
+        },
+        "c0a536e4-dc8d-42d3-9ab9-1cfd594155ec": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RTD+",
+            "swap_group": 0
+        },
+        "ea02b9c7-3d87-46dc-8a11-79437453e43f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI-SCK",
+            "swap_group": 0
+        },
+        "eb948e2a-0527-489b-a224-980c36ea24e9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPI-MISO",
+            "swap_group": 0
+        },
+        "fc76aeae-af6b-4dbb-8b03-92e774f2dda7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "038d23f8-64c0-442d-8bd8-557c99d96260"
+}

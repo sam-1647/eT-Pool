@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c8310dee-ebb1-4401-898b-ced06517c54a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ffc8df01-6e2c-4056-ad7f-8a06213effab"
+        }
+    },
+    "manufacturer": "",
+    "name": "CONN-7x2",
+    "prefix": "CN",
+    "tags": [
+        "conn",
+        "dil"
+    ],
+    "type": "entity",
+    "uuid": "0d0fb7bd-ee98-409c-b5f0-27d324acf78f"
+}
