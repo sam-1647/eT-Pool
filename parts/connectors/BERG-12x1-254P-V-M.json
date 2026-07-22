@@ -1,0 +1,85 @@
+{
+    "MPN": [
+        false,
+        "BERG-12x1-254P-V-M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12X1 Berg Male Header, 2.54mm Pitch"
+    ],
+    "entity": "dbfb80bf-4a40-45fe-9e50-ff8be350fde6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "d1ba9a7b-8d51-4b84-8cfd-d83066ca7228",
+    "package": "26276ac3-947b-4c9c-aff0-bef5a370f374",
+    "pad_map": {
+        "1262870f-557b-4168-b1a2-bd4544e78792": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "2ecea2d5-c865-4b2b-8c32-1ecdaa6b572a": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "f521d634-2d75-4a17-8a78-b79af0a2d757"
+        },
+        "389148f3-2f4a-4eda-898a-d70fea6bcb7b": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "9379b0f6-daf6-45f9-81db-f53282aec630"
+        },
+        "548162db-0d98-4f0a-9b6d-67ab27b3519c": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        },
+        "651e1c34-cbe0-4db3-acc4-ca630ca88c46": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        },
+        "6eef9737-4aeb-4cfb-8712-b642a81618b6": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "c909728f-a203-4b1f-ab80-05acbbf2dcba"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "male",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "58ea0797-0c33-4340-9f3c-c7b7dc22f3fc",
+    "value": [
+        false,
+        ""
+    ]
+}

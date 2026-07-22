@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "429b32ba-2d90-4a34-92b5-5b435ce31e18": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4d84dafc-5081-4172-bee9-7879308efed6"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "ET-DH-DISP-MODULE-24P-V1X",
+    "prefix": "MOD",
+    "tags": [
+        "display",
+        "mod"
+    ],
+    "type": "entity",
+    "uuid": "44f5070a-894c-410d-94d4-94f8cc2f8587"
+}

@@ -496,6 +496,23 @@
             "text": "(C) 2010-2026",
             "width": 0
         },
+        "745c439a-f58c-4eba-af07-8a8cf23d0529": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    219925000,
+                    32350000
+                ]
+            },
+            "size": 3300000,
+            "text": "$contract_details",
+            "width": 0
+        },
         "94f4e22f-915c-403d-8ea1-dcd5ac5299fd": {
             "font": "simplex",
             "from_smash": false,

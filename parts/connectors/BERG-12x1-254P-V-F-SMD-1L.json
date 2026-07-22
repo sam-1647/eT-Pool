@@ -1,0 +1,85 @@
+{
+    "MPN": [
+        false,
+        "BERG-12x1-254P-V-F-SMD-1L"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12x1 Berg Female Socket, P=2.54mm, SMD, Pin-1 on Left"
+    ],
+    "entity": "dbfb80bf-4a40-45fe-9e50-ff8be350fde6",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "BERG"
+    ],
+    "model": "d1279409-7222-4a3c-87a9-04ecd973d268",
+    "package": "9517242c-1757-4322-b6e8-fb5ba372928f",
+    "pad_map": {
+        "241cdcfe-90ba-41d2-b983-9f3dfe67d123": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "164d09fe-3427-43a3-a3ca-f94edacff9f7"
+        },
+        "421751d5-252a-47e3-acd0-b0f946052a96": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "2ee9b714-dc93-4e6c-9e70-3f6aaf9ac8db"
+        },
+        "5235283d-be14-46c8-9ee5-a9eac06978e1": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "33b7865b-3623-4560-9955-ad3eaaab15dc"
+        },
+        "5aba1403-6c94-4031-8d1f-030a4ec61983": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "20cb623e-58c7-4b03-a985-22565b88f886"
+        },
+        "73403e76-0972-4ebb-a134-30f1e73fd9fc": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "5b8ed5b5-24ae-4752-b7fa-2493e296d199"
+        },
+        "9732b18f-f613-4c5a-803f-c6a149edba83": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "f521d634-2d75-4a17-8a78-b79af0a2d757"
+        },
+        "9ef1d51b-3a5f-4314-b2bc-1f893038377f": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "9379b0f6-daf6-45f9-81db-f53282aec630"
+        },
+        "a508494f-866c-4a7f-88bb-b3dbbb96e191": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "efc0904e-cbdd-47a4-ad98-52df1c2477bd"
+        },
+        "bb8dd2a3-a720-4554-b1d4-4aa398399d23": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "c909728f-a203-4b1f-ab80-05acbbf2dcba"
+        },
+        "bd1e9073-79ed-41a8-ab9b-f79aec202c0e": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "bb38abe8-9629-4d2c-bbc0-aa79a4ff7a8d"
+        },
+        "eed604bf-d2ab-438d-996f-7f4f1573b892": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "cec2ca3a-1750-4e2c-87cc-e795b87b47d5"
+        },
+        "f1e2da79-70f3-421e-8c8f-263d9f9c14b4": {
+            "gate": "a7fd2990-9b28-4d8d-b106-4e21fad1e5fe",
+            "pin": "8c4eaa14-2e60-4585-8e5e-3fe2b1757b72"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "female",
+        "vert"
+    ],
+    "type": "part",
+    "uuid": "8e1b6176-0e32-49cc-8a9b-f52ae253eec4",
+    "value": [
+        false,
+        ""
+    ]
+}

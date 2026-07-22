@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "AVR-MCHP-ISP-8P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "8-Pin ISP Connector for Microchip Debugger"
+    ],
+    "entity": "4fdd4eab-1fc5-4310-a0eb-54bd11742731",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "38f4984d-53f3-4bf2-90ef-f9942d8c8ccd",
+    "package": "4281e171-f449-4c39-8bf4-f445adff00e9",
+    "pad_map": {
+        "2443ef6c-7763-4f24-99f7-3dac3622e216": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "0403c294-a474-4739-a5ec-70ad92258312"
+        },
+        "548162db-0d98-4f0a-9b6d-67ab27b3519c": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "7b3498cb-3f72-45da-8d59-70e2f5c16a71"
+        },
+        "651e1c34-cbe0-4db3-acc4-ca630ca88c46": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "2a7b743d-6f38-41e9-8bf6-013de1d2b3d7"
+        },
+        "7d2c32de-b76c-4b31-815d-5035e3683b8e": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "3b348565-a42b-40ba-b043-5971ccfa680a"
+        },
+        "8cb9462d-0b27-4cd1-bd02-7e7ad809fea9": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "0679c52a-c365-48b3-a8d0-e35671d7e770"
+        },
+        "dc3c1af3-8b2d-470f-8138-4c9ce2396301": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "5748a4a1-8f0a-42de-af92-8130be68908e"
+        },
+        "ee5fd9cd-23a4-4d6b-8cf0-2d7c051430ae": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "41023979-a0f0-4517-bd04-27804ae32a58"
+        },
+        "f55efb70-d44c-4804-b341-b38b6761e18e": {
+            "gate": "4ba61321-01f8-4d25-9d4a-dbba80f3e630",
+            "pin": "bef8b0fe-d3bc-4277-96e6-36666a676aa8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "conn",
+        "isp",
+        "uc"
+    ],
+    "type": "part",
+    "uuid": "0c777dc8-8ea2-471b-8644-5f61b2eb1b3d",
+    "value": [
+        false,
+        ""
+    ]
+}

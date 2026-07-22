@@ -1,0 +1,131 @@
+{
+    "MPN": [
+        false,
+        "ET-DH-DISP-MODULE-24P-V1X"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Display Module 2x3-Digita 7-Seg CC, 4xLED, 4xKey"
+    ],
+    "entity": "44f5070a-894c-410d-94d4-94f8cc2f8587",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "embOS Tech"
+    ],
+    "model": "1bdadda1-a489-430b-9db0-7ef0bac55598",
+    "package": "a0758f0f-5cf7-4616-825a-2f8d413f1eea",
+    "pad_map": {
+        "072ba866-e9dd-40ab-8ccb-aa77e7ce251c": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "3d16bb86-501c-4830-a05e-8f4e5f2f6d82"
+        },
+        "34951dc3-592f-4935-8064-a2c153ee6fc0": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "83ccb68b-1735-4d9a-91cc-0b82443b0fb4"
+        },
+        "38d77cff-3846-4f6c-928f-1af55ca915fa": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "10d8ab6e-948a-46d4-9800-0bd78518025c"
+        },
+        "49317301-4441-4d5a-ae34-6c96b2ec4ba5": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "8f7fe062-ab81-45d9-ae77-4955778c3721"
+        },
+        "49ca2a25-a82f-4229-871d-e3585a3a6fc6": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "8f7f6b22-5dfc-449b-84ee-8893ecfeb529"
+        },
+        "4e46c12b-f2d5-49ad-a652-95b3336b63a9": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "9fe41d3d-4936-4536-a21b-7a8d6b5af1f4"
+        },
+        "62ea60fa-2ef7-41fd-b949-51ffb5955a4b": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "0289a5ee-23da-4975-af9a-99df5df8bfcb"
+        },
+        "65713b51-3541-426a-9a32-dcba607efd08": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "bc0ae4ef-4e07-4439-b001-d73224410589"
+        },
+        "6ad56300-bc37-4967-a1cd-ce1a1e503451": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "89382e8a-aede-41f3-8416-96a7362891e8"
+        },
+        "702f97f7-4562-4448-9f94-509b1d4347e3": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "95738659-fb04-4a16-a83d-eaa6411d4368"
+        },
+        "7d0dc2a3-30d4-4e29-9087-94ba18de0ebc": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "c61dc7c9-d28a-4ef5-b502-17034b6ddebd"
+        },
+        "8f8a69df-f472-45e1-b155-7f7a4fedf3d4": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "865c3972-cc3c-4019-8d70-2f8dfe9172f0"
+        },
+        "90da293f-d674-44e9-8b4b-4a0231bb54a9": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "c21078e7-dd83-40c2-a9f2-a333313f2e6a"
+        },
+        "9368003e-ffdf-434f-ae8e-efd6625b0dc1": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "5802087f-0658-4685-85d2-1750ec381ea1"
+        },
+        "96eafc95-c6cf-4201-8282-7052f903f288": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "d853bbd4-58ed-4b7f-8d95-3cdfd758f276"
+        },
+        "a2292fef-241a-4561-8cec-416cea241bf5": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "04821038-bef1-43ea-89a6-df8bb67124e8"
+        },
+        "a4d3c559-5c54-4888-8b26-e1c68a548713": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "1a783668-8b69-40a2-bf84-19f8fe1b2164"
+        },
+        "cc69dc9c-13fa-460e-8017-93fa015b249b": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "714aed41-4147-4160-a82b-dcdb38b051bd"
+        },
+        "d23f8876-0992-43e6-994c-2d79b7352f88": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "946117af-a992-4a40-a8c7-81827cdfd362"
+        },
+        "e290a277-16ec-4e94-a023-8fac3602a6ce": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "2bd76a7d-ede3-42db-8211-fafb736cc05c"
+        },
+        "e8c2b880-641a-4554-88d1-26d18e5d758d": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "e2e5496f-7cde-4b98-b3d4-e7eb55c85062"
+        },
+        "f57525d6-2910-4381-bbc2-1a9fdc9cdf7b": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "89762ec6-2d62-4b53-b937-cd7dbbe670b4"
+        },
+        "f5df3a6e-f77a-4428-b2f7-bc4036880c50": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "1e59867f-60a0-4ae2-9315-e31da574015f"
+        },
+        "fc701bd3-8ed9-4848-aecd-29dd5372cfcf": {
+            "gate": "429b32ba-2d90-4a34-92b5-5b435ce31e18",
+            "pin": "6fb96b43-585f-4d6f-ae77-916e37c9606b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "module"
+    ],
+    "type": "part",
+    "uuid": "e7acd8ee-7fb7-450f-adae-df7f776f3668",
+    "value": [
+        false,
+        ""
+    ]
+}

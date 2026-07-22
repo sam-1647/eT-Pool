@@ -1,0 +1,152 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "ET-DH-DISP-MODULE-24P-V1X",
+    "pins": {
+        "0289a5ee-23da-4975-af9a-99df5df8bfcb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG6",
+            "swap_group": 0
+        },
+        "04821038-bef1-43ea-89a6-df8bb67124e8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG5",
+            "swap_group": 0
+        },
+        "10d8ab6e-948a-46d4-9800-0bd78518025c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D6",
+            "swap_group": 0
+        },
+        "1a783668-8b69-40a2-bf84-19f8fe1b2164": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG8",
+            "swap_group": 0
+        },
+        "1e59867f-60a0-4ae2-9315-e31da574015f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "2bd76a7d-ede3-42db-8211-fafb736cc05c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED-4",
+            "swap_group": 0
+        },
+        "3d16bb86-501c-4830-a05e-8f4e5f2f6d82": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K4",
+            "swap_group": 0
+        },
+        "5802087f-0658-4685-85d2-1750ec381ea1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D4",
+            "swap_group": 0
+        },
+        "6fb96b43-585f-4d6f-ae77-916e37c9606b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K1",
+            "swap_group": 0
+        },
+        "714aed41-4147-4160-a82b-dcdb38b051bd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D3",
+            "swap_group": 0
+        },
+        "83ccb68b-1735-4d9a-91cc-0b82443b0fb4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K2",
+            "swap_group": 0
+        },
+        "865c3972-cc3c-4019-8d70-2f8dfe9172f0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K-COM",
+            "swap_group": 0
+        },
+        "89382e8a-aede-41f3-8416-96a7362891e8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED-3",
+            "swap_group": 0
+        },
+        "89762ec6-2d62-4b53-b937-cd7dbbe670b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG7",
+            "swap_group": 0
+        },
+        "8f7f6b22-5dfc-449b-84ee-8893ecfeb529": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D5",
+            "swap_group": 0
+        },
+        "8f7fe062-ab81-45d9-ae77-4955778c3721": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "946117af-a992-4a40-a8c7-81827cdfd362": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED-2",
+            "swap_group": 0
+        },
+        "95738659-fb04-4a16-a83d-eaa6411d4368": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED-1",
+            "swap_group": 0
+        },
+        "9fe41d3d-4936-4536-a21b-7a8d6b5af1f4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "bc0ae4ef-4e07-4439-b001-d73224410589": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG4",
+            "swap_group": 0
+        },
+        "c21078e7-dd83-40c2-a9f2-a333313f2e6a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG3",
+            "swap_group": 0
+        },
+        "c61dc7c9-d28a-4ef5-b502-17034b6ddebd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "K3",
+            "swap_group": 0
+        },
+        "d853bbd4-58ed-4b7f-8d95-3cdfd758f276": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG2",
+            "swap_group": 0
+        },
+        "e2e5496f-7cde-4b98-b3d4-e7eb55c85062": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SEG1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4d84dafc-5081-4172-bee9-7879308efed6"
+}

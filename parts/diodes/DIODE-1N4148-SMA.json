@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DIODE-1N4148-SMA"
+    ],
+    "base": "b49aa1e4-16ac-4aeb-a022-89cf79f632e0",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "SMA Diode SMD"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc"
+    ],
+    "model": "1779d551-a682-428e-a119-9659f0bc3aea",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "edb04167-d246-4ef3-9e2e-031884e7eecd",
+    "value": [
+        false,
+        "1N4148L"
+    ]
+}

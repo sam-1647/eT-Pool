@@ -1,0 +1,56 @@
+{
+    "manufacturer": "embOS Tech",
+    "name": "AVR-MCHP-ISP-8P",
+    "pins": {
+        "0403c294-a474-4739-a5ec-70ad92258312": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0679c52a-c365-48b3-a8d0-e35671d7e770": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "2a7b743d-6f38-41e9-8bf6-013de1d2b3d7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "3b348565-a42b-40ba-b043-5971ccfa680a": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "41023979-a0f0-4517-bd04-27804ae32a58": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VTG",
+            "swap_group": 0
+        },
+        "5748a4a1-8f0a-42de-af92-8130be68908e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "7b3498cb-3f72-45da-8d59-70e2f5c16a71": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC2",
+            "swap_group": 0
+        },
+        "bef8b0fe-d3bc-4277-96e6-36666a676aa8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~RESET~",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "13104da6-efaf-43bc-b373-89ee62b1758f"
+}

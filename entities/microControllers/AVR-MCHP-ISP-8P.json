@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "4ba61321-01f8-4d25-9d4a-dbba80f3e630": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "13104da6-efaf-43bc-b373-89ee62b1758f"
+        }
+    },
+    "manufacturer": "embOS Tech",
+    "name": "AVR-MCHP-ISP-8P",
+    "prefix": "ISP",
+    "tags": [
+        "conn",
+        "isp"
+    ],
+    "type": "entity",
+    "uuid": "4fdd4eab-1fc5-4310-a0eb-54bd11742731"
+}
